@@ -1,8 +1,13 @@
 # 1 Pedro
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Carta em nome de Pedro, apóstolo de Jesus Cristo, às comunidades da Ásia Menor. Se é de Pedro, cabe na década de 60. A posição mais comum na pesquisa crítica a situa no fim do século I, em Roma, no círculo de Pedro. Não há segunda edição. O sofrimento de Cristo e o batismo são o centro. 2 Pedro, já reunida nesta pasta, depende de outro texto e é mais tardia.
 
 ## American Standard Version
+
+Versão Padrão Americana
+
 
 Texto inglês da American Standard Version (1901), domínio público. Traduz o texto grego crítico do fim do século XIX, na linha de Westcott e Hort. Não é um autógrafo do século I.
 
@@ -54,6 +59,57 @@ flower of grass. The grass withereth, and the flower falleth: 1:25But the
 word of the Lord abideth for ever. And this is the word of good tidings
 which was preached unto you.
 
+1:1Pedro, apóstolo de Jesus Cristo, aos eleitos que são peregrinos da
+Dispersão no Ponto, na Galácia, na Capadócia, na Ásia e na Bitínia,
+1:2segundo o pré-conhecimento de Deus Pai, em santificação do Espírito, para
+a obediência e a aspersão do sangue de Jesus Cristo: Graça a vocês e paz
+sejam multiplicadas. 1:3Abençoado seja o Deus e Pai de nosso Senhor Jesus
+Cristo, que, segundo a sua grande misericórdia, nos gerou de novo para uma
+esperança viva pela ressurreição de Jesus Cristo dentre os mortos, 1:4para
+uma herança incorruptível, e imaculada, e que não se desvanece, reservada no
+céu para vocês, 1:5que pelo poder de Deus são guardados por meio da fé para
+uma salvação pronta a ser revelada no último tempo. 1:6No que vocês
+grandemente se regozijam, embora agora, por um pouco de tempo, se necessário
+for, vocês tenham sido postos em tristeza em múltiplas provações, 1:7para
+que a prova da fé de vocês, sendo mais preciosa do que o ouro que perece,
+embora seja provado pelo fogo, seja achada para louvor e glória e honra na
+revelação de Jesus Cristo: 1:8a quem, não o tendo visto, vocês amam; no
+qual, embora agora vocês não o vejam, contudo crendo, vocês se regozijam
+grandemente com alegria inexprimível e cheia de glória: 1:9recebendo o fim
+da fé de vocês, a saber, a salvação das almas de vocês. 1:10Acerca da qual
+salvação os profetas buscaram e pesquisaram diligentemente, os quais
+profetizaram da graça que havia de vir a vocês: 1:11pesquisando que tempo ou
+que maneira de tempo o Espírito de Cristo que estava neles apontava, quando
+ele testificou de antemão os sofrimentos de Cristo e as glórias que haviam
+de seguir-se a eles. 1:12Aos quais foi revelado que, não a si mesmos, mas a
+vocês, ministraram estas coisas, as quais agora foram anunciadas a vocês por
+meio daqueles que pregaram o evangelho a vocês pelo Espírito Santo enviado
+do céu; coisas nas quais os anjos desejam perscrutar. 1:13Portanto, cingindo
+os lombos da mente de vocês, sejam sóbrios e ponham a esperança de vocês
+perfeitamente na graça que há de ser trazida a vocês na revelação de Jesus
+Cristo; 1:14como filhos da obediência, não moldando a si mesmos segundo as
+concupiscências anteriores de vocês no tempo da ignorância de vocês:
+1:15mas, assim como aquele que os chamou é santo, sejam vocês mesmos também
+santos em toda maneira de viver; 1:16porque está escrito: Vocês serão
+santos; pois eu sou santo. 1:17E se vocês o invocam como Pai, o qual, sem
+acepção de pessoas, julga segundo a obra de cada homem, passem o tempo da
+peregrinação de vocês em temor: 1:18sabendo que vocês foram remidos, não com
+coisas corruptíveis, com prata ou ouro, do vão modo de vida de vocês
+transmitido pelos pais de vocês; 1:19mas com sangue precioso, como de um
+cordeiro sem mácula e sem mancha, a saber, o sangue de Cristo: 1:20o qual
+foi de fato pré-conhecido antes da fundação do mundo, mas foi manifestado no
+fim dos tempos por causa de vocês, 1:21os quais por meio dele são crentes em
+Deus, que o ressuscitou dentre os mortos e lhe deu glória; de modo que a fé
+e a esperança de vocês estivessem em Deus. 1:22Visto que vocês purificaram
+as almas de vocês na obediência de vocês à verdade para um amor não fingido
+dos irmãos, amem uns aos outros do coração fervorosamente: 1:23tendo sido
+gerados de novo, não de semente corruptível, mas de incorruptível, por meio
+da palavra de Deus, que vive e permanece. 1:24Pois, Toda carne é como a
+erva, E toda a glória dela como a flor da erva. A erva murcha, e a flor cai:
+1:25Mas a palavra do Senhor permanece para sempre. E esta é a palavra de
+boas-novas que foi pregada a vocês.
+
+
 2:1Putting away therefore all wickedness, and all guile, and hypocrisies,
 and envies, and all evil speakings, 2:2as newborn babes, long for the
 spiritual milk which is without guile, that ye may grow thereby unto
@@ -97,6 +153,54 @@ upon the tree, that we, having died unto sins, might live unto
 righteousness; by whose stripes ye were healed. 2:25For ye were going astray
 like sheep; but are now returned unto the Shepherd and Bishop of your souls.
 
+2:1Deixando de lado, portanto, toda maldade, e todo engano, e hipocrisias, e
+invejas, e todas as maledicências, 2:2como bebês recém-nascidos, desejem o
+leite espiritual que é sem engano, para que por meio dele vocês cresçam para
+a salvação; 2:3se vocês provaram que o Senhor é benigno: 2:4ao qual, vindo,
+pedra viva, rejeitada, na verdade, pelos homens, mas junto a Deus eleita,
+preciosa, 2:5também vocês, como pedras vivas, são edificados em casa
+espiritual, para serem um sacerdócio santo, para oferecer sacrifícios
+espirituais aceitáveis a Deus por meio de Jesus Cristo. 2:6Porque está
+contido na Escritura: Eis que ponho em Sião uma principal pedra angular,
+eleita, preciosa; e aquele que crê nele não será posto em vergonha. 2:7Para
+vocês, portanto, que creem, é a preciosidade; mas para os tais que descrêem:
+A pedra que os construtores rejeitaram, essa mesma foi feita a cabeça da
+esquina; 2:8e: Uma pedra de tropeço e uma rocha de ofensa; porque tropeçam
+na palavra, sendo desobedientes; para o que também foram designados. 2:9Mas
+vocês são uma raça eleita, um sacerdócio real, uma nação santa, um povo para
+a possessão própria de Deus, para que vocês manifestem as excelências
+daquele que os chamou para fora das trevas, para a sua maravilhosa luz:
+2:10os quais, no tempo passado, não eram povo, mas agora são o povo de Deus;
+os quais não tinham obtido misericórdia, mas agora obtiveram misericórdia.
+2:11Amados, eu rogo a vocês, como forasteiros e peregrinos, que se abstenham
+das concupiscências carnais, as quais guerreiam contra a alma; 2:12tendo
+decoroso o procedimento de vocês entre os gentios; para que, naquilo em que
+falam contra vocês como malfeitores, eles, pelas boas obras de vocês, as
+quais contemplam, glorifiquem a Deus no dia da visitação. 2:13Sujeitem-se a
+toda ordenança de homem por causa do Senhor: quer ao rei, como supremo;
+2:14quer aos governadores, como enviados por ele para vingança sobre os
+malfeitores e para louvor aos que fazem o bem. 2:15Porque assim é a vontade
+de Deus, que, pelo bem-fazer, vocês façam calar a ignorância dos homens
+insensatos: 2:16como livres, e não usando a liberdade de vocês como capa de
+maldade, mas como escravos de Deus. 2:17Honrem a todos os homens. Amem a
+irmandade. Temam a Deus. Honrem o rei. 2:18Servos, estejam em sujeição aos
+senhores de vocês com todo temor; não somente aos bons e brandos, mas também
+aos tortuosos. 2:19Porque isto é aceitável, se, por consciência para com
+Deus, um homem suporta pesares, sofrendo injustamente. 2:20Pois que glória
+é, se, quando vocês pecam e são esbofeteados por isso, vocês o suportam com
+paciência? mas se, quando vocês fazem o bem e sofrem por isso, vocês o
+suportam com paciência, isto é aceitável junto a Deus. 2:21Porque para isto
+vocês foram chamados: porque também Cristo sofreu por vocês, deixando a
+vocês um exemplo, para que vocês seguissem os passos dele: 2:22o qual não
+fez pecado, nem se achou engano na boca dele: 2:23o qual, quando era
+injuriado, não injuriava de volta; quando sofria, não ameaçava; mas
+entregava-se àquele que julga justamente: 2:24o qual ele próprio carregou os
+nossos pecados no seu corpo sobre a árvore, para que nós, tendo morrido para
+os pecados, vivêssemos para a justiça; por cujos açoites vocês foram
+curados. 2:25Porque vocês andavam desgarrados como ovelhas; mas agora
+voltaram para o Pastor e Bispo das almas de vocês.
+
+
 3:1In like manner, ye wives, be in subjection to your own husbands; that,
 even if any obey not the word, they may without the word be gained by the
 behavior of their wives; 3:2beholding your chaste behavior coupled with
@@ -139,6 +243,51 @@ conscience toward God, through the resurrection of Jesus Christ; 3:22who is
 on the right hand of God, having gone into heaven; angels and authorities
 and powers being made subject unto him.
 
+3:1De igual modo, vocês, esposas, estejam em sujeição aos seus próprios
+maridos; para que, mesmo se alguns não obedecem à palavra, eles sejam, sem a
+palavra, ganhos pelo procedimento das suas esposas; 3:2contemplando o casto
+procedimento de vocês, unido ao temor. 3:3Cujo adorno não seja o adorno
+exterior de entrançar os cabelos, e de trazer joias de ouro, ou de vestir
+trajes; 3:4mas seja o homem oculto do coração, no traje incorruptível de um
+espírito manso e quieto, o qual, à vista de Deus, é de grande preço.
+3:5Porque, segundo esta maneira, outrora também as santas mulheres, que
+esperavam em Deus, se adornavam, estando em sujeição aos seus próprios
+maridos: 3:6como Sara obedeceu a Abraão, chamando-o senhor; cujos filhos
+vocês agora são, se fazem o bem e não são postas em temor por terror algum.
+3:7Vocês, maridos, de igual modo, habitem com as suas esposas segundo o
+conhecimento, dando honra à mulher, como a vaso mais fraco, como sendo
+também coerdeiras da graça da vida; a fim de que as orações de vocês não
+sejam impedidas. 3:8Finalmente, sejam todos vocês de uma mesma mente,
+compassivos, amando como irmãos, ternos de coração, humildes de mente:
+3:9não retribuindo mal por mal, ou injúria por injúria; mas, pelo contrário,
+abençoando; porque para isto vocês foram chamados, para que herdem uma
+bênção. 3:10Porque: Aquele que quiser amar a vida e ver dias bons, refreie a
+sua língua do mal, e os seus lábios, para que não falem engano; 3:11e
+aparte-se do mal e faça o bem; busque a paz e persiga-a. 3:12Porque os olhos
+do Senhor estão sobre os justos, e os seus ouvidos, para a súplica deles;
+mas a face do Senhor está sobre os que fazem o mal. 3:13E quem é aquele que
+fará mal a vocês, se vocês forem zelosos daquilo que é bom? 3:14Mas, ainda
+que vocês sofram por causa da justiça, bem-aventurados são vocês; e não
+temam o temor deles, nem sejam conturbados; 3:15mas santifiquem nos corações
+de vocês a Cristo como Senhor: estando sempre prontos a dar resposta a todo
+homem que peça a vocês uma razão acerca da esperança que há em vocês,
+contudo com mansidão e temor: 3:16tendo uma boa consciência; para que,
+naquilo em que se fala contra vocês, sejam postos em vergonha os que
+injuriam o bom modo de vida de vocês em Cristo. 3:17Porque é melhor, se a
+vontade de Deus assim quiser, que vocês sofram por bem-fazer do que por
+mal-fazer. 3:18Porque também Cristo sofreu pelos pecados uma vez, o justo
+pelos injustos, para que ele nos levasse a Deus; tendo sido morto na carne,
+mas vivificado no espírito; 3:19no qual também ele foi e pregou aos
+espíritos na prisão, 3:20os quais outrora foram desobedientes, quando a
+longanimidade de Deus esperava nos dias de Noé, enquanto a arca estava sendo
+preparada, na qual poucos, isto é, oito almas, foram salvas por meio da
+água: 3:21a qual também, segundo uma verdadeira semelhança, agora salva
+vocês, a saber, o batismo, não a remoção da imundície da carne, mas a
+interrogação de uma boa consciência para com Deus, por meio da ressurreição
+de Jesus Cristo; 3:22o qual está à mão direita de Deus, tendo ido ao céu;
+anjos, e autoridades, e poderes sendo feitos sujeitos a ele.
+
+
 4:1Forasmuch then as Christ suffered in the flesh, arm ye yourselves also
 with the same mind; for he that hath suffered in the flesh hath ceased from
 sin; 4:2that ye no longer should live the rest of your time in the flesh to
@@ -174,6 +323,43 @@ scarcely saved, where shall the ungodly and sinner appear? 4:19Wherefore let
 them also that suffer according to the will of God commit their souls in
 well-doing unto a faithful Creator.
 
+4:1Porquanto, pois, Cristo sofreu na carne, armem-se também vocês com a
+mesma mente; porque aquele que sofreu na carne cessou do pecado; 4:2para que
+vocês não vivam mais o resto do tempo de vocês na carne para as
+concupiscências dos homens, mas para a vontade de Deus. 4:3Porque o tempo
+passado pode bastar para terem obrado o desejo dos gentios e terem andado em
+lascívia, concupiscências, bebedeiras de vinho, folguedos, comezainas e
+abomináveis idolatrias: 4:4no que acham estranho que vocês não corram com
+eles para o mesmo excesso de devassidão, falando mal de vocês: 4:5os quais
+darão conta àquele que está pronto para julgar os vivos e os mortos.
+4:6Porque para este fim foi pregado o evangelho mesmo aos mortos, para que
+fossem julgados, de fato, segundo os homens, na carne, mas vivessem segundo
+Deus, no espírito. 4:7Mas o fim de todas as coisas está próximo: sejam,
+portanto, de mente sã, e sejam sóbrios para a oração: 4:8acima de todas as
+coisas, sendo fervorosos no amor de vocês entre si; porque o amor cobre uma
+multidão de pecados: 4:9usando hospitalidade uns para com os outros sem
+murmuração: 4:10conforme cada um recebeu um dom, ministrando-o entre vocês,
+como bons despenseiros da multiforme graça de Deus; 4:11se algum homem fala,
+falando como que oráculos de Deus; se algum homem ministra, ministrando como
+da força que Deus supre: para que em todas as coisas Deus seja glorificado
+por meio de Jesus Cristo, de quem é a glória e o domínio para sempre e
+sempre. Amém. 4:12Amados, não achem estranho acerca da ardente provação
+entre vocês, a qual vem sobre vocês para prová-los, como se uma coisa
+estranha acontecesse a vocês: 4:13mas, porquanto vocês são participantes dos
+sofrimentos de Cristo, regozijem-se; para que, na revelação da sua glória,
+também vocês se regozijem com alegria excedente. 4:14Se vocês são
+vituperados pelo nome de Cristo, bem-aventurados são vocês; porque o
+Espírito de glória e o Espírito de Deus repousa sobre vocês. 4:15Porque
+nenhum de vocês sofra como homicida, ou ladrão, ou malfeitor, ou como
+intrometido nos assuntos de outros homens: 4:16mas, se um homem sofre como
+cristão, não se envergonhe; mas glorifique a Deus neste nome. 4:17Porque é
+chegado o tempo de o juízo começar pela casa de Deus; e, se começa primeiro
+por nós, qual será o fim daqueles que não obedecem ao evangelho de Deus?
+4:18E, se o justo dificilmente é salvo, onde aparecerá o ímpio e o pecador?
+4:19Portanto, também os que sofrem segundo a vontade de Deus encomendem as
+suas almas, em bem-fazer, a um Criador fiel.
+
+
 5:1The elders therefore among you I exhort, who am a fellow-elder, and a
 witness of the sufferings of Christ, who am also a partaker of the glory
 that shall be revealed: 5:2Tend the flock of God which is among you,
@@ -198,3 +384,30 @@ that this is the true grace of God: stand ye fast therein. 5:13She that is
 in Babylon, elect together with you, saluteth you; and so doth Mark my son.
 5:14Salute one another with a kiss of love. Peace be unto you all that are
 in Christ.
+
+5:1Aos anciãos, portanto, entre vocês eu exorto, eu, que sou coancião e
+testemunha dos sofrimentos de Cristo, que sou também participante da glória
+que será revelada: 5:2Apascentem o rebanho de Deus que está entre vocês,
+exercendo a supervisão, não por constrangimento, mas de boa vontade, segundo
+a vontade de Deus; nem tampouco por lucro sórdido, mas de mente pronta;
+5:3nem como senhoreando o encargo que lhes foi repartido, mas fazendo-se
+exemplos para o rebanho. 5:4E, quando o principal Pastor for manifestado,
+vocês receberão a coroa de glória que não se desvanece. 5:5Igualmente,
+vocês, os mais jovens, sujeitem-se ao ancião. Sim, todos vocês cingam-se de
+humildade, para servir uns aos outros; porque Deus resiste aos soberbos, mas
+dá graça aos humildes. 5:6Humilhem-se, portanto, debaixo da poderosa mão de
+Deus, para que ele os exalte no tempo devido; 5:7lançando sobre ele toda a
+ansiedade de vocês, porque ele cuida de vocês. 5:8Sejam sóbrios, sejam
+vigilantes: o adversário de vocês, o diabo, como um leão que ruge, anda em
+derredor, buscando a quem possa devorar: 5:9ao qual resistam firmes na fé de
+vocês, sabendo que os mesmos sofrimentos se cumprem nos irmãos de vocês que
+estão no mundo. 5:10E o Deus de toda graça, que chamou vocês para a sua
+eterna glória em Cristo, depois de terem sofrido um pouco, ele mesmo
+aperfeiçoará, firmará, fortalecerá vocês. 5:11A ele seja o domínio para
+sempre e sempre. Amém. 5:12Por Silvano, nosso fiel irmão, como eu o
+considero, escrevi a vocês brevemente, exortando e testificando que esta é a
+verdadeira graça de Deus: estejam firmes nela. 5:13Aquela que está em
+Babilônia, eleita juntamente com vocês, saúda vocês; e assim faz Marcos, meu
+filho. 5:14Saúdem-se uns aos outros com um beijo de amor. Paz seja a todos
+vocês que estão em Cristo.
+

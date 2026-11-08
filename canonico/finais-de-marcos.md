@@ -1,5 +1,7 @@
 # Os finais de Marcos
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 O texto de Marcos que os manuscritos mais antigos sustentam acaba em 16,8: as mulheres saem do túmulo e não dizem nada a ninguém, porque têm medo. O Códice Vaticano e o Códice Sinaítico param aí. Não há, nesses dois, aparição do ressuscitado.
 
 Quatro continuações circularam.
@@ -57,3 +59,38 @@ spoken unto them, was received up into heaven, and sat down at the right hand of
 God. 16:20And they went forth, and preached
 everywhere, the Lord working with them, and confirming the word by the signs
 that followed. Amen.
+
+16:1E, quando o sábado tinha passado, Maria Madalena, e Maria, a mãe de
+Tiago, e Salomé compraram especiarias, para que pudessem vir e ungi-lo.
+16:2E muito cedo, no primeiro dia da semana, elas vêm ao túmulo, quando o
+sol havia nascido. 16:3E diziam entre si: Quem nos rolará para longe a pedra
+da porta do túmulo? 16:4e, olhando para cima, veem que a pedra está rolada
+para trás: porque era sobremaneira grande. 16:5E, entrando no túmulo, viram
+um jovem sentado do lado direito, revestido de uma veste branca; e ficaram
+assombradas. 16:6E ele lhes diz: Não fiquem assombradas: vocês buscam Jesus,
+o Nazareno, que foi crucificado; ele ressuscitou; ele não está aqui: eis o
+lugar onde o deitaram! 16:7Mas vão, digam aos discípulos dele e a Pedro: Ele
+vai adiante de vocês para a Galileia; ali vocês o verão, como ele disse a
+vocês. 16:8E elas saíram e fugiram do túmulo, pois tremor e assombro tinham
+vindo sobre elas; e não disseram nada a ninguém, porque estavam com medo.
+16:9Ora, quando ele ressuscitou, de madrugada, no primeiro dia da semana,
+apareceu primeiro a Maria Madalena, da qual tinha expulsado sete demônios.
+16:10Ela foi e contou aos que tinham estado com ele, enquanto eles
+pranteavam e choravam. 16:11E eles, quando ouviram que ele estava vivo e que
+tinha sido visto por ela, descreram. 16:12E, depois destas coisas, foi
+manifestado em outra forma a dois deles, enquanto caminhavam, a caminho do
+campo. 16:13E eles foram e contaram isso aos demais; tampouco estes creram
+neles. 16:14E, depois, foi manifestado aos próprios onze, enquanto estavam
+sentados à refeição; e ele os censurou pela sua incredulidade e dureza de
+coração, porque não creram nos que o tinham visto depois que ele
+ressuscitou. 16:15E disse-lhes: Vão vocês por todo o mundo e preguem o
+evangelho a toda a criação. 16:16Aquele que crê e é batizado será salvo; mas
+aquele que descrê será condenado. 16:17E estes sinais acompanharão os que
+creem: em meu nome expulsarão demônios; falarão com novas línguas;
+16:18tomarão serpentes, e, se beberem qualquer coisa mortífera, de modo
+algum lhes fará mal; porão as mãos sobre os enfermos, e eles se recuperarão.
+16:19Assim, pois, o Senhor Jesus, depois de lhes ter falado, foi recebido
+para o alto no céu, e sentou-se à mão direita de Deus. 16:20E eles saíram e
+pregaram por toda parte, o Senhor operando com eles e confirmando a palavra
+pelos sinais que se seguiam. Amém.
+

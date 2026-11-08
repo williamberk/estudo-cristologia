@@ -1,10 +1,15 @@
 # Marcos
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Composto em grego por volta de 70. É o mais antigo dos quatro evangelhos. Não há manuscrito completo do século I. O fim que os manuscritos mais antigos sustentam é 16,8. O final longo, 16,9–20, já é citado por Irineu por volta de 180. A American Standard Version imprime 16,1–20, isto é, o relato do túmulo e o final longo.
 
 As quatro continuações, o final breve e o logion de Freer estão em [finais-de-marcos.md](finais-de-marcos.md).
 
 ## American Standard Version
+
+Versão Padrão Americana
+
 
 Texto inglês da American Standard Version (1901), domínio público. Traduz o texto grego crítico do fim do século XIX, na linha de Westcott e Hort. Não é um autógrafo do século I.
 
@@ -80,6 +85,72 @@ much, and to spread abroad the matter, insomuch that Jesus could no more
 openly enter into a city, but was without in desert places: and they came to
 him from every quarter.
 
+1:1O princípio do evangelho de Jesus Cristo, o Filho de Deus. 1:2Assim como
+está escrito em Isaías, o profeta: Eis que envio o meu mensageiro diante da
+tua face, o qual preparará o teu caminho; 1:3A voz de um que clama no
+deserto: Preparem vocês o caminho do Senhor, tornem retas as suas veredas;
+1:4João veio, o qual batizou no deserto e pregou o batismo de arrependimento
+para remissão de pecados. 1:5E saiu a ter com ele toda a região da Judeia, e
+todos os de Jerusalém; e foram batizados por ele no rio Jordão, confessando
+os seus pecados. 1:6E João estava vestido de pelos de camelo, e tinha um
+cinto de couro em torno dos lombos, e comia gafanhotos e mel silvestre. 1:7E
+ele pregava, dizendo: Depois de mim vem aquele que é mais poderoso do que
+eu, de quem não sou digno de me abaixar e desatar a correia das sandálias.
+1:8Eu batizei vocês em água; mas ele batizará vocês no Espírito Santo. 1:9E
+aconteceu, naqueles dias, que Jesus veio de Nazaré da Galileia, e foi
+batizado por João no Jordão. 1:10E imediatamente, subindo para fora da água,
+viu os céus rasgados, e o Espírito, como uma pomba, descendo sobre ele:
+1:11e uma voz saiu dos céus: Tu és o meu Filho amado, em ti muito me agrado.
+1:12E imediatamente o Espírito o impele para o deserto. 1:13E esteve no
+deserto quarenta dias, tentado por Satanás; e estava com as feras; e os
+anjos o serviam. 1:14Ora, depois que João foi entregue, Jesus veio à
+Galileia, pregando o evangelho de Deus, 1:15e dizendo: O tempo está
+cumprido, e o reino de Deus está próximo; arrependam-se vocês e creiam no
+evangelho. 1:16E, passando ao longo do mar da Galileia, viu Simão e André, o
+irmão de Simão, lançando uma rede no mar; pois eram pescadores. 1:17E Jesus
+disse-lhes: Venham vocês após mim, e eu farei com que vocês se tornem
+pescadores de homens. 1:18E imediatamente deixaram as redes e o seguiram.
+1:19E, indo um pouco mais adiante, viu Tiago, o filho de Zebedeu, e João,
+seu irmão, os quais também estavam no barco, remendando as redes. 1:20E
+imediatamente os chamou; e eles deixaram o pai deles, Zebedeu, no barco com
+os jornaleiros, e foram após ele. 1:21E entram em Cafarnaum; e
+imediatamente, no dia de sábado, ele entrou na sinagoga e ensinou. 1:22E
+ficaram atônitos diante do seu ensino, porque os ensinava como quem tem
+autoridade, e não como os escribas. 1:23E imediatamente havia na sinagoga
+deles um homem com um espírito imundo; e ele clamou, 1:24dizendo: Que temos
+nós contigo, Jesus, tu nazareno? Vieste tu para destruir-nos? Eu te conheço,
+quem tu és: o Santo de Deus. 1:25E Jesus o repreendeu, dizendo: Cala-te, e
+sai dele. 1:26E o espírito imundo, convulsionando-o e clamando com uma voz
+alta, saiu dele. 1:27E todos ficaram pasmados, de tal modo que perguntavam
+entre si, dizendo: Que é isto? um ensino novo! com autoridade ele ordena até
+os espíritos imundos, e eles lhe obedecem. 1:28E a notícia a respeito dele
+saiu imediatamente por toda parte, por toda a região da Galileia ao redor.
+1:29E imediatamente, quando saíram da sinagoga, entraram na casa de Simão e
+André, com Tiago e João. 1:30Ora, a sogra de Simão jazia enferma de febre; e
+imediatamente falam-lhe a respeito dela: 1:31e ele chegou, e tomou-a pela
+mão, e a levantou; e a febre a deixou, e ela os serviu. 1:32E à tarde,
+quando o sol se pôs, trouxeram-lhe todos os que estavam enfermos, e os que
+estavam possuídos de demônios. 1:33E toda a cidade estava reunida à porta.
+1:34E ele curou muitos que estavam enfermos de diversas doenças, e expulsou
+muitos demônios; e não permitiu que os demônios falassem, porque o
+conheciam. 1:35E de manhã, muito antes do dia, ele se levantou, e saiu, e
+partiu para um lugar deserto, e ali orou. 1:36E Simão e os que estavam com
+ele seguiram após ele; 1:37e o acharam, e dizem-lhe: Todos te buscam. 1:38E
+ele lhes diz: Vamos a outro lugar, às povoações próximas, para que eu pregue
+também ali; pois para este fim é que saí. 1:39E ele foi pelas sinagogas
+deles, por toda a Galileia, pregando e expulsando demônios. 1:40E vem ter
+com ele um leproso, suplicando-lhe, e ajoelhando-se diante dele, e
+dizendo-lhe: Se tu quiseres, tu podes tornar-me limpo. 1:41E, movido de
+compaixão, estendeu a sua mão, e tocou-o, e diz-lhe: Quero; sê tu feito
+limpo. 1:42E imediatamente a lepra se apartou dele, e ele foi feito limpo.
+1:43E admoestou-o com rigor, e imediatamente o mandou sair, 1:44e diz-lhe:
+Vê, não digas nada a homem algum; mas vai, mostra-te ao sacerdote, e oferece
+pela tua limpeza as coisas que Moisés ordenou, para testemunho a eles.
+1:45Mas ele saiu, e começou a apregoá-lo muito, e a propagar o fato, de tal
+modo que Jesus já não podia entrar abertamente numa cidade, mas estava fora,
+em lugares desertos; e vinham ter com ele de toda parte.
+
+
 2:1And when he entered again into Capernaum after some days, it was noised
 that he was in the house. 2:2And many were gathered together, so that there
 was no longer room for them, no, not even about the door: and he spake the
@@ -131,6 +202,57 @@ lawful to eat save for the priests, and gave also to them that were with
 him? 2:27And he said unto them, The sabbath was made for man, and not man
 for the sabbath: 2:28so that the Son of man is lord even of the sabbath.
 
+2:1E, quando ele entrou outra vez em Cafarnaum, depois de alguns dias,
+correu a notícia de que ele estava na casa. 2:2E muitos se reuniram, de modo
+que já não havia lugar para eles, não, nem mesmo junto à porta; e ele lhes
+falou a palavra. 2:3E vêm, trazendo-lhe um homem enfermo de paralisia,
+carregado por quatro. 2:4E, quando não puderam chegar perto dele por causa
+da multidão, descobriram o telhado onde ele estava; e, quando o desfizeram,
+baixaram o leito em que jazia o enfermo de paralisia. 2:5E Jesus, vendo a fé
+deles, diz ao enfermo de paralisia: Filho, os teus pecados estão perdoados.
+2:6Mas estavam ali sentados alguns dos escribas, e raciocinavam nos seus
+corações, 2:7Por que fala assim este homem? Ele blasfema: quem pode perdoar
+pecados senão um só, a saber, Deus? 2:8E imediatamente Jesus, percebendo no
+seu espírito que eles assim raciocinavam dentro de si, diz-lhes: Por que
+raciocinam vocês estas coisas nos seus corações? 2:9Qual é mais fácil: dizer
+ao enfermo de paralisia: Os teus pecados estão perdoados; ou dizer:
+Levanta-te, e toma o teu leito, e anda? 2:10Mas, para que vocês saibam que o
+Filho do homem tem autoridade na terra para perdoar pecados (ele diz ao
+enfermo de paralisia), 2:11Eu te digo: Levanta-te, toma o teu leito e vai
+para a tua casa. 2:12E ele se levantou, e imediatamente tomou o leito, e
+saiu diante de todos; de tal modo que todos ficaram pasmados, e glorificaram
+a Deus, dizendo: Nunca vimos isto desta maneira. 2:13E saiu outra vez à
+beira do mar; e toda a multidão afluía a ele, e ele os ensinava. 2:14E, ao
+passar, viu Levi, o filho de Alfeu, sentado no lugar do tributo, e diz-lhe:
+Segue-me. E ele se levantou e o seguiu. 2:15E aconteceu que ele estava
+sentado à refeição na casa dele, e muitos publicanos e pecadores sentaram-se
+com Jesus e os seus discípulos; pois havia muitos, e eles o seguiam. 2:16E
+os escribas dos fariseus, quando viram que ele comia com os pecadores e os
+publicanos, disseram aos discípulos dele: Como é que ele come e bebe com
+publicanos e pecadores? 2:17E Jesus, quando ouviu isso, diz-lhes: Os que
+estão sãos não têm necessidade de médico, mas os que estão enfermos; não vim
+chamar os justos, mas pecadores. 2:18E os discípulos de João e os fariseus
+estavam jejuando; e vêm e dizem-lhe: Por que jejuam os discípulos de João e
+os discípulos dos fariseus, mas os teus discípulos não jejuam? 2:19E Jesus
+disse-lhes: Podem os filhos da câmara nupcial jejuar, enquanto o noivo está
+com eles? Por todo o tempo em que têm o noivo consigo, não podem jejuar.
+2:20Mas virão os dias, quando o noivo lhes será tirado, e então jejuarão
+naquele dia. 2:21Nenhum homem cose um pedaço de pano cru sobre uma veste
+velha; do contrário, aquilo que havia de enchê-la tira dela, o novo do
+velho, e faz-se um rasgão pior. 2:22E nenhum homem põe vinho novo em odres
+velhos; do contrário, o vinho rebentará os odres, e o vinho perece, e os
+odres; mas põem vinho novo em odres frescos. 2:23E aconteceu que ele ia, no
+dia de sábado, através das searas; e os seus discípulos começaram, enquanto
+iam, a arrancar as espigas. 2:24E os fariseus disseram-lhe: Eis, por que
+fazem eles, no dia de sábado, o que não é lícito? 2:25E ele lhes disse:
+Nunca leram vocês o que Davi fez, quando teve necessidade e estava com fome,
+ele e os que estavam com ele? 2:26Como ele entrou na casa de Deus, quando
+Abiatar era sumo sacerdote, e comeu o pão da apresentação, o qual não é
+lícito comer senão aos sacerdotes, e deu também aos que estavam com ele?
+2:27E disse-lhes: O sábado foi feito para o homem, e não o homem para o
+sábado: 2:28de modo que o Filho do homem é senhor até mesmo do sábado.
+
+
 3:1And he entered again into the synagogue; and there was a man there who
 had his hand withered. 3:2And they watched him, whether he would heal him on
 the sabbath day; that they might accuse him. 3:3And he saith unto the man
@@ -181,6 +303,55 @@ thee. 3:33And he answereth them, and saith, Who is my mother and my
 brethren? 3:34And looking round on them that sat round about him, he saith,
 Behold, my mother and my brethren! 3:35For whosoever shall do the will of
 God, the same is my brother, and sister, and mother.
+
+3:1E entrou outra vez na sinagoga; e havia ali um homem que tinha a mão
+ressequida. 3:2E o vigiavam, se ele o curaria no dia de sábado, para que o
+pudessem acusar. 3:3E diz ao homem que tinha a mão ressequida: Põe-te
+adiante. 3:4E diz-lhes: É lícito, no dia de sábado, fazer o bem, ou fazer
+dano? salvar uma vida, ou matar? Mas eles guardaram silêncio. 3:5E, tendo
+olhado em redor para eles com ira, entristecido pelo endurecimento do
+coração deles, diz ao homem: Estende a tua mão. E ele a estendeu; e a sua
+mão foi restaurada. 3:6E os fariseus saíram e, logo com os herodianos,
+tomaram conselho contra ele, de como o poderiam destruir. 3:7E Jesus, com os
+seus discípulos, retirou-se para o mar; e uma grande multidão da Galileia o
+seguiu; e da Judeia, 3:8e de Jerusalém, e da Idumeia, e de além do Jordão, e
+das cercanias de Tiro e de Sidom, uma grande multidão, ouvindo quão grandes
+coisas ele fazia, veio até ele. 3:9E falou aos seus discípulos que um
+pequeno barco o esperasse por causa da turba, para que não o comprimissem:
+3:10porque havia curado a muitos; tanto que todos os que tinham flagelos se
+apertavam sobre ele para o tocarem. 3:11E os espíritos imundos, sempre que o
+viam, caíam diante dele e clamavam, dizendo: Tu és o Filho de Deus. 3:12E
+muito lhes ordenou que não o tornassem conhecido. 3:13E sobe ao monte, e
+chama a si aqueles que ele mesmo queria; e eles foram até ele. 3:14E
+designou doze, para que estivessem com ele, e para que os enviasse a pregar,
+3:15e para terem autoridade de expulsar demônios: 3:16e a Simão pôs o
+sobrenome de Pedro; 3:17e Tiago, o filho de Zebedeu, e João, o irmão de
+Tiago; e a eles pôs o sobrenome de Boanerges, que é, Filhos do trovão: 3:18e
+André, e Filipe, e Bartolomeu, e Mateus, e Tomé, e Tiago, o filho de Alfeu,
+e Tadeu, e Simão, o Cananeu, 3:19e Judas Iscariotes, que também o traiu. E
+entra numa casa. 3:20E a multidão torna a reunir-se, de modo que nem sequer
+podiam comer pão. 3:21E, quando os seus amigos ouviram isso, saíram para
+lançar mão dele, pois diziam: Ele está fora de si. 3:22E os escribas que
+desceram de Jerusalém disseram: Ele tem Belzebu, e: Pelo príncipe dos
+demônios expulsa ele os demônios. 3:23E chamou-os a si, e disse-lhes em
+parábolas: Como pode Satanás expulsar Satanás? 3:24E, se um reino estiver
+dividido contra si mesmo, esse reino não pode subsistir. 3:25E, se uma casa
+estiver dividida contra si mesma, essa casa não poderá subsistir. 3:26E, se
+Satanás se levantou contra si mesmo e está dividido, não pode subsistir, mas
+tem um fim. 3:27Mas ninguém pode entrar na casa do homem forte e saquear os
+seus bens, a não ser que primeiro amarre o homem forte; e então saqueará a
+sua casa. 3:28Em verdade digo a vocês: Todos os seus pecados serão perdoados
+aos filhos dos homens, e as suas blasfêmias, seja com o que for que
+blasfemem; 3:29mas quem quer que blasfemar contra o Espírito Santo nunca tem
+perdão, mas é culpado de um pecado eterno: 3:30porque diziam: Ele tem um
+espírito imundo. 3:31E vêm a sua mãe e os seus irmãos; e, ficando de fora,
+enviaram até ele, chamando-o. 3:32E uma multidão estava sentada ao redor
+dele; e dizem-lhe: Eis que a tua mãe e os teus irmãos, de fora, te procuram.
+3:33E ele lhes responde e diz: Quem é a minha mãe e os meus irmãos? 3:34E,
+olhando em redor para os que estavam sentados ao redor dele, diz: Eis a
+minha mãe e os meus irmãos! 3:35Porque qualquer que fizer a vontade de Deus,
+esse mesmo é meu irmão, e irmã, e mãe.
+
 
 4:1And again he began to teach by the sea side. And there is gathered unto
 him a very great multitude, so that he entered into a boat, and sat in the
@@ -246,6 +417,69 @@ the wind, and said unto the sea, Peace, be still. And the wind ceased, and
 there was a great calm. 4:40And he said unto them, Why are ye fearful? have
 ye not yet faith? 4:41And they feared exceedingly, and said one to another,
 Who then is this, that even the wind and the sea obey him?
+
+4:1E outra vez começou a ensinar à beira do mar. E ajunta-se junto dele uma
+multidão muito grande, de modo que entrou num barco e sentou-se no mar; e
+toda a multidão estava junto ao mar, em terra. 4:2E ensinava-lhes muitas
+coisas em parábolas, e dizia-lhes no seu ensino: 4:3Escutem: Eis que o
+semeador saiu a semear: 4:4e aconteceu que, ao semear, alguma semente caiu à
+beira do caminho, e vieram as aves e a devoraram. 4:5E outra caiu no terreno
+pedregoso, onde não havia muita terra; e logo brotou, porque não tinha
+profundidade de terra: 4:6e, quando o sol se levantou, foi queimada; e,
+porque não tinha raiz, secou. 4:7E outra caiu entre os espinhos, e os
+espinhos cresceram e a sufocaram, e ela não deu fruto. 4:8E outras caíram na
+boa terra, e deram fruto, crescendo e aumentando; e produziram a trinta por
+um, e a sessenta por um, e a cem por um. 4:9E disse: Quem tem ouvidos para
+ouvir, ouça. 4:10E, quando ficou só, os que estavam ao redor dele, com os
+doze, perguntaram-lhe as parábolas. 4:11E disse-lhes: A vocês é dado o
+mistério do reino de Deus; mas aos que estão de fora, todas as coisas se
+fazem em parábolas: 4:12para que, vendo, vejam e não percebam; e, ouvindo,
+ouçam e não entendam; para que não suceda, porventura, que se voltem, e lhes
+seja perdoado. 4:13E diz-lhes: Não conhecem vocês esta parábola? E como
+conhecerão vocês todas as parábolas? 4:14O semeador semeia a palavra. 4:15E
+estes são os da beira do caminho, onde a palavra é semeada; e, quando a
+ouvem, logo vem Satanás e tira a palavra que foi semeada neles. 4:16E estes,
+de igual modo, são os que são semeados nos lugares pedregosos, os quais,
+quando ouvem a palavra, logo a recebem com alegria; 4:17e não têm raiz em si
+mesmos, mas duram por um tempo; depois, quando surge tribulação ou
+perseguição por causa da palavra, logo tropeçam. 4:18E outros são os que são
+semeados entre os espinhos; estes são os que ouviram a palavra, 4:19e os
+cuidados do mundo, e o engano das riquezas, e as cobiças de outras coisas,
+entrando, sufocam a palavra, e ela se torna infrutífera. 4:20E aqueles são
+os que foram semeados na boa terra; os tais ouvem a palavra, e a aceitam, e
+dão fruto, a trinta por um, e a sessenta por um, e a cem por um. 4:21E
+disse-lhes: Traz-se a lâmpada para ser posta debaixo do alqueire, ou debaixo
+do leito, e não para ser posta sobre o suporte? 4:22Porque nada há oculto,
+senão para que seja manifestado; nem coisa alguma foi feita secreta, senão
+para que venha à luz. 4:23Se alguém tem ouvidos para ouvir, ouça. 4:24E
+disse-lhes: Atentem ao que vocês ouvem: com a medida com que vocês medem,
+será medido a vocês; e mais será dado a vocês. 4:25Porque ao que tem, a esse
+será dado; e ao que não tem, até mesmo aquilo que tem lhe será tirado. 4:26E
+disse: Assim é o reino de Deus, como se um homem lançasse semente sobre a
+terra; 4:27e dormisse e se levantasse noite e dia, e a semente brotasse e
+crescesse, ele não sabe como. 4:28A terra produz fruto por si mesma;
+primeiro a haste, depois a espiga, depois o grão cheio na espiga. 4:29Mas,
+quando o fruto está maduro, logo ele lança a foice, porque a ceifa é
+chegada. 4:30E disse: Como assemelharemos o reino de Deus? Ou em que
+parábola o apresentaremos? 4:31É como um grão de semente de mostarda, o
+qual, quando é semeado sobre a terra, embora seja menor do que todas as
+sementes que há sobre a terra, 4:32todavia, uma vez semeado, cresce e se
+torna maior do que todas as hortaliças, e deita grandes ramos, de modo que
+as aves do céu podem aninhar-se à sua sombra. 4:33E com muitas parábolas
+semelhantes falava-lhes a palavra, conforme eram capazes de a ouvir; 4:34e
+sem parábola não lhes falava; mas, em particular, aos seus próprios
+discípulos, explicava todas as coisas. 4:35E, naquele dia, quando veio a
+tarde, diz-lhes: Passemos para o outro lado. 4:36E, deixando a multidão,
+levam-no consigo, assim como ele estava, no barco. E outros barcos estavam
+com ele. 4:37E levanta-se uma grande tempestade de vento, e as ondas batiam
+para dentro do barco, de tal modo que o barco já se enchia. 4:38E ele mesmo
+estava na popa, dormindo sobre a almofada; e eles o despertam e dizem-lhe:
+Mestre, não te importa que pereçamos? 4:39E despertou, e repreendeu o vento,
+e disse ao mar: Paz, aquieta-te. E o vento cessou, e houve uma grande
+calmaria. 4:40E disse-lhes: Por que vocês estão temerosos? Ainda não têm fé?
+4:41E temeram sobremaneira, e diziam uns aos outros: Quem é, então, este,
+que até o vento e o mar lhe obedecem?
+
 
 5:1And they came to the other side of the sea, into the country of the
 Gerasenes. 5:2And when he was come out of the boat, straightway there met
@@ -316,6 +550,74 @@ rose up, and walked; for she was twelve years old. And they were amazed
 straightway with a great amazement. 5:43And he charged them much that no man
 should know this: and he commanded that something should be given her to
 eat.
+
+5:1E eles chegaram ao outro lado do mar, à terra dos gerasenos. 5:2E, quando
+ele saíra do barco, imediatamente saiu-lhe ao encontro, de entre os túmulos,
+um homem com um espírito imundo, 5:3que tinha a sua morada nos túmulos; e
+nenhum homem podia mais amarrá-lo, não, nem com uma corrente; 5:4porque ele
+tinha sido muitas vezes amarrado com grilhões e correntes, e as correntes
+tinham sido rompidas por ele, e os grilhões quebrados em pedaços; e nenhum
+homem tinha força para o domar. 5:5E sempre, de noite e de dia, nos túmulos
+e nos montes, ele estava clamando e cortando-se a si mesmo com pedras. 5:6E,
+quando viu Jesus de longe, correu e o adorou; 5:7e, clamando com alta voz,
+diz: Que tenho eu que fazer contigo, Jesus, tu, Filho do Deus Altíssimo?
+Conjuro-te por Deus, não me atormentes. 5:8Porque ele lhe disse: Sai tu,
+espírito imundo, para fora do homem. 5:9E perguntou-lhe: Qual é o teu nome?
+E ele lhe diz: O meu nome é Legião; porque somos muitos. 5:10E rogou-lhe
+muito que não os enviasse para fora da terra. 5:11Ora, havia ali, na encosta
+do monte, uma grande manada de porcos pastando. 5:12E rogaram-lhe, dizendo:
+Envia-nos para os porcos, para que entremos neles. 5:13E ele lhes deu
+licença. E os espíritos imundos saíram e entraram nos porcos; e a manada
+precipitou-se pelo despenhadeiro abaixo para o mar, em número de cerca de
+dois mil; e afogaram-se no mar. 5:14E os que os apascentavam fugiram e o
+contaram na cidade e no campo. E vieram ver o que era que tinha sucedido.
+5:15E chegam a Jesus, e contemplam aquele que estava possuído de demônios,
+sentado, vestido e em seu juízo são, aquele mesmo que tinha a legião; e
+tiveram medo. 5:16E os que viram isso declararam-lhes como isso sucedeu
+àquele que estava possuído de demônios, e acerca dos porcos. 5:17E começaram
+a rogar-lhe que se retirasse dos seus limites. 5:18E, enquanto ele entrava
+no barco, aquele que tinha estado possuído de demônios rogou-lhe que pudesse
+estar com ele. 5:19E ele não o permitiu, mas diz-lhe: Vai para a tua casa,
+para os teus amigos, e conta-lhes quão grandes coisas o Senhor fez por ti, e
+como teve misericórdia de ti. 5:20E ele seguiu o seu caminho, e começou a
+publicar em Decápolis quão grandes coisas Jesus tinha feito por ele; e todos
+os homens se maravilharam. 5:21E, quando Jesus tinha atravessado outra vez
+no barco para o outro lado, uma grande multidão estava ajuntada junto dele;
+e ele estava junto ao mar. 5:22E vem um dos chefes da sinagoga, por nome
+Jaïrus; e, vendo-o, cai a seus pés, 5:23e roga-lhe muito, dizendo: A minha
+filhinha está no ponto de morte; peço-te que tu venhas e ponhas as tuas mãos
+sobre ela, para que ela seja feita sã, e viva. 5:24E ele foi com ele; e uma
+grande multidão o seguiu, e o apertaram. 5:25E uma mulher, que tinha um
+fluxo de sangue havia doze anos, 5:26e tinha sofrido muitas coisas de muitos
+médicos, e tinha gastado tudo o que tinha, e em nada fora melhorada, mas
+antes piorava, 5:27tendo ouvido as coisas a respeito de Jesus, veio na
+multidão por detrás, e tocou a sua veste. 5:28Porque ela disse: Se eu apenas
+tocar as suas vestes, serei feita sã. 5:29E imediatamente a fonte do seu
+sangue secou; e ela sentiu no seu corpo que estava curada da sua praga.
+5:30E imediatamente Jesus, percebendo em si mesmo que o poder que procedia
+dele tinha saído, voltou-se na multidão e disse: Quem tocou as minhas
+vestes? 5:31E os seus discípulos lhe disseram: Tu vês a multidão
+apertando-te, e dizes tu: Quem me tocou? 5:32E ele olhou ao redor para ver
+aquela que tinha feito esta coisa. 5:33Mas a mulher, temendo e tremendo,
+sabendo o que lhe tinha sido feito, veio e caiu diante dele, e contou-lhe
+toda a verdade. 5:34E ele lhe disse: Filha, a tua fé te fez sã; vai em paz,
+e sê sã da tua praga. 5:35Enquanto ele ainda falava, vêm da casa do chefe da
+sinagoga, dizendo: A tua filha está morta; por que incomodas tu o Mestre
+ainda mais? 5:36Mas Jesus, não atendendo à palavra dita, diz ao chefe da
+sinagoga: Não temas, somente crê. 5:37E não permitiu que nenhum homem
+seguisse com ele, salvo Pedro, e Tiago, e João, o irmão de Tiago. 5:38E
+chegam à casa do chefe da sinagoga; e ele contempla um tumulto, e muitos
+chorando e pranteando grandemente. 5:39E, quando ele tinha entrado,
+diz-lhes: Por que vocês fazem um tumulto, e choram? A criança não está
+morta, mas dorme. 5:40E riram-se dele com escárnio. Mas ele, tendo posto
+todos eles para fora, toma o pai da criança e a mãe dela e os que estavam
+com ele, e entra onde a criança estava. 5:41E, tomando a criança pela mão,
+diz-lhe: Talitha cumi; que é, sendo interpretado, Donzela, eu te digo:
+Levanta-te. 5:42E imediatamente a donzela se levantou, e andou; porque ela
+tinha doze anos de idade. E imediatamente se espantaram com um grande
+espanto. 5:43E ordenou-lhes muito que nenhum homem soubesse isto; e mandou
+que alguma coisa lhe fosse dada para comer.
+
 
 6:1And he went out from thence; and he cometh into his own country; and his
 disciples follow him. 6:2And when the sabbath was come, he began to teach in
@@ -411,6 +713,95 @@ cities, or into the country, they laid the sick in the marketplaces, and
 besought him that they might touch if it were but the border of his garment:
 and as many as touched him were made whole.
 
+6:1E ele saiu dali; e vem para a sua própria terra; e os seus discípulos o
+seguem. 6:2E, quando chegou o sábado, começou a ensinar na sinagoga; e
+muitos, ouvindo-o, se admiravam, dizendo: Donde tem este homem estas coisas?
+e: Que é a sabedoria que é dada a este homem, e que significam tais obras
+poderosas operadas pelas suas mãos? 6:3Não é este o carpinteiro, o filho de
+Maria, e irmão de Tiago, e de Joses, e de Judas, e de Simão? e não estão as
+suas irmãs aqui conosco? E escandalizaram-se nele. 6:4E Jesus lhes disse: Um
+profeta não é sem honra, senão na sua própria terra, e entre os seus
+próprios parentes, e na sua própria casa. 6:5E não pôde ali fazer nenhuma
+obra poderosa, senão que impôs as mãos sobre uns poucos enfermos, e os
+curou. 6:6E admirou-se por causa da incredulidade deles. E percorria as
+aldeias em redor, ensinando. 6:7E chama a si os doze, e começou a enviá-los
+de dois em dois; e deu-lhes autoridade sobre os espíritos imundos; 6:8e
+ordenou-lhes que nada tomassem para a viagem, senão somente um cajado; nem
+pão, nem alforje, nem dinheiro na bolsa; 6:9mas que fossem calçados com
+sandálias; e, disse ele, não vistam duas túnicas. 6:10E disse-lhes: Onde
+quer que vocês entrem numa casa, ali permaneçam até que dali partam. 6:11E
+qualquer lugar que não receber vocês, e eles não os ouvirem, ao saírem vocês
+dali, sacudam o pó que está debaixo dos seus pés, para testemunho a eles.
+6:12E saíram, e pregaram que os homens se arrependessem. 6:13E expulsaram
+muitos demônios, e ungiram com óleo muitos que estavam enfermos, e os
+curaram. 6:14E o rei Herodes ouviu disso; pois o seu nome se tornara
+conhecido; e disse: João, o Batizador, ressuscitou dentre os mortos, e por
+isso estes poderes operam nele. 6:15Mas outros diziam: É Elias. E outros
+diziam: É um profeta, assim como um dos profetas. 6:16Mas Herodes, quando
+ouviu disso, disse: João, a quem eu decapitei, ele ressuscitou. 6:17Pois o
+próprio Herodes tinha enviado e lançado mão de João, e o amarrara na prisão
+por causa de Herodias, a mulher do seu irmão Filipe; porque ele a havia
+desposado. 6:18Porque João dizia a Herodes: Não te é lícito ter a mulher de
+teu irmão. 6:19E Herodias se pôs contra ele, e desejava matá-lo; e não
+podia; 6:20porque Herodes temia a João, sabendo que ele era homem justo e
+santo, e o guardava a salvo. E, quando o ouvia, ficava muito perplexo; e o
+ouvia de bom grado. 6:21E, chegando um dia oportuno, em que Herodes, no seu
+aniversário, deu uma ceia aos seus senhores, e aos altos capitães, e aos
+principais da Galileia; 6:22e, entrando a filha da própria Herodias e
+dançando, agradou a Herodes e aos que estavam à mesa com ele; e o rei disse
+à donzela: Pede-me tudo o que quiseres, e eu te darei. 6:23E jurou-lhe: Tudo
+quanto me pedires, eu te darei, até a metade do meu reino. 6:24E ela saiu, e
+disse à sua mãe: Que pedirei? E ela disse: A cabeça de João, o Batizador.
+6:25E entrou logo, com pressa, até o rei, e pediu, dizendo: Quero que tu
+imediatamente me dês numa travessa a cabeça de João, o Batista. 6:26E o rei
+ficou extremamente pesaroso; mas, por causa dos seus juramentos, e dos que
+estavam à mesa, não quis rejeitá-la. 6:27E logo o rei enviou um soldado da
+sua guarda, e ordenou que trouxesse a cabeça dele; e ele foi e o decapitou
+na prisão, 6:28e trouxe a cabeça dele numa travessa, e a deu à donzela; e a
+donzela a deu à sua mãe. 6:29E, quando os seus discípulos ouviram disso,
+vieram e tomaram o seu cadáver, e o puseram num túmulo. 6:30E os apóstolos
+se reúnem junto de Jesus; e contaram-lhe todas as coisas, tudo quanto haviam
+feito, e tudo quanto haviam ensinado. 6:31E ele lhes diz: Venham vocês
+mesmos à parte, a um lugar deserto, e descansem um pouco. Porque eram muitos
+os que vinham e iam, e eles não tinham vagar nem sequer para comer. 6:32E
+partiram no barco para um lugar deserto, à parte. 6:33E o povo os viu indo,
+e muitos os reconheceram, e correram juntos para lá a pé, de todas as
+cidades, e chegaram antes deles. 6:34E ele saiu e viu uma grande multidão, e
+compadeceu-se deles, porque eram como ovelhas que não têm pastor; e começou
+a ensinar-lhes muitas coisas. 6:35E, sendo já o dia muito avançado, os seus
+discípulos vieram a ele, e disseram: O lugar é deserto, e o dia já está
+muito avançado; 6:36mande-os embora, para que vão aos campos e às aldeias ao
+redor, e comprem para si algo de comer. 6:37Mas ele respondeu e disse-lhes:
+Deem vocês de comer a eles. E eles lhe dizem: Iremos nós comprar pão no
+valor de duzentos xelins, e dar-lhes de comer? 6:38E ele lhes diz: Quantos
+pães vocês têm? vão e vejam. E, quando souberam, dizem: Cinco, e dois
+peixes. 6:39E ordenou-lhes que todos se sentassem por grupos sobre a relva
+verde. 6:40E sentaram-se em fileiras, de cem em cem, e de cinquenta em
+cinquenta. 6:41E tomou os cinco pães e os dois peixes e, olhando para o céu,
+abençoou, e partiu os pães; e deu aos discípulos para que os pusessem diante
+deles; e os dois peixes repartiu entre todos. 6:42E todos comeram, e ficaram
+fartos. 6:43E recolheram pedaços, doze cestos cheios, e também dos peixes.
+6:44E os que comeram os pães eram cinco mil homens. 6:45E logo constrangeu
+os seus discípulos a entrar no barco, e a ir adiante dele para o outro lado,
+a Betsaida, enquanto ele mesmo despede a multidão. 6:46E, depois de se
+despedir deles, partiu para o monte, a orar. 6:47E, chegada a tarde, o barco
+estava no meio do mar, e ele sozinho em terra. 6:48E, vendo-os angustiados
+ao remar, porque o vento lhes era contrário, por volta da quarta vigília da
+noite vem até eles, andando sobre o mar; e queria passar por eles: 6:49mas
+eles, quando o viram andando sobre o mar, supuseram que era um fantasma, e
+gritaram; 6:50porque todos o viram, e ficaram perturbados. Mas ele logo
+falou com eles, e lhes diz: Tenham bom ânimo: sou eu; não temam. 6:51E subiu
+para junto deles, para o barco; e o vento cessou; e ficaram grandemente
+maravilhados em si mesmos; 6:52porque não entenderam acerca dos pães, mas o
+coração deles estava endurecido. 6:53E, tendo atravessado, chegaram à terra,
+a Genesaré, e amarraram à margem. 6:54E, quando saíram do barco, logo o povo
+o reconheceu, 6:55e correram por toda aquela região em redor, e começaram a
+levar em leitos os que estavam enfermos, para onde ouviam que ele estava.
+6:56E onde quer que ele entrasse, em aldeias, ou em cidades, ou no campo,
+punham os enfermos nos mercados, e rogavam-lhe que pudessem tocar, ainda que
+fosse apenas a orla da sua veste; e todos os que o tocavam ficavam sãos.
+
+
 7:1And there are gathered together unto him the Pharisees, and certain of
 the scribes, who had come from Jerusalem, 7:2and had seen that some of his
 disciples ate their bread with defiled, that is, unwashen, hands. 7:3(For
@@ -469,6 +860,63 @@ spake plain. 7:36And he charged them that they should tell no man: but the
 more he charged them, so much the more a great deal they published it.
 7:37And they were beyond measure astonished, saying, He hath done all things
 well; he maketh even the deaf to hear, and the dumb to speak.
+
+7:1E reúnem-se junto dele os fariseus, e alguns dos escribas, que tinham
+vindo de Jerusalém, 7:2e tinham visto que alguns dos seus discípulos comiam
+o seu pão com mãos contaminadas, isto é, não lavadas. 7:3(Porque os
+fariseus, e todos os judeus, se não lavam as mãos diligentemente, não comem,
+retendo a tradição dos anciãos; 7:4e, quando vêm do mercado, se não se
+banham, não comem; e há muitas outras coisas que receberam para reter,
+lavagens de copos, e de potes, e de vasos de bronze.) 7:5E os fariseus e os
+escribas perguntam-lhe: Por que não andam os teus discípulos segundo a
+tradição dos anciãos, mas comem o seu pão com mãos contaminadas? 7:6E ele
+lhes disse: Bem profetizou Isaías acerca de vocês, hipócritas, como está
+escrito: Este povo honra-me com os seus lábios, mas o seu coração está longe
+de mim. 7:7Mas em vão me adoram, ensinando como doutrinas os preceitos dos
+homens. 7:8Vocês deixam o mandamento de Deus, e retêm com firmeza a tradição
+dos homens. 7:9E disse-lhes: Muito bem vocês rejeitam o mandamento de Deus,
+para que guardem a sua tradição. 7:10Pois Moisés disse: Honra teu pai e tua
+mãe; e: Quem falar mal do pai ou da mãe, morra de morte; 7:11mas vocês
+dizem: Se um homem disser ao seu pai ou à sua mãe: Aquilo com que tu
+poderias ter sido beneficiado por mim é Corban, isto é, Dado a Deus;
+7:12vocês já não lhe permitem fazer coisa alguma pelo seu pai ou pela sua
+mãe; 7:13anulando a palavra de Deus pela tradição de vocês, que vocês
+transmitiram; e muitas coisas semelhantes vocês fazem. 7:14E chamou de novo
+a si a multidão, e disse-lhes: Ouçam-me todos vocês, e entendam: 7:15não há
+nada de fora do homem que, entrando nele, o possa contaminar; mas as coisas
+que procedem do homem são as que contaminam o homem. 7:17E, quando entrou na
+casa, vindo da multidão, os seus discípulos perguntaram-lhe a parábola.
+7:18E ele lhes diz: Também vocês estão tão sem entendimento? Não percebem
+vocês que tudo o que de fora entra no homem não o pode contaminar,
+7:19porque não entra no seu coração, mas no seu ventre, e sai para a
+latrina? Isto ele disse, tornando limpos todos os alimentos. 7:20E disse:
+Aquilo que procede do homem, isso contamina o homem. 7:21Porque de dentro,
+do coração dos homens, procedem maus pensamentos, fornicações, furtos,
+homicídios, adultérios, 7:22cobiças, maldades, engano, lascívia, um olho
+mau, maledicência, soberba, insensatez: 7:23todas estas coisas más procedem
+de dentro, e contaminam o homem. 7:24E dali se levantou, e partiu para os
+confins de Tiro e Sidom. E entrou numa casa, e não queria que homem algum o
+soubesse; e não pôde ficar oculto. 7:25Mas logo uma mulher, cuja filhinha
+tinha um espírito imundo, tendo ouvido falar dele, veio e caiu aos seus pés.
+7:26Ora, a mulher era grega, siro-fenícia de raça. E rogava-lhe que
+expulsasse o demônio para fora da sua filha. 7:27E ele lhe disse: Deixa
+primeiro que os filhos se fartem; porque não é próprio tomar o pão dos
+filhos e lançá-lo aos cães. 7:28Mas ela respondeu e lhe diz: Sim, Senhor;
+até os cães debaixo da mesa comem das migalhas dos filhos. 7:29E ele lhe
+disse: Por esta palavra, vai pelo teu caminho; o demônio saiu da tua filha.
+7:30E ela foi para a sua casa, e achou a criança deitada sobre o leito, e o
+demônio já saído. 7:31E de novo saiu dos confins de Tiro, e veio por Sidom
+até o mar da Galileia, pelo meio dos confins da Decápolis. 7:32E trazem-lhe
+um que era surdo e tinha um impedimento na fala; e rogam-lhe que ponha a sua
+mão sobre ele. 7:33E tomou-o à parte da multidão, em particular, e pôs os
+seus dedos nos ouvidos dele, e cuspiu, e tocou-lhe a língua; 7:34e, olhando
+para o céu, suspirou, e diz-lhe: Ephphatha, isto é, Abre-te. 7:35E os seus
+ouvidos se abriram, e se soltou o vínculo da sua língua, e falava
+claramente. 7:36E ordenou-lhes que a ninguém dissessem; mas, quanto mais
+lhes ordenava, tanto mais abundantemente o divulgavam. 7:37E estavam
+admirados além de toda medida, dizendo: Ele tem feito todas as coisas bem;
+faz até os surdos ouvir, e os mudos falar.
+
 
 8:1In those days, when there was again a great multitude, and they had
 nothing to eat, he called unto him his disciples, and saith unto them, 8:2I
@@ -530,6 +978,66 @@ exchange for his life? 8:38For whosoever shall be ashamed of me and of my
 words in this adulterous and sinful generation, the Son of man also shall be
 ashamed of him, when he cometh in the glory of his Father with the holy
 angels.
+
+8:1Naqueles dias, quando havia novamente uma grande multidão, e eles não
+tinham nada para comer, ele chamou a si os seus discípulos, e diz-lhes:
+8:2Tenho compaixão da multidão, porque continuam comigo já três dias, e não
+têm nada para comer: 8:3e, se eu os despedir em jejum para a sua casa,
+desfalecerão no caminho; e alguns deles são vindos de longe. 8:4E os seus
+discípulos lhe responderam: Donde poderá alguém fartar estes homens de pão,
+aqui num lugar deserto? 8:5E ele lhes perguntou: Quantos pães vocês têm? E
+eles disseram: Sete. 8:6E ele ordena à multidão que se assente no chão; e
+tomou os sete pães e, tendo dado graças, partiu, e deu aos seus discípulos,
+para que os pusessem diante deles; e eles os puseram diante da multidão.
+8:7E tinham uns poucos peixes pequenos; e, tendo-os abençoado, ordenou que
+também estes fossem postos diante deles. 8:8E comeram, e ficaram fartos; e
+recolheram, dos pedaços partidos que sobraram, sete cestos. 8:9E eram cerca
+de quatro mil; e ele os despediu. 8:10E logo entrou no barco com os seus
+discípulos, e veio às partes de Dalmanuta. 8:11E os fariseus vieram, e
+começaram a questionar com ele, buscando dele um sinal do céu, tentando-o.
+8:12E ele suspirou profundamente no seu espírito, e diz: Por que busca esta
+geração um sinal? Em verdade digo a vocês: Nenhum sinal será dado a esta
+geração. 8:13E ele os deixou e, entrando outra vez no barco, partiu para o
+outro lado. 8:14E esqueceram-se de levar pão; e não tinham no barco consigo
+mais do que um pão. 8:15E ele os advertiu, dizendo: Prestem atenção,
+guardem-se do fermento dos fariseus e do fermento de Herodes. 8:16E
+arrazoavam uns com os outros, dizendo: Não temos pão. 8:17E Jesus,
+percebendo isso, diz-lhes: Por que arrazoam vocês, porque não têm pão? Ainda
+não percebem, nem entendem? Têm o coração endurecido? 8:18Tendo olhos, não
+veem? e tendo ouvidos, não ouvem? e não se lembram? 8:19Quando parti os
+cinco pães entre os cinco mil, quantos cestos cheios de pedaços partidos
+recolheram vocês? Dizem-lhe: Doze. 8:20E quando os sete entre os quatro mil,
+quantas cestadas de pedaços partidos recolheram vocês? E dizem-lhe: Sete.
+8:21E disse-lhes: Ainda não entendem? 8:22E chegam a Betsaida. E trazem-lhe
+um cego, e rogam-lhe que o toque. 8:23E segurou o cego pela mão, e o levou
+para fora da aldeia; e, quando cuspiu nos olhos dele e pôs as mãos sobre
+ele, perguntou-lhe: Vês tu alguma coisa? 8:24E ele levantou o olhar, e
+disse: Vejo homens; pois os contemplo como árvores, andando. 8:25Então outra
+vez lhe pôs as mãos sobre os olhos; e ele olhou fixamente, e foi restaurado,
+e viu todas as coisas claramente. 8:26E despediu-o para a sua casa, dizendo:
+Não entres nem mesmo na aldeia. 8:27E Jesus saiu, e os seus discípulos, para
+as aldeias de Cesareia de Filipe; e no caminho perguntou aos seus
+discípulos, dizendo-lhes: Quem dizem os homens que eu sou? 8:28E eles lhe
+contaram, dizendo: João Batista; e outros, Elias; mas outros, Um dos
+profetas. 8:29E ele lhes perguntou: Mas quem dizem vocês que eu sou? Pedro
+responde e diz-lhe: Tu és o Cristo. 8:30E ele os advertiu de que não
+contassem a homem nenhum a respeito dele. 8:31E começou a ensinar-lhes que o
+Filho do homem deve sofrer muitas coisas, e ser rejeitado pelos anciãos, e
+pelos chefes dos sacerdotes, e pelos escribas, e ser morto, e depois de três
+dias ressurgir. 8:32E falou o dito abertamente. E Pedro tomou-o, e começou a
+repreendê-lo. 8:33Mas ele, voltando-se e vendo os seus discípulos,
+repreendeu Pedro, e diz: Põe-te atrás de mim, Satanás; porque não tens o
+pensamento nas coisas de Deus, mas nas coisas dos homens. 8:34E chamou a si
+a multidão com os seus discípulos, e disse-lhes: Se alguém quiser vir após
+mim, negue-se a si mesmo, e tome a sua cruz, e siga-me. 8:35Porque qualquer
+que quiser salvar a sua vida, perdê-la-á; e qualquer que perder a sua vida
+por minha causa e pela do evangelho, salvá-la-á. 8:36Pois de que aproveita a
+um homem ganhar o mundo inteiro e dar por perdida a sua vida? 8:37Pois que
+haveria um homem de dar em troca da sua vida? 8:38Porque qualquer que se
+envergonhar de mim e das minhas palavras nesta geração adúltera e pecadora,
+também o Filho do homem se envergonhará dele, quando vier na glória de seu
+Pai com os santos anjos.
+
 
 9:1And he said unto them, Verily I say unto you, There are some here of them
 that stand by, who shall in no wise taste of death, till they see the
@@ -612,6 +1120,84 @@ dieth not, and the fire is not quenched. 9:49For every one shall be salted
 with fire. 9:50Salt is good: but if the salt have lost its saltness,
 wherewith will ye season it? Have salt in yourselves, and be at peace one
 with another.
+
+9:1E disse-lhes: Em verdade digo a vocês: Há alguns aqui, dos circunstantes,
+que de modo nenhum provarão da morte, até que vejam o reino de Deus vir com
+poder. 9:2E, depois de seis dias, Jesus toma consigo Pedro, e Tiago, e João,
+e os leva a um alto monte, à parte, a sós; e foi transfigurado diante deles;
+9:3e as suas vestes tornaram-se cintilantes, brancas em excesso, de modo que
+nenhum pisoeiro sobre a terra as pode branquear. 9:4E apareceu-lhes Elias
+com Moisés; e falavam com Jesus. 9:5E Pedro responde e diz a Jesus: Rabi,
+bom é estarmos aqui; e façamos três tabernáculos: um para ti, e um para
+Moisés, e um para Elias. 9:6Porque não sabia o que responder; pois ficaram
+sobremaneira atemorizados. 9:7E veio uma nuvem que os sombreava; e veio uma
+voz da nuvem: Este é o meu Filho amado: ouçam-no. 9:8E, olhando subitamente
+em redor, não viram mais ninguém, senão Jesus somente com eles mesmos. 9:9E,
+enquanto desciam do monte, advertiu-os de que não contassem a homem nenhum
+as coisas que tinham visto, senão quando o Filho do homem houvesse
+ressurgido dentre os mortos. 9:10E guardaram o dito, questionando entre si o
+que haveria de significar o ressurgir dentre os mortos. 9:11E
+perguntaram-lhe, dizendo: Como é que os escribas dizem que Elias deve vir
+primeiro? 9:12E disse-lhes: Elias, na verdade, vem primeiro, e restaura
+todas as coisas; e como está escrito a respeito do Filho do homem, que ele
+havia de sofrer muitas coisas e ser reduzido a nada? 9:13Mas digo a vocês
+que Elias já veio, e também lhe fizeram tudo quanto quiseram, assim como
+está escrito a respeito dele. 9:14E, quando chegaram aos discípulos, viram
+uma grande multidão ao redor deles, e escribas questionando com eles. 9:15E
+logo toda a multidão, quando o viu, ficou grandemente assombrada e, correndo
+para ele, o saudou. 9:16E perguntou-lhes: O que questionam vocês com eles?
+9:17E um da multidão lhe respondeu: Mestre, trouxe a ti o meu filho, que tem
+um espírito mudo; 9:18e, onde quer que o tome, arroja-o por terra; e ele
+espuma, e range os dentes, e definha; e falei aos teus discípulos que o
+expulsassem; e eles não puderam. 9:19E ele lhes responde e diz: Ó geração
+sem fé, até quando estarei com vocês? Até quando hei de suportar vocês?
+Tragam-no a mim. 9:20E trouxeram-no a ele; e, quando ele o viu, logo o
+espírito o despedaçou gravemente; e caiu no chão, e revolvia-se espumando.
+9:21E perguntou ao pai dele: Há quanto tempo faz que isto lhe sobreveio? E
+ele disse: Desde menino. 9:22E muitas vezes o tem lançado tanto no fogo como
+nas águas, para o destruir; mas, se tu podes fazer alguma coisa, tem
+compaixão de nós e ajuda-nos. 9:23E Jesus lhe disse: Se tu podes! Todas as
+coisas são possíveis ao que crê. 9:24Logo o pai da criança clamou, e disse:
+Eu creio; ajuda tu a minha incredulidade. 9:25E, quando Jesus viu que uma
+multidão vinha correndo junta, repreendeu o espírito imundo, dizendo-lhe:
+Tu, espírito mudo e surdo, eu te ordeno: sai dele, e não entres mais nele.
+9:26E, tendo clamado e o tendo despedaçado muito, saiu; e o menino ficou
+como um morto; a tal ponto que a maior parte disse: Ele está morto. 9:27Mas
+Jesus tomou-o pela mão, e o levantou; e ele se levantou. 9:28E, quando
+entrou na casa, os seus discípulos lhe perguntaram em particular: Como é que
+nós não pudemos expulsá-lo? 9:29E disse-lhes: Esta espécie por nada pode
+sair, senão pela oração. 9:30E saíram dali, e passaram pela Galileia; e ele
+não queria que homem algum soubesse disso. 9:31Porque ensinava os seus
+discípulos, e disse-lhes: O Filho do homem é entregue nas mãos dos homens, e
+eles o matarão; e, quando ele for morto, depois de três dias ressurgirá.
+9:32Mas eles não entenderam o dito, e tiveram medo de lhe perguntar. 9:33E
+chegaram a Cafarnaum; e, estando ele na casa, perguntou-lhes: Que arrazoavam
+vocês no caminho? 9:34Mas guardaram silêncio; porque no caminho tinham
+disputado uns com os outros quem era o maior. 9:35E sentou-se, e chamou os
+doze; e diz-lhes: Se alguém quiser ser o primeiro, será o último de todos, e
+servo de todos. 9:36E tomou uma criancinha, e a pôs no meio deles; e,
+tomando-a nos braços, disse-lhes: 9:37Qualquer que receber uma destas tais
+criancinhas em meu nome, a mim recebe; e qualquer que recebe a mim, não
+recebe a mim, mas aquele que me enviou. 9:38João disse-lhe: Mestre, vimos um
+expulsando demônios em teu nome; e nós o proibimos, porque não nos seguia.
+9:39Mas Jesus disse: Não o proíbam; porque não há homem que faça uma obra
+poderosa em meu nome e possa logo falar mal de mim. 9:40Porque quem não é
+contra nós é por nós. 9:41Porque qualquer que der a vocês um copo de água
+para beber, porque vocês são de Cristo, em verdade digo a vocês: ele de modo
+nenhum perderá a sua recompensa. 9:42E qualquer que fizer tropeçar um destes
+pequeninos que creem em mim, melhor lhe fora se uma grande pedra de moinho
+lhe fosse pendurada ao pescoço, e ele fosse lançado no mar. 9:43E, se a tua
+mão te fizer tropeçar, corta-a; bom é para ti entrares na vida mutilado, em
+vez de, tendo as tuas duas mãos, ires para o inferno, para o fogo
+inextinguível. 9:45E, se o teu pé te fizer tropeçar, corta-o; bom é para ti
+entrares na vida coxo, em vez de, tendo os teus dois pés, seres lançado no
+inferno. 9:47E, se o teu olho te fizer tropeçar, lança-o fora; bom é para ti
+entrares no reino de Deus com um só olho, em vez de, tendo dois olhos, seres
+lançado no inferno; 9:48onde o verme deles não morre, e o fogo não se apaga.
+9:49Porque cada um será salgado com fogo. 9:50O sal é bom; mas, se o sal
+houver perdido a sua salinidade, com que vocês o hão de temperar? Tenham sal
+em vocês mesmos, e estejam em paz uns com os outros.
+
 
 10:1And he arose from thence, and cometh into the borders of Judæa and
 beyond the Jordan: and multitudes come together unto him again; and, as he
@@ -702,6 +1288,92 @@ blind man said unto him, Rabboni, that I may receive my sight. 10:52And
 Jesus said unto him, Go thy way; thy faith hath made thee whole. And
 straightway he received his sight, and followed him in the way.
 
+10:1E ele se levantou dali, e vem para os confins da Judeia e além do
+Jordão: e multidões vêm reunir-se a ele outra vez; e, como costumava, ele os
+ensinou outra vez. 10:2E vieram a ele fariseus, e perguntaram-lhe,
+tentando-o: É lícito a um homem repudiar a sua mulher? 10:3E ele respondeu e
+disse-lhes: Que ordenou Moisés a vocês? 10:4E eles disseram: Moisés permitiu
+escrever uma carta de divórcio, e repudiá-la. 10:5Mas Jesus disse-lhes: Por
+causa da dureza do coração de vocês ele escreveu para vocês este mandamento.
+10:6Mas desde o princípio da criação, Macho e fêmea os fez ele. 10:7Por esta
+causa deixará o homem o seu pai e a sua mãe, e se apegará à sua mulher;
+10:8e os dois se tornarão uma só carne: de sorte que já não são dois, mas
+uma só carne. 10:9O que, portanto, Deus ajuntou, não o separe o homem.
+10:10E em casa os discípulos perguntaram-lhe outra vez acerca deste assunto.
+10:11E ele lhes diz: Qualquer que repudiar a sua mulher, e casar com outra,
+comete adultério contra ela: 10:12e se ela mesma repudiar o seu marido, e
+casar com outro, ela comete adultério. 10:13E traziam a ele criancinhas,
+para que ele as tocasse: e os discípulos repreenderam-nos. 10:14Mas, quando
+Jesus viu isso, moveu-se de indignação, e disse-lhes: Deixem as criancinhas
+vir a mim; não as proíbam: porque a tais pertence o reino de Deus. 10:15Em
+verdade digo a vocês: Qualquer que não receber o reino de Deus como uma
+criancinha, de modo nenhum entrará nele. 10:16E ele as tomou nos braços, e
+as abençoou, pondo as suas mãos sobre elas. 10:17E, ao sair ele para o
+caminho, correu um até ele, e ajoelhou-se diante dele, e perguntou-lhe: Bom
+Mestre, que farei para herdar a vida eterna? 10:18E Jesus disse-lhe: Por que
+me chamas tu bom? ninguém é bom senão um só, a saber, Deus. 10:19Tu conheces
+os mandamentos: Não mates, Não cometas adultério, Não furtes, Não dês falso
+testemunho, Não defraudes, Honra teu pai e tua mãe. 10:20E ele disse-lhe:
+Mestre, todas estas coisas tenho observado desde a minha juventude. 10:21E
+Jesus, olhando para ele, o amou, e disse-lhe: Uma coisa te falta: vai, vende
+tudo quanto tens, e dá aos pobres, e terás tesouro no céu: e vem, segue-me.
+10:22Mas o seu semblante abateu-se com essa palavra, e ele retirou-se
+pesaroso: porque era um que tinha grandes posses. 10:23E Jesus olhou ao
+redor, e diz aos seus discípulos: Quão dificilmente entrarão no reino de
+Deus os que têm riquezas! 10:24E os discípulos ficaram admirados com as suas
+palavras. Mas Jesus responde outra vez, e diz-lhes: Filhos, quão difícil é
+para os que confiam nas riquezas entrar no reino de Deus! 10:25É mais fácil
+para um camelo passar pelo olho de uma agulha do que para um rico entrar no
+reino de Deus. 10:26E eles ficaram extremamente atônitos, dizendo-lhe:
+Então, quem pode ser salvo? 10:27Jesus, olhando para eles, diz: Com os
+homens é impossível, mas não com Deus: porque todas as coisas são possíveis
+com Deus. 10:28Pedro começou a dizer-lhe: Eis que nós deixamos tudo, e te
+seguimos. 10:29Jesus disse: Em verdade digo a vocês: Não há homem que tenha
+deixado casa, ou irmãos, ou irmãs, ou mãe, ou pai, ou filhos, ou terras, por
+amor de mim e por amor do evangelho, 10:30mas ele receberá o cêntuplo agora
+neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e terras, com
+perseguições; e no mundo vindouro a vida eterna. 10:31Mas muitos que são
+primeiros serão últimos; e os últimos, primeiros. 10:32E estavam no caminho,
+subindo a Jerusalém; e Jesus ia adiante deles: e eles estavam admirados; e
+os que seguiam estavam com medo. E ele tomou outra vez os doze, e começou a
+dizer-lhes as coisas que lhe haviam de acontecer, 10:33dizendo: Eis que
+subimos a Jerusalém; e o Filho do homem será entregue aos principais
+sacerdotes e aos escribas; e eles o condenarão à morte, e o entregarão aos
+gentios: 10:34e o escarnecerão, e cuspirão sobre ele, e o açoitarão, e o
+matarão; e depois de três dias ele se levantará outra vez. 10:35E
+aproximam-se dele Tiago e João, os filhos de Zebedeu, dizendo-lhe: Mestre,
+queremos que tu nos faças tudo quanto te pedirmos. 10:36E ele disse-lhes:
+Que querem vocês que eu faça por vocês? 10:37E eles disseram-lhe:
+Concede-nos que nos sentemos, um à tua mão direita, e um à tua mão esquerda,
+na tua glória. 10:38Mas Jesus disse-lhes: Vocês não sabem o que pedem. São
+vocês capazes de beber o cálice que eu bebo? ou de ser batizados com o
+batismo com que eu sou batizado? 10:39E eles disseram-lhe: Somos capazes. E
+Jesus disse-lhes: O cálice que eu bebo vocês beberão; e com o batismo com
+que eu sou batizado serão vocês batizados: 10:40mas o sentar-se à minha mão
+direita ou à minha mão esquerda não é meu para dar; mas é para aqueles para
+quem foi preparado. 10:41E, quando os dez ouviram isso, começaram a mover-se
+de indignação a respeito de Tiago e João. 10:42E Jesus chamou-os a si, e
+diz-lhes: Vocês sabem que os que são reputados governar sobre os gentios se
+assenhoreiam deles; e os seus grandes exercem autoridade sobre eles.
+10:43Mas não é assim entre vocês: mas qualquer que quiser tornar-se grande
+entre vocês será ministro de vocês; 10:44e qualquer que quiser ser o
+primeiro entre vocês será servo de todos. 10:45Porque também o Filho do
+homem não veio para ser ministrado, mas para ministrar, e para dar a sua
+vida em resgate por muitos. 10:46E chegam a Jericó: e, saindo ele de Jericó,
+com os seus discípulos e uma grande multidão, o filho de Timeu, Bartimeu, um
+mendigo cego, estava sentado à beira do caminho. 10:47E, quando ouviu que
+era Jesus, o Nazareno, começou a clamar, e a dizer: Jesus, tu, filho de
+Davi, tem misericórdia de mim. 10:48E muitos o repreenderam, para que se
+calasse: mas ele clamou ainda muito mais: Tu, filho de Davi, tem
+misericórdia de mim. 10:49E Jesus parou, e disse: Chamem-no vocês. E eles
+chamam o cego, dizendo-lhe: Tem bom ânimo: levanta-te, ele te chama. 10:50E
+ele, lançando fora a sua veste, saltou, e veio a Jesus. 10:51E Jesus
+respondeu-lhe, e disse: Que queres tu que eu te faça? E o cego disse-lhe:
+Rabboni, que eu receba a vista. 10:52E Jesus disse-lhe: Vai pelo teu
+caminho; a tua fé te fez são. E logo ele recebeu a vista, e o seguiu no
+caminho.
+
+
 11:1And when they draw nigh unto Jerusalem, unto Bethphage and Bethany, at
 the mount of Olives, he sendeth two of his disciples, 11:2and saith unto
 them, Go your way into the village that is over against you: and straightway
@@ -756,6 +1428,59 @@ ye not believe him? 11:32But should we say, From men—they feared the people:
 for all verily held John to be a prophet. 11:33And they answered Jesus and
 say, We know not. And Jesus saith unto them, Neither tell I you by what
 authority I do these things.
+
+11:1E, quando se aproximam de Jerusalém, de Betfagé e Betânia, junto ao
+monte das Oliveiras, ele envia dois dos seus discípulos, 11:2e diz-lhes: Vão
+pelo caminho de vocês à aldeia que está defronte de vocês: e logo, ao
+entrarem nela, vocês acharão um potro amarrado, sobre o qual nenhum homem
+ainda se sentou; soltem-no, e tragam-no. 11:3E, se alguém lhes disser: Por
+que fazem vocês isto? digam vocês: O Senhor tem necessidade dele; e logo ele
+o enviará de volta para cá. 11:4E eles foram, e acharam um potro amarrado à
+porta, do lado de fora, na rua aberta; e o soltam. 11:5E alguns dos que
+estavam ali lhes disseram: Que fazem vocês, soltando o potro? 11:6E eles
+lhes disseram assim como Jesus tinha dito: e eles os deixaram ir. 11:7E
+trazem o potro a Jesus, e lançam sobre ele as suas vestes; e ele sentou-se
+sobre ele. 11:8E muitos estenderam as suas vestes sobre o caminho; e outros,
+ramos, que tinham cortado dos campos. 11:9E os que iam adiante, e os que
+seguiam, clamaram: Hosanna; Abençoado é aquele que vem em nome do Senhor:
+11:10Abençoado é o reino que vem, o reino de nosso pai Davi: Hosanna nas
+alturas. 11:11E ele entrou em Jerusalém, no templo; e, quando tinha olhado
+ao redor sobre todas as coisas, sendo já o entardecer, saiu para Betânia com
+os doze. 11:12E no dia seguinte, quando tinham saído de Betânia, ele teve
+fome. 11:13E, vendo de longe uma figueira que tinha folhas, chegou-se, se
+porventura achasse nela alguma coisa: e, quando chegou a ela, nada achou
+senão folhas; porque não era a estação dos figos. 11:14E ele respondeu e
+disse a ela: Nenhum homem coma fruto de ti daqui em diante para sempre. E os
+seus discípulos ouviram isso. 11:15E chegam a Jerusalém: e ele entrou no
+templo, e começou a lançar fora os que vendiam e os que compravam no templo,
+e derrubou as mesas dos cambistas, e os assentos dos que vendiam as pombas;
+11:16e não consentia que homem algum levasse um vaso através do templo.
+11:17E ensinou, e disse-lhes: Não está escrito: A minha casa será chamada
+casa de oração para todas as nações? mas vocês a fizeram um covil de
+salteadores. 11:18E os principais sacerdotes e os escribas ouviram isso, e
+buscavam como o poderiam destruir: porque o temiam, porque toda a multidão
+estava atônita com o seu ensino. 11:19E cada tarde ele saía para fora da
+cidade. 11:20E, ao passarem pela manhã, viram a figueira seca desde as
+raízes. 11:21E Pedro, chamando à lembrança, diz-lhe: Rabbi, eis que a
+figueira que tu amaldiçoaste está seca. 11:22E Jesus, respondendo, diz-lhes:
+Tenham fé em Deus. 11:23Em verdade digo a vocês: Qualquer que disser a este
+monte: Sê tu levantado e lançado no mar; e não duvidar no seu coração, mas
+crer que o que ele diz se cumpre; ele o terá. 11:24Portanto digo a vocês:
+Todas as coisas, quaisquer que vocês orem e peçam, creiam que as recebem, e
+vocês as terão. 11:25E, sempre que vocês estiverem de pé orando, perdoem, se
+tiverem alguma coisa contra alguém; para que também o Pai de vocês, que está
+no céu, perdoe a vocês as suas transgressões. 11:27E vêm outra vez a
+Jerusalém: e, andando ele no templo, vêm a ele os principais sacerdotes, e
+os escribas, e os anciãos; 11:28e disseram-lhe: Com que autoridade fazes tu
+estas coisas? ou quem te deu esta autoridade para fazer estas coisas? 11:29E
+Jesus disse-lhes: Eu lhes farei uma pergunta, e respondam-me, e eu lhes
+direi com que autoridade faço estas coisas. 11:30O batismo de João, era do
+céu, ou dos homens? respondam-me. 11:31E arrazoavam consigo mesmos, dizendo:
+Se dissermos: Do céu; ele dirá: Por que, então, não creram nele? 11:32Mas,
+havemos de dizer: Dos homens—temiam o povo: porque todos em verdade tinham
+João por profeta. 11:33E responderam a Jesus e dizem: Não sabemos. E Jesus
+lhes diz: Nem eu lhes digo com que autoridade faço estas coisas.
+
 
 12:1And he began to speak unto them in parables. A man planted a vineyard,
 and set a hedge about it, and digged a pit for the winepress, and built a
@@ -833,6 +1558,80 @@ unto you, This poor widow cast in more than all they that are casting into
 the treasury: 12:44for they all did cast in of their superfluity; but she of
 her want did cast in all that she had, even all her living.
 
+12:1E ele começou a falar-lhes em parábolas. Um homem plantou uma vinha, e
+pôs uma sebe ao redor dela, e cavou um tanque para o lagar, e edificou uma
+torre, e arrendou-a a lavradores, e partiu para outro país. 12:2E, na
+estação, enviou aos lavradores um servo, para que recebesse dos lavradores
+dos frutos da vinha. 12:3E eles o tomaram, e o espancaram, e o mandaram
+embora vazio. 12:4E de novo lhes enviou outro servo; e a este feriram na
+cabeça, e o trataram vergonhosamente. 12:5E enviou outro; e a este mataram:
+e muitos outros; espancando alguns, e matando alguns. 12:6Ainda tinha um, um
+filho amado: enviou-o por último a eles, dizendo: Eles reverenciarão o meu
+filho. 12:7Mas aqueles lavradores disseram entre si: Este é o herdeiro;
+venham, matemo-lo, e a herança será nossa. 12:8E o tomaram, e o mataram, e o
+lançaram para fora da vinha. 12:9Que fará, pois, o senhor da vinha? ele virá
+e destruirá os lavradores, e dará a vinha a outros. 12:10Não leram vocês nem
+mesmo esta Escritura: A pedra que os edificadores rejeitaram, Essa mesma foi
+feita a cabeça da esquina; 12:11Isto foi do Senhor, E é maravilhoso aos
+nossos olhos? 12:12E procuravam lançar mão dele; e temiam a multidão; porque
+perceberam que ele falava a parábola contra eles: e o deixaram, e foram
+embora. 12:13E enviam-lhe alguns dos fariseus e dos herodianos, para que o
+apanhassem em conversa. 12:14E, quando chegaram, dizem-lhe: Mestre, sabemos
+que tu és verdadeiro, e não te importas com ninguém; porque tu não
+consideras a pessoa dos homens, mas verdadeiramente ensinas o caminho de
+Deus: É lícito dar tributo a César, ou não? 12:15Daremos, ou não daremos?
+Mas ele, conhecendo a hipocrisia deles, disse-lhes: Por que me põem vocês à
+prova? tragam-me um denário, para que eu o veja. 12:16E eles o trouxeram. E
+ele lhes diz: De quem é esta imagem e esta inscrição? E eles lhe disseram:
+De César. 12:17E Jesus disse-lhes: Entreguem a César as coisas que são de
+César, e a Deus as coisas que são de Deus. E maravilharam-se grandemente
+dele. 12:18E vêm a ele saduceus, que dizem que não há ressurreição; e
+perguntaram-lhe, dizendo: 12:19Mestre, Moisés nos escreveu: Se o irmão de um
+homem morrer, e deixar esposa após si, e não deixar filho, que o seu irmão
+tome a esposa dele, e suscite semente ao seu irmão. 12:20Havia sete irmãos:
+e o primeiro tomou esposa, e, morrendo, não deixou semente; 12:21e o segundo
+a tomou, e morreu, não deixando semente após si; e o terceiro igualmente:
+12:22e os sete não deixaram semente. Por último, a mulher também morreu.
+12:23Na ressurreição, de qual deles será ela esposa? porque os sete a
+tiveram por esposa. 12:24Jesus disse-lhes: Não é por esta causa que vocês
+erram, que vocês não conhecem as Escrituras, nem o poder de Deus?
+12:25Porque, quando se levantarem dentre os mortos, nem se casam, nem são
+dados em casamento; mas são como anjos no céu. 12:26Mas, quanto aos mortos,
+que eles são ressuscitados; não leram vocês no livro de Moisés, no lugar
+concernente à Sarça, como Deus lhe falou, dizendo: Eu sou o Deus de Abraão,
+e o Deus de Isaque, e o Deus de Jacó? 12:27Ele não é o Deus dos mortos, mas
+dos vivos: vocês erram grandemente. 12:28E um dos escribas veio, e ouviu-os
+questionando juntos, e, sabendo que ele lhes havia respondido bem,
+perguntou-lhe: Qual mandamento é o primeiro de todos? 12:29Jesus respondeu:
+O primeiro é: Ouve, ó Israel; O Senhor nosso Deus, o Senhor é um: 12:30e
+amarás o Senhor teu Deus com todo o teu coração, e com toda a tua alma, e
+com toda a tua mente, e com toda a tua força. 12:31O segundo é este: Amarás
+o teu próximo como a ti mesmo. Não há outro mandamento maior do que estes.
+12:32E o escriba disse-lhe: Verdadeiramente, Mestre, bem disseste que ele é
+um; e não há outro senão ele: 12:33e amá-lo com todo o coração, e com todo o
+entendimento, e com toda a força, e amar o seu próximo como a si mesmo, é
+muito mais do que todos os holocaustos inteiros e sacrifícios. 12:34E,
+quando Jesus viu que ele respondeu discretamente, disse-lhe: Tu não estás
+longe do reino de Deus. E nenhum homem, depois disso, ousou fazer-lhe
+pergunta alguma. 12:35E Jesus respondeu e disse, enquanto ensinava no
+templo: Como dizem os escribas que o Cristo é o filho de Davi? 12:36O
+próprio Davi disse no Espírito Santo: O Senhor disse ao meu Senhor:
+Assenta-te à minha mão direita, Até que eu faça dos teus inimigos o escabelo
+dos teus pés. 12:37O próprio Davi o chama Senhor; e donde é ele seu filho? E
+o povo comum o ouvia com alegria. 12:38E, no seu ensino, disse: Guardem-se
+dos escribas, que desejam andar em longas vestes, e ter saudações nos
+mercados, 12:39e os principais assentos nas sinagogas, e os principais
+lugares nos banquetes: 12:40eles que devoram as casas das viúvas, e por
+pretexto fazem longas orações; esses receberão maior condenação. 12:41E
+sentou-se defronte do tesouro, e observava como a multidão lançava dinheiro
+no tesouro: e muitos que eram ricos lançavam muito. 12:42E veio uma viúva
+pobre, e ela lançou duas moedinhas, que fazem um quadrante. 12:43E chamou a
+si os seus discípulos, e disse-lhes: Em verdade digo a vocês: Esta viúva
+pobre lançou mais do que todos os que estão lançando no tesouro: 12:44porque
+todos eles lançaram do seu supérfluo; mas ela, da sua carência, lançou tudo
+o que tinha, até todo o seu viver.
+
+
 13:1And as he went forth out of the temple, one of his disciples saith unto
 him, Teacher, behold, what manner of stones and what manner of buildings!
 13:2And Jesus said unto him, Seest thou these great buildings? there shall
@@ -892,6 +1691,65 @@ commanded also the porter to watch. 13:35Watch therefore: for ye know not
 when the lord of the house cometh, whether at even, or at midnight, or at
 cockcrowing, or in the morning; 13:36lest coming suddenly he find you
 sleeping. 13:37And what I say unto you I say unto all, Watch.
+
+13:1E, saindo ele para fora do templo, um dos seus discípulos diz-lhe:
+Mestre, eis, que espécie de pedras e que espécie de edifícios! 13:2E Jesus
+disse-lhe: Vês tu estes grandes edifícios? não será deixada aqui uma pedra
+sobre outra, que não seja derrubada. 13:3E, estando ele sentado no monte das
+Oliveiras, defronte do templo, Pedro e Tiago e João e André perguntaram-lhe
+em particular: 13:4Dize-nos, quando serão estas coisas? e qual será o sinal
+quando estas coisas estiverem todas prestes a serem cumpridas? 13:5E Jesus
+começou a dizer-lhes: Tomem cuidado para que nenhum homem os desvie.
+13:6Muitos virão em meu nome, dizendo: Eu sou ele; e desviarão a muitos.
+13:7E, quando vocês ouvirem de guerras e de rumores de guerras, não se
+perturbem: é forçoso que estas coisas sucedam; mas o fim ainda não é.
+13:8Porque nação se levantará contra nação, e reino contra reino; haverá
+terremotos em diversos lugares; haverá fomes: estas coisas são o princípio
+das dores de parto. 13:9Mas tomem cuidado por vocês mesmos: porque eles os
+entregarão aos conselhos; e nas sinagogas vocês serão espancados; e perante
+governadores e reis vocês estarão, por minha causa, para testemunho a eles.
+13:10E o evangelho deve primeiro ser pregado a todas as nações. 13:11E,
+quando os levarem a juízo, e os entregarem, não fiquem ansiosos de antemão
+sobre o que hão de falar: mas o que quer que lhes for dado naquela hora,
+isso falem; porque não são vocês que falam, mas o Espírito Santo. 13:12E o
+irmão entregará o irmão à morte, e o pai, o seu filho; e os filhos se
+levantarão contra os pais, e os farão ser mortos. 13:13E vocês serão odiados
+de todos os homens por causa do meu nome: mas aquele que suportar até o fim,
+esse será salvo. 13:14Mas, quando vocês virem a abominação da desolação de
+pé onde ele não deve (entenda aquele que lê), então os que estiverem na
+Judeia fujam para os montes: 13:15e o que estiver no eirado não desça, nem
+entre, para tirar alguma coisa da sua casa: 13:16e o que estiver no campo
+não volte atrás para tomar o seu manto. 13:17Mas ai das que estiverem
+grávidas e das que derem de mamar naqueles dias! 13:18E orem vocês para que
+não seja no inverno. 13:19Porque aqueles dias serão tribulação, tal como não
+houve semelhante desde o princípio da criação que Deus criou até agora, e
+nunca haverá. 13:20E, se o Senhor não tivesse abreviado os dias, nenhuma
+carne teria sido salva; mas, por causa dos eleitos, os quais ele escolheu,
+abreviou os dias. 13:21E então, se algum homem lhes disser: Eis, aqui está o
+Cristo; ou: Eis, ali; não creiam nisso: 13:22porque surgirão falsos Cristos
+e falsos profetas, e mostrarão sinais e maravilhas, para que desviem, se
+possível, os eleitos. 13:23Mas tomem cuidado: eis, eu lhes disse todas as
+coisas de antemão. 13:24Mas naqueles dias, depois daquela tribulação, o sol
+se escurecerá, e a lua não dará a sua luz, 13:25e as estrelas estarão caindo
+do céu, e os poderes que estão nos céus serão abalados. 13:26E então eles
+verão o Filho do homem vindo em nuvens com grande poder e glória. 13:27E
+então ele enviará os anjos, e reunirá os seus eleitos dos quatro ventos, da
+extremidade da terra até a extremidade do céu. 13:28Agora, da figueira
+aprendam a parábola dela: quando o seu ramo já se tornou tenro, e lança as
+suas folhas, vocês sabem que o verão está próximo; 13:29assim também vocês,
+quando virem estas coisas suceder, saibam que ele está próximo, mesmo às
+portas. 13:30Em verdade digo a vocês: Esta geração não passará, até que
+todas estas coisas sejam cumpridas. 13:31O céu e a terra passarão: mas as
+minhas palavras não passarão. 13:32Mas, daquele dia ou daquela hora, ninguém
+sabe, nem mesmo os anjos no céu, nem o Filho, senão o Pai. 13:33Tomem
+cuidado, vigiem e orem: porque vocês não sabem quando é o tempo. 13:34É como
+quando um homem, peregrinando em outro país, tendo deixado a sua casa, e
+dado autoridade aos seus servos, a cada um o seu trabalho, ordenou também ao
+porteiro que vigiasse. 13:35Vigiem, pois: porque vocês não sabem quando vem
+o senhor da casa, se ao anoitecer, ou à meia-noite, ou ao cantar do galo, ou
+pela manhã; 13:36para que, vindo de repente, não os encontre dormindo.
+13:37E o que digo a vocês digo a todos: Vigiem.
+
 
 14:1Now after two days was the feast of the passover and the unleavened
 bread: and the chief priests and the scribes sought how they might take him
@@ -1010,6 +1868,118 @@ cock crew. And Peter called to mind the word, how that Jesus said unto him,
 Before the cock crow twice, thou shalt deny me thrice. And when he thought
 thereon, he wept.
 
+14:1Ora, depois de dois dias era a festa da Páscoa e dos pães asmos; e os
+principais sacerdotes e os escribas buscavam como o poderiam prender com
+astúcia, e matá-lo: 14:2pois diziam: Não durante a festa, para que não haja
+porventura um tumulto do povo. 14:3E, estando ele em Betânia, na casa de
+Simão, o leproso, sentado a comer, veio uma mulher que trazia um vaso de
+alabastro de unguento de nardo puro, muito custoso; e ela quebrou o vaso e o
+derramou sobre a cabeça dele. 14:4Mas havia alguns que se indignaram entre
+si, dizendo: Para que fim foi feito este desperdício do unguento? 14:5Porque
+este unguento poderia ter sido vendido por mais de trezentos xelins, e dado
+aos pobres. E murmuravam contra ela. 14:6Mas Jesus disse: Deixem-na; por que
+vocês a perturbam? Ela praticou uma boa obra em mim. 14:7Porque vocês têm os
+pobres sempre consigo, e, sempre que quiserem, podem fazer-lhes o bem; mas a
+mim vocês não têm sempre. 14:8Ela fez o que pôde; ungiu de antemão o meu
+corpo para o sepultamento. 14:9E em verdade digo a vocês: Onde quer que o
+evangelho for pregado por todo o mundo inteiro, também o que esta mulher fez
+será falado para memória dela. 14:10E Judas Iscariotes, aquele que era um
+dos doze, foi-se aos principais sacerdotes, para o entregar a eles. 14:11E
+eles, quando ouviram isso, alegraram-se e prometeram dar-lhe dinheiro. E ele
+buscava como o poderia entregar convenientemente a eles. 14:12E, no primeiro
+dia dos pães asmos, quando sacrificavam a Páscoa, os discípulos dele
+dizem-lhe: Onde queres tu que vamos e preparemos, para que tu comas a
+Páscoa? 14:13E ele envia dois dos seus discípulos e diz-lhes: Vão à cidade,
+e sairá ao encontro de vocês um homem carregando um cântaro de água;
+sigam-no; 14:14e, onde quer que ele entrar, digam ao senhor da casa: O
+Mestre diz: Onde está o meu aposento de hóspedes, onde comerei a Páscoa com
+os meus discípulos? 14:15E ele mesmo mostrará a vocês uma grande sala
+superior, mobiliada e pronta; e ali preparem para nós. 14:16E os discípulos
+saíram, e foram à cidade, e acharam como ele lhes tinha dito; e prepararam a
+Páscoa. 14:17E, quando era tarde, ele vem com os doze. 14:18E, estando eles
+sentados e comendo, Jesus disse: Em verdade digo a vocês: Um de vocês me
+trairá, aquele mesmo que come comigo. 14:19Eles começaram a entristecer-se e
+a dizer-lhe, um por um: Sou eu? 14:20E ele disse-lhes: É um dos doze, aquele
+que molha comigo no prato. 14:21Porque o Filho do homem vai, assim como está
+escrito a respeito dele; mas ai daquele homem por meio de quem o Filho do
+homem é traído! Bom seria para aquele homem se ele não tivesse nascido.
+14:22E, enquanto comiam, ele tomou pão e, tendo abençoado, partiu-o, e
+deu-lhes, e disse: Tomem: isto é o meu corpo. 14:23E tomou um cálice e,
+tendo dado graças, deu-lhes; e todos beberam dele. 14:24E disse-lhes: Isto é
+o meu sangue da aliança, o qual é derramado por muitos. 14:25Em verdade digo
+a vocês: Não beberei mais do fruto da videira, até aquele dia em que o
+beberei novo no reino de Deus. 14:26E, tendo cantado um hino, saíram para o
+monte das Oliveiras. 14:27E Jesus diz-lhes: Todos vocês serão
+escandalizados; porque está escrito: Ferirei o pastor, e as ovelhas serão
+dispersas para longe. 14:28Contudo, depois que eu for ressuscitado, irei
+adiante de vocês para a Galileia. 14:29Mas Pedro disse-lhe: Ainda que todos
+sejam escandalizados, eu, porém, não serei. 14:30E Jesus diz-lhe: Em verdade
+te digo que tu hoje, nesta mesma noite, antes que o galo cante duas vezes,
+me negarás três vezes. 14:31Mas ele falou com extrema veemência: Se me for
+necessário morrer contigo, não te negarei. E de igual modo também disseram
+todos. 14:32E chegam a um lugar que se chamava Getsêmani; e ele diz aos seus
+discípulos: Sentem-se aqui, enquanto eu oro. 14:33E toma consigo Pedro,
+Tiago e João, e começou a ficar grandemente espantado e mui angustiado.
+14:34E diz-lhes: A minha alma está sobremaneira triste, até a morte;
+permaneçam aqui e vigiem. 14:35E, adiantando-se um pouco, caiu por terra e
+orou para que, se fosse possível, a hora passasse dele. 14:36E disse: Abba,
+Pai, todas as coisas te são possíveis; afasta de mim este cálice; contudo,
+não o que eu quero, mas o que tu queres. 14:37E vem, e acha-os dormindo, e
+diz a Pedro: Simão, tu dormes? Não pudeste tu vigiar uma hora? 14:38Vigiem e
+orem, para que vocês não entrem em tentação; o espírito, na verdade, está
+disposto, mas a carne é fraca. 14:39E outra vez se afastou e orou, dizendo
+as mesmas palavras. 14:40E outra vez veio e achou-os dormindo, porque os
+olhos deles estavam muito pesados; e não sabiam o que lhe responder. 14:41E
+vem pela terceira vez e diz-lhes: Durmam agora e tomem o seu descanso; é o
+bastante; a hora é chegada; eis que o Filho do homem é traído nas mãos dos
+pecadores. 14:42Levantem-se, vamos; eis que aquele que me trai está próximo.
+14:43E imediatamente, enquanto ele ainda falava, vem Judas, um dos doze, e
+com ele uma multidão com espadas e bastões, da parte dos principais
+sacerdotes, dos escribas e dos anciãos. 14:44Ora, aquele que o traiu lhes
+tinha dado um sinal, dizendo: Aquele a quem eu beijar, esse é ele;
+prendam-no e levem-no em segurança. 14:45E, tendo ele chegado, imediatamente
+aproximou-se dele e diz: Rabbi; e o beijou. 14:46E lançaram as mãos sobre
+ele e o prenderam. 14:47Mas um certo dos que estavam ali puxou a espada,
+feriu o servo do sumo sacerdote e decepou-lhe a orelha. 14:48E Jesus
+respondeu e disse-lhes: Vocês saíram, como contra um salteador, com espadas
+e bastões, para me prender? 14:49Eu estava diariamente com vocês no templo,
+ensinando, e vocês não me prenderam; mas isto é feito para que as Escrituras
+se cumpram. 14:50E todos o deixaram e fugiram. 14:51E um certo jovem seguia
+com ele, tendo um pano de linho lançado em volta de si, por cima do corpo
+nu; e lançam mão dele; 14:52mas ele deixou o pano de linho e fugiu nu.
+14:53E levaram Jesus ao sumo sacerdote; e reúnem-se com ele todos os
+principais sacerdotes, os anciãos e os escribas. 14:54E Pedro o tinha
+seguido de longe, até dentro, ao pátio do sumo sacerdote; e estava sentado
+com os oficiais, aquecendo-se à luz do fogo. 14:55Ora, os principais
+sacerdotes e todo o conselho buscavam testemunho contra Jesus para o matar;
+e não o achavam. 14:56Porque muitos davam falso testemunho contra ele, e o
+testemunho deles não concordava entre si. 14:57E levantaram-se alguns e
+deram falso testemunho contra ele, dizendo: 14:58Nós o ouvimos dizer:
+Destruirei este templo que é feito por mãos, e em três dias edificarei
+outro, feito sem mãos. 14:59E nem mesmo assim o testemunho deles concordava
+entre si. 14:60E o sumo sacerdote levantou-se no meio e perguntou a Jesus,
+dizendo: Nada respondes tu? Que é isso que estes testemunham contra ti?
+14:61Mas ele guardou silêncio e nada respondeu. Outra vez o sumo sacerdote
+lhe perguntou e diz-lhe: És tu o Cristo, o Filho do Bendito? 14:62E Jesus
+disse: Eu sou; e vocês verão o Filho do homem sentado à mão direita do Poder
+e vindo com as nuvens do céu. 14:63E o sumo sacerdote rasgou as suas vestes
+e diz: Que necessidade temos ainda de testemunhas? 14:64Vocês ouviram a
+blasfêmia: que pensam vocês? E todos o condenaram a ser digno de morte.
+14:65E alguns começaram a cuspir nele, a cobrir-lhe o rosto, a esbofeteá-lo
+e a dizer-lhe: Profetiza; e os oficiais o receberam com golpes das suas
+mãos. 14:66E, estando Pedro embaixo, no pátio, vem uma das criadas do sumo
+sacerdote; 14:67e, vendo Pedro que se aquecia, olhou para ele e diz: Tu
+também estavas com o Nazareno, isto é, Jesus. 14:68Mas ele negou, dizendo:
+Nem sei nem entendo o que tu dizes; e saiu para o pórtico; e o galo cantou.
+14:69E a criada o viu e começou outra vez a dizer aos que estavam ali: Este
+é um deles. 14:70Mas ele outra vez o negou. E, depois de um pouco, outra vez
+os que estavam ali disseram a Pedro: Na verdade tu és um deles, porque tu és
+galileu. 14:71Mas ele começou a amaldiçoar e a jurar: Não conheço este homem
+de quem vocês falam. 14:72E imediatamente, pela segunda vez, o galo cantou.
+E Pedro lembrou-se da palavra, de como Jesus lhe dissera: Antes que o galo
+cante duas vezes, tu me negarás três vezes. E, quando pensou nisso, chorou.
+
+
 15:1And straightway in the morning the chief priests with the elders and
 scribes, and the whole council, held a consultation, and bound Jesus, and
 carried him away, and delivered him up to Pilate. 15:2And Pilate asked him,
@@ -1079,6 +2049,74 @@ the linen cloth, and laid him in a tomb which had been hewn out of a rock;
 and he rolled a stone against the door of the tomb. 15:47And Mary Magdalene
 and Mary the mother of Joses beheld where he was laid.
 
+15:1E imediatamente, de manhã, os principais sacerdotes, com os anciãos e os
+escribas, e todo o conselho, tiveram uma consulta, e amarraram Jesus, e o
+levaram embora, e o entregaram a Pilatos. 15:2E Pilatos perguntou-lhe: És tu
+o Rei dos judeus? E ele, respondendo, diz-lhe: Tu o dizes. 15:3E os
+principais sacerdotes o acusaram de muitas coisas. 15:4E Pilatos de novo lhe
+perguntou, dizendo: Nada respondes? eis de quantas coisas te acusam. 15:5Mas
+Jesus não respondeu mais coisa alguma; de tal modo que Pilatos se
+maravilhou. 15:6Ora, na festa, ele costumava soltar-lhes um prisioneiro,
+aquele que eles lhe pediam. 15:7E havia um chamado Barrabás, que jazia
+amarrado com os que tinham feito insurreição, homens que na insurreição
+tinham cometido assassinato. 15:8E a multidão subiu e começou a pedir-lhe
+que fizesse como ele costumava fazer-lhes. 15:9E Pilatos respondeu-lhes,
+dizendo: Querem vocês que eu solte a vocês o Rei dos judeus? 15:10Porque ele
+percebeu que por inveja os principais sacerdotes o tinham entregado.
+15:11Mas os principais sacerdotes instigaram a multidão, para que ele antes
+lhes soltasse Barrabás. 15:12E Pilatos de novo respondeu e disse-lhes: Que
+farei, então, àquele a quem vocês chamam o Rei dos judeus? 15:13E eles
+clamaram outra vez: Crucifica-o. 15:14E Pilatos disse-lhes: Por quê, que mal
+fez ele? Mas eles clamaram sobremaneira: Crucifica-o. 15:15E Pilatos,
+desejando contentar a multidão, soltou-lhes Barrabás, e entregou Jesus,
+havendo-o açoitado, para ser crucificado. 15:16E os soldados o levaram para
+dentro do pátio, que é o Prætorium; e convocam toda a coorte. 15:17E
+vestem-no de púrpura e, entrançando uma coroa de espinhos, põem-na sobre
+ele; 15:18e começaram a saudá-lo: Salve, Rei dos judeus! 15:19E feriram-lhe
+a cabeça com um caniço, e cuspiram sobre ele, e, dobrando os joelhos,
+adoraram-no. 15:20E, quando o tinham escarnecido, tiraram dele a púrpura e
+puseram-lhe as suas vestes. E levam-no para fora, para o crucificar. 15:21E
+obrigam um que passava, Simão de Cirene, que vinha do campo, o pai de
+Alexandre e de Rufo, a ir com eles, para que levasse a cruz dele. 15:22E
+levam-no ao lugar Gólgota, que é, sendo interpretado, O lugar de uma
+caveira. 15:23E ofereceram-lhe vinho misturado com mirra; mas ele não o
+recebeu. 15:24E crucificam-no, e repartem as vestes dele entre si, lançando
+sortes sobre elas, o que cada um havia de tomar. 15:25E era a hora terceira,
+e o crucificaram. 15:26E o sobrescrito da acusação dele estava escrito por
+cima: O REI DOS JUDEUS. 15:27E com ele crucificam dois salteadores; um à sua
+mão direita, e um à sua esquerda. 15:29E os que passavam o injuriavam,
+meneando as cabeças e dizendo: Ha! tu que destróis o templo e o edificas em
+três dias, 15:30salva-te, e desce da cruz. 15:31De igual modo também os
+principais sacerdotes, escarnecendo dele entre si com os escribas, disseram:
+Ele salvou a outros; a si mesmo não pode salvar. 15:32Que o Cristo, o Rei de
+Israel, desça agora da cruz, para que vejamos e creiamos. E os que estavam
+crucificados com ele o censuravam. 15:33E, quando chegou a hora sexta, houve
+trevas sobre toda a terra até a hora nona. 15:34E à hora nona Jesus clamou
+com grande voz: Eloi, Eloi, lama sabachthani? que é, sendo interpretado, Meu
+Deus, meu Deus, por que tu me desamparaste? 15:35E alguns dos que estavam
+ali, quando ouviram isto, disseram: Eis, ele chama Elias. 15:36E um correu
+e, enchendo uma esponja cheia de vinagre, pô-la num caniço e deu-lhe de
+beber, dizendo: Deixem estar; vejamos se Elias vem para tirá-lo. 15:37E
+Jesus soltou uma grande voz, e entregou o espírito. 15:38E o véu do templo
+rasgou-se em dois, de cima até embaixo. 15:39E, quando o centurião, que
+estava ali defronte dele, viu que ele assim entregou o espírito, disse:
+Verdadeiramente este homem era o Filho de Deus. 15:40E havia também mulheres
+que contemplavam de longe: entre as quais estavam tanto Maria Madalena como
+Maria, a mãe de Tiago, o menor, e de Joses, e Salomé; 15:41as quais, quando
+ele estava na Galileia, o seguiam e o serviam; e muitas outras mulheres que
+subiram com ele a Jerusalém. 15:42E, sendo já chegada a tarde, porque era a
+Preparação, isto é, o dia antes do sábado, 15:43veio José de Arimateia,
+conselheiro de honrada condição, que também ele mesmo aguardava o reino de
+Deus; e entrou ousadamente até Pilatos, e pediu o corpo de Jesus. 15:44E
+Pilatos maravilhou-se de que ele já estivesse morto; e, chamando a si o
+centurião, perguntou-lhe se já havia algum tempo que estava morto. 15:45E,
+quando o soube pelo centurião, concedeu o cadáver a José. 15:46E comprou um
+pano de linho e, tirando-o, envolveu-o no pano de linho, e o pôs num túmulo
+que tinha sido escavado numa rocha; e rolou uma pedra contra a porta do
+túmulo. 15:47E Maria Madalena e Maria, a mãe de Joses, contemplaram onde ele
+fora posto.
+
+
 16:1And when the sabbath was past, Mary Magdalene, and Mary the mother of
 James, and Salome, bought spices, that they might come and anoint him.
 16:2And very early on the first day of the week, they come to the tomb when
@@ -1113,3 +2151,37 @@ after he had spoken unto them, was received up into heaven, and sat down at
 the right hand of God. 16:20And they went forth, and preached everywhere,
 the Lord working with them, and confirming the word by the signs that
 followed. Amen.
+
+16:1E, passado o sábado, Maria Madalena, e Maria, a mãe de Tiago, e Salomé
+compraram especiarias, para que viessem e o ungissem. 16:2E, muito cedo, no
+primeiro dia da semana, elas vêm ao túmulo, quando o sol já havia nascido.
+16:3E diziam entre si: Quem nos afastará a pedra da porta do túmulo? 16:4e,
+erguendo os olhos, veem que a pedra está rolada para trás; pois era
+extremamente grande. 16:5E, entrando no túmulo, viram um jovem sentado ao
+lado direito, trajado numa veste branca; e ficaram espantadas. 16:6E ele
+diz-lhes: Não se espantem: vocês buscam Jesus, o Nazareno, que foi
+crucificado; ele ressuscitou; não está aqui; eis o lugar onde o puseram!
+16:7Mas vão, digam aos discípulos dele e a Pedro: Ele vai adiante de vocês
+para a Galileia; ali vocês o verão, como ele disse a vocês. 16:8E saíram, e
+fugiram do túmulo; pois tremor e assombro tinham vindo sobre elas; e nada
+disseram a ninguém, porque estavam com medo. 16:9Ora, quando ele
+ressuscitou, cedo no primeiro dia da semana, apareceu primeiramente a Maria
+Madalena, da qual tinha expulsado sete demônios. 16:10Ela foi e contou aos
+que tinham estado com ele, enquanto eles pranteavam e choravam. 16:11E eles,
+quando ouviram que ele estava vivo e que tinha sido visto por ela, não
+creram. 16:12E, depois destas coisas, foi manifestado em outra forma a dois
+deles, enquanto caminhavam, a caminho do campo. 16:13E eles foram e o
+contaram aos demais; tampouco lhes creram. 16:14E, depois, foi manifestado
+aos próprios onze, enquanto estavam sentados à refeição; e censurou-os pela
+incredulidade e dureza de coração deles, porque não creram naqueles que o
+tinham visto depois que ele ressuscitou. 16:15E disse-lhes: Vão vocês por
+todo o mundo, e preguem o evangelho a toda a criação. 16:16Aquele que crê e
+é batizado será salvo; mas aquele que descrê será condenado. 16:17E estes
+sinais acompanharão os que creem: em meu nome expulsarão demônios; falarão
+com novas línguas; 16:18tomarão serpentes, e, se beberem alguma coisa
+mortífera, de modo nenhum lhes fará mal; porão as mãos sobre os enfermos, e
+eles sararão. 16:19Assim, pois, o Senhor Jesus, depois de lhes ter falado,
+foi recebido acima no céu, e sentou-se à mão direita de Deus. 16:20E saíram,
+e pregaram por toda parte, operando o Senhor com eles e confirmando a
+palavra pelos sinais que se seguiam. Amém.
+

@@ -1,8 +1,13 @@
 # Tiago
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Carta em nome de Tiago, servo de Deus e do Senhor Jesus Cristo. A data oscila entre o fim do século I e o início do II. Uma minoria a põe ainda em vida de Tiago, irmão do Senhor, morto em 62. Não há segunda recensão. O texto fala de Jesus como Senhor e juiz, e discute a fé e as obras em termos que depois foram lidos ao lado de Paulo.
 
 ## American Standard Version
+
+Versão Padrão Americana
+
 
 Texto inglês da American Standard Version (1901), domínio público. Traduz o texto grego crítico do fim do século XIX, na linha de Westcott e Hort. Não é um autógrafo do século I.
 
@@ -49,6 +54,49 @@ religion and undefiled before our God and Father is this, to visit the
 fatherless and widows in their affliction, and to keep oneself unspotted
 from the world.
 
+1:1Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que são da
+Dispersão, saudação. 1:2Tenham isso por toda alegria, meus irmãos, quando
+vocês caírem em múltiplas tentações; 1:3sabendo que a provação da fé de
+vocês opera a paciência. 1:4E que a paciência tenha a sua obra perfeita,
+para que vocês sejam perfeitos e íntegros, sem falta em coisa alguma.
+1:5Mas, se algum de vocês carece de sabedoria, peça-a a Deus, que a todos dá
+liberalmente e não censura; e ser-lhe-á dada. 1:6Peça, porém, com fé, nada
+duvidando; porque aquele que duvida é como o vagalhão do mar, impelido pelo
+vento e agitado. 1:7Pois não pense esse homem que receberá coisa alguma do
+Senhor; 1:8um homem de dupla mente, instável em todos os seus caminhos.
+1:9Mas glorie-se o irmão de baixa condição na sua alta condição; 1:10e o
+rico, em que é feito baixo; porque, como a flor da erva, passará. 1:11Porque
+o sol se levanta com o vento abrasador e murcha a erva; e a flor dela cai, e
+a graça da feição dela perece: assim também o homem rico se desvanecerá nos
+seus caminhos. 1:12Bem-aventurado é o homem que suporta a tentação; porque,
+quando tiver sido aprovado, receberá a coroa da vida, a qual o Senhor
+prometeu aos que o amam. 1:13Ninguém diga, quando é tentado: Sou tentado por
+Deus; porque Deus não pode ser tentado pelo mal, e ele mesmo a ninguém
+tenta; 1:14mas cada homem é tentado, quando é arrastado pela sua própria
+concupiscência, e seduzido. 1:15Então a concupiscência, havendo concebido,
+gera o pecado; e o pecado, quando está plenamente crescido, dá à luz a
+morte. 1:16Não se enganem, meus amados irmãos. 1:17Todo bom dom e todo dom
+perfeito é do alto, descendo do Pai das luzes, em quem não pode haver
+variação, nem sombra que é lançada pelo volver. 1:18Por sua própria vontade
+ele nos gerou pela palavra da verdade, para que fôssemos uma espécie de
+primícias das suas criaturas. 1:19Vocês sabem isto, meus amados irmãos. Mas
+seja todo homem pronto para ouvir, tardio para falar, tardio para a ira;
+1:20porque a ira do homem não opera a justiça de Deus. 1:21Portanto,
+deixando de lado toda imundície e transbordamento de maldade, recebam com
+mansidão a palavra implantada, a qual é capaz de salvar as almas de vocês.
+1:22Mas sejam fazedores da palavra, e não somente ouvintes, iludindo a si
+mesmos. 1:23Porque, se alguém é ouvinte da palavra e não fazedor, é
+semelhante a um homem que contempla a sua face natural num espelho;
+1:24porque ele se contempla, e vai-se embora, e logo esquece que sorte de
+homem era. 1:25Mas aquele que olha para dentro da lei perfeita, a lei da
+liberdade, e assim continua, não sendo ouvinte que esquece, mas fazedor que
+obra, esse homem será abençoado no seu fazer. 1:26Se alguém se julga
+religioso, enquanto não põe freio à sua língua, mas engana o seu coração, a
+religião desse homem é vã. 1:27Pura religião e incontaminada diante do nosso
+Deus e Pai é esta: visitar os órfãos e as viúvas na aflição deles, e
+guardar-se sem mancha do mundo.
+
+
 2:1My brethren, hold not the faith of our Lord Jesus Christ, the Lord of
 glory, with respect of persons. 2:2For if there come into your synagogue a
 man with a gold ring, in fine clothing, and there come in also a poor man in
@@ -89,6 +137,48 @@ justified by works, in that she received the messengers, and sent them out
 another way? 2:26For as the body apart from the spirit is dead, even so
 faith apart from works is dead.
 
+2:1Meus irmãos, não guardem a fé de nosso Senhor Jesus Cristo, o Senhor da
+glória, com acepção de pessoas. 2:2Porque, se entrar na sinagoga de vocês um
+homem com anel de ouro, em traje fino, e entrar também um homem pobre em
+traje vil; 2:3e vocês tiverem consideração por aquele que veste o traje fino
+e disserem: Senta-te aqui num bom lugar; e disserem ao homem pobre: Fica tu
+aí em pé, ou senta-te debaixo do meu escabelo; 2:4não fazem vocês distinções
+entre si mesmos, e tornam-se juízes com maus pensamentos? 2:5Escutem, meus
+amados irmãos: não escolheu Deus os que são pobres quanto ao mundo para
+serem ricos em fé e herdeiros do reino que ele prometeu aos que o amam?
+2:6Mas vocês desonraram o homem pobre. Não oprimem os ricos a vocês, e eles
+mesmos não arrastam vocês perante os tribunais? 2:7Não blasfemam eles o nome
+honroso pelo qual vocês são chamados? 2:8Contudo, se vocês cumprirem a lei
+real, segundo a Escritura: Amarás o teu próximo como a ti mesmo, fazem bem:
+2:9mas, se fizerem acepção de pessoas, cometem pecado, sendo convencidos
+pela lei como transgressores. 2:10Porque qualquer que guardar a lei toda, e
+contudo tropeçar num só ponto, tornou-se culpado de todos. 2:11Porque aquele
+que disse: Não cometas adultério, disse também: Não mates. Ora, se tu não
+cometes adultério, mas matas, tu te tornaste transgressor da lei. 2:12Assim
+falem vocês, e assim façam, como homens que hão de ser julgados por uma lei
+de liberdade. 2:13Porque o juízo é sem misericórdia para aquele que não
+mostrou misericórdia: a misericórdia se gloria contra o juízo. 2:14Que
+proveito há, meus irmãos, se um homem disser que tem fé, mas não tiver
+obras? pode essa fé salvá-lo? 2:15Se um irmão ou uma irmã estiver nu e em
+falta do alimento diário, 2:16e um de vocês lhes disser: Vão em paz,
+aqueçam-se e saciem-se; e contudo vocês não lhes derem as coisas necessárias
+ao corpo, que proveito há? 2:17Assim também a fé, se não tiver obras, está
+morta em si mesma. 2:18Sim, um homem dirá: Tu tens fé, e eu tenho obras;
+mostra-me a tua fé à parte das tuas obras, e eu pelas minhas obras te
+mostrarei a minha fé. 2:19Tu crês que Deus é um; fazes bem: os demônios
+também creem e estremecem. 2:20Mas queres tu saber, ó homem vão, que a fé à
+parte das obras é estéril? 2:21Não foi Abraão, nosso pai, justificado pelas
+obras, por haver oferecido Isaque, seu filho, sobre o altar? 2:22Tu vês que
+a fé operou com as obras dele, e pelas obras a fé foi tornada perfeita;
+2:23e cumpriu-se a Escritura que diz: E Abraão creu em Deus, e isso lhe foi
+contado para justiça; e foi chamado amigo de Deus. 2:24Vocês veem que pelas
+obras um homem é justificado, e não somente pela fé. 2:25E de igual modo não
+foi também Raabe, a meretriz, justificada pelas obras, por haver recebido os
+mensageiros e os ter enviado por outro caminho? 2:26Porque, como o corpo à
+parte do espírito está morto, assim também a fé à parte das obras está
+morta.
+
+
 3:1Be not many of you teachers, my brethren, knowing that we shall receive
 heavier judgment. 3:2For in many things we all stumble. If any stumbleth not
 in word, the same is a perfect man, able to bridle the whole body also.
@@ -118,6 +208,37 @@ peaceable, gentle, easy to be entreated, full of mercy and good fruits,
 without variance, without hypocrisy. 3:18And the fruit of righteousness is
 sown in peace for them that make peace.
 
+3:1Não sejam muitos de vocês mestres, meus irmãos, sabendo que receberemos
+juízo mais pesado. 3:2Porque em muitas coisas todos nós tropeçamos. Se
+alguém não tropeça em palavra, esse é um homem perfeito, capaz de refrear
+também o corpo todo. 3:3Ora, se pomos os freios dos cavalos nas bocas deles,
+para que nos obedeçam, voltamos também o corpo todo deles. 3:4Eis que também
+os navios, embora sejam tão grandes e sejam impelidos por ventos ásperos,
+são contudo voltados por um leme muito pequeno, para onde quer o impulso do
+timoneiro. 3:5Assim também a língua é um pequeno membro, e se gaba de
+grandes coisas. Eis quanta lenha é acesa por quão pequeno fogo! 3:6E a
+língua é um fogo: o mundo da iniquidade entre os nossos membros é a língua,
+a qual contamina o corpo todo, e põe em fogo a roda da natureza, e é posta
+em fogo pelo inferno. 3:7Porque toda espécie de bestas e de aves, de seres
+rastejantes e de coisas do mar, é domada, e tem sido domada pelo gênero
+humano: 3:8mas a língua nenhum homem pode domar; é um mal irrequieto, está
+cheia de veneno mortífero. 3:9Com ela bendizemos o Senhor e Pai; e com ela
+amaldiçoamos os homens, que são feitos à semelhança de Deus: 3:10da mesma
+boca procede bênção e maldição. Meus irmãos, estas coisas não deviam ser
+assim. 3:11Porventura a fonte faz sair da mesma abertura água doce e amarga?
+3:12pode uma figueira, meus irmãos, produzir azeitonas, ou uma videira,
+figos? tampouco pode a água salgada produzir doce. 3:13Quem é sábio e
+entendido entre vocês? mostre pela sua boa vida as suas obras em mansidão de
+sabedoria. 3:14Mas, se vocês têm ciúme amargo e facção no coração, não se
+gloriem e não mintam contra a verdade. 3:15Esta sabedoria não é uma
+sabedoria que desce do alto, mas é terrena, sensual, diabólica. 3:16Porque
+onde há ciúme e facção, aí há confusão e toda obra vil. 3:17Mas a sabedoria
+que é do alto é primeiramente pura, depois pacífica, branda, fácil de se
+deixar rogar, cheia de misericórdia e de bons frutos, sem variação, sem
+hipocrisia. 3:18E o fruto da justiça é semeado em paz para os que fazem a
+paz.
+
+
 4:1Whence come wars and whence come fightings among you? come they not
 hence, even of your pleasures that war in your members? 4:2Ye lust, and have
 not: ye kill, and covet, and cannot obtain: ye fight and war; ye have not,
@@ -145,6 +266,35 @@ appeareth for a little time, and then vanisheth away. 4:15For that ye ought
 to say, If the Lord will, we shall both live, and do this or that. 4:16But
 now ye glory in your vauntings: all such glorying is evil. 4:17To him
 therefore that knoweth to do good, and doeth it not, to him it is sin.
+
+4:1Donde vêm as guerras e donde vêm as pelejas entre vocês? Não vêm daqui, a
+saber, dos prazeres de vocês que guerreiam nos membros de vocês? 4:2Vocês
+desejam, e não têm: vocês matam, e cobiçam, e não podem obter: vocês lutam e
+guerreiam; vocês não têm, porque não pedem. 4:3Vocês pedem, e não recebem,
+porque pedem mal, para gastá-lo nos prazeres de vocês. 4:4Adúlteras, não
+sabem vocês que a amizade do mundo é inimizade com Deus? Portanto, qualquer
+que queira ser amigo do mundo faz-se inimigo de Deus. 4:5Ou pensam vocês que
+a Escritura fala em vão? Porventura o espírito que ele fez habitar em nós
+anseia até a inveja? 4:6Mas ele dá maior graça. Pelo que a Escritura diz:
+Deus resiste aos soberbos, mas dá graça aos humildes. 4:7Sujeitem-se,
+portanto, a Deus; mas resistam ao diabo, e ele fugirá de vocês.
+4:8Aproximem-se de Deus, e ele se aproximará de vocês. Limpem as mãos,
+pecadores; e purifiquem os corações, vocês de duplo ânimo. 4:9Aflijam-se, e
+pranteiem, e chorem; converta-se o riso de vocês em pranto, e a alegria de
+vocês em pesadume. 4:10Humilhem-se à vista do Senhor, e ele exaltará vocês.
+4:11Não falem uns contra os outros, irmãos. Aquele que fala contra um irmão,
+ou julga o seu irmão, fala contra a lei e julga a lei; mas, se tu julgas a
+lei, tu não és praticante da lei, mas juiz. 4:12Um só é o legislador e juiz,
+aquele que pode salvar e destruir; mas quem és tu, que julgas o teu próximo?
+4:13Venham agora, vocês que dizem: Hoje ou amanhã iremos a esta cidade, e
+passaremos um ano ali, e comerciaremos, e obteremos ganho: 4:14ao passo que
+vocês não sabem o que será no dia de amanhã. Que é a vida de vocês? Pois
+vocês são um vapor que aparece por um pouco de tempo e depois se desvanece.
+4:15Em lugar disso, vocês deveriam dizer: Se o Senhor quiser, tanto
+viveremos como faremos isto ou aquilo. 4:16Mas agora vocês se gloriam nas
+jactâncias de vocês: todo gloriar-se tal é mau. 4:17Àquele, portanto, que
+sabe fazer o bem e não o faz, para ele isso é pecado.
+
 
 5:1Come now, ye rich, weep and howl for your miseries that are coming upon
 you. 5:2Your riches are corrupted, and your garments are moth-eaten. 5:3Your
@@ -181,3 +331,40 @@ heaven gave rain, and the earth brought forth her fruit. 5:19My brethren, if
 any among you err from the truth, and one convert him; 5:20let him know,
 that he who converteth a sinner from the error of his way shall save a soul
 from death, and shall cover a multitude of sins.
+
+5:1Venham agora, ricos, chorem e uivem pelas misérias de vocês que estão
+vindo sobre vocês. 5:2As riquezas de vocês estão corrompidas, e as vestes de
+vocês estão comidas de traça. 5:3O ouro de vocês e a prata de vocês estão
+enferrujados; e a ferrugem deles será para testemunho contra vocês, e comerá
+a carne de vocês como fogo. Vocês acumularam o tesouro de vocês nos últimos
+dias. 5:4Eis que o salário dos trabalhadores que segaram os campos de vocês,
+o qual da parte de vocês é retido por fraude, clama; e os clamores dos que
+colheram entraram nos ouvidos do Senhor de Sabaoth. 5:5Vocês viveram
+delicadamente sobre a terra e tomaram prazer; vocês nutriram os corações de
+vocês num dia de matança. 5:6Vocês condenaram, vocês mataram o justo; ele
+não resiste a vocês. 5:7Sejam, portanto, pacientes, irmãos, até a vinda do
+Senhor. Eis que o lavrador espera o precioso fruto da terra, sendo paciente
+sobre ele, até que receba a chuva temporã e a serôdia. 5:8Sejam também
+pacientes; firmem os corações de vocês: porque a vinda do Senhor está
+próxima. 5:9Não murmurem, irmãos, uns contra os outros, para que não sejam
+julgados; eis que o juiz está em pé diante das portas. 5:10Tomem, irmãos,
+para exemplo de sofrimento e de paciência, os profetas que falaram em nome
+do Senhor. 5:11Eis que chamamos bem-aventurados os que suportaram; vocês
+ouviram da paciência de Jó e viram o fim do Senhor, como o Senhor é cheio de
+piedade e misericordioso. 5:12Mas, acima de todas as coisas, meus irmãos,
+não jurem, nem pelo céu, nem pela terra, nem por qualquer outro juramento;
+mas seja o sim de vocês sim, e o não, não; para que não caiam sob juízo.
+5:13Está alguém entre vocês sofrendo? ore. Está alguém alegre? cante louvor.
+5:14Está alguém entre vocês enfermo? chame os anciãos da igreja; e orem eles
+sobre ele, ungindo-o com óleo em nome do Senhor: 5:15e a oração da fé
+salvará o que está enfermo, e o Senhor o levantará; e, se houver cometido
+pecados, isso lhe será perdoado. 5:16Confessem, portanto, os pecados de
+vocês uns aos outros, e orem uns pelos outros, para que sejam curados. A
+súplica de um homem justo vale muito em seu operar. 5:17Elias era um homem
+de paixões semelhantes às nossas, e orou fervorosamente para que não
+chovesse; e não choveu sobre a terra por três anos e seis meses. 5:18E orou
+outra vez; e o céu deu chuva, e a terra produziu o seu fruto. 5:19Meus
+irmãos, se algum entre vocês se desviar da verdade, e alguém o converter,
+5:20saiba que aquele que converte um pecador do erro do seu caminho salvará
+uma alma da morte e cobrirá uma multidão de pecados.
+

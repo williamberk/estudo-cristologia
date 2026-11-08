@@ -1,5 +1,7 @@
 # 2 Pedro
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 A carta canônica mais vezes situada no século II. A margem usual é 100–150, com muitos autores em torno de 120–130. Depende da carta de Judas. Em 3,15–16 chama as cartas de Paulo de escritura e diz que há nelas pontos difíceis, que alguns torcem.
 
 Não chegou uma segunda edição antiga, como chegou o evangelho de Marcião. Chegaram variantes de cópia. A que muda o sentido do fim do mundo está em 3,10.
@@ -16,11 +18,18 @@ O restante da carta tem um só texto grego, com diferenças menores. Não há pa
 
 ## American Standard Version
 
+Versão Padrão Americana
+
+
 Texto inglês da American Standard Version (1901), domínio público. É uma tradução do grego padrão do começo do século XX, não um manuscrito do século II.
 
 2 Peter
 
 2 Peter. The Second Epistle General of Peter
+
+2 Pedro
+2 Pedro. A Segunda Epístola Geral de Pedro
+
 
 1:1Simon Peter, a servant and apostle of
 Jesus Christ, to them that have obtained a like precious faith with us in the
@@ -60,6 +69,48 @@ shining in a dark place, until the day dawn, and the day-star arise in your
 hearts: 1:20knowing this first, that no prophecy of
 scripture is of private interpretation. 1:21For no prophecy ever came by the will
 of man: but men spake from God, being moved by the Holy Spirit.
+
+1:1Simão Pedro, um servo e apóstolo de Jesus Cristo, aos que obtiveram
+conosco uma fé igualmente preciosa na justiça do nosso Deus e do Salvador
+Jesus Cristo: 1:2Graça a vocês e paz sejam multiplicadas no conhecimento de
+Deus e de Jesus, nosso Senhor; 1:3visto que o seu poder divino nos concedeu
+todas as coisas que pertencem à vida e à piedade, pelo conhecimento daquele
+que nos chamou pela sua própria glória e virtude; 1:4pelas quais ele nos
+concedeu as suas preciosas e sobremaneira grandes promessas; para que, por
+meio destas, vocês se tornem participantes da natureza divina, havendo
+escapado da corrupção que está naquele mundo pela concupiscência. 1:5Sim, e
+por esta mesma causa, acrescentando da parte de vocês toda diligência, na fé
+de vocês supram a virtude; e na virtude de vocês, o conhecimento; 1:6e no
+conhecimento de vocês, o domínio próprio; e no domínio próprio de vocês, a
+paciência; e na paciência de vocês, a piedade; 1:7e na piedade de vocês, a
+bondade fraternal; e na bondade fraternal de vocês, o amor. 1:8Porque, se
+estas coisas são de vocês e abundam, elas fazem com que vocês não sejam
+ociosos nem infrutíferos para o conhecimento de nosso Senhor Jesus Cristo.
+1:9Porque aquele a quem faltam estas coisas é cego, vendo somente o que está
+perto, havendo esquecido a purificação dos seus antigos pecados. 1:10Por
+isso, irmãos, deem tanto mais diligência para tornar segura a vocação e a
+eleição de vocês: porque, se vocês fizerem estas coisas, jamais tropeçarão:
+1:11porque assim será ricamente suprida a vocês a entrada no reino eterno de
+nosso Senhor e Salvador Jesus Cristo. 1:12Por isso estarei sempre pronto a
+pôr vocês em lembrança destas coisas, embora vocês as conheçam e estejam
+estabelecidos na verdade que está com vocês. 1:13E julgo justo, enquanto
+estou neste tabernáculo, despertar vocês, pondo-os em lembrança; 1:14sabendo
+que a deposição do meu tabernáculo vem rapidamente, assim como nosso Senhor
+Jesus Cristo me significou. 1:15Sim, darei diligência para que em todo tempo
+vocês possam, depois do meu falecimento, chamar estas coisas à lembrança.
+1:16Porque não seguimos fábulas astuciosamente inventadas, quando lhes demos
+a conhecer o poder e a vinda de nosso Senhor Jesus Cristo, mas fomos
+testemunhas oculares da sua majestade. 1:17Porque ele recebeu de Deus, o
+Pai, honra e glória, quando lhe foi trazida tal voz pela Glória Majestosa,
+Este é o meu Filho amado, em quem me comprazo: 1:18e esta voz nós mesmos
+ouvimos trazida do céu, quando estávamos com ele no monte santo. 1:19E temos
+a palavra da profecia tornada mais segura; à qual vocês fazem bem em prestar
+atenção, como a uma lâmpada que brilha num lugar escuro, até que o dia
+amanheça, e a estrela do dia se levante nos corações de vocês: 1:20sabendo
+primeiramente isto, que nenhuma profecia da Escritura é de interpretação
+particular. 1:21Porque nenhuma profecia jamais veio pela vontade do homem:
+mas homens falaram da parte de Deus, sendo movidos pelo Espírito Santo.
+
 
 2:1But there arose false prophets also
 among the people, as among you also there shall be false teachers, who shall
@@ -109,6 +160,54 @@ holy commandment delivered unto them. 2:22It has happened unto them according to
 the true proverb, The dog turning to his own vomit again, and the sow that had
 washed to wallowing in the mire.
 
+2:1Mas levantaram-se também falsos profetas entre o povo, como também entre
+vocês haverá falsos mestres, os quais introduzirão ocultamente heresias
+destruidoras, negando até o Amo que os comprou, trazendo sobre si mesmos
+rápida destruição. 2:2E muitos seguirão as suas ações lascivas; por causa
+dos quais o caminho da verdade será malfalado. 2:3E em cobiça, com palavras
+fingidas, farão mercadoria de vocês: cuja sentença, desde a antiguidade,
+agora não se demora, e a destruição deles não dormita. 2:4Porque, se Deus
+não poupou anjos quando pecaram, mas lançou-os abaixo, ao inferno, e
+entregou-os a poços de trevas, para serem reservados para o juízo; 2:5e não
+poupou o mundo antigo, mas preservou Noé com sete outros, um pregador da
+justiça, quando trouxe um dilúvio sobre o mundo dos ímpios; 2:6e, reduzindo
+a cinzas as cidades de Sodoma e Gomorra, condenou-as com uma derrocada,
+havendo-as feito exemplo para os que haviam de viver impiamente; 2:7e livrou
+o justo Ló, sobremaneira atribulado pela vida lasciva dos perversos
+2:8(porque aquele homem justo, habitando entre eles, no ver e no ouvir,
+afligia de dia em dia a sua alma justa com os feitos sem lei deles): 2:9o
+Senhor sabe como livrar os piedosos da tentação, e guardar os injustos sob
+castigo até o dia do juízo; 2:10mas principalmente os que andam após a carne
+na concupiscência da contaminação, e desprezam o domínio. Atrevidos,
+voluntariosos, não tremem de injuriar as dignidades: 2:11ao passo que os
+anjos, embora maiores em força e poder, não trazem contra eles um juízo
+injurioso diante do Senhor. 2:12Mas estes, como criaturas sem razão,
+nascidos meros animais para serem apanhados e destruídos, injuriando em
+matérias de que são ignorantes, em sua destruição certamente serão
+destruídos, 2:13sofrendo injustiça como salário da malfeitoria; homens que
+reputam prazer folgar de dia, manchas e máculas, folgando nos seus enganos
+enquanto banqueteiam com vocês; 2:14tendo olhos cheios de adultério, e que
+não podem cessar do pecado; seduzindo almas inconstantes; tendo um coração
+exercitado na cobiça; filhos de maldição; 2:15abandonando o caminho reto,
+extraviaram-se, havendo seguido o caminho de Balaão, filho de Beor, o qual
+amou o salário da malfeitoria; 2:16mas foi repreendido pela sua própria
+transgressão: um asno mudo falou com voz de homem e deteve a loucura do
+profeta. 2:17Estes são fontes sem água, e névoas impelidas por uma
+tempestade; para os quais a negrura das trevas tem sido reservada.
+2:18Porque, proferindo grandes palavras infladas de vaidade, seduzem, nas
+concupiscências da carne, pela lascívia, os que estão apenas escapando dos
+que vivem no erro; 2:19prometendo-lhes liberdade, enquanto eles mesmos são
+escravos da corrupção; pois de quem um homem é vencido, desse mesmo também é
+reduzido à escravidão. 2:20Porque, se, depois de terem escapado das
+contaminações do mundo pelo conhecimento do Senhor e Salvador Jesus Cristo,
+são de novo enredados nelas e vencidos, o último estado se tornou pior com
+eles do que o primeiro. 2:21Porque melhor lhes fora não terem conhecido o
+caminho da justiça do que, depois de o conhecerem, voltarem atrás do santo
+mandamento que lhes foi entregue. 2:22Aconteceu-lhes segundo o provérbio
+verdadeiro, O cão tornando de novo ao seu próprio vômito, e a porca que se
+havia lavado, ao revolver-se no lamaçal.
+
+
 3:1This is now, beloved, the second epistle
 that I write unto you; and in both of them I stir up your sincere mind by
 putting you in remembrance; 3:2that ye should remember the words which
@@ -147,3 +246,43 @@ things beforehand, beware lest, being carried away with the error of the
 wicked, ye fall from your own stedfastness. 3:18But grow in the
 grace and knowledge of our Lord and Saviour Jesus Christ. To him be the
 glory both now and for ever. Amen.
+
+3:1Esta é agora, amados, a segunda epístola que eu escrevo a vocês; e em
+ambas desperto a mente sincera de vocês, pondo-os em lembrança; 3:2para que
+vocês se lembrem das palavras que foram ditas anteriormente pelos santos
+profetas, e dos mandamentos do Senhor e Salvador por meio dos apóstolos de
+vocês: 3:3sabendo primeiramente isto, que nos últimos dias escarnecedores
+virão com escárnio, andando após as suas próprias concupiscências, 3:4e
+dizendo: Onde está a promessa da sua vinda? porque, desde o dia em que os
+pais adormeceram, todas as coisas continuam como eram desde o princípio da
+criação. 3:5Porque isto eles esquecem voluntariamente, que havia céus desde
+a antiguidade, e uma terra compactada da água e em meio à água, pela palavra
+de Deus; 3:6por meio do qual o mundo que então era, sendo inundado com água,
+pereceu: 3:7mas os céus que agora são, e a terra, pela mesma palavra têm
+sido armazenados para o fogo, sendo reservados contra o dia do juízo e da
+destruição dos homens ímpios. 3:8Mas não esqueçam esta única coisa, amados,
+que um dia é, com o Senhor, como mil anos, e mil anos como um dia. 3:9O
+Senhor não é moroso acerca da sua promessa, como alguns reputam morosidade;
+mas é longânimo para com vocês, não desejando que algum pereça, mas que
+todos venham ao arrependimento. 3:10Mas o dia do Senhor virá como um ladrão;
+no qual os céus passarão com grande ruído, e os elementos se dissolverão com
+calor fervente, e a terra e as obras que nela estão serão queimadas.
+3:11Visto que estas coisas hão de ser assim todas dissolvidas, que sorte de
+pessoas devem vocês ser em todo viver santo e piedade, 3:12esperando e
+desejando ardentemente a vinda do dia de Deus, em razão do qual os céus,
+estando em fogo, se dissolverão, e os elementos se derreterão com calor
+fervente? 3:13Mas, segundo a sua promessa, esperamos novos céus e uma nova
+terra, em que habita a justiça. 3:14Por isso, amados, visto que vocês
+esperam estas coisas, deem diligência para que sejam achados em paz, sem
+mancha e irrepreensíveis à vista dele. 3:15E reputem que a longanimidade de
+nosso Senhor é salvação; assim como também o nosso amado irmão Paulo,
+segundo a sabedoria que lhe foi dada, escreveu a vocês; 3:16como também em
+todas as suas epístolas, falando nelas destas coisas; nas quais há algumas
+coisas difíceis de serem entendidas, as quais os ignorantes e inconstantes
+torcem, como também fazem com as outras Escrituras, para a sua própria
+destruição. 3:17Vocês, portanto, amados, sabendo de antemão estas coisas,
+acautelam-se para que, sendo arrebatados com o erro dos perversos, não caiam
+da sua própria firmeza. 3:18Mas cresçam na graça e no conhecimento de nosso
+Senhor e Salvador Jesus Cristo. A ele seja a glória, tanto agora como para
+sempre. Amém.
+

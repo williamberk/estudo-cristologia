@@ -1,10 +1,15 @@
 # Atos
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Composto em grego por volta de 80–90. É o segundo volume de Lucas e a narrativa mais antiga que segue Paulo da perseguição em Jerusalém até Roma. Não há autógrafo. O texto ocidental, conhecido pelo Códice Beza e por parte do latim antigo, é cerca de um décimo mais longo. A American Standard Version segue a forma alexandrina, mais curta.
 
 Em Atos 8 o número 37 fica em branco: a confissão do eunuco, “Creio que Jesus Cristo é o Filho de Deus”, não está nos manuscritos alexandrinos mais antigos. Em 15,20 e 15,29 a American Standard Version mantém “o que foi sufocado”. O texto ocidental tira essa frase e acrescenta a regra de ouro em forma negativa. O quadro dessas diferenças está em [texto-ocidental-de-lucas-e-atos.md](texto-ocidental-de-lucas-e-atos.md).
 
 ## American Standard Version
+
+Versão Padrão Americana
+
 
 Texto inglês da American Standard Version (1901), domínio público. Traduz o texto grego crítico do fim do século XIX, na linha de Westcott e Hort. Não é um autógrafo do século I.
 
@@ -59,6 +64,58 @@ of all men, show of these two the one whom thou hast chosen, 1:25to take the
 place in this ministry and apostleship from which Judas fell away, that he
 might go to his own place. 1:26And they gave lots for them; and the lot fell
 upon Matthias; and he was numbered with the eleven apostles.
+
+1:1O tratado anterior fiz, ó Teófilo, acerca de tudo o que Jesus começou
+tanto a fazer como a ensinar, 1:2até o dia em que foi recebido para o alto,
+depois de haver dado mandamento, por meio do Espírito Santo, aos apóstolos
+que havia escolhido: 1:3aos quais também se mostrou vivo, depois da sua
+paixão, por muitas provas, aparecendo-lhes pelo espaço de quarenta dias e
+falando das coisas concernentes ao reino de Deus: 1:4e, estando reunido
+juntamente com eles, ordenou-lhes que não partissem de Jerusalém, mas que
+esperassem a promessa do Pai, a qual, disse ele, vocês ouviram de mim:
+1:5porque João, na verdade, batizou com água; mas vocês serão batizados no
+Espírito Santo daqui a não muitos dias. 1:6Eles, portanto, quando se
+reuniram, perguntaram-lhe, dizendo: Senhor, restauras tu neste tempo o reino
+a Israel? 1:7E ele lhes disse: Não cabe a vocês conhecer tempos ou épocas,
+que o Pai estabeleceu dentro da sua própria autoridade. 1:8Mas vocês
+receberão poder, quando o Espírito Santo vier sobre vocês; e serão as minhas
+testemunhas, tanto em Jerusalém como em toda a Judeia e Samaria, e até a
+parte mais extrema da terra. 1:9E, quando houve dito estas coisas, enquanto
+eles olhavam, foi tomado para o alto; e uma nuvem o recebeu para fora da
+vista deles. 1:10E, enquanto olhavam fixamente para o céu, enquanto ele ia,
+eis que dois homens se puseram junto deles, em trajes brancos; 1:11os quais
+também disseram: Homens da Galileia, por que ficam vocês olhando para o céu?
+este Jesus, que foi recebido do meio de vocês para o céu, virá assim, da
+mesma maneira como vocês o contemplaram indo para o céu. 1:12Então voltaram
+eles para Jerusalém, do monte chamado Olivete, que está perto de Jerusalém,
+à distância de uma jornada de um dia de sábado. 1:13E, quando entraram,
+subiram ao aposento superior, onde permaneciam; tanto Pedro como João e
+Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, o filho de Alfeu,
+e Simão, o Zelote, e Judas, o filho de Tiago. 1:14Todos estes unânimes
+perseveravam firmemente em oração, com as mulheres, e Maria, a mãe de Jesus,
+e com os irmãos dele. 1:15E, nestes dias, Pedro pôs-se em pé no meio dos
+irmãos e disse (e havia uma multidão de pessoas reunidas, cerca de cento e
+vinte), 1:16Irmãos, era necessário que se cumprisse a Escritura, a qual o
+Espírito Santo falou antes pela boca de Davi acerca de Judas, que foi guia
+daqueles que tomaram Jesus. 1:17Porque ele foi numerado entre nós e recebeu
+a sua porção neste ministério. 1:18(Ora, este homem obteve um campo com a
+recompensa da sua iniquidade; e, caindo de cabeça, rompeu-se pelo meio, e
+todas as suas entranhas jorraram. 1:19E isto se tornou conhecido de todos os
+moradores de Jerusalém; de tal modo que, na língua deles, aquele campo foi
+chamado Akeldama, isto é, Campo de sangue.) 1:20Porque está escrito no livro
+dos Salmos: Fique desolada a sua habitação, e não habite nela homem algum;
+e: O seu ofício, outro o tome. 1:21Dos homens, portanto, que conviveram
+conosco todo o tempo em que o Senhor Jesus entrou e saiu entre nós,
+1:22começando desde o batismo de João até o dia em que foi recebido do meio
+de nós para o alto, destes deve um tornar-se testemunha conosco da sua
+ressurreição. 1:23E apresentaram dois, José, chamado Barsabás, que era
+cognominado Justo, e Matias. 1:24E oraram e disseram: Tu, Senhor, que
+conheces os corações de todos os homens, mostra, destes dois, aquele que tu
+escolheste, 1:25para tomar o lugar neste ministério e apostolado do qual
+Judas se apartou, para que fosse ao seu próprio lugar. 1:26E deram sortes
+por eles; e a sorte caiu sobre Matias; e ele foi numerado com os onze
+apóstolos.
+
 
 2:1And when the day of Pentecost was now come, they were all together in one
 place. 2:2And suddenly there came from heaven a sound as of the rushing of a
@@ -136,6 +193,84 @@ in the temple, and breaking bread at home, they took their food with
 gladness and singleness of heart, 2:47praising God, and having favor with
 all the people. And the Lord added to them day by day those that were saved.
 
+2:1E quando o dia de Pentecostes havia agora chegado, estavam todos juntos
+num mesmo lugar. 2:2E de repente veio do céu um som como do ímpeto de um
+vento poderoso, e encheu toda a casa onde estavam sentados. 2:3E
+apareceram-lhes línguas que se repartiam, como que de fogo; e pousou sobre
+cada um deles. 2:4E todos foram cheios do Espírito Santo, e começaram a
+falar em outras línguas, conforme o Espírito lhes concedia que proferissem.
+2:5Ora, habitavam em Jerusalém judeus, homens devotos, de toda nação debaixo
+do céu. 2:6E quando este som foi ouvido, a multidão se reuniu e ficou
+confundida, porque cada homem os ouvia falar na sua própria língua. 2:7E
+todos estavam atônitos e maravilhados, dizendo: Eis, não são galileus todos
+estes que falam? 2:8E como ouvimos nós, cada homem na nossa própria língua
+em que nascemos? 2:9Partos e medos e elamitas, e os habitantes da
+Mesopotâmia, da Judeia e da Capadócia, do Ponto e da Ásia, 2:10da Frígia e
+da Panfília, do Egito e das partes da Líbia ao redor de Cirene, e
+forasteiros de Roma, tanto judeus como prosélitos, 2:11Cretenses e árabes,
+nós os ouvimos falar em nossas línguas as obras poderosas de Deus. 2:12E
+todos estavam atônitos e perplexos, dizendo uns aos outros: Que quer dizer
+isto? 2:13Mas outros, escarnecendo, diziam: Estão cheios de vinho novo.
+2:14Mas Pedro, pondo-se de pé com os onze, levantou a voz e declarou-lhes,
+dizendo: Homens da Judeia, e todos vocês que habitam em Jerusalém, seja isto
+conhecido de vocês, e deem ouvidos às minhas palavras. 2:15Pois estes não
+estão embriagados, como vocês supõem, visto que é apenas a terceira hora do
+dia; 2:16mas isto é o que foi falado por meio do profeta Joel: 2:17E
+acontecerá nos últimos dias, diz Deus, derramarei do meu Espírito sobre toda
+carne: E os filhos de vocês e as filhas de vocês profetizarão, E os jovens
+de vocês verão visões, E os velhos de vocês sonharão sonhos: 2:18Sim, e
+sobre os meus servos e sobre as minhas servas, naqueles dias, derramarei do
+meu Espírito; e eles profetizarão. 2:19E mostrarei prodígios no céu em cima,
+E sinais na terra embaixo; Sangue, e fogo, e vapor de fumaça: 2:20O sol se
+tornará em trevas, E a lua em sangue, Antes que venha o dia do Senhor,
+Aquele grande e notável dia: 2:21E acontecerá que todo aquele que invocar o
+nome do Senhor será salvo. 2:22Homens de Israel, ouçam estas palavras: Jesus
+de Nazaré, homem aprovado por Deus diante de vocês por obras poderosas, e
+prodígios, e sinais, que Deus fez por meio dele no meio de vocês, como vocês
+mesmos sabem; 2:23a este, entregue pelo conselho determinado e pela
+presciência de Deus, vocês, pela mão de homens sem lei, crucificaram e
+mataram: 2:24ao qual Deus ressuscitou, havendo soltado as dores da morte,
+porque não era possível que ele fosse retido por ela. 2:25Porque Davi diz a
+respeito dele: Eu contemplava o Senhor sempre diante da minha face; Pois ele
+está à minha direita, para que eu não seja abalado: 2:26Por isso o meu
+coração se alegrou, e a minha língua exultou; E também a minha carne
+habitará em esperança: 2:27Porque tu não deixarás a minha alma ao Hades, Nem
+tu darás o teu Santo a ver a corrupção. 2:28Tu me fizeste conhecer os
+caminhos da vida; Tu me encherás de alegria com o teu semblante. 2:29Irmãos,
+posso dizer-lhes livremente a respeito do patriarca Davi, que ele tanto
+morreu como foi sepultado, e o seu sepulcro está conosco até este dia.
+2:30Sendo, portanto, profeta, e sabendo que Deus lhe havia jurado com
+juramento que do fruto dos seus lombos ele poria um sobre o seu trono;
+2:31ele, prevendo isto, falou da ressurreição do Cristo, que nem ele foi
+deixado ao Hades, nem a sua carne viu a corrupção. 2:32Este Jesus Deus
+ressuscitou, do que todos nós somos testemunhas. 2:33Sendo, portanto,
+exaltado pela destra de Deus, e tendo recebido do Pai a promessa do Espírito
+Santo, ele derramou isto que vocês veem e ouvem. 2:34Porque Davi não
+ascendeu aos céus, mas ele mesmo diz: O Senhor disse ao meu Senhor:
+Assenta-te à minha direita, 2:35Até que eu ponha os teus inimigos por
+escabelo dos teus pés. 2:36Saiba, portanto, com certeza toda a casa de
+Israel que Deus o fez tanto Senhor como Cristo, este Jesus a quem vocês
+crucificaram. 2:37Ora, quando ouviram isto, ficaram compungidos no coração,
+e disseram a Pedro e aos demais apóstolos: Irmãos, que faremos? 2:38E Pedro
+lhes disse: Arrependam-se, e seja batizado cada um de vocês no nome de Jesus
+Cristo para a remissão dos seus pecados; e vocês receberão o dom do Espírito
+Santo. 2:39Porque para vocês é a promessa, e para os filhos de vocês, e para
+todos os que estão longe, tantos quantos o Senhor nosso Deus chamar a si.
+2:40E com muitas outras palavras ele testificou e os exortou, dizendo:
+Salvem-se desta geração tortuosa. 2:41Aqueles, então, que receberam a sua
+palavra foram batizados; e foram-lhes acrescentadas naquele dia cerca de
+três mil almas. 2:42E perseveravam firmemente no ensino dos apóstolos e na
+comunhão, no partir do pão e nas orações. 2:43E veio temor sobre toda alma;
+e muitos prodígios e sinais eram feitos por meio dos apóstolos. 2:44E todos
+os que creram estavam juntos e tinham todas as coisas em comum; 2:45e
+vendiam as suas posses e os seus bens, e os repartiam a todos, conforme
+qualquer homem tinha necessidade. 2:46E dia após dia, perseverando
+firmemente com um só ânimo no templo e partindo o pão em casa, tomavam o seu
+alimento com alegria e singeleza de coração, 2:47louvando a Deus e tendo
+favor junto a todo o povo. E o Senhor lhes acrescentava dia após dia os que
+eram salvos.
+
+
 3:1Now Peter and John were going up into the temple at the hour of prayer,
 being the ninth hour. 3:2And a certain man that was lame from his mother’s
 womb was carried, whom they laid daily at the door of the temple which is
@@ -182,6 +317,54 @@ are the sons of the prophets, and of the covenant which God made with your
 fathers, saying unto Abraham, And in thy seed shall all the families of the
 earth be blessed. 3:26Unto you first God, having raised up his Servant, sent
 him to bless you, in turning away every one of you from your iniquities.
+
+3:1Ora, Pedro e João subiam ao templo à hora da oração, sendo a hora nona.
+3:2E um certo homem, que era coxo desde o ventre de sua mãe, era carregado,
+ao qual colocavam diariamente à porta do templo que é chamada Bela, para
+pedir esmola aos que entravam no templo; 3:3o qual, vendo Pedro e João
+prestes a entrar no templo, pediu para receber uma esmola. 3:4E Pedro,
+fixando os olhos nele, com João, disse: Olha para nós. 3:5E ele lhes deu
+atenção, esperando receber alguma coisa deles. 3:6Mas Pedro disse: Prata e
+ouro não tenho; mas o que tenho, isso te dou. Em nome de Jesus Cristo de
+Nazaré, anda. 3:7E tomou-o pela mão direita, e o levantou; e imediatamente
+os seus pés e os ossos dos seus tornozelos receberam força. 3:8E, saltando,
+pôs-se de pé e começou a andar; e entrou com eles no templo, andando, e
+saltando, e louvando a Deus. 3:9E todo o povo o viu andando e louvando a
+Deus: 3:10e o reconheceram, que era ele que se sentava para esmolas à Porta
+Bela do templo; e ficaram cheios de maravilha e de assombro com aquilo que
+lhe havia acontecido. 3:11E, enquanto ele segurava Pedro e João, todo o povo
+correu juntamente até eles no pórtico que se chama de Salomão, grandemente
+maravilhado. 3:12E quando Pedro viu isso, respondeu ao povo: Homens de
+Israel, por que se maravilham vocês deste homem? ou por que fixam vocês os
+olhos em nós, como se pelo nosso próprio poder ou piedade o tivéssemos feito
+andar? 3:13O Deus de Abraão, e de Isaque, e de Jacó, o Deus de nossos pais,
+glorificou o seu Servo Jesus, a quem vocês entregaram e negaram diante da
+face de Pilatos, quando ele havia determinado soltá-lo. 3:14Mas vocês
+negaram o Santo e Justo, e pediram que um assassino lhes fosse concedido,
+3:15e mataram o Príncipe da vida; a quem Deus ressuscitou dentre os mortos;
+do que nós somos testemunhas. 3:16E pela fé no seu nome o seu nome fez forte
+este homem, a quem vocês contemplam e conhecem; sim, a fé que é por meio
+dele lhe deu esta perfeita sanidade na presença de todos vocês. 3:17E agora,
+irmãos, eu sei que em ignorância vocês o fizeram, como também o fizeram os
+seus governantes. 3:18Mas as coisas que Deus anunciou de antemão pela boca
+de todos os profetas, que o seu Cristo havia de sofrer, ele assim as
+cumpriu. 3:19Arrependam-se, portanto, e voltem, para que os seus pecados
+sejam apagados, de sorte que venham tempos de refrigério da presença do
+Senhor; 3:20e para que ele envie o Cristo que foi designado para vocês, isto
+é, Jesus: 3:21ao qual é necessário que o céu receba até os tempos da
+restauração de todas as coisas, das quais Deus falou pela boca dos seus
+santos profetas que existiram desde a antiguidade. 3:22Moisés, na verdade,
+disse: Um profeta suscitará o Senhor Deus para vocês, dentre os irmãos de
+vocês, semelhante a mim; a ele vocês ouvirão em todas as coisas, tudo quanto
+ele lhes falar. 3:23E acontecerá que toda alma que não ouvir aquele profeta
+será inteiramente destruída dentre o povo. 3:24Sim, e todos os profetas,
+desde Samuel e os que se seguiram depois, todos quantos falaram, também eles
+falaram destes dias. 3:25Vocês são os filhos dos profetas e da aliança que
+Deus fez com os pais de vocês, dizendo a Abraão: E na tua semente serão
+abençoadas todas as famílias da terra. 3:26A vocês primeiramente Deus,
+havendo suscitado o seu Servo, enviou-o para abençoá-los, em desviar cada um
+de vocês das suas iniquidades.
+
 
 4:1And as they spake unto the people, the priests and the captain of the
 temple and the Sadducees came upon them, 4:2being sore troubled because they
@@ -249,6 +432,73 @@ Joseph, who by the apostles was surnamed Barnabas (which is, being
 interpreted, Son of exhortation), a Levite, a man of Cyprus by race,
 4:37having a field, sold it, and brought the money and laid it at the
 apostles’ feet.
+
+4:1E, enquanto eles falavam ao povo, os sacerdotes e o capitão do templo e
+os saduceus vieram sobre eles, 4:2estando grandemente perturbados porque
+ensinavam o povo e proclamavam em Jesus a ressurreição dentre os mortos.
+4:3E lançaram as mãos sobre eles, e os puseram em custódia até o dia
+seguinte; pois já era o anoitecer. 4:4Mas muitos dos que ouviram a palavra
+creram; e o número dos homens chegou a ser cerca de cinco mil. 4:5E
+aconteceu, no dia seguinte, que os seus governantes, e os anciãos, e os
+escribas foram reunidos em Jerusalém; 4:6e Anás, o sumo sacerdote, estava
+ali, e Caifás, e João, e Alexandre, e todos quantos eram da parentela do
+sumo sacerdote. 4:7E, quando os puseram no meio, inquiriram: Com que poder,
+ou em que nome, vocês fizeram isto? 4:8Então Pedro, cheio do Espírito Santo,
+disse-lhes: Vocês, governantes do povo e anciãos, 4:9se nós, neste dia,
+somos examinados acerca de uma boa ação feita a um homem impotente, por que
+meio este homem é feito são; 4:10seja isto conhecido de todos vocês, e de
+todo o povo de Israel, que no nome de Jesus Cristo de Nazaré, a quem vocês
+crucificaram, a quem Deus levantou dentre os mortos, nele mesmo é que este
+homem está de pé aqui diante de vocês, são. 4:11Ele é a pedra que foi posta
+em nada por vocês, os edificadores, a qual foi feita a cabeça da esquina.
+4:12E em nenhum outro há salvação; porque tampouco há qualquer outro nome
+debaixo do céu, que seja dado entre os homens, no qual devamos ser salvos.
+4:13Ora, quando eles contemplaram a ousadia de Pedro e João, e haviam
+percebido que eram homens sem letras e ignorantes, maravilharam-se; e
+tomaram conhecimento deles, de que haviam estado com Jesus. 4:14E, vendo o
+homem que fora curado em pé com eles, nada podiam dizer contra isso.
+4:15Mas, quando lhes ordenaram que se retirassem à parte, para fora do
+conselho, conferenciaram entre si, 4:16dizendo: Que faremos a estes homens?
+porque, que de fato um milagre notável foi operado por meio deles, é
+manifesto a todos os que habitam em Jerusalém; e não podemos negá-lo.
+4:17Mas, para que isso não se espalhe mais entre o povo, ameacemo-los, para
+que daqui em diante não falem a homem nenhum neste nome. 4:18E chamaram-nos,
+e ordenaram-lhes que de modo algum falassem nem ensinassem no nome de Jesus.
+4:19Mas Pedro e João responderam e disseram-lhes: Se é justo à vista de Deus
+dar ouvidos a vocês antes que a Deus, julguem vocês; 4:20porque não podemos
+senão falar as coisas que vimos e ouvimos. 4:21E eles, quando os ameaçaram
+ainda mais, deixaram-nos ir, não achando nada de como pudessem castigá-los,
+por causa do povo; pois todos os homens glorificavam a Deus por aquilo que
+fora feito. 4:22Pois o homem tinha mais de quarenta anos, aquele em quem
+este milagre de cura foi operado. 4:23E, sendo soltos, vieram à sua própria
+companhia, e relataram tudo o que os principais sacerdotes e os anciãos lhes
+haviam dito. 4:24E eles, quando ouviram isso, levantaram a sua voz a Deus de
+comum acordo, e disseram: Ó Senhor, tu que fizeste o céu e a terra e o mar,
+e tudo o que neles há: 4:25que pelo Espírito Santo, pela boca de nosso pai
+Davi, teu servo, disseste: Por que se enfureceram os gentios, e os povos
+imaginaram coisas vãs? 4:26Os reis da terra se puseram em ordem de batalha,
+e os governantes foram reunidos, contra o Senhor e contra o seu Ungido:
+4:27porque em verdade, nesta cidade, contra o teu santo Servo Jesus, a quem
+tu ungiste, tanto Herodes como Pôncio Pilatos, com os gentios e os povos de
+Israel, foram reunidos, 4:28para fazer tudo quanto a tua mão e o teu
+conselho preordenaram que viesse a acontecer. 4:29E agora, Senhor, olha para
+as ameaças deles; e concede aos teus servos falar a tua palavra com toda a
+ousadia, 4:30enquanto tu estendes a tua mão para curar; e para que sinais e
+prodígios sejam feitos por meio do nome do teu santo Servo Jesus. 4:31E,
+quando oraram, foi abalado o lugar em que estavam reunidos; e todos foram
+cheios do Espírito Santo, e falavam a palavra de Deus com ousadia. 4:32E a
+multidão dos que criam era de um só coração e alma; e nem um deles dizia que
+coisa alguma das coisas que possuía era dele próprio; mas tinham todas as
+coisas em comum. 4:33E com grande poder davam os apóstolos o seu testemunho
+da ressurreição do Senhor Jesus; e grande graça estava sobre todos eles.
+4:34Pois nem havia entre eles alguém que tivesse falta; porque todos quantos
+eram possuidores de terras ou casas vendiam-nas, e traziam os preços das
+coisas que eram vendidas, 4:35e os punham aos pés dos apóstolos; e se fazia
+distribuição a cada um, segundo qualquer um tinha necessidade. 4:36E José,
+que pelos apóstolos foi cognominado Barnabé (que é, sendo interpretado,
+Filho de exortação), levita, um homem de Chipre por raça, 4:37tendo um
+campo, vendeu-o, e trouxe o dinheiro e o pôs aos pés dos apóstolos.
+
 
 5:1But a certain man named Ananias, with Sapphira his wife, sold a
 possession, 5:2and kept back part of the price, his wife also being privy to
@@ -326,6 +576,82 @@ departed from the presence of the council, rejoicing that they were counted
 worthy to suffer dishonor for the Name. 5:42And every day, in the temple and
 at home, they ceased not to teach and to preach Jesus as the Christ.
 
+5:1Mas um certo homem chamado Ananias, com Safira, sua mulher, vendeu uma
+possessão, 5:2e reteve parte do preço, estando sua mulher também ciente
+disso, e trouxe uma certa parte, e a pôs aos pés dos apóstolos. 5:3Mas Pedro
+disse: Ananias, por que encheu Satanás o teu coração para mentir ao Espírito
+Santo e reter parte do preço da terra? 5:4Enquanto ela permanecia, não
+permanecia tua própria? e, depois de vendida, não estava em teu poder? Como
+é que tu concebeste esta coisa no teu coração? tu não mentiste aos homens,
+mas a Deus. 5:5E Ananias, ouvindo estas palavras, caiu e entregou o
+espírito; e grande temor veio sobre todos os que ouviram isso. 5:6E os
+jovens se levantaram e o envolveram, e o levaram para fora e o sepultaram.
+5:7E foi cerca do espaço de três horas depois, quando sua mulher, não
+sabendo o que fora feito, entrou. 5:8E Pedro respondeu-lhe: Dize-me se vocês
+venderam a terra por tanto. E ela disse: Sim, por tanto. 5:9Mas Pedro
+disse-lhe: Como é que vocês concordaram juntos para tentar o Espírito do
+Senhor? eis que os pés dos que sepultaram o teu marido estão à porta, e eles
+te levarão para fora. 5:10E ela caiu imediatamente aos pés dele, e entregou
+o espírito; e os jovens entraram e a acharam morta, e a levaram para fora e
+a sepultaram junto do seu marido. 5:11E grande temor veio sobre toda a
+igreja, e sobre todos os que ouviram estas coisas. 5:12E pelas mãos dos
+apóstolos muitos sinais e prodígios foram operados entre o povo; e estavam
+todos de comum acordo no pórtico de Salomão. 5:13Mas, dos restantes, nenhum
+homem ousava ajuntar-se a eles; contudo o povo os engrandecia; 5:14e crentes
+eram tanto mais acrescentados ao Senhor, multidões tanto de homens como de
+mulheres; 5:15de tal modo que até levavam os enfermos para as ruas, e os
+punham em camas e leitos, para que, ao passar Pedro, ao menos a sua sombra
+pudesse cobrir algum deles. 5:16E também se reuniu a multidão das cidades ao
+redor de Jerusalém, trazendo gente enferma, e os atormentados por espíritos
+imundos; e cada um era curado. 5:17Mas o sumo sacerdote se levantou, e todos
+os que estavam com ele (que é a seita dos saduceus), e encheram-se de ciúme,
+5:18e lançaram as mãos sobre os apóstolos, e os puseram em custódia pública.
+5:19Mas um anjo do Senhor, de noite, abriu as portas da prisão, e os trouxe
+para fora, e disse: 5:20Vão vocês, e estejam de pé e falem no templo ao povo
+todas as palavras desta Vida. 5:21E, quando ouviram isto, entraram no templo
+por volta do romper do dia, e ensinavam. Mas o sumo sacerdote veio, e os que
+estavam com ele, e convocaram o conselho, e todo o senado dos filhos de
+Israel, e enviaram à casa da prisão para que os trouxessem. 5:22Mas os
+oficiais que vieram não os acharam na prisão; e voltaram e contaram,
+5:23dizendo: A casa da prisão achamos fechada em toda a segurança, e os
+guardas em pé às portas; mas, quando abrimos, não achamos homem nenhum
+dentro. 5:24Ora, quando o capitão do templo e os principais sacerdotes
+ouviram estas palavras, ficaram muito perplexos acerca deles, a que isto
+cresceria. 5:25E veio um e contou-lhes: Eis, os homens que vocês puseram na
+prisão estão no templo, de pé e ensinando o povo. 5:26Então foi o capitão
+com os oficiais, e os trouxe, porém sem violência; porque temiam o povo,
+para que não fossem apedrejados. 5:27E, quando os trouxeram, puseram-nos
+diante do conselho. E o sumo sacerdote perguntou-lhes, 5:28dizendo: Nós
+estritamente ordenamos a vocês que não ensinassem neste nome; e eis que
+vocês encheram Jerusalém com o ensino de vocês, e pretendem trazer sobre nós
+o sangue deste homem. 5:29Mas Pedro e os apóstolos responderam e disseram:
+Devemos obedecer a Deus antes que aos homens. 5:30O Deus de nossos pais
+levantou a Jesus, a quem vocês mataram, suspendendo-o numa árvore. 5:31A
+este exaltou Deus com a sua mão direita para ser Príncipe e Salvador, para
+dar arrependimento a Israel e remissão de pecados. 5:32E nós somos
+testemunhas destas coisas; e também o é o Espírito Santo, que Deus deu aos
+que lhe obedecem. 5:33Mas eles, quando ouviram isto, foram cortados até o
+coração, e tinham em mente matá-los. 5:34Mas levantou-se um no conselho, um
+fariseu, chamado Gamaliel, doutor da lei, tido em honra de todo o povo, e
+mandou pôr os homens fora por um pouco de tempo. 5:35E disse-lhes: Homens de
+Israel, tenham cuidado consigo mesmos no tocante a estes homens, quanto ao
+que vocês estão para fazer. 5:36Porque, antes destes dias, levantou-se
+Teudas, dando-se por ser alguém; ao qual um número de homens, cerca de
+quatrocentos, se ajuntou; o qual foi morto; e todos, quantos lhe obedeceram,
+foram dispersos e vieram a nada. 5:37Depois deste homem levantou-se Judas da
+Galileia, nos dias do arrolamento, e atraiu após si alguns do povo; também
+ele pereceu; e todos, quantos lhe obedeceram, foram espalhados ao longe.
+5:38E agora eu digo a vocês: Abstenham-se destes homens, e deixem-nos sós;
+porque, se este conselho ou esta obra for dos homens, será derrubado;
+5:39mas, se é de Deus, vocês não poderão derrubá-los; não aconteça que,
+porventura, vocês sejam achados até mesmo combatendo contra Deus. 5:40E
+concordaram com ele; e, quando chamaram a si os apóstolos, bateram neles e
+ordenaram-lhes que não falassem no nome de Jesus, e deixaram-nos ir.
+5:41Eles, portanto, partiram da presença do conselho, regozijando-se de
+terem sido contados dignos de sofrer desonra pelo Nome. 5:42E cada dia, no
+templo e em casa, não cessavam de ensinar e de pregar Jesus como o Cristo.
+
+
 6:1Now in these days, when the number of the disciples was multiplying,
 there arose a murmuring of the Grecian Jews against the Hebrews, because
 their widows were neglected in the daily ministration. 6:2And the twelve
@@ -354,6 +680,34 @@ this holy place, and the law: 6:14for we have heard him say, that this Jesus
 of Nazareth shall destroy this place, and shall change the customs which
 Moses delivered unto us. 6:15And all that sat in the council, fastening
 their eyes on him, saw his face as it had been the face of an angel.
+
+6:1Ora, nestes dias, quando o número dos discípulos se multiplicava, surgiu
+um murmúrio dos judeus gregos contra os hebreus, porque as viúvas deles eram
+negligenciadas na ministração diária. 6:2E os doze chamaram a si a multidão
+dos discípulos e disseram: Não convém que nós abandonemos a palavra de Deus
+e sirvamos às mesas. 6:3Escolham, pois, irmãos, dentre vocês sete homens de
+bom testemunho, cheios do Espírito e de sabedoria, aos quais possamos
+constituir sobre este serviço. 6:4Mas nós continuaremos firmemente na oração
+e no ministério da palavra. 6:5E o dito agradou a toda a multidão; e
+escolheram Estêvão, homem cheio de fé e do Espírito Santo, e Filipe, e
+Prócoro, e Nicanor, e Tímon, e Pármenas, e Nicolau, prosélito de Antioquia;
+6:6os quais puseram diante dos apóstolos; e, tendo orado, impuseram as mãos
+sobre eles. 6:7E a palavra de Deus cresceu; e o número dos discípulos
+multiplicou-se em Jerusalém extraordinariamente; e uma grande companhia dos
+sacerdotes era obediente à fé. 6:8E Estêvão, cheio de graça e de poder,
+operou grandes prodígios e sinais entre o povo. 6:9Mas levantaram-se alguns
+dos que eram da sinagoga chamada sinagoga dos Libertos, e dos cireneus, e
+dos alexandrinos, e dos da Cilícia e da Ásia, disputando com Estêvão. 6:10E
+não puderam resistir à sabedoria e ao Espírito com que ele falava. 6:11Então
+subornaram homens, que disseram: Nós o ouvimos falar palavras blasfemas
+contra Moisés e contra Deus. 6:12E incitaram o povo, e os anciãos, e os
+escribas, e vieram sobre ele, e prenderam-no, e o levaram ao conselho, 6:13e
+apresentaram falsas testemunhas, que disseram: Este homem não cessa de falar
+palavras contra este lugar santo e contra a lei: 6:14pois nós o ouvimos
+dizer que este Jesus de Nazaré destruirá este lugar e mudará os costumes que
+Moisés nos entregou. 6:15E todos os que se sentavam no conselho, fixando
+nele os olhos, viram o seu rosto como se fora o rosto de um anjo.
+
 
 7:1And the high priest said, Are these things so? 7:2And he said, Brethren
 and fathers, hearken: The God of glory appeared unto our father Abraham,
@@ -459,6 +813,106 @@ Lord Jesus, receive my spirit. 7:60And he kneeled down, and cried with a
 loud voice, Lord, lay not this sin to their charge. And when he had said
 this, he fell asleep.
 
+7:1E o sumo sacerdote disse: São assim estas coisas? 7:2E ele disse: Irmãos
+e pais, ouçam: O Deus da glória apareceu a nosso pai Abraão, quando ele
+estava na Mesopotâmia, antes que habitasse em Harã, 7:3e disse-lhe: Sai tu
+da tua terra e da tua parentela, e vem à terra que eu te mostrarei. 7:4Então
+saiu ele da terra dos caldeus e habitou em Harã; e dali, quando seu pai já
+era morto, Deus o removeu para esta terra, na qual vocês agora habitam; 7:5e
+não lhe deu herança alguma nela, não, nem sequer onde assentar o pé; e
+prometeu que lha daria em possessão, e à sua semente depois dele, quando
+ainda não tinha filho. 7:6E Deus falou desta maneira: que a sua semente
+peregrinaria numa terra estranha, e que os levariam à servidão e os
+tratariam mal, quatrocentos anos. 7:7E a nação à qual estarão em servidão,
+eu a julgarei, disse Deus; e depois disso sairão e me servirão neste lugar.
+7:8E deu-lhe a aliança da circuncisão; e assim Abraão gerou Isaque, e o
+circuncidou ao oitavo dia; e Isaque gerou Jacó, e Jacó, os doze patriarcas.
+7:9E os patriarcas, movidos de ciúme contra José, venderam-no para o Egito;
+e Deus estava com ele, 7:10e livrou-o de todas as suas aflições, e deu-lhe
+favor e sabedoria diante de Faraó, rei do Egito; e este o constituiu
+governador sobre o Egito e sobre toda a sua casa. 7:11Ora, veio uma fome
+sobre todo o Egito e Canaã, e grande aflição; e nossos pais não achavam
+sustento. 7:12Mas, quando Jacó ouviu que havia trigo no Egito, enviou nossos
+pais a primeira vez. 7:13E, na segunda vez, José foi dado a conhecer a seus
+irmãos; e a raça de José tornou-se manifesta a Faraó. 7:14E José enviou e
+chamou a si Jacó, seu pai, e toda a sua parentela, setenta e cinco almas.
+7:15E Jacó desceu ao Egito; e morreu, ele mesmo e nossos pais; 7:16e foram
+levados a Siquém e depositados no sepulcro que Abraão comprou por um preço
+em prata dos filhos de Hamor, em Siquém. 7:17Mas, ao aproximar-se o tempo da
+promessa que Deus se dignou conceder a Abraão, o povo cresceu e
+multiplicou-se no Egito, 7:18até que se levantou outro rei sobre o Egito,
+que não conhecia José. 7:19Este usou de astúcia com a nossa raça e maltratou
+nossos pais, para que lançassem fora as suas criancinhas, a fim de que não
+vivessem. 7:20Nesse tempo nasceu Moisés, e era sobremaneira formoso; e foi
+nutrido três meses na casa de seu pai; 7:21e, quando foi lançado fora, a
+filha de Faraó o recolheu e o nutriu como filho seu. 7:22E Moisés foi
+instruído em toda a sabedoria dos egípcios; e era poderoso nas suas palavras
+e nas suas obras. 7:23Mas, quando estava perto dos quarenta anos, veio-lhe
+ao coração visitar seus irmãos, os filhos de Israel. 7:24E, vendo um deles
+sofrer injustiça, defendeu-o e vingou o que era oprimido, ferindo o egípcio;
+7:25e supunha que seus irmãos entendessem que Deus, pela sua mão, lhes dava
+livramento; mas eles não entenderam. 7:26E, no dia seguinte, apareceu-lhes
+quando contendiam, e queria pô-los de novo em acordo, dizendo: Senhores,
+vocês são irmãos; por que fazem injustiça um ao outro? 7:27Mas aquele que
+fazia injustiça ao seu próximo repeliu-o, dizendo: Quem te constituiu
+governante e juiz sobre nós? 7:28Queres tu matar-me, como mataste o egípcio
+ontem? 7:29E Moisés fugiu a esta palavra e tornou-se peregrino na terra de
+Midiã, onde gerou dois filhos. 7:30E, quando se cumpriram quarenta anos, um
+anjo apareceu-lhe no deserto do monte Sinai, numa chama de fogo, numa sarça.
+7:31E, quando Moisés viu isso, maravilhou-se da visão; e, ao aproximar-se
+para contemplar, veio uma voz do Senhor: 7:32Eu sou o Deus dos teus pais, o
+Deus de Abraão, e de Isaque, e de Jacó. E Moisés tremeu e não ousou
+contemplar. 7:33E o Senhor disse-lhe: Desata as sandálias dos teus pés,
+porque o lugar sobre o qual tu estás é terra santa. 7:34Certamente vi a
+aflição do meu povo que está no Egito, e ouvi o gemido deles, e desci para
+livrá-los; e agora vem, eu te enviarei ao Egito. 7:35Este Moisés, a quem
+eles recusaram, dizendo: Quem te constituiu governante e juiz? a este enviou
+Deus para ser tanto governante como libertador, com a mão do anjo que lhe
+apareceu na sarça. 7:36Este homem os conduziu para fora, havendo operado
+prodígios e sinais no Egito, e no mar Vermelho, e no deserto, quarenta anos.
+7:37Este é aquele Moisés que disse aos filhos de Israel: Um profeta Deus
+suscitará para vocês, dentre os irmãos de vocês, semelhante a mim. 7:38Este
+é aquele que esteve na igreja no deserto com o anjo que lhe falou no monte
+Sinai, e com nossos pais; o qual recebeu oráculos vivos para dar a nós:
+7:39ao qual nossos pais não quiseram ser obedientes, mas o repeliram de si
+e, nos seus corações, voltaram para o Egito, 7:40dizendo a Arão: Faze-nos
+deuses que vão adiante de nós; porque, quanto a este Moisés, que nos
+conduziu para fora da terra do Egito, não sabemos o que foi feito dele.
+7:41E fizeram um bezerro naqueles dias, e trouxeram um sacrifício ao ídolo,
+e alegraram-se nas obras das suas mãos. 7:42Mas Deus voltou-se e os entregou
+a servir à hoste do céu, como está escrito no livro dos profetas: Porventura
+me ofereceram vocês animais imolados e sacrifícios por quarenta anos no
+deserto, ó casa de Israel? 7:43E vocês tomaram o tabernáculo de Moloque, e a
+estrela do deus Refã, as figuras que vocês fizeram para adorá-las; e eu
+levarei vocês para além da Babilônia. 7:44Nossos pais tinham o tabernáculo
+do testemunho no deserto, conforme ordenou aquele que falou a Moisés, que
+ele o fizesse segundo a figura que tinha visto. 7:45O qual também nossos
+pais, por sua vez, introduziram com Josué, quando entraram na posse das
+nações que Deus expulsou de diante da face de nossos pais, até os dias de
+Davi; 7:46o qual achou favor à vista de Deus e pediu achar uma habitação
+para o Deus de Jacó. 7:47Mas Salomão lhe edificou uma casa. 7:48Todavia, o
+Altíssimo não habita em casas feitas por mãos, como diz o profeta: 7:49O céu
+é o meu trono, e a terra, o estrado dos meus pés. Que espécie de casa me
+edificarão vocês? diz o Senhor. Ou qual é o lugar do meu repouso? 7:50Não
+fez a minha mão todas estas coisas? 7:51Vocês, duros de cerviz e
+incircuncisos de coração e de ouvidos, vocês sempre resistem ao Espírito
+Santo; como fizeram os seus pais, assim fazem vocês. 7:52Qual dos profetas
+não perseguiram os seus pais? E mataram os que de antemão anunciaram a vinda
+do Justo, do qual vocês agora se tornaram traidores e homicidas; 7:53vocês,
+que receberam a lei conforme foi ordenada por anjos, e não a guardaram.
+7:54Ora, quando ouviram estas coisas, ficaram cortados no coração e rangeram
+contra ele os dentes. 7:55Mas ele, estando cheio do Espírito Santo, olhou
+fixamente para o céu e viu a glória de Deus, e Jesus em pé à direita de
+Deus, 7:56e disse: Eis que vejo os céus abertos, e o Filho do homem em pé à
+direita de Deus. 7:57Mas eles clamaram com alta voz, e taparam os ouvidos, e
+arremeteram contra ele de comum acordo; 7:58e lançaram-no fora da cidade, e
+apedrejaram-no; e as testemunhas depuseram as suas vestes aos pés de um
+jovem chamado Saulo. 7:59E apedrejaram Estêvão, o qual invocava o Senhor e
+dizia: Senhor Jesus, recebe o meu espírito. 7:60E ajoelhou-se, e clamou com
+alta voz: Senhor, não ponhas este pecado à conta deles. E, quando disse
+isto, adormeceu.
+
+
 8:1And Saul was consenting unto his death. And there arose on that day a
 great persecution against the church which was in Jerusalem; and they were
 all scattered abroad throughout the regions of Judæa and Samaria, except the
@@ -524,6 +978,69 @@ Spirit of the Lord caught away Philip; and the eunuch saw him no more, for
 he went on his way rejoicing. 8:40But Philip was found at Azotus: and
 passing through he preached the gospel to all the cities, till he came to
 Cæsarea.
+
+8:1E Saulo consentia na morte dele. E levantou-se naquele dia uma grande
+perseguição contra a igreja que estava em Jerusalém; e todos foram dispersos
+pelas regiões da Judeia e de Samaria, exceto os apóstolos. 8:2E homens
+devotos sepultaram Estêvão e fizeram grande lamentação sobre ele. 8:3Mas
+Saulo devastava a igreja, entrando em cada casa e, arrastando homens e
+mulheres, entregava-os à prisão. 8:4Os que, portanto, foram dispersos
+andavam por toda parte pregando a palavra. 8:5E Filipe desceu à cidade de
+Samaria e proclamou-lhes o Cristo. 8:6E as multidões atendiam unanimemente
+às coisas que eram ditas por Filipe, quando ouviam e viam os sinais que ele
+fazia. 8:7Pois de muitos dos que tinham espíritos imundos, eles saíam,
+clamando com alta voz: e muitos que eram paralíticos, e que eram coxos,
+foram curados. 8:8E houve muita alegria naquela cidade. 8:9Mas havia um
+certo homem, de nome Simão, que outrora na cidade usava de feitiçaria e
+maravilhava o povo de Samaria, afirmando que ele mesmo era alguém grande:
+8:10ao qual todos atendiam, do menor ao maior, dizendo: Este homem é aquele
+poder de Deus que é chamado Grande. 8:11E atendiam-no, porque havia longo
+tempo ele os maravilhava com as suas feitiçarias. 8:12Mas, quando creram a
+Filipe, que pregava boas-novas acerca do reino de Deus e do nome de Jesus
+Cristo, foram batizados, tanto homens como mulheres. 8:13E também o próprio
+Simão creu; e, sendo batizado, continuava com Filipe; e, contemplando sinais
+e grandes milagres operados, maravilhava-se. 8:14Ora, quando os apóstolos
+que estavam em Jerusalém ouviram que Samaria havia recebido a palavra de
+Deus, enviaram-lhes Pedro e João: 8:15os quais, tendo descido, oraram por
+eles, para que recebessem o Espírito Santo; 8:16pois ainda não havia caído
+sobre nenhum deles; somente haviam sido batizados no nome do Senhor Jesus.
+8:17Então lhes impuseram as mãos, e eles receberam o Espírito Santo.
+8:18Ora, quando Simão viu que pela imposição das mãos dos apóstolos era dado
+o Espírito Santo, ofereceu-lhes dinheiro, 8:19dizendo: Deem-me também este
+poder, para que, sobre quem quer que eu imponha as mãos, ele receba o
+Espírito Santo. 8:20Mas Pedro lhe disse: A tua prata pereça contigo, porque
+pensaste obter o dom de Deus com dinheiro. 8:21Não tens parte nem sorte
+neste assunto, porque o teu coração não é reto diante de Deus.
+8:22Arrepende-te, portanto, desta tua maldade, e ora ao Senhor, se
+porventura o pensamento do teu coração te for perdoado. 8:23Pois vejo que
+estás no fel da amargura e no laço da iniquidade. 8:24E Simão respondeu e
+disse: Orem vocês por mim ao Senhor, para que nenhuma das coisas que vocês
+falaram venha sobre mim. 8:25Eles, portanto, havendo testificado e falado a
+palavra do Senhor, voltaram a Jerusalém e pregaram o evangelho a muitas
+aldeias dos samaritanos. 8:26Mas um anjo do Senhor falou a Filipe, dizendo:
+Levanta-te e vai para o sul, ao caminho que desce de Jerusalém a Gaza; esse
+mesmo é deserto. 8:27E ele se levantou e foi; e eis um homem da Etiópia, um
+eunuco de grande autoridade sob Candace, rainha dos etíopes, que estava
+sobre todo o tesouro dela, o qual viera a Jerusalém para adorar; 8:28e
+voltava e estava sentado no seu carro, e lia o profeta Isaías. 8:29E o
+Espírito disse a Filipe: Aproxima-te e ajunta-te a este carro. 8:30E Filipe
+correu até ele e ouviu-o lendo Isaías, o profeta, e disse: Compreendes tu o
+que lês? 8:31E ele disse: Como posso eu, a não ser que alguém me guie? E
+rogou a Filipe que subisse e se sentasse com ele. 8:32Ora, a passagem da
+Escritura que ele lia era esta: Ele foi levado como ovelha ao matadouro; e,
+como um cordeiro diante do seu tosquiador é mudo, assim ele não abre a sua
+boca: 8:33Na sua humilhação o seu juízo foi tirado: A sua geração, quem a
+declarará? Porque a sua vida é tirada da terra. 8:34E o eunuco respondeu a
+Filipe e disse: Rogo-te, de quem fala o profeta isto? de si mesmo, ou de
+algum outro? 8:35E Filipe abriu a sua boca e, começando desta Escritura,
+pregou-lhe Jesus. 8:36E, indo eles pelo caminho, chegaram a uma certa água;
+e o eunuco diz: Eis, aqui está água; que me impede de ser batizado? 8:38E
+ele mandou que o carro parasse; e ambos desceram à água, tanto Filipe como o
+eunuco; e ele o batizou. 8:39E, quando subiram da água, o Espírito do Senhor
+arrebatou Filipe; e o eunuco não o viu mais, pois seguia o seu caminho
+regozijando-se. 8:40Mas Filipe foi achado em Azoto; e, passando, pregava o
+evangelho a todas as cidades, até que chegou a Cesareia.
+
 
 9:1But Saul, yet breathing threatening and slaughter against the disciples
 of the Lord, went unto the high priest, 9:2and asked of him letters to
@@ -599,6 +1116,78 @@ she sat up. 9:41And he gave her his hand, and raised her up; and calling the
 saints and widows, he presented her alive. 9:42And it became known
 throughout all Joppa: and many believed on the Lord. 9:43And it came to
 pass, that he abode many days in Joppa with one Simon a tanner.
+
+9:1Mas Saulo, respirando ainda ameaça e matança contra os discípulos do
+Senhor, foi ao sumo sacerdote, 9:2e pediu-lhe cartas para Damasco, às
+sinagogas, para que, se encontrasse alguns que fossem do Caminho, quer
+homens, quer mulheres, os trouxesse presos a Jerusalém. 9:3E, enquanto
+viajava, aconteceu que ele se aproximou de Damasco; e de repente
+resplandeceu ao redor dele uma luz vinda do céu; 9:4e caiu por terra e ouviu
+uma voz que lhe dizia: Saulo, Saulo, por que me persegues? 9:5E ele disse:
+Quem és tu, Senhor? E ele disse: Eu sou Jesus, a quem tu persegues; 9:6mas
+levanta-te e entra na cidade, e te será dito o que deves fazer. 9:7E os
+homens que viajavam com ele ficaram de pé, sem fala, ouvindo a voz, mas não
+vendo homem algum. 9:8E Saulo se levantou da terra; e, quando os seus olhos
+se abriram, não via nada; e levaram-no pela mão e o introduziram em Damasco.
+9:9E esteve três dias sem vista, e não comeu nem bebeu. 9:10Ora, havia em
+Damasco um certo discípulo chamado Ananias; e o Senhor lhe disse numa visão:
+Ananias. E ele disse: Eis-me aqui, Senhor. 9:11E o Senhor lhe disse:
+Levanta-te e vai à rua que se chama Reta, e procura na casa de Judas um
+chamado Saulo, homem de Tarso; pois eis que ele ora; 9:12e ele viu um homem
+chamado Ananias entrar e impor-lhe as mãos, para que recuperasse a vista.
+9:13Mas Ananias respondeu: Senhor, tenho ouvido de muitos acerca deste homem
+quanto mal ele fez aos teus santos em Jerusalém; 9:14e aqui ele tem
+autoridade dos principais sacerdotes para prender todos os que invocam o teu
+nome. 9:15Mas o Senhor lhe disse: Vai pelo teu caminho; porque ele é para
+mim um vaso escolhido, para levar o meu nome perante os gentios e os reis, e
+os filhos de Israel; 9:16pois eu lhe mostrarei quantas coisas ele deve
+sofrer por amor do meu nome. 9:17E Ananias partiu e entrou na casa; e,
+impondo-lhe as mãos, disse: Irmão Saulo, o Senhor, isto é, Jesus, que te
+apareceu no caminho por onde vieste, enviou-me, para que recuperes a tua
+vista e sejas cheio do Espírito Santo. 9:18E logo caíram-lhe dos olhos como
+que escamas, e ele recuperou a vista; e levantou-se e foi batizado; 9:19e
+tomou alimento e foi fortalecido. E esteve certos dias com os discípulos que
+estavam em Damasco. 9:20E logo, nas sinagogas, proclamou Jesus, que ele é o
+Filho de Deus. 9:21E todos os que o ouviam maravilharam-se e disseram: Não é
+este aquele que em Jerusalém devastou os que invocavam este nome? e tinha
+vindo para cá com este intento, para os levar presos perante os principais
+sacerdotes. 9:22Mas Saulo crescia ainda mais em força e confundia os judeus
+que habitavam em Damasco, provando que este é o Cristo. 9:23E, quando muitos
+dias se cumpriram, os judeus tomaram conselho juntos para o matar; 9:24mas a
+trama deles se tornou conhecida de Saulo. E vigiavam também as portas dia e
+noite, para o matar; 9:25mas os seus discípulos tomaram-no de noite e
+desceram-no pelo muro, baixando-o num cesto. 9:26E, quando chegou a
+Jerusalém, tentou ajuntar-se aos discípulos; e todos tinham medo dele, não
+crendo que ele fosse discípulo. 9:27Mas Barnabé tomou-o e levou-o aos
+apóstolos, e declarou-lhes como ele vira o Senhor no caminho, e que este lhe
+falara, e como em Damasco pregara ousadamente no nome de Jesus. 9:28E estava
+com eles, entrando e saindo em Jerusalém, 9:29pregando ousadamente no nome
+do Senhor; e falava e disputava contra os judeus gregos; mas eles procuravam
+matá-lo. 9:30E, quando os irmãos souberam disso, fizeram-no descer a
+Cesareia e o enviaram a Tarso. 9:31Assim a igreja por toda a Judeia e a
+Galileia e Samaria tinha paz, sendo edificada; e, andando no temor do Senhor
+e na consolação do Espírito Santo, multiplicava-se. 9:32E aconteceu que,
+enquanto Pedro passava por todas as partes, desceu também aos santos que
+habitavam em Lida. 9:33E ali achou um certo homem chamado Eneias, que havia
+oito anos guardava o leito, porque era paralítico. 9:34E Pedro lhe disse:
+Eneias, Jesus Cristo te cura; levanta-te e faze o teu leito. E logo ele se
+levantou. 9:35E todos os que habitavam em Lida e em Sarona o viram, e
+voltaram-se para o Senhor. 9:36Ora, havia em Jope uma certa discípula
+chamada Tabita, que por interpretação se chama Dorcas; esta mulher era cheia
+de boas obras e de obras de esmola que ela fazia. 9:37E aconteceu, naqueles
+dias, que ela enfermou e morreu; e, havendo-a lavado, puseram-na num
+aposento superior. 9:38E, como Lida era perto de Jope, os discípulos,
+ouvindo que Pedro estava ali, enviaram-lhe dois homens, rogando-lhe: Não te
+demores em vir até nós. 9:39E Pedro se levantou e foi com eles. E, quando
+ele chegou, levaram-no ao aposento superior; e todas as viúvas estavam junto
+dele, chorando e mostrando as túnicas e as vestes que Dorcas fazia, enquanto
+estava com elas. 9:40Mas Pedro pôs todos para fora, ajoelhou-se e orou; e,
+voltando-se para o corpo, disse: Tabita, levanta-te. E ela abriu os olhos;
+e, quando viu Pedro, sentou-se. 9:41E deu-lhe a mão e a levantou; e,
+chamando os santos e as viúvas, apresentou-a viva. 9:42E tornou-se conhecido
+por toda Jope; e muitos creram no Senhor. 9:43E aconteceu que ele permaneceu
+muitos dias em Jope com um Simão, curtidor.
+
 
 10:1Now there was a certain man in Cæsarea, Cornelius by name, a centurion
 of the band called the Italian band, 10:2a devout man, and one that feared
@@ -682,6 +1271,87 @@ not be baptized, who have received the Holy Spirit as well as we? 10:48And
 he commanded them to be baptized in the name of Jesus Christ. Then prayed
 they him to tarry certain days.
 
+10:1Ora, havia um certo homem em Cesareia, de nome Cornélio, centurião da
+coorte chamada a coorte italiana, 10:2homem devoto, e um que temia a Deus
+com toda a sua casa, o qual dava muitas esmolas ao povo e orava a Deus
+sempre. 10:3Ele viu numa visão, abertamente, como que por volta da hora nona
+do dia, um anjo de Deus entrando até ele e dizendo-lhe: Cornélio. 10:4E ele,
+cravando nele os olhos e atemorizado, disse: Que é isto, Senhor? E ele lhe
+disse: As tuas orações e as tuas esmolas subiram para memorial diante de
+Deus. 10:5E agora envia homens a Jope e manda buscar um Simão, que é
+cognominado Pedro: 10:6ele se hospeda com um certo Simão, curtidor, cuja
+casa está à beira-mar. 10:7E, quando o anjo que lhe falou se retirou, chamou
+dois dos seus servos domésticos e um soldado devoto dentre os que o atendiam
+continuamente; 10:8e, tendo-lhes exposto todas as coisas, enviou-os a Jope.
+10:9Ora, no dia seguinte, enquanto eles iam de caminho e se aproximavam da
+cidade, Pedro subiu ao terraço para orar, por volta da hora sexta: 10:10e
+teve fome e desejou comer; mas, enquanto preparavam, caiu em êxtase; 10:11e
+ele vê o céu aberto, e um certo vaso descendo, como que um grande lençol,
+descido pelos quatro cantos sobre a terra: 10:12no qual havia toda sorte de
+bestas quadrúpedes e rastejantes da terra e aves do céu. 10:13E veio-lhe uma
+voz: Levanta-te, Pedro; mata e come. 10:14Mas Pedro disse: De modo nenhum,
+Senhor; porque nunca comi coisa alguma que seja comum e impura. 10:15E uma
+voz veio a ele outra vez, pela segunda vez: O que Deus purificou, não o
+tornes tu comum. 10:16E isto foi feito três vezes; e logo o vaso foi
+recolhido ao céu. 10:17Ora, enquanto Pedro estava muito perplexo em si mesmo
+sobre o que poderia significar a visão que tinha visto, eis que os homens
+que foram enviados por Cornélio, tendo indagado pela casa de Simão, estavam
+diante do portão, 10:18e chamaram e perguntaram se Simão, que era
+cognominado Pedro, se hospedava ali. 10:19E, enquanto Pedro pensava na
+visão, o Espírito lhe disse: Eis que três homens te buscam. 10:20Mas
+levanta-te, e desce, e vai com eles, nada duvidando; porque eu os enviei.
+10:21E Pedro desceu até os homens e disse: Eis que eu sou aquele a quem
+vocês buscam; qual é a causa por que vocês vieram? 10:22E eles disseram:
+Cornélio, um centurião, homem justo e um que teme a Deus, e bem afamado por
+toda a nação dos judeus, foi avisado por Deus, por um santo anjo, para te
+mandar chamar à sua casa e ouvir palavras de ti. 10:23Assim ele os chamou
+para dentro e os hospedou. E, no dia seguinte, levantou-se e saiu com eles,
+e alguns dos irmãos de Jope o acompanharam. 10:24E, no dia seguinte,
+entraram em Cesareia. E Cornélio os esperava, tendo reunido os seus parentes
+e os seus amigos chegados. 10:25E, quando aconteceu que Pedro entrou,
+Cornélio o encontrou, e caiu a seus pés, e o adorou. 10:26Mas Pedro o
+ergueu, dizendo: Levanta-te; eu mesmo também sou homem. 10:27E, enquanto
+conversava com ele, entrou e acha muitos reunidos: 10:28e disse-lhes: Vocês
+mesmos sabem como é coisa ilícita a um homem que é judeu juntar-se ou
+chegar-se a alguém de outra nação; e, contudo, a mim Deus mostrou que eu não
+deveria chamar homem algum comum ou impuro; 10:29pelo que também vim sem
+contradizer, quando fui mandado chamar. Pergunto, portanto, com que intenção
+vocês me mandaram chamar. 10:30E Cornélio disse: Há quatro dias, até esta
+hora, eu guardava a hora nona de oração em minha casa; e eis que um homem se
+pôs diante de mim em veste resplandecente, 10:31e diz: Cornélio, a tua
+oração é ouvida, e as tuas esmolas são tidas em lembrança à vista de Deus.
+10:32Envia, portanto, a Jope, e chama a ti Simão, que é cognominado Pedro;
+ele se hospeda na casa de Simão, curtidor, à beira-mar. 10:33Imediatamente,
+portanto, enviei a ti; e tu fizeste bem em vir. Agora, portanto, estamos
+todos aqui presentes à vista de Deus, para ouvir todas as coisas que te
+foram ordenadas da parte do Senhor. 10:34E Pedro abriu a boca e disse: Em
+verdade percebo que Deus não faz acepção de pessoas; 10:35mas, em toda
+nação, aquele que o teme e pratica a justiça lhe é aceitável. 10:36A palavra
+que ele enviou aos filhos de Israel, anunciando boas-novas de paz por Jesus
+Cristo (ele é Senhor de todos)— 10:37esse dito vocês mesmos conhecem, o qual
+foi publicado por toda a Judeia, começando desde a Galileia, depois do
+batismo que João pregou; 10:38mesmo Jesus de Nazaré, como Deus o ungiu com o
+Espírito Santo e com poder; o qual andou fazendo o bem e curando todos os
+que eram oprimidos pelo diabo; porque Deus estava com ele. 10:39E nós somos
+testemunhas de todas as coisas que ele fez, tanto na terra dos judeus como
+em Jerusalém; a quem também eles mataram, pendurando-o numa árvore. 10:40A
+este Deus ressuscitou ao terceiro dia e o deu para que fosse feito
+manifesto, 10:41não a todo o povo, mas a testemunhas que foram escolhidas de
+antemão por Deus, a saber, a nós, que comemos e bebemos com ele depois que
+ressurgiu dentre os mortos. 10:42E ele nos encarregou de pregar ao povo e de
+testificar que este é aquele que foi constituído por Deus para ser o Juiz
+dos vivos e dos mortos. 10:43A ele dão testemunho todos os profetas, de que,
+pelo seu nome, todo aquele que crê nele receberá remissão de pecados.
+10:44Enquanto Pedro ainda falava estas palavras, o Espírito Santo caiu sobre
+todos os que ouviram a palavra. 10:45E os da circuncisão que creram ficaram
+admirados, todos quantos vieram com Pedro, porque também sobre os gentios
+foi derramado o dom do Espírito Santo. 10:46Pois ouviam-nos falar em línguas
+e engrandecer a Deus. Então respondeu Pedro: 10:47Pode alguém impedir a
+água, para que estes não sejam batizados, os quais receberam o Espírito
+Santo assim como nós? 10:48E ordenou que fossem batizados no nome de Jesus
+Cristo. Então lhe rogaram que permanecesse alguns dias.
+
+
 11:1Now the apostles and the brethren that were in Judæa heard that the
 Gentiles also had received the word of God. 11:2And when Peter was come up
 to Jerusalem, they that were of the circumcision contended with him,
@@ -733,6 +1403,56 @@ disciples, every man according to his ability, determined to send relief
 unto the brethren that dwelt in Judæa: 11:30which also they did, sending it
 to the elders by the hand of Barnabas and Saul.
 
+11:1Ora, os apóstolos e os irmãos que estavam na Judeia ouviram que também
+os gentios tinham recebido a palavra de Deus. 11:2E, quando Pedro subiu a
+Jerusalém, os que eram da circuncisão contenderam com ele, 11:3dizendo: Tu
+foste ter com homens incircuncisos e comeste com eles. 11:4Mas Pedro começou
+e lhes expôs o assunto por ordem, dizendo: 11:5Eu estava na cidade de Jope
+orando; e, em êxtase, vi uma visão, um certo vaso que descia, como que um
+grande lençol descido do céu pelos quatro cantos; e veio até mesmo a mim:
+11:6sobre o qual, quando fixei os meus olhos, considerei e vi as bestas
+quadrúpedes da terra, e as feras, e os rastejantes, e as aves do céu. 11:7E
+ouvi também uma voz que me dizia: Levanta-te, Pedro; mata e come. 11:8Mas eu
+disse: De modo nenhum, Senhor; porque nada comum ou impuro jamais entrou na
+minha boca. 11:9Mas uma voz respondeu, pela segunda vez, desde o céu: O que
+Deus purificou, não o tornes tu comum. 11:10E isto foi feito três vezes; e
+tudo foi novamente alçado ao céu. 11:11E eis que, imediatamente, três homens
+estavam diante da casa em que nós estávamos, tendo sido enviados de Cesareia
+a mim. 11:12E o Espírito mandou-me ir com eles, sem fazer distinção. E estes
+seis irmãos também me acompanharam; e entramos na casa do homem: 11:13e ele
+nos contou como tinha visto o anjo de pé em sua casa, e dizendo: Envia a
+Jope e manda buscar Simão, cujo sobrenome é Pedro; 11:14o qual te falará
+palavras, pelas quais serás salvo, tu e toda a tua casa. 11:15E, quando
+comecei a falar, o Espírito Santo caiu sobre eles, assim como sobre nós no
+princípio. 11:16E lembrei-me da palavra do Senhor, como ele disse: João, na
+verdade, batizou com água; mas vocês serão batizados no Espírito Santo.
+11:17Se, então, Deus lhes deu o mesmo dom que também nos deu, quando cremos
+no Senhor Jesus Cristo, quem era eu, para que pudesse resistir a Deus?
+11:18E, quando ouviram estas coisas, calaram-se e glorificaram a Deus,
+dizendo: Então também aos gentios Deus concedeu o arrependimento para a
+vida. 11:19Aqueles, portanto, que foram dispersos ao longe por ocasião da
+tribulação que surgiu acerca de Estêvão viajaram até a Fenícia, e Chipre, e
+Antioquia, não falando a palavra a ninguém, senão somente a judeus. 11:20Mas
+havia alguns deles, homens de Chipre e de Cirene, os quais, quando chegaram
+a Antioquia, falaram também aos gregos, pregando o Senhor Jesus. 11:21E a
+mão do Senhor estava com eles; e um grande número que creu voltou-se para o
+Senhor. 11:22E a notícia a respeito deles chegou aos ouvidos da igreja que
+estava em Jerusalém; e enviaram Barnabé até Antioquia: 11:23o qual, quando
+chegou e viu a graça de Deus, alegrou-se; e exortou a todos a que, com
+propósito de coração, se apegassem ao Senhor; 11:24porque era homem bom, e
+cheio do Espírito Santo e de fé; e muita gente foi acrescentada ao Senhor.
+11:25E ele partiu para Tarso, a fim de buscar Saulo; 11:26e, quando o
+encontrou, trouxe-o a Antioquia. E aconteceu que, mesmo por um ano inteiro,
+eles se reuniram com a igreja e ensinaram muita gente; e que os discípulos
+foram chamados cristãos primeiramente em Antioquia. 11:27Ora, nestes dias
+desceram profetas de Jerusalém a Antioquia. 11:28E levantou-se um deles,
+chamado Ágabo, e significou pelo Espírito que haveria uma grande fome sobre
+todo o mundo; a qual sucedeu nos dias de Cláudio. 11:29E os discípulos, cada
+homem segundo a sua capacidade, determinaram enviar socorro aos irmãos que
+habitavam na Judeia; 11:30o que também fizeram, enviando-o aos anciãos pela
+mão de Barnabé e Saulo.
+
+
 12:1Now about that time Herod the king put forth his hands to afflict
 certain of the church. 12:2And he killed James the brother of John with the
 sword. 12:3And when he saw that it pleased the Jews, he proceeded to seize
@@ -782,6 +1502,53 @@ of worms, and gave up the ghost. 12:24But the word of God grew and
 multiplied. 12:25And Barnabas and Saul returned from Jerusalem, when they
 had fulfilled their ministration, taking with them John whose surname was
 Mark.
+
+12:1Ora, por aquele tempo, Herodes, o rei, estendeu as mãos para afligir
+alguns da igreja. 12:2E matou Tiago, o irmão de João, à espada. 12:3E,
+quando viu que isso agradava aos judeus, prosseguiu a prender também Pedro.
+E aqueles eram os dias dos pães asmos. 12:4E, quando o havia tomado, pô-lo
+na prisão e o entregou a quatro quaternos de soldados para o guardarem,
+tencionando, depois da Páscoa, apresentá-lo ao povo. 12:5Pedro, portanto,
+era guardado na prisão; mas oração era feita fervorosamente pela igreja a
+Deus por ele. 12:6E, quando Herodes estava prestes a apresentá-lo, naquela
+mesma noite Pedro dormia entre dois soldados, preso com duas correntes; e
+guardas diante da porta guardavam a prisão. 12:7E eis que um anjo do Senhor
+se pôs ao lado dele, e uma luz brilhou na cela; e feriu Pedro no lado e o
+despertou, dizendo: Levanta-te depressa. E as suas correntes caíram-lhe das
+mãos. 12:8E o anjo lhe disse: Cinge-te e ata as tuas sandálias. E ele assim
+o fez. E diz-lhe: Lança a tua veste sobre ti e segue-me. 12:9E ele saiu e
+seguiu; e não sabia que era verdadeiro o que era feito pelo anjo, mas
+pensava que via uma visão. 12:10E, quando passaram a primeira e a segunda
+guarda, chegaram ao portão de ferro que conduz à cidade, o qual se lhes
+abriu por si mesmo; e saíram, e passaram adiante por uma rua; e logo o anjo
+se apartou dele. 12:11E, quando Pedro tornou a si, disse: Agora sei de
+verdade que o Senhor enviou o seu anjo e me livrou da mão de Herodes e de
+toda a expectativa do povo dos judeus. 12:12E, havendo considerado a coisa,
+veio à casa de Maria, a mãe de João, cujo sobrenome era Marcos, onde muitos
+estavam reunidos e oravam. 12:13E, quando ele bateu à porta do portão, uma
+criada veio atender, chamada Rode. 12:14E, quando ela reconheceu a voz de
+Pedro, não abriu o portão, de alegria, mas correu para dentro e contou que
+Pedro estava diante do portão. 12:15E disseram-lhe: Estás louca. Mas ela
+afirmava com confiança que era assim mesmo. E disseram: É o seu anjo.
+12:16Mas Pedro continuava a bater; e, quando abriram, viram-no e ficaram
+atônitos. 12:17Mas ele, acenando-lhes com a mão para que se calassem,
+declarou-lhes como o Senhor o tinha tirado da prisão. E disse: Contem estas
+coisas a Tiago e aos irmãos. E partiu, e foi para outro lugar. 12:18Ora,
+logo que se fez dia, não houve pequeno alvoroço entre os soldados, sobre o
+que fora feito de Pedro. 12:19E, quando Herodes o havia buscado e não o
+achou, examinou os guardas e ordenou que fossem mortos. E desceu da Judeia
+para Cesareia, e ali se demorou. 12:20Ora, ele estava sumamente descontente
+com os de Tiro e de Sidom; e eles vieram de comum acordo a ele e, tendo
+feito de Blasto, o camareiro do rei, amigo seu, pediram paz, porque o seu
+país era alimentado do país do rei. 12:21E, num dia determinado, Herodes
+vestiu-se de traje real, sentou-se no trono e lhes fez um discurso. 12:22E o
+povo gritava, dizendo: Voz de um deus, e não de um homem. 12:23E
+imediatamente um anjo do Senhor o feriu, porque não deu a Deus a glória; e
+foi comido de vermes e entregou o espírito. 12:24Mas a palavra de Deus
+crescia e se multiplicava. 12:25E Barnabé e Saulo voltaram de Jerusalém,
+quando tinham cumprido o seu ministério, levando consigo João, cujo
+sobrenome era Marcos.
+
 
 13:1Now there were at Antioch, in the church that was there, prophets and
 teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene,
@@ -878,6 +1645,96 @@ persecution against Paul and Barnabas, and cast them out of their borders.
 Iconium. 13:52And the disciples were filled with joy and with the Holy
 Spirit.
 
+13:1Ora, havia em Antioquia, na igreja que ali estava, profetas e mestres:
+Barnabé, e Simeão, que era chamado Níger, e Lúcio de Cirene, e Manaém, irmão
+de criação de Herodes, o tetrarca, e Saulo. 13:2E, enquanto eles ministravam
+ao Senhor e jejuavam, disse o Espírito Santo: Separem-me Barnabé e Saulo
+para a obra para a qual os tenho chamado. 13:3Então, tendo jejuado e orado e
+lhes imposto as mãos, despediram-nos. 13:4Assim eles, enviados pelo Espírito
+Santo, desceram a Selêucia; e dali navegaram para Chipre. 13:5E, quando
+estavam em Salamina, proclamaram a palavra de Deus nas sinagogas dos judeus;
+e tinham também João como seu auxiliar. 13:6E, quando tinham atravessado
+toda a ilha até Pafos, acharam certo feiticeiro, um falso profeta, judeu,
+cujo nome era Bar-Jesus; 13:7o qual estava com o procônsul, Sérgio Paulo,
+homem de entendimento. Este chamou a si Barnabé e Saulo e procurava ouvir a
+palavra de Deus. 13:8Mas Elimas, o feiticeiro (pois assim é o seu nome por
+interpretação), resistia-lhes, procurando desviar o procônsul da fé. 13:9Mas
+Saulo, que também é chamado Paulo, cheio do Espírito Santo, fixou os olhos
+nele, 13:10e disse: Ó cheio de todo o engano e de toda a vilania, tu, filho
+do diabo, tu, inimigo de toda a justiça, não cessarás de perverter os retos
+caminhos do Senhor? 13:11E agora, eis que a mão do Senhor está sobre ti, e
+ficarás cego, não vendo o sol por um tempo. E imediatamente caiu sobre ele
+uma névoa e uma escuridão; e andava buscando alguém que o levasse pela mão.
+13:12Então o procônsul, quando viu o que fora feito, creu, estando atônito
+com o ensino do Senhor. 13:13Ora, Paulo e a sua companhia fizeram-se à vela
+de Pafos e chegaram a Perge, na Panfília; e João apartou-se deles e voltou a
+Jerusalém. 13:14Mas eles, passando de Perge, chegaram a Antioquia da
+Pisídia; e entraram na sinagoga no dia de sábado e sentaram-se. 13:15E,
+depois da leitura da lei e dos profetas, os chefes da sinagoga mandaram-lhes
+dizer: Irmãos, se vocês têm alguma palavra de exortação para o povo, falem.
+13:16E Paulo levantou-se e, acenando com a mão, disse: Homens de Israel, e
+vocês que temem a Deus, ouçam: 13:17O Deus deste povo Israel escolheu os
+nossos pais e exaltou o povo quando peregrinavam na terra do Egito, e com
+braço alto os tirou de lá. 13:18E, por cerca do tempo de quarenta anos, como
+pai nutrício os carregou no deserto. 13:19E, havendo destruído sete nações
+na terra de Canaã, deu-lhes a terra delas por herança, por cerca de
+quatrocentos e cinquenta anos: 13:20e, depois destas coisas, deu-lhes juízes
+até Samuel, o profeta. 13:21E, depois, pediram um rei; e Deus lhes deu Saul,
+filho de Quis, homem da tribo de Benjamim, pelo espaço de quarenta anos.
+13:22E, havendo-o removido, levantou Davi para ser rei deles; ao qual também
+deu testemunho e disse: Achei Davi, filho de Jessé, um homem segundo o meu
+coração, que fará toda a minha vontade. 13:23Da semente deste homem, Deus,
+segundo a promessa, trouxe a Israel um Salvador, Jesus; 13:24quando João
+havia primeiro pregado, antes da sua vinda, o batismo de arrependimento a
+todo o povo de Israel. 13:25E, cumprindo João o seu curso, disse: Que supõem
+vocês que eu sou? Eu não sou ele. Mas eis que vem depois de mim um, de cujos
+pés não sou digno de desatar os sapatos. 13:26Irmãos, filhos da estirpe de
+Abraão, e os que entre vocês temem a Deus, a nós é enviada a palavra desta
+salvação. 13:27Porque os que habitam em Jerusalém, e os seus chefes, por não
+conhecerem nem a ele nem as vozes dos profetas que são lidas todo sábado,
+cumpriram-nas, condenando-o. 13:28E, embora não achassem nele causa de
+morte, ainda assim pediram a Pilatos que ele fosse morto. 13:29E, quando
+tinham cumprido todas as coisas que dele estavam escritas, desceram-no da
+árvore e o puseram num túmulo. 13:30Mas Deus o levantou dentre os mortos:
+13:31e, por muitos dias, foi visto por aqueles que subiram com ele da
+Galileia a Jerusalém, os quais agora são suas testemunhas para o povo.
+13:32E nós trazemos a vocês as boas-novas da promessa feita aos pais,
+13:33que Deus a cumpriu para os nossos filhos, porquanto levantou a Jesus;
+como também está escrito no segundo salmo: Tu és meu Filho, hoje te gerei.
+13:34E, quanto a havê-lo levantado dentre os mortos, para já não mais voltar
+à corrupção, falou desta maneira: Darei a vocês as santas e seguras bênçãos
+de Davi. 13:35Porque diz também noutro salmo: Não darás o teu Santo a ver a
+corrupção. 13:36Porque Davi, depois de haver, na sua própria geração,
+servido o conselho de Deus, adormeceu, e foi posto junto de seus pais, e viu
+a corrupção: 13:37mas aquele a quem Deus levantou não viu a corrupção.
+13:38Seja, portanto, conhecido de vocês, irmãos, que por meio deste homem é
+proclamada a vocês a remissão dos pecados: 13:39e por ele todo aquele que
+crê é justificado de todas as coisas das quais vocês não puderam ser
+justificados pela lei de Moisés. 13:40Acautelem-se, portanto, para que não
+venha sobre vocês o que está dito nos profetas: 13:41Eis, vocês,
+desprezadores, maravilhem-se e pereçam; porque eu opero uma obra nos dias de
+vocês, uma obra que vocês de modo nenhum crerão, se alguém a declarar a
+vocês. 13:42E, ao saírem, rogaram que estas palavras lhes fossem ditas no
+sábado seguinte. 13:43Ora, quando a sinagoga se dispersou, muitos dos judeus
+e dos prosélitos devotos seguiram Paulo e Barnabé; os quais, falando-lhes,
+exortavam-nos a continuar na graça de Deus. 13:44E, no sábado seguinte,
+quase toda a cidade estava reunida para ouvir a palavra de Deus. 13:45Mas,
+quando os judeus viram as multidões, encheram-se de ciúme, e contradiziam as
+coisas que eram ditas por Paulo, e blasfemavam. 13:46E Paulo e Barnabé
+falaram ousadamente e disseram: Era necessário que a palavra de Deus fosse
+dita primeiro a vocês. Visto que vocês a lançam para longe de si e se julgam
+indignos da vida eterna, eis que nos voltamos para os gentios. 13:47Porque
+assim nos ordenou o Senhor, dizendo: Eu te pus para luz dos gentios, para
+que sejas para salvação até a parte extrema da terra. 13:48E, ouvindo isto
+os gentios, alegraram-se e glorificaram a palavra de Deus; e creram todos os
+que estavam ordenados para a vida eterna. 13:49E a palavra do Senhor foi
+espalhada por toda a região. 13:50Mas os judeus incitaram as mulheres
+devotas de condição honrada e os homens principais da cidade, e levantaram
+uma perseguição contra Paulo e Barnabé, e os lançaram fora dos seus limites.
+13:51Mas eles sacudiram o pó dos seus pés contra eles e vieram a Icônio.
+13:52E os discípulos ficaram cheios de alegria e do Espírito Santo.
+
+
 14:1And it came to pass in Iconium that they entered together into the
 synagogue of the Jews, and so spake that a great multitude both of Jews and
 of Greeks believed. 14:2But the Jews that were disobedient stirred up the
@@ -927,6 +1784,56 @@ to the grace of God for the work which they had fulfilled. 14:27And when
 they were come, and had gathered the church together, they rehearsed all
 things that God had done with them, and that he had opened a door of faith
 unto the Gentiles. 14:28And they tarried no little time with the disciples.
+
+14:1E aconteceu em Icônio que eles entraram juntos na sinagoga dos judeus, e
+assim falaram que uma grande multidão, tanto de judeus como de gregos, creu.
+14:2Mas os judeus que eram desobedientes agitaram as almas dos gentios e os
+tornaram mal dispostos contra os irmãos. 14:3Por longo tempo, portanto,
+permaneceram ali, falando ousadamente no Senhor, o qual deu testemunho à
+palavra da sua graça, concedendo que sinais e prodígios fossem feitos pelas
+suas mãos. 14:4Mas a multidão da cidade estava dividida; e parte se mantinha
+com os judeus, e parte com os apóstolos. 14:5E, quando se fez uma investida
+tanto dos gentios como dos judeus, com os seus governantes, para os tratar
+vergonhosamente e os apedrejar, 14:6perceberam isso e fugiram para as
+cidades da Licaônia, Listra e Derbe, e a região ao redor: 14:7e ali pregaram
+o evangelho. 14:8E em Listra estava sentado um certo homem, impotente nos
+pés, coxo desde o ventre de sua mãe, que nunca havia andado. 14:9Este ouviu
+Paulo falando; o qual, fixando os olhos nele e vendo que ele tinha fé para
+ser tornado são, 14:10disse com alta voz: Põe-te ereto sobre os teus pés. E
+ele saltou para cima e andou. 14:11E, quando a multidão viu o que Paulo
+havia feito, levantaram a sua voz, dizendo na fala da Licaônia: Os deuses
+desceram até nós em semelhança de homens. 14:12E chamaram Barnabé de
+Júpiter; e Paulo, de Mercúrio, porque ele era o principal orador. 14:13E o
+sacerdote de Júpiter, cujo templo estava diante da cidade, trouxe bois e
+grinaldas até as portas, e queria fazer sacrifício com as multidões.
+14:14Mas, quando os apóstolos, Barnabé e Paulo, ouviram isso, rasgaram as
+suas vestes e lançaram-se para o meio da multidão, clamando 14:15e dizendo:
+Senhores, por que vocês fazem estas coisas? Nós também somos homens de
+paixões semelhantes às de vocês, e trazemos a vocês boas-novas, para que
+vocês se voltem destas coisas vãs para um Deus vivo, que fez o céu, e a
+terra, e o mar, e tudo o que neles há: 14:16o qual, nas gerações passadas,
+permitiu que todas as nações andassem nos seus próprios caminhos. 14:17E
+contudo não se deixou a si mesmo sem testemunho, porquanto fez o bem e deu a
+vocês, do céu, chuvas e estações frutíferas, enchendo os corações de vocês
+de alimento e alegria. 14:18E com estas palavras a custo contiveram as
+multidões de lhes fazer sacrifício. 14:19Mas vieram para lá judeus de
+Antioquia e de Icônio; e, tendo persuadido as multidões, apedrejaram Paulo e
+o arrastaram para fora da cidade, supondo que ele estava morto. 14:20Mas,
+estando os discípulos em pé em redor dele, ele se levantou e entrou na
+cidade; e no dia seguinte saiu com Barnabé para Derbe. 14:21E, quando
+pregaram o evangelho àquela cidade e fizeram muitos discípulos, voltaram a
+Listra, e a Icônio, e a Antioquia, 14:22confirmando as almas dos discípulos,
+exortando-os a continuar na fé, e que, por meio de muitas tribulações, nos é
+necessário entrar no reino de Deus. 14:23E, quando lhes constituíram anciãos
+em cada igreja, e oraram com jejum, encomendaram-nos ao Senhor, em quem
+haviam crido. 14:24E passaram pela Pisídia e chegaram à Panfília. 14:25E,
+quando falaram a palavra em Perge, desceram a Atália; 14:26e dali navegaram
+para Antioquia, de onde haviam sido encomendados à graça de Deus para a obra
+que haviam cumprido. 14:27E, quando chegaram e reuniram a igreja, relataram
+todas as coisas que Deus havia feito com eles, e que ele havia aberto uma
+porta de fé aos gentios. 14:28E permaneceram não pouco tempo com os
+discípulos.
+
 
 15:1And certain men came down from Judæa and taught the brethren, saying,
 Except ye be circumcised after the custom of Moses, ye cannot be saved.
@@ -1000,6 +1907,77 @@ Barnabas took Mark with him, and sailed away unto Cyprus: 15:40but Paul
 chose Silas, and went forth, being commended by the brethren to the grace of
 the Lord. 15:41And he went through Syria and Cilicia, confirming the
 churches.
+
+15:1E certos homens desceram da Judeia e ensinaram os irmãos, dizendo: A não
+ser que vocês sejam circuncidados segundo o costume de Moisés, não podem ser
+salvos. 15:2E, quando Paulo e Barnabé tiveram não pequena dissensão e
+discussão com eles, os irmãos determinaram que Paulo e Barnabé, e certos
+outros dentre eles, subissem a Jerusalém, aos apóstolos e anciãos, acerca
+desta questão. 15:3Eles, portanto, sendo encaminhados pela igreja, passaram
+tanto pela Fenícia como por Samaria, declarando a conversão dos gentios; e
+causaram grande alegria a todos os irmãos. 15:4E, quando chegaram a
+Jerusalém, foram recebidos pela igreja, e pelos apóstolos, e pelos anciãos,
+e relataram todas as coisas que Deus havia feito com eles. 15:5Mas
+levantaram-se alguns da seita dos fariseus que haviam crido, dizendo: É
+necessário circuncidá-los e ordenar-lhes que guardem a lei de Moisés. 15:6E
+os apóstolos e os anciãos se reuniram para considerar este assunto. 15:7E,
+tendo havido muita discussão, Pedro levantou-se e disse-lhes: Irmãos, vocês
+sabem que há já bom tempo Deus fez escolha entre vocês, para que pela minha
+boca os gentios ouvissem a palavra do evangelho e cressem. 15:8E Deus, que
+conhece o coração, deu-lhes testemunho, dando-lhes o Espírito Santo, assim
+como o fez a nós; 15:9e ele não fez distinção entre nós e eles, purificando
+os seus corações pela fé. 15:10Agora, portanto, por que vocês fazem prova de
+Deus, pondo sobre o pescoço dos discípulos um jugo que nem os nossos pais
+nem nós fomos capazes de suportar? 15:11Mas cremos que seremos salvos por
+meio da graça do Senhor Jesus, do mesmo modo que eles. 15:12E toda a
+multidão guardou silêncio; e escutavam Barnabé e Paulo, que relatavam quais
+sinais e prodígios Deus havia operado entre os gentios por meio deles.
+15:13E, depois que eles se calaram, Tiago respondeu, dizendo: Irmãos,
+escutem-me: 15:14Simeão relatou como primeiramente Deus visitou os gentios,
+para tomar dentre eles um povo para o seu nome. 15:15E com isto concordam as
+palavras dos profetas; como está escrito: 15:16Depois destas coisas
+voltarei, e tornarei a edificar o tabernáculo de Davi, que está caído; e
+tornarei a edificar as ruínas dele, e o levantarei: 15:17para que o restante
+dos homens busque o Senhor, e todos os gentios, sobre os quais o meu nome é
+chamado, 15:18diz o Senhor, que desde a antiguidade faz conhecidas estas
+coisas. 15:19Por isso o meu juízo é que não perturbemos os que dentre os
+gentios se voltam para Deus; 15:20mas que lhes escrevamos que se abstenham
+das contaminações dos ídolos, e da fornicação, e do que é sufocado, e do
+sangue. 15:21Porque Moisés, desde gerações antigas, tem em cada cidade os
+que o pregam, sendo lido nas sinagogas a cada sábado. 15:22Então pareceu bem
+aos apóstolos e aos anciãos, com toda a igreja, escolher homens do meio da
+companhia deles e enviá-los a Antioquia com Paulo e Barnabé; a saber, Judas,
+chamado Barsabás, e Silas, homens principais entre os irmãos: 15:23e
+escreveram assim por meio deles: Os apóstolos e os anciãos, irmãos, aos
+irmãos que são dentre os gentios em Antioquia, e Síria, e Cilícia,
+saudações: 15:24Porquanto ouvimos que certos que saíram dentre nós
+perturbaram vocês com palavras, subvertendo as almas de vocês; aos quais não
+demos mandamento algum; 15:25pareceu-nos bem, havendo chegado a um só
+acordo, escolher homens e enviá-los a vocês com o nosso amado Barnabé e
+Paulo, 15:26homens que arriscaram as suas vidas pelo nome de nosso Senhor
+Jesus Cristo. 15:27Enviamos, portanto, Judas e Silas, os quais também eles
+mesmos dirão a vocês as mesmas coisas de viva voz. 15:28Pois pareceu bem ao
+Espírito Santo, e a nós, não impor sobre vocês peso maior do que estas
+coisas necessárias: 15:29que vocês se abstenham das coisas sacrificadas aos
+ídolos, e do sangue, e das coisas sufocadas, e da fornicação; das quais, se
+vocês se guardarem, irá bem com vocês. Passem bem. 15:30Assim eles, quando
+foram despedidos, desceram a Antioquia; e, tendo reunido a multidão,
+entregaram a epístola. 15:31E, quando a leram, alegraram-se pela consolação.
+15:32E Judas e Silas, sendo eles mesmos também profetas, exortaram os irmãos
+com muitas palavras e os confirmaram. 15:33E, depois de terem passado algum
+tempo ali, foram despedidos em paz, da parte dos irmãos, para aqueles que os
+haviam enviado. 15:35Mas Paulo e Barnabé permaneceram em Antioquia,
+ensinando e pregando a palavra do Senhor, com muitos outros também. 15:36E,
+depois de alguns dias, Paulo disse a Barnabé: Voltemos agora e visitemos os
+irmãos em cada cidade em que proclamamos a palavra do Senhor, e vejamos como
+eles estão. 15:37E Barnabé tinha em mente levar com eles também João, que
+era chamado Marcos. 15:38Mas Paulo não achou bom levar com eles aquele que
+se retirara deles desde a Panfília e não fora com eles à obra. 15:39E surgiu
+uma contenda aguda, de modo que se apartaram um do outro, e Barnabé tomou
+consigo Marcos e navegou para Chipre: 15:40mas Paulo escolheu Silas e
+partiu, sendo encomendado pelos irmãos à graça do Senhor. 15:41E ele passou
+pela Síria e pela Cilícia, confirmando as igrejas.
+
 
 16:1And he came also to Derbe and to Lystra: and behold, a certain disciple
 was there, named Timothy, the son of a Jewess that believed; but his father
@@ -1075,6 +2053,80 @@ when they had brought them out, they asked them to go away from the city.
 16:40And they went out of the prison, and entered into the house of Lydia:
 and when they had seen the brethren, they comforted them, and departed.
 
+16:1E chegou também a Derbe e a Listra; e eis que estava ali um certo
+discípulo, chamado Timóteo, filho de uma judia que cria; mas seu pai era
+grego. 16:2O mesmo era bem falado pelos irmãos que estavam em Listra e em
+Icônio. 16:3A este quis Paulo que saísse consigo; e tomou-o e circuncidou-o
+por causa dos judeus que estavam naquelas partes, porque todos sabiam que
+seu pai era grego. 16:4E, enquanto iam pelo seu caminho através das cidades,
+entregavam-lhes os decretos para que os guardassem, os quais haviam sido
+ordenados pelos apóstolos e anciãos que estavam em Jerusalém. 16:5Assim as
+igrejas eram fortalecidas na fé e aumentavam em número diariamente. 16:6E
+percorreram a região da Frígia e da Galácia, tendo sido proibidos pelo
+Espírito Santo de falar a palavra na Ásia; 16:7e, quando chegaram em frente
+da Mísia, tentaram ir para a Bitínia; e o Espírito de Jesus não lhes
+consentiu; 16:8e, passando ao largo da Mísia, desceram a Trôade. 16:9E uma
+visão apareceu a Paulo de noite: Havia um homem da Macedônia em pé,
+suplicando-lhe e dizendo: Passa à Macedônia e ajuda-nos. 16:10E, quando ele
+viu a visão, imediatamente procuramos partir para a Macedônia, concluindo
+que Deus nos havia chamado para pregar o evangelho a eles. 16:11Partindo à
+vela, portanto, de Trôade, fizemos rota direta até Samotrácia e, no dia
+seguinte, até Neápolis; 16:12e dali até Filipos, que é uma cidade da
+Macedônia, a primeira do distrito, uma colônia romana; e estávamos nesta
+cidade, detendo-nos certos dias. 16:13E, no dia de sábado, saímos para fora
+da porta, à beira de um rio, onde supúnhamos que havia um lugar de oração; e
+nos sentamos e falamos às mulheres que se haviam reunido. 16:14E uma certa
+mulher, chamada Lídia, vendedora de púrpura, da cidade de Tiatira, uma que
+adorava a Deus, ouviu-nos, cujo coração o Senhor abriu para dar atenção às
+coisas que eram faladas por Paulo. 16:15E, quando ela foi batizada, e a sua
+casa, rogou-nos, dizendo: Se vocês me julgaram fiel ao Senhor, entrem em
+minha casa e permaneçam ali. E ela nos constrangeu. 16:16E sucedeu que, indo
+nós ao lugar de oração, uma certa moça que tinha um espírito de adivinhação
+encontrou-nos, a qual trazia a seus senhores muito ganho por meio de
+vaticínio. 16:17A mesma, seguindo após Paulo e nós, clamou, dizendo: Estes
+homens são servos do Deus Altíssimo, que proclamam a vocês o caminho da
+salvação. 16:18E isto ela fez por muitos dias. Mas Paulo, estando muito
+perturbado, voltou-se e disse ao espírito: Eu te ordeno, em nome de Jesus
+Cristo, que saias dela. E saiu naquela mesma hora. 16:19Mas, quando os
+senhores dela viram que a esperança do seu ganho se fora, agarraram Paulo e
+Silas e os arrastaram ao mercado, diante dos governantes, 16:20e, quando os
+haviam levado aos magistrados, disseram: Estes homens, sendo judeus,
+perturbam sobremaneira a nossa cidade, 16:21e expõem costumes que não nos é
+lícito receber, nem observar, sendo nós romanos. 16:22E a multidão
+levantou-se juntamente contra eles; e os magistrados rasgaram-lhes as
+vestes, arrancando-as, e mandaram batê-los com varas. 16:23E, quando lhes
+haviam aplicado muitos açoites, lançaram-nos na prisão, ordenando ao
+carcereiro que os guardasse em segurança: 16:24o qual, tendo recebido tal
+ordem, lançou-os na prisão interior e segurou-lhes os pés firmes no tronco.
+16:25Mas, cerca da meia-noite, Paulo e Silas estavam orando e cantando hinos
+a Deus, e os prisioneiros os escutavam; 16:26e de repente houve um grande
+terremoto, de sorte que os fundamentos da casa da prisão foram abalados; e
+imediatamente todas as portas foram abertas, e as ligaduras de cada um foram
+soltas. 16:27E o carcereiro, despertado do sono e vendo abertas as portas da
+prisão, puxou a sua espada e estava prestes a matar-se, supondo que os
+prisioneiros haviam escapado. 16:28Mas Paulo clamou com grande voz, dizendo:
+Não te faças mal algum, porque estamos todos aqui. 16:29E ele pediu luzes, e
+saltou para dentro, e, tremendo de medo, caiu diante de Paulo e de Silas,
+16:30e trouxe-os para fora e disse: Senhores, que devo eu fazer para ser
+salvo? 16:31E eles disseram: Crê no Senhor Jesus, e serás salvo, tu e a tua
+casa. 16:32E falaram a palavra do Senhor a ele, com todos os que estavam em
+sua casa. 16:33E ele os tomou naquela mesma hora da noite e lavou-lhes os
+açoites; e foi batizado, ele e todos os seus, imediatamente. 16:34E levou-os
+para cima, à sua casa, e pôs comida diante deles, e alegrou-se grandemente,
+com toda a sua casa, havendo crido em Deus. 16:35Mas, quando foi dia, os
+magistrados enviaram os oficiais, dizendo: Deixem ir aqueles homens. 16:36E
+o carcereiro relatou as palavras a Paulo, dizendo: Os magistrados mandaram
+deixar vocês ir; agora, portanto, saiam e vão em paz. 16:37Mas Paulo
+disse-lhes: Açoitaram-nos publicamente, sem condenação, homens que somos
+romanos, e lançaram-nos na prisão; e agora nos lançam fora ocultamente? Não,
+em verdade; mas venham eles mesmos e nos tirem para fora. 16:38E os oficiais
+relataram estas palavras aos magistrados; e eles temeram, quando ouviram que
+eram romanos; 16:39e vieram e lhes suplicaram; e, quando os haviam levado
+para fora, pediram-lhes que se afastassem da cidade. 16:40E saíram da prisão
+e entraram na casa de Lídia; e, quando tinham visto os irmãos,
+consolaram-nos e partiram.
+
+
 17:1Now when they had passed through Amphipolis and Apollonia, they came to
 Thessalonica, where was a synagogue of the Jews: 17:2and Paul, as his custom
 was, went in unto them, and for three sabbath days reasoned with them from
@@ -1142,6 +2194,74 @@ concerning this yet again. 17:33Thus Paul went out from among them. 17:34But
 certain men clave unto him, and believed: among whom also was Dionysius the
 Areopagite, and a woman named Damaris, and others with them.
 
+17:1Ora, tendo atravessado Anfípolis e Apolônia, chegaram a Tessalônica,
+onde havia uma sinagoga dos judeus: 17:2e Paulo, como era o seu costume,
+entrou até eles e, por três dias de sábado, arrazoou com eles a partir das
+Escrituras, 17:3abrindo e alegando que convinha que o Cristo padecesse e
+ressurgisse dentre os mortos; e que este Jesus, o qual, disse ele, eu
+proclamo a vocês, é o Cristo. 17:4E alguns deles foram persuadidos e se
+associaram a Paulo e a Silas; e dos gregos devotos, uma grande multidão, e
+das mulheres principais, não poucas. 17:5Mas os judeus, movidos de ciúme,
+tomaram consigo certos sujeitos vis da ralé e, ajuntando uma turba, puseram
+a cidade em alvoroço; e, assaltando a casa de Jasão, procuravam trazê-los
+para fora, ao povo. 17:6E, quando não os acharam, arrastaram Jasão e certos
+irmãos perante os governantes da cidade, clamando: Estes que têm posto o
+mundo de cabeça para baixo chegaram também até aqui; 17:7os quais Jasão
+acolheu; e todos estes agem contrariamente aos decretos de César, dizendo
+que há outro rei, um Jesus. 17:8E perturbaram a multidão e os governantes da
+cidade, quando ouviram estas coisas. 17:9E, quando tomaram fiança de Jasão e
+dos demais, deixaram-nos ir. 17:10E os irmãos imediatamente enviaram Paulo e
+Silas, de noite, a Bereia; os quais, quando chegaram lá, entraram na
+sinagoga dos judeus. 17:11Ora, estes eram mais nobres do que aqueles de
+Tessalônica, porquanto receberam a palavra com toda a prontidão de ânimo,
+examinando diariamente as Escrituras, se estas coisas eram assim.
+17:12Muitos deles, portanto, creram; também das mulheres gregas de condição
+honrada, e de homens, não poucos. 17:13Mas, quando os judeus de Tessalônica
+souberam que a palavra de Deus era proclamada por Paulo também em Bereia,
+vieram igualmente para lá, incitando e perturbando as multidões. 17:14E
+então imediatamente os irmãos enviaram Paulo para ir até ao mar; e Silas e
+Timóteo permaneceram ainda ali. 17:15Mas os que conduziam Paulo levaram-no
+até Atenas; e, recebendo uma ordem para Silas e Timóteo, de que viessem a
+ele com toda a pressa, partiram. 17:16Ora, enquanto Paulo os esperava em
+Atenas, o seu espírito estava exasperado dentro dele, ao contemplar a cidade
+cheia de ídolos. 17:17Assim ele arrazoava na sinagoga com os judeus e com as
+pessoas devotas, e no mercado, todos os dias, com os que o encontravam.
+17:18E também certos dos filósofos epicureus e estoicos o confrontaram. E
+alguns diziam: Que quereria dizer este paroleiro? outros: Ele parece ser um
+expositor de deuses estranhos; porque pregava Jesus e a ressurreição. 17:19E
+tomaram-no e o levaram ao Areópago, dizendo: Podemos saber que novo ensino é
+este, que é falado por ti? 17:20Pois tu trazes certas coisas estranhas aos
+nossos ouvidos; quereríamos, portanto, saber o que estas coisas significam.
+17:21(Ora, todos os atenienses e os estrangeiros que ali se demoravam não
+gastavam o tempo em nenhuma outra coisa, senão ou em contar ou em ouvir
+alguma coisa nova.) 17:22E Paulo pôs-se de pé no meio do Areópago e disse:
+Homens de Atenas, em todas as coisas percebo que vocês são muito religiosos.
+17:23Pois, passando eu e observando os objetos da adoração de vocês,
+encontrei também um altar com esta inscrição: A UM DEUS DESCONHECIDO. O que,
+portanto, vocês adoram na ignorância, isto eu exponho a vocês. 17:24O Deus
+que fez o mundo e todas as coisas que nele há, ele, sendo Senhor do céu e da
+terra, não habita em templos feitos por mãos; 17:25nem é servido por mãos de
+homens, como se precisasse de alguma coisa, visto que ele mesmo dá a todos
+vida, e fôlego, e todas as coisas; 17:26e de um só fez toda nação de homens,
+para habitar sobre toda a face da terra, havendo determinado as estações que
+lhes foram designadas e os limites da habitação deles; 17:27para que
+buscassem a Deus, se porventura, tateando atrás dele, pudessem achá-lo,
+embora ele não esteja longe de cada um de nós: 17:28pois nele vivemos, e nos
+movemos, e temos o nosso ser; como também alguns dos próprios poetas de
+vocês disseram: Pois nós também somos linhagem dele. 17:29Sendo, então,
+linhagem de Deus, não devemos pensar que a Divindade seja semelhante a ouro,
+ou prata, ou pedra, gravados pela arte e pelo artifício do homem. 17:30Os
+tempos da ignorância, portanto, Deus passou por alto; mas agora ordena aos
+homens que todos, em toda parte, se arrependam: 17:31porquanto estabeleceu
+um dia em que julgará o mundo em justiça, pelo homem que ele constituiu; do
+que deu certeza a todos os homens, por havê-lo ressuscitado dentre os
+mortos. 17:32Ora, quando ouviram da ressurreição dos mortos, uns zombaram;
+mas outros disseram: Ainda outra vez te ouviremos acerca disto. 17:33Assim
+Paulo saiu do meio deles. 17:34Mas certos homens se apegaram a ele e creram;
+entre os quais estava também Dionísio, o Areopagita, e uma mulher chamada
+Dâmaris, e outros com eles.
+
+
 18:1After these things he departed from Athens, and came to Corinth. 18:2And
 he found a certain Jew named Aquila, a man of Pontus by race, lately come
 from Italy, with his wife Priscilla, because Claudius had commanded all the
@@ -1192,6 +2312,57 @@ minded to pass over into Achaia, the brethren encouraged him, and wrote to
 the disciples to receive him: and when he was come, he helped them much that
 had believed through grace; 18:28for he powerfully confuted the Jews, and
 that publicly, showing by the scriptures that Jesus was the Christ.
+
+18:1Depois destas coisas, ele partiu de Atenas e veio a Corinto. 18:2E
+encontrou um certo judeu chamado Áquila, homem do Ponto por raça, vindo
+havia pouco da Itália, com sua mulher Priscila, porque Cláudio havia
+ordenado que todos os judeus partissem de Roma: e chegou-se a eles; 18:3e,
+porque era do mesmo ofício, morou com eles, e trabalhavam; pois, pelo ofício
+deles, eram fabricantes de tendas. 18:4E arrazoava na sinagoga todo sábado,
+e persuadia judeus e gregos. 18:5Mas, quando Silas e Timóteo desceram da
+Macedônia, Paulo foi constrangido pela palavra, testificando aos judeus que
+Jesus era o Cristo. 18:6E, quando eles se opuseram e blasfemaram, sacudiu as
+suas vestes e disse-lhes: O sangue de vocês seja sobre as suas próprias
+cabeças; eu estou limpo: doravante irei aos gentios. 18:7E partiu dali, e
+entrou na casa de um certo homem chamado Tito Justo, um que adorava a Deus,
+cuja casa era contígua à sinagoga. 18:8E Crispo, o chefe da sinagoga, creu
+no Senhor com toda a sua casa; e muitos dos coríntios, ouvindo, creram e
+foram batizados. 18:9E o Senhor disse a Paulo, de noite, por uma visão: Não
+temas, mas fala e não te cales: 18:10porque eu estou contigo, e nenhum homem
+se lançará sobre ti para te fazer mal: porque tenho muito povo nesta cidade.
+18:11E habitou ali um ano e seis meses, ensinando a palavra de Deus entre
+eles. 18:12Mas, quando Gálio era procônsul da Acaia, os judeus, de comum
+acordo, levantaram-se contra Paulo e o trouxeram perante o tribunal,
+18:13dizendo: Este homem persuade os homens a adorar a Deus contrariamente à
+lei. 18:14Mas, quando Paulo estava para abrir a boca, Gálio disse aos
+judeus: Se de fato fosse matéria de injustiça ou de vilania perversa, ó
+judeus, haveria razão para que eu os suportasse: 18:15mas, se são questões
+acerca de palavras e nomes e da própria lei de vocês, cuidem disso vocês
+mesmos; não estou disposto a ser juiz destas matérias. 18:16E expulsou-os do
+tribunal. 18:17E todos lançaram mão de Sóstenes, o chefe da sinagoga, e o
+espancaram diante do tribunal. E Gálio não se importou com nenhuma destas
+coisas. 18:18E Paulo, havendo permanecido depois disto ainda muitos dias,
+despediu-se dos irmãos e navegou dali para a Síria, e com ele Priscila e
+Áquila: tendo rapado a cabeça em Cencreia; pois tinha um voto. 18:19E
+chegaram a Éfeso, e deixou-os ali: mas ele mesmo entrou na sinagoga e
+arrazoou com os judeus. 18:20E, quando lhe pediram que permanecesse por mais
+tempo, não consentiu; 18:21mas, despedindo-se deles e dizendo: Voltarei
+outra vez a vocês, se Deus quiser, fez-se à vela de Éfeso. 18:22E, tendo
+desembarcado em Cesareia, subiu e saudou a igreja, e desceu a Antioquia.
+18:23E, havendo passado algum tempo ali, partiu e percorreu a região da
+Galácia e a Frígia, em ordem, estabelecendo todos os discípulos. 18:24Ora,
+um certo judeu chamado Apolo, alexandrino por raça, homem eloquente, veio a
+Éfeso; e era poderoso nas Escrituras. 18:25Este homem havia sido instruído
+no caminho do Senhor; e, sendo fervoroso no espírito, falava e ensinava com
+exatidão as coisas concernentes a Jesus, conhecendo somente o batismo de
+João: 18:26e começou a falar ousadamente na sinagoga. Mas, quando Priscila e
+Áquila o ouviram, tomaram-no para junto de si e expuseram-lhe o caminho de
+Deus com mais exatidão. 18:27E, quando se dispôs a passar à Acaia, os irmãos
+o encorajaram e escreveram aos discípulos para que o recebessem: e, quando
+chegou, ajudou muito os que haviam crido por meio da graça; 18:28pois
+poderosamente refutou os judeus, e isso publicamente, mostrando pelas
+Escrituras que Jesus era o Cristo.
+
 
 19:1And it came to pass, that, while Apollos was at Corinth, Paul having
 passed through the upper country came to Ephesus, and found certain
@@ -1271,6 +2442,83 @@ there being no cause for it: and as touching it we shall not be able to give
 account of this concourse. 19:41And when he had thus spoken, he dismissed
 the assembly.
 
+19:1E aconteceu que, enquanto Apolo estava em Corinto, Paulo, tendo passado
+pela região superior, veio a Éfeso e encontrou certos discípulos: 19:2e
+disse-lhes: Vocês receberam o Espírito Santo quando creram? E eles lhe
+disseram: Não, nem sequer ouvimos se o Espírito Santo havia sido dado. 19:3E
+ele disse: Em que, então, foram vocês batizados? E eles disseram: No batismo
+de João. 19:4E Paulo disse: João batizou com o batismo de arrependimento,
+dizendo ao povo que cressem naquele que havia de vir depois dele, isto é, em
+Jesus. 19:5E, quando ouviram isto, foram batizados no nome do Senhor Jesus.
+19:6E, quando Paulo lhes impôs as mãos, o Espírito Santo veio sobre eles; e
+falaram em línguas e profetizaram. 19:7E eram ao todo cerca de doze homens.
+19:8E entrou na sinagoga e falou ousadamente pelo espaço de três meses,
+arrazoando e persuadindo acerca das coisas concernentes ao reino de Deus.
+19:9Mas, quando alguns foram endurecidos e desobedientes, falando mal do
+Caminho diante da multidão, apartou-se deles e separou os discípulos,
+arrazoando diariamente na escola de Tirano. 19:10E isto continuou pelo
+espaço de dois anos, de modo que todos os que habitavam na Ásia ouviram a
+palavra do Senhor, tanto judeus como gregos. 19:11E Deus operava milagres
+especiais pelas mãos de Paulo: 19:12de tal modo que lenços ou aventais eram
+levados do seu corpo aos enfermos, e as enfermidades partiam deles, e os
+espíritos malignos saíam. 19:13Mas também alguns dos judeus itinerantes,
+exorcistas, tomaram sobre si nomear sobre os que tinham os espíritos
+malignos o nome do Senhor Jesus, dizendo: Eu os conjuro por Jesus, a quem
+Paulo prega. 19:14E havia sete filhos de um Ceva, judeu, sacerdote
+principal, que faziam isto. 19:15E o espírito maligno respondeu e
+disse-lhes: A Jesus eu conheço, e a Paulo eu conheço; mas vocês, quem são?
+19:16E o homem em quem estava o espírito maligno saltou sobre eles, e
+dominou a ambos, e prevaleceu contra eles, de modo que fugiram daquela casa
+nus e feridos. 19:17E isto se tornou conhecido de todos, tanto judeus como
+gregos, que habitavam em Éfeso; e temor caiu sobre todos eles, e o nome do
+Senhor Jesus foi magnificado. 19:18Muitos também dos que haviam crido
+vieram, confessando, e declarando os seus feitos. 19:19E não poucos dos que
+praticavam artes mágicas reuniram os seus livros e os queimaram à vista de
+todos; e calcularam o preço deles, e acharam que era cinquenta mil peças de
+prata. 19:20Assim, poderosamente crescia a palavra do Senhor e prevalecia.
+19:21Ora, depois que estas coisas se acabaram, Paulo propôs no espírito,
+quando houvesse passado pela Macedônia e pela Acaia, ir a Jerusalém,
+dizendo: Depois que eu tiver estado ali, é necessário que eu veja também
+Roma. 19:22E, tendo enviado à Macedônia dois dos que lhe ministravam,
+Timóteo e Erasto, ele mesmo permaneceu na Ásia por algum tempo. 19:23E, por
+aquele tempo, levantou-se não pequena agitação acerca do Caminho. 19:24Pois
+um certo homem chamado Demétrio, prateiro, que fazia santuários de prata de
+Diana, trazia não pouco negócio aos artífices; 19:25os quais ele reuniu, com
+os operários de ocupação semelhante, e disse: Senhores, vocês sabem que por
+este negócio temos a nossa riqueza. 19:26E vocês veem e ouvem que, não só em
+Éfeso, mas quase por toda a Ásia, este Paulo tem persuadido e desviado muito
+povo, dizendo que não são deuses os que são feitos com mãos: 19:27e não
+somente há perigo de que este nosso ofício caia em descrédito, mas também de
+que o templo da grande deusa Diana seja posto em nenhuma conta, e de que ela
+até seja deposta da sua magnificência, a quem toda a Ásia e o mundo adoram.
+19:28E, quando ouviram isto, encheram-se de ira e clamaram, dizendo: Grande
+é Diana dos efésios. 19:29E a cidade encheu-se da confusão; e
+precipitaram-se de comum acordo para o teatro, tendo agarrado Gaio e
+Aristarco, homens da Macedônia, companheiros de viagem de Paulo. 19:30E,
+quando Paulo se dispôs a entrar até o povo, os discípulos não o consentiram.
+19:31E também alguns dos Asiarcas, sendo amigos dele, enviaram até ele e
+rogaram-lhe que não se aventurasse a entrar no teatro. 19:32Uns, pois,
+clamavam uma coisa, e outros, outra; porque a assembleia estava em confusão;
+e a maior parte não sabia por que se haviam reunido. 19:33E trouxeram
+Alexandre para fora da multidão, pondo-o os judeus para a frente. E
+Alexandre acenou com a mão e queria fazer uma defesa ao povo. 19:34Mas,
+quando perceberam que ele era judeu, todos, a uma voz, pelo espaço de cerca
+de duas horas, clamaram: Grande é Diana dos efésios. 19:35E, quando o
+escrivão da cidade havia acalmado a multidão, diz: Homens de Éfeso, que
+homem há que não saiba que a cidade dos efésios é guardadora do templo da
+grande Diana e da imagem que caiu de Júpiter? 19:36Visto, pois, que estas
+coisas não podem ser contraditas, vocês devem estar quietos e nada fazer de
+temerário. 19:37Pois vocês trouxeram aqui estes homens, que não são nem
+ladrões de templos nem blasfemadores da nossa deusa. 19:38Se, portanto,
+Demétrio e os artífices que estão com ele têm questão contra algum homem, os
+tribunais estão abertos, e há procônsules: acusem-se uns aos outros.
+19:39Mas, se vocês buscam alguma coisa acerca de outras matérias, será
+resolvido na assembleia regular. 19:40Pois, na verdade, estamos em perigo de
+ser acusados acerca do tumulto deste dia, não havendo causa para ele: e,
+quanto a isto, não poderemos dar conta deste ajuntamento. 19:41E, tendo
+assim falado, despediu a assembleia.
+
+
 20:1And after the uproar ceased, Paul having sent for the disciples and
 exhorted them, took leave of them, and departed to go into Macedonia.
 20:2And when he had gone through those parts, and had given them much
@@ -1337,6 +2585,74 @@ kneeled down and prayed with them all. 20:37And they all wept sore, and fell
 on Paul’s neck and kissed him, 20:38sorrowing most of all for the word which
 he had spoken, that they should behold his face no more. And they brought
 him on his way unto the ship.
+
+20:1E depois que cessou o tumulto, Paulo, tendo mandado chamar os discípulos
+e tendo-os exortado, despediu-se deles e partiu para ir à Macedônia. 20:2E,
+quando ele havia percorrido aquelas partes e lhes havia dado muita
+exortação, veio à Grécia. 20:3E, quando ele havia passado três meses ali, e
+uma trama foi armada contra ele pelos judeus, estando ele prestes a fazer-se
+à vela para a Síria, determinou voltar pela Macedônia. 20:4E acompanharam-no
+até a Ásia Sópatro de Bereia, o filho de Pirro; e, dos tessalonicenses,
+Aristarco e Segundo; e Gaio de Derbe, e Timóteo; e, da Ásia, Tíquico e
+Trófimo. 20:5Mas estes tinham ido adiante e nos esperavam em Trôade. 20:6E
+navegamos de Filipos depois dos dias dos pães sem fermento, e chegamos até
+eles em Trôade em cinco dias; onde permanecemos sete dias. 20:7E, no
+primeiro dia da semana, estando nós reunidos para partir o pão, Paulo
+discorreu com eles, tencionando partir no dia seguinte; e prolongou o seu
+discurso até a meia-noite. 20:8E havia muitas luzes na câmara superior onde
+estávamos reunidos. 20:9E estava sentado na janela um certo jovem chamado
+Êutico, vencido por profundo sono; e, enquanto Paulo discorria ainda mais
+longamente, sendo vencido pelo seu sono, caiu do terceiro andar e foi
+levantado morto. 20:10E Paulo desceu, lançou-se sobre ele e, abraçando-o,
+disse: Não façam alvoroço, porque a sua vida está nele. 20:11E, quando ele
+subiu, e partiu o pão, e comeu, e falou com eles por longo tempo, até mesmo
+o romper do dia, assim partiu. 20:12E trouxeram o rapaz vivo, e não foram
+pouco consolados. 20:13Mas nós, indo adiante para o navio, fizemo-nos à vela
+para Assos, tencionando ali tomar Paulo a bordo; porque assim ele havia
+determinado, tencionando ele mesmo ir por terra. 20:14E, quando ele se
+encontrou conosco em Assos, nós o tomamos a bordo, e viemos a Mitilene.
+20:15E, navegando dali, chegamos no dia seguinte defronte de Quios; e no dia
+próximo tocamos em Samos; e no dia depois chegamos a Mileto. 20:16Porque
+Paulo havia determinado navegar além de Éfeso, para não ter de gastar tempo
+na Ásia; pois ele se apressava, se lhe fosse possível, a estar em Jerusalém
+no dia de Pentecostes. 20:17E de Mileto enviou a Éfeso e chamou a si os
+anciãos da igreja. 20:18E, quando eles chegaram a ele, disse-lhes: Vocês
+mesmos sabem, desde o primeiro dia em que pus o pé na Ásia, de que maneira
+estive com vocês todo o tempo, 20:19servindo ao Senhor com toda a humildade
+de mente, e com lágrimas, e com provações que me sobrevieram pelas tramas
+dos judeus; 20:20como não me retraí de declarar a vocês coisa alguma que
+fosse proveitosa, e de ensinar vocês publicamente e de casa em casa,
+20:21testificando tanto a judeus como a gregos o arrependimento para com
+Deus e a fé para com o nosso Senhor Jesus Cristo. 20:22E agora, eis que vou
+ligado no espírito a Jerusalém, não sabendo as coisas que me hão de sobrevir
+ali: 20:23salvo que o Espírito Santo me testifica em cada cidade, dizendo
+que cadeias e aflições me aguardam. 20:24Mas não tenho a minha vida em conta
+alguma como cara a mim mesmo, para que eu possa cumprir o meu curso e o
+ministério que recebi do Senhor Jesus, para testificar o evangelho da graça
+de Deus. 20:25E agora, eis que sei que vocês todos, entre os quais andei
+pregando o reino, não verão mais o meu rosto. 20:26Portanto, testifico a
+vocês neste dia que estou puro do sangue de todos os homens. 20:27Porque não
+me retraí de declarar a vocês todo o conselho de Deus. 20:28Atentem para
+vocês mesmos e para todo o rebanho, no qual o Espírito Santo fez de vocês
+bispos, para apascentar a igreja do Senhor, a qual ele comprou com o seu
+próprio sangue. 20:29Sei que, depois da minha partida, lobos cruéis entrarão
+entre vocês, não poupando o rebanho; 20:30e dentre vocês mesmos se
+levantarão homens, falando coisas perversas, para arrastar os discípulos
+após si. 20:31Portanto, vigiem, lembrando que, pelo espaço de três anos, não
+cessei de admoestar cada um, noite e dia, com lágrimas. 20:32E agora eu
+encomendo vocês a Deus e à palavra da sua graça, a qual é capaz de edificar
+vocês e de dar a vocês a herança entre todos os que são santificados.
+20:33Não cobicei prata, nem ouro, nem vestuário de homem algum. 20:34Vocês
+mesmos sabem que estas mãos ministraram às minhas necessidades e aos que
+estavam comigo. 20:35Em todas as coisas dei a vocês um exemplo, para que,
+assim trabalhando, vocês devam ajudar os fracos e lembrar as palavras do
+Senhor Jesus, que ele mesmo disse: É mais bem-aventurado dar do que receber.
+20:36E, quando ele assim havia falado, ajoelhou-se e orou com todos eles.
+20:37E todos choraram amargamente, e lançaram-se ao pescoço de Paulo e o
+beijaram, 20:38entristecendo-se mais que tudo pela palavra que ele havia
+falado, de que não haviam de contemplar mais o seu rosto. E o acompanharam
+no caminho até o navio.
+
 
 21:1And when it came to pass that we were parted from them and had set sail,
 we came with a straight course unto Cos, and the next day unto Rhodes, and
@@ -1418,6 +2734,85 @@ people. 21:40And when he had given him leave, Paul, standing on the stairs,
 beckoned with the hand unto the people; and when there was made a great
 silence, he spake unto them in the Hebrew language, saying,
 
+21:1E, quando sucedeu que nos apartamos deles e nos fizemos à vela, viemos
+com rumo reto até Cós, e no dia seguinte até Rodes, e dali até Pátara:
+21:2e, tendo achado um navio que atravessava para a Fenícia, fomos a bordo e
+nos fizemos à vela. 21:3E, quando havíamos chegado à vista de Chipre,
+deixando-o à mão esquerda, navegamos até a Síria e aportamos em Tiro; porque
+ali o navio havia de descarregar a sua carga. 21:4E, tendo achado os
+discípulos, permanecemos ali sete dias; e estes diziam a Paulo, pelo
+Espírito, que ele não pusesse o pé em Jerusalém. 21:5E, quando sucedeu que
+havíamos cumprido os dias, partimos e seguimos a nossa jornada; e todos
+eles, com esposas e filhos, acompanharam-nos no caminho até estarmos fora da
+cidade: e, ajoelhando-nos na praia, oramos e nos despedimos uns dos outros;
+21:6e nós fomos a bordo do navio, mas eles voltaram outra vez para casa.
+21:7E, quando terminamos a viagem desde Tiro, chegamos a Ptolemaida; e
+saudamos os irmãos e permanecemos com eles um dia. 21:8E, no dia seguinte,
+partimos e viemos a Cesareia; e, entrando na casa de Filipe, o evangelista,
+que era um dos sete, permanecemos com ele. 21:9Ora, este homem tinha quatro
+filhas virgens, que profetizavam. 21:10E, enquanto permanecíamos ali alguns
+dias, desceu da Judeia um certo profeta, chamado Ágabo. 21:11E, vindo a nós
+e tomando o cinto de Paulo, atou os seus próprios pés e mãos, e disse: Assim
+diz o Espírito Santo: Assim os judeus em Jerusalém atarão o homem que possui
+este cinto, e o entregarão nas mãos dos gentios. 21:12E, quando ouvimos
+estas coisas, tanto nós como os daquele lugar lhe suplicamos que não subisse
+a Jerusalém. 21:13Então Paulo respondeu: Que fazem vocês, chorando e
+quebrando o meu coração? porque estou pronto não somente a ser atado, mas
+também a morrer em Jerusalém pelo nome do Senhor Jesus. 21:14E, quando ele
+não se deixava persuadir, cessamos, dizendo: Faça-se a vontade do Senhor.
+21:15E, depois destes dias, tomamos a nossa bagagem e subimos a Jerusalém.
+21:16E foram também conosco alguns dos discípulos de Cesareia, trazendo
+consigo um Mnasom de Chipre, discípulo antigo, com quem nos havíamos de
+hospedar. 21:17E, quando chegamos a Jerusalém, os irmãos receberam-nos
+alegremente. 21:18E, no dia seguinte, Paulo entrou conosco até Tiago; e
+todos os anciãos estavam presentes. 21:19E, quando ele os havia saudado,
+relatou uma por uma as coisas que Deus havia operado entre os gentios por
+meio do seu ministério. 21:20E eles, quando ouviram isso, glorificaram a
+Deus; e disseram-lhe: Tu vês, irmão, quantos milhares há entre os judeus dos
+que têm crido; e todos eles são zelosos da lei: 21:21e eles foram informados
+a teu respeito, que tu ensinas a todos os judeus que estão entre os gentios
+a abandonar Moisés, dizendo-lhes que não circuncidem os seus filhos, nem
+andem segundo os costumes. 21:22Que é, portanto? eles certamente ouvirão que
+tu chegaste. 21:23Faze, portanto, isto que te dizemos: Temos quatro homens
+que têm um voto sobre si; 21:24a estes toma, e purifica-te com eles, e faze
+as despesas por eles, para que rapem as suas cabeças; e todos saberão que
+não há verdade nas coisas de que foram informados a teu respeito, mas que tu
+mesmo também andas ordenadamente, guardando a lei. 21:25Mas, no tocante aos
+gentios que creram, nós escrevemos, dando juízo de que se guardassem das
+coisas sacrificadas aos ídolos, e do sangue, e do que é estrangulado, e da
+fornicação. 21:26Então Paulo tomou os homens e, no dia seguinte,
+purificando-se com eles, entrou no templo, declarando o cumprimento dos dias
+da purificação, até que a oferta fosse oferecida por cada um deles. 21:27E,
+quando os sete dias estavam quase completados, os judeus da Ásia, quando o
+viram no templo, agitaram toda a multidão e lançaram as mãos sobre ele,
+21:28clamando: Homens de Israel, socorro: Este é o homem que ensina a todos
+os homens, por toda parte, contra o povo, e a lei, e este lugar; e, além
+disso, também trouxe gregos para o templo e profanou este lugar santo.
+21:29Porque tinham visto antes com ele na cidade Trófimo, o efésio, o qual
+supunham que Paulo havia trazido para o templo. 21:30E toda a cidade se
+moveu, e o povo correu junto; e lançaram mão de Paulo e o arrastaram para
+fora do templo; e imediatamente as portas foram fechadas. 21:31E, enquanto
+procuravam matá-lo, notícia subiu ao capitão-chefe da tropa, de que toda
+Jerusalém estava em confusão. 21:32E imediatamente ele tomou soldados e
+centuriões, e correu para baixo sobre eles; e eles, quando viram o
+capitão-chefe e os soldados, cessaram de espancar Paulo. 21:33Então o
+capitão-chefe chegou perto, lançou mão dele e ordenou que fosse atado com
+duas cadeias; e indagou quem ele era e o que havia feito. 21:34E uns
+gritavam uma coisa, outros outra, entre a multidão; e, quando não podia
+saber a certeza por causa do tumulto, ordenou que ele fosse levado para a
+fortaleza. 21:35E, quando chegou sobre as escadas, assim foi que ele foi
+carregado pelos soldados, por causa da violência da multidão; 21:36porque a
+multidão do povo seguia atrás, clamando: Fora com ele. 21:37E, estando Paulo
+prestes a ser levado para a fortaleza, diz ao capitão-chefe: Posso dizer-te
+alguma coisa? E ele disse: Sabes tu o grego? 21:38Não és tu, então, o
+egípcio que, antes destes dias, incitou à sedição e levou para fora, ao
+deserto, os quatro mil homens dos Assassinos? 21:39Mas Paulo disse: Eu sou
+judeu, de Tarso, na Cilícia, cidadão de uma cidade não insignificante; e
+rogo-te, dá-me licença para falar ao povo. 21:40E, quando ele lhe havia dado
+licença, Paulo, de pé sobre as escadas, acenou com a mão ao povo; e, quando
+se fez um grande silêncio, falou-lhes na língua hebraica, dizendo,
+
+
 22:1Brethren and fathers, hear ye the defence which I now make unto you.
 22:2And when they heard that he spake unto them in the Hebrew language, they
 were the more quiet: and he saith, 22:3I am a Jew, born in Tarsus of
@@ -1473,6 +2868,60 @@ he was a Roman, and because he had bound him. 22:30But on the morrow,
 desiring to know the certainty wherefore he was accused of the Jews, he
 loosed him, and commanded the chief priests and all the council to come
 together, and brought Paul down and set him before them.
+
+22:1Irmãos e pais, ouçam a defesa que agora faço a vocês. 22:2E, quando
+ouviram que ele lhes falava na língua hebraica, ficaram ainda mais quietos;
+e ele diz: 22:3Eu sou judeu, nascido em Tarso da Cilícia, mas criado nesta
+cidade, aos pés de Gamaliel, instruído segundo a maneira estrita da lei de
+nossos pais, sendo zeloso de Deus, assim como todos vocês são neste dia:
+22:4e persegui este Caminho até à morte, amarrando e entregando às prisões
+tanto homens como mulheres. 22:5Como também o sumo sacerdote me dá
+testemunho, e todo o estado dos anciãos; dos quais também recebi cartas para
+os irmãos, e viajei a Damasco para trazer também os que ali estavam a
+Jerusalém em cadeias, para serem punidos. 22:6E aconteceu que, fazendo eu a
+minha viagem e aproximando-me de Damasco, por volta do meio-dia, de repente
+resplandeceu do céu uma grande luz em redor de mim. 22:7E caí por terra, e
+ouvi uma voz que me dizia: Saulo, Saulo, por que me persegues? 22:8E eu
+respondi: Quem és tu, Senhor? E ele me disse: Eu sou Jesus de Nazaré, a quem
+tu persegues. 22:9E os que estavam comigo contemplaram de fato a luz, mas
+não ouviram a voz daquele que me falava. 22:10E eu disse: Que farei, Senhor?
+E o Senhor me disse: Levanta-te, e entra em Damasco; e ali te será dito
+acerca de todas as coisas que te estão designadas para fazer. 22:11E, quando
+eu não podia ver por causa da glória daquela luz, sendo levado pela mão dos
+que estavam comigo, entrei em Damasco. 22:12E certo Ananias, homem devoto
+segundo a lei, bem conceituado por todos os judeus que ali habitavam,
+22:13veio a mim e, pondo-se junto de mim, disse-me: Irmão Saulo, recebe a
+tua vista. E naquela mesma hora ergui os olhos para ele. 22:14E ele disse: O
+Deus de nossos pais te designou para conhecer a sua vontade, e para ver o
+Justo, e para ouvir uma voz da sua boca. 22:15Porque tu lhe serás testemunha
+diante de todos os homens daquilo que viste e ouviste. 22:16E agora, por que
+te demoras? levanta-te, e sê batizado, e lava os teus pecados, invocando o
+seu nome. 22:17E aconteceu que, quando eu tinha voltado a Jerusalém e,
+enquanto eu orava no templo, caí em transe, 22:18e vi-o dizendo-me:
+Apressa-te, e sai depressa de Jerusalém; porque não receberão de ti
+testemunho a meu respeito. 22:19E eu disse: Senhor, eles mesmos sabem que eu
+encarcerava e batia em toda sinagoga os que criam em ti: 22:20e, quando o
+sangue de Estêvão, tua testemunha, foi derramado, eu também estava junto, e
+consentindo, e guardando as vestes dos que o matavam. 22:21E ele me disse:
+Parte; porque eu te enviarei para longe daqui aos gentios. 22:22E eles lhe
+deram audiência até esta palavra; e levantaram a sua voz, e disseram: Tira
+da terra tal homem; porque não é próprio que ele viva. 22:23E, enquanto
+clamavam, e lançavam fora as suas vestes, e atiravam pó ao ar, 22:24o
+tribuno ordenou que ele fosse levado ao castelo, mandando que ele fosse
+examinado por açoites, para que soubesse por que causa assim gritavam contra
+ele. 22:25E, quando o ataram com as correias, Paulo disse ao centurião que
+estava junto: É lícito a você açoitar um homem que é romano, e não
+condenado? 22:26E, quando o centurião ouviu isso, foi ao tribuno e
+contou-lhe, dizendo: Que estás tu prestes a fazer? porque este homem é
+romano. 22:27E o tribuno veio e disse-lhe: Dize-me, és tu romano? E ele
+disse: Sim. 22:28E o tribuno respondeu: Com uma grande soma obtive esta
+cidadania. E Paulo disse: Mas eu nasci romano. 22:29Então os que estavam
+prestes a examiná-lo imediatamente se retiraram dele; e também o tribuno
+teve medo, quando soube que ele era romano, e porque o havia amarrado.
+22:30Mas, no dia seguinte, desejando saber com certeza por que era acusado
+pelos judeus, soltou-o, e ordenou que os principais sacerdotes e todo o
+conselho se reunissem, e fez descer Paulo e o pôs diante deles.
+
 
 23:1And Paul, looking stedfastly on the council, said, Brethren, I have
 lived before God in all good conscience until this day. 23:2And the high
@@ -1542,6 +2991,72 @@ when he understood that he was of Cilicia, 23:35I will hear thee fully, said
 he, when thine accusers also are come: and he commanded him to be kept in
 Herod’s palace.
 
+23:1E Paulo, olhando firmemente para o conselho, disse: Irmãos, tenho vivido
+diante de Deus em toda boa consciência até este dia. 23:2E o sumo sacerdote
+Ananias ordenou aos que estavam junto dele que o ferissem na boca. 23:3Então
+disse Paulo a ele: Deus te ferirá, tu, parede caiada; e tu te assentas para
+julgar-me segundo a lei, e mandas que eu seja ferido contra a lei? 23:4E os
+que estavam ali disseram: Injurias tu o sumo sacerdote de Deus? 23:5E Paulo
+disse: Não sabia, irmãos, que ele era sumo sacerdote; porque está escrito:
+Não falarás mal de um governante do teu povo. 23:6Mas, quando Paulo percebeu
+que uma parte era de saduceus e a outra de fariseus, clamou no conselho:
+Irmãos, eu sou fariseu, filho de fariseus; tocante à esperança e à
+ressurreição dos mortos sou chamado em questão. 23:7E, quando ele assim
+disse, levantou-se uma dissensão entre os fariseus e os saduceus; e a
+assembleia ficou dividida. 23:8Pois os saduceus dizem que não há
+ressurreição, nem anjo, nem espírito; mas os fariseus confessam ambas as
+coisas. 23:9E levantou-se um grande clamor; e alguns dos escribas da parte
+dos fariseus levantaram-se e porfiaram, dizendo: Nenhum mal achamos neste
+homem; e se um espírito lhe falou, ou um anjo? 23:10E, quando se levantou
+uma grande dissensão, o tribuno, temendo que Paulo fosse despedaçado por
+eles, ordenou aos soldados que descessem e o tomassem à força do meio deles,
+e o levassem ao castelo. 23:11E, na noite seguinte, o Senhor pôs-se junto
+dele e disse: Sê de bom ânimo; porque, como deste testemunho a meu respeito
+em Jerusalém, assim deves tu dar testemunho também em Roma. 23:12E, quando
+foi dia, os judeus se ajuntaram em bando e se obrigaram sob maldição,
+dizendo que não comeriam nem beberiam até que tivessem matado Paulo. 23:13E
+eram mais de quarenta os que fizeram esta conspiração. 23:14E foram aos
+principais sacerdotes e aos anciãos, e disseram: Obrigamo-nos sob uma grande
+maldição, a nada provar até que tenhamos matado Paulo. 23:15Agora, pois,
+vocês, com o conselho, façam saber ao tribuno que ele o faça descer até
+vocês, como se vocês quisessem julgar o caso dele mais exatamente; e nós,
+antes que ele chegue perto, estamos prontos para matá-lo. 23:16Mas o filho
+da irmã de Paulo soube da cilada deles, e veio, e entrou no castelo, e
+contou a Paulo. 23:17E Paulo chamou a si um dos centuriões, e disse: Leve
+este jovem ao tribuno; porque ele tem algo a contar-lhe. 23:18Assim ele o
+tomou e o levou ao tribuno, e diz: Paulo, o prisioneiro, chamou-me a si e
+pediu-me que trouxesse este jovem a ti, o qual tem algo a dizer-te. 23:19E o
+tribuno tomou-o pela mão e, indo à parte, perguntou-lhe em particular: Que é
+que tens a contar-me? 23:20E ele disse: Os judeus concordaram em pedir-te
+que amanhã faças descer Paulo ao conselho, como se tu quisesses inquirir um
+tanto mais exatamente a respeito dele. 23:21Não cedas tu, portanto, a eles;
+porque mais de quarenta homens dentre eles estão de emboscada contra ele, os
+quais se obrigaram sob maldição a não comer nem a beber até que o tenham
+matado; e agora estão prontos, esperando a promessa da tua parte. 23:22Assim
+o tribuno deixou ir o jovem, ordenando-lhe: Não digas a homem nenhum que me
+fizeste saber estas coisas. 23:23E chamou a si dois dos centuriões, e disse:
+Preparem duzentos soldados para irem até Cesareia, e setenta cavaleiros, e
+duzentos lanceiros, à terceira hora da noite: 23:24e mandou-lhes que
+providenciassem bestas, para que pusessem Paulo sobre elas e o levassem a
+salvo a Félix, o governador. 23:25E escreveu uma carta segundo esta forma:
+23:26Cláudio Lísias ao mais excelente governador Félix, saúde. 23:27Este
+homem foi agarrado pelos judeus e estava prestes a ser morto por eles,
+quando eu sobrevim a eles com os soldados e o resgatei, tendo sabido que ele
+era romano. 23:28E, desejando saber a causa pela qual o acusavam, fi-lo
+descer ao conselho deles: 23:29o qual achei estar acusado acerca de questões
+da lei deles, mas nada ter lançado à sua conta que fosse digno de morte ou
+de cadeias. 23:30E, quando me foi mostrado que haveria uma trama contra o
+homem, enviei-o a ti imediatamente, ordenando também aos seus acusadores que
+falassem contra ele diante de ti. 23:31Assim os soldados, conforme lhes foi
+ordenado, tomaram Paulo e o levaram de noite a Antipátride. 23:32Mas, no dia
+seguinte, deixaram os cavaleiros irem com ele e voltaram ao castelo: 23:33e
+eles, quando chegaram a Cesareia e entregaram a carta ao governador,
+apresentaram também Paulo diante dele. 23:34E, quando a tinha lido,
+perguntou de que província ele era; e, quando entendeu que era da Cilícia,
+23:35Eu te ouvirei plenamente, disse ele, quando também tiverem chegado os
+teus acusadores; e mandou que ele fosse guardado no palácio de Herodes.
+
+
 24:1And after five days the high priest Ananias came down with certain
 elders, and with an orator, one Tertullus; and they informed the governor
 against Paul. 24:2And when he was called, Tertullus began to accuse him,
@@ -1589,6 +3104,55 @@ hoped withal that money would be given him of Paul: wherefore also he sent
 for him the oftener, and communed with him. 24:27But when two years were
 fulfilled, Felix was succeeded by Porcius Festus; and desiring to gain favor
 with the Jews, Felix left Paul in bonds.
+
+24:1E, depois de cinco dias, o sumo sacerdote Ananias desceu com certos
+anciãos e com um orador, um certo Tértulo; e informaram o governador contra
+Paulo. 24:2E, quando ele foi chamado, Tértulo começou a acusá-lo, dizendo:
+Visto que por ti gozamos de muita paz, e que pela tua providência os males
+são corrigidos para esta nação, 24:3nós o aceitamos em todos os modos e em
+todos os lugares, excelentíssimo Félix, com toda a gratidão. 24:4Mas, para
+que eu não te seja ainda mais tedioso, eu te rogo que, pela tua clemência,
+nos ouças em poucas palavras. 24:5Pois achamos este homem um sujeito
+pestilento, e um suscitador de insurreições entre todos os judeus por todo o
+mundo, e um cabecilha da seita dos Nazarenos: 24:6o qual, além disso,
+intentou profanar o templo: sobre quem também lançamos mão: 24:8de quem tu
+poderás, examinando-o tu mesmo, tomar conhecimento de todas estas coisas de
+que o acusamos. 24:9E os judeus também se uniram à acusação, afirmando que
+estas coisas eram assim. 24:10E, quando o governador lhe acenou para falar,
+Paulo respondeu: Porquanto sei que tu tens sido por muitos anos juiz para
+esta nação, com alegria faço a minha defesa: 24:11visto que tu podes tomar
+conhecimento de que não há mais de doze dias desde que subi para adorar em
+Jerusalém: 24:12e nem no templo me acharam disputando com homem algum ou
+agitando uma multidão, nem nas sinagogas, nem na cidade. 24:13Nem podem eles
+provar-te as coisas de que agora me acusam. 24:14Mas isto te confesso, que,
+segundo o Caminho, ao qual eles chamam seita, assim sirvo eu o Deus de
+nossos pais, crendo todas as coisas que são conforme a lei, e que estão
+escritas nos profetas; 24:15tendo esperança para com Deus, a qual também
+estes mesmos aguardam, de que haverá uma ressurreição tanto dos justos como
+dos injustos. 24:16Nisto também me exercito para ter sempre uma consciência
+isenta de ofensa para com Deus e para com os homens. 24:17Ora, depois de
+alguns anos, vim para trazer esmolas à minha nação, e ofertas: 24:18no meio
+das quais me acharam purificado no templo, sem multidão, nem tampouco com
+tumulto: mas havia certos judeus da Ásia— 24:19os quais deveriam ter estado
+aqui diante de ti e fazer acusação, se tivessem alguma coisa contra mim.
+24:20Ou então, digam estes mesmos homens que malfeitoria acharam quando
+estive de pé diante do conselho, 24:21exceto se for por esta única voz, que
+clamei, estando de pé entre eles: Tocante à ressurreição dos mortos, sou
+posto em questão diante de vocês neste dia. 24:22Mas Félix, tendo
+conhecimento mais exato acerca do Caminho, adiou-os, dizendo: Quando Lísias,
+o capitão-chefe, descer, eu determinarei a causa de vocês. 24:23E deu ordem
+ao centurião de que ele fosse mantido sob custódia, e tivesse indulgência; e
+de não proibir a nenhum dos seus amigos de ministrar-lhe. 24:24Mas, depois
+de certos dias, Félix veio com Drusila, sua mulher, que era judia, e mandou
+chamar Paulo, e ouviu-o acerca da fé em Cristo Jesus. 24:25E, enquanto ele
+arrazoava acerca da justiça, e do domínio próprio, e do juízo vindouro,
+Félix ficou aterrorizado, e respondeu: Vai-te por esta vez; e, quando eu
+tiver ocasião conveniente, chamar-te-ei a mim. 24:26Esperava, além disso,
+que dinheiro lhe fosse dado da parte de Paulo: por isso também o mandava
+chamar mais amiúde, e conversava com ele. 24:27Mas, quando dois anos se
+cumpriram, Félix foi sucedido por Pórcio Festo; e, desejando ganhar favor
+junto dos judeus, Félix deixou Paulo em cadeias.
+
 
 25:1Festus therefore, having come into the province, after three days went
 up to Jerusalem from Cæsarea. 25:2And the chief priests and the principal
@@ -1644,6 +3208,62 @@ certain thing to write unto my lord. Wherefore I have brought him forth
 before you, and specially before thee, king Agrippa, that, after examination
 had, I may have somewhat to write. 25:27For it seemeth to me unreasonable,
 in sending a prisoner, not withal to signify the charges against him.
+
+25:1Festo, portanto, tendo chegado à província, depois de três dias subiu a
+Jerusalém desde Cesareia. 25:2E os principais sacerdotes e os homens
+principais dos judeus informaram-no contra Paulo; e rogaram-lhe, 25:3pedindo
+um favor contra ele, que o mandasse chamar a Jerusalém; armando uma trama
+para matá-lo no caminho. 25:4Todavia Festo respondeu que Paulo estava
+mantido sob custódia em Cesareia, e que ele mesmo estava para partir para lá
+em breve. 25:5Portanto, diz ele, os que têm poder entre vocês desçam comigo,
+e, se há alguma coisa de errado no homem, acusem-no. 25:6E, tendo
+permanecido entre eles não mais que oito ou dez dias, desceu a Cesareia; e
+no dia seguinte assentou-se no tribunal, e mandou que Paulo fosse trazido.
+25:7E, quando ele chegou, os judeus que tinham descido de Jerusalém
+puseram-se ao redor dele, trazendo contra ele muitas e graves acusações, as
+quais não podiam provar; 25:8enquanto Paulo dizia em sua defesa: Nem contra
+a lei dos judeus, nem contra o templo, nem contra César, em coisa alguma
+pequei. 25:9Mas Festo, desejando ganhar favor junto dos judeus, respondeu a
+Paulo e disse: Queres tu subir a Jerusalém, e ali ser julgado destas coisas
+diante de mim? 25:10Mas Paulo disse: Estou de pé diante do tribunal de
+César, onde devo ser julgado: aos judeus não fiz injustiça alguma, como tu
+também muito bem sabes. 25:11Se, então, sou malfeitor, e cometi alguma coisa
+digna de morte, não recuso morrer; mas, se nenhuma dessas coisas é
+verdadeira, das quais estes me acusam, nenhum homem pode entregar-me a eles.
+Apelo para César. 25:12Então Festo, tendo conferenciado com o conselho,
+respondeu: Apelaste para César: para César irás. 25:13Ora, quando certos
+dias se passaram, Agripa, o rei, e Berenice chegaram a Cesareia, e saudaram
+Festo. 25:14E, como se demorassem ali muitos dias, Festo expôs a causa de
+Paulo diante do rei, dizendo: Há um certo homem deixado prisioneiro por
+Félix; 25:15acerca do qual, quando eu estava em Jerusalém, os principais
+sacerdotes e os anciãos dos judeus informaram-me, pedindo sentença contra
+ele. 25:16Aos quais respondi que não é costume dos romanos entregar homem
+algum, antes que o acusado tenha os acusadores face a face, e tenha tido
+oportunidade de fazer a sua defesa acerca da matéria levantada contra ele.
+25:17Quando, portanto, eles se reuniram aqui, não fiz demora alguma, mas no
+dia seguinte assentei-me no tribunal, e mandei que o homem fosse trazido.
+25:18Acerca do qual, quando os acusadores se levantaram, não trouxeram
+acusação de tais coisas más como eu supunha; 25:19mas tinham certas questões
+contra ele acerca da sua própria religião, e de um Jesus, que estava morto,
+o qual Paulo afirmava estar vivo. 25:20E eu, estando perplexo de como
+inquirir acerca destas coisas, perguntei se ele quereria ir a Jerusalém e
+ali ser julgado destas matérias. 25:21Mas, quando Paulo apelou para ser
+guardado para a decisão do imperador, mandei que ele fosse guardado até que
+eu o enviasse a César. 25:22E Agripa disse a Festo: Eu também desejaria
+ouvir o homem, eu mesmo. Amanhã, diz ele, tu o ouvirás. 25:23Assim, no dia
+seguinte, tendo vindo Agripa, e Berenice, com grande pompa, e tendo eles
+entrado no lugar da audiência com os capitães-chefes e os homens principais
+da cidade, por ordem de Festo Paulo foi introduzido. 25:24E Festo diz: Rei
+Agripa, e todos os homens que estão aqui presentes conosco, vocês veem este
+homem, acerca do qual toda a multidão dos judeus me fez petição, tanto em
+Jerusalém como aqui, clamando que ele não devia viver por mais tempo.
+25:25Mas achei que ele não cometera nada digno de morte: e, como ele mesmo
+apelou para o imperador, determinei enviá-lo. 25:26Do qual não tenho coisa
+certa que escrever ao meu senhor. Por isso o trouxe diante de vocês, e
+especialmente diante de ti, rei Agripa, para que, feito o exame, eu tenha
+alguma coisa que escrever. 25:27Pois parece-me irrazoável, ao enviar um
+prisioneiro, não indicar também as acusações contra ele.
+
 
 26:1And Agrippa said unto Paul, Thou art permitted to speak for thyself.
 Then Paul stretched forth his hand, and made his defence: 26:2I think myself
@@ -1704,6 +3324,65 @@ that sat with them: 26:31and when they had withdrawn, they spake one to
 another, saying, This man doeth nothing worthy of death or of bonds.
 26:32And Agrippa said unto Festus, This man might have been set at liberty,
 if he had not appealed unto Cæsar.
+
+26:1E Agripa disse a Paulo: É-te permitido falar por ti mesmo. Então Paulo
+estendeu a mão, e fez a sua defesa: 26:2Julgo-me feliz, rei Agripa, de que
+hei de fazer a minha defesa diante de ti neste dia, tocante a todas as
+coisas de que sou acusado pelos judeus: 26:3especialmente porque tu és
+perito em todos os costumes e questões que há entre os judeus; por isso te
+suplico que me ouças pacientemente. 26:4O meu modo de vida, pois, desde a
+minha juventude, o qual desde o princípio foi entre a minha própria nação e
+em Jerusalém, conhecem-no todos os judeus; 26:5tendo conhecimento de mim
+desde o princípio, se quiserem testificar, que, segundo a seita mais estrita
+da nossa religião, vivi fariseu. 26:6E agora estou aqui para ser julgado
+pela esperança da promessa feita por Deus a nossos pais; 26:7à qual promessa
+as nossas doze tribos, servindo a Deus zelosamente noite e dia, esperam
+chegar. E acerca desta esperança sou acusado pelos judeus, ó rei! 26:8Por
+que é julgado incrível entre vocês, se Deus ressuscita os mortos? 26:9Eu, em
+verdade, pensava comigo mesmo que devia fazer muitas coisas contrárias ao
+nome de Jesus de Nazaré. 26:10E isto também fiz em Jerusalém: e tanto
+encerrei muitos dos santos nas prisões, tendo recebido autoridade dos
+principais sacerdotes, como, quando eles eram mortos, dei o meu voto contra
+eles. 26:11E, castigando-os muitas vezes em todas as sinagogas, esforcei-me
+por fazê-los blasfemar; e, estando sobremaneira enfurecido contra eles,
+persegui-os até mesmo às cidades estrangeiras. 26:12Nisto, indo eu a Damasco
+com a autoridade e a comissão dos principais sacerdotes, 26:13ao meio-dia, ó
+rei, vi no caminho uma luz do céu, acima do resplendor do sol, brilhando ao
+redor de mim e dos que viajavam comigo. 26:14E, tendo nós todos caído por
+terra, ouvi uma voz que me dizia na língua hebraica: Saulo, Saulo, por que
+me persegues? Duro te é dar coices contra o aguilhão. 26:15E eu disse: Quem
+és tu, Senhor? E o Senhor disse: Eu sou Jesus, a quem tu persegues. 26:16Mas
+levanta-te, e põe-te sobre os teus pés: pois para este fim te apareci, para
+constituir-te ministro e testemunha, tanto das coisas em que me viste, como
+das coisas em que te aparecerei; 26:17livrando-te do povo e dos gentios, aos
+quais eu te envio, 26:18para abrir-lhes os olhos, a fim de que se voltem das
+trevas para a luz e do poder de Satanás para Deus, a fim de que recebam
+remissão de pecados e uma herança entre os que são santificados pela fé em
+mim. 26:19Pelo que, ó rei Agripa, não fui desobediente à visão celestial:
+26:20mas anunciei, primeiro aos de Damasco, e em Jerusalém, e por toda a
+terra da Judeia, e também aos gentios, que se arrependessem e se voltassem
+para Deus, fazendo obras dignas de arrependimento. 26:21Por esta causa os
+judeus agarraram-me no templo, e intentaram matar-me. 26:22Tendo, portanto,
+obtido o socorro que é da parte de Deus, permaneço até este dia testificando
+tanto a pequenos como a grandes, nada dizendo senão o que os profetas e
+Moisés disseram que havia de vir; 26:23que o Cristo devia padecer, e que
+ele, primeiro pela ressurreição dos mortos, havia de proclamar luz tanto ao
+povo como aos gentios. 26:24E, fazendo ele assim a sua defesa, Festo diz com
+alta voz: Paulo, tu estás louco; o teu muito saber está tornando-te louco.
+26:25Mas Paulo diz: Não estou louco, excelentíssimo Festo; mas profiro
+palavras de verdade e de sobriedade. 26:26Pois o rei sabe destas coisas, ao
+qual também falo livremente: pois estou persuadido de que nenhuma destas
+coisas lhe está oculta; pois isto não foi feito num canto. 26:27Rei Agripa,
+crês tu nos profetas? Eu sei que tu crês. 26:28E Agripa disse a Paulo: Com
+bem pouca persuasão, de bom grado me farias cristão. 26:29E Paulo disse:
+Prouvera a Deus que, quer com pouco, quer com muito, não somente tu, mas
+também todos os que me ouvem neste dia, se tornassem tais como eu sou,
+exceto estas cadeias. 26:30E levantaram-se o rei, e o governador, e
+Berenice, e os que se assentavam com eles: 26:31e, quando se retiraram,
+falaram uns aos outros, dizendo: Este homem não faz nada digno de morte ou
+de cadeias. 26:32E Agripa disse a Festo: Este homem poderia ter sido posto
+em liberdade, se não tivesse apelado para César.
+
 
 27:1And when it was determined that we should sail for Italy, they delivered
 Paul and certain other prisoners to a centurion named Julius, of the
@@ -1785,6 +3464,87 @@ should cast themselves overboard, and get first to the land; 27:44and the
 rest, some on planks, and some on other things from the ship. And so it came
 to pass, that they all escaped safe to the land.
 
+27:1E, quando foi determinado que navegássemos para a Itália, entregaram
+Paulo e certos outros prisioneiros a um centurião chamado Júlio, da coorte
+Augusta. 27:2E, embarcando num navio de Adramítio, que estava prestes a
+navegar para os lugares da costa da Ásia, fizemo-nos ao mar, estando conosco
+Aristarco, um macedônio de Tessalônica. 27:3E, no dia seguinte, tocamos em
+Sidom; e Júlio tratou a Paulo com bondade, e deu-lhe licença de ir ter com
+os seus amigos e reconfortar-se. 27:4E, fazendo-nos ao mar dali, navegamos a
+sotavento de Chipre, porque os ventos eram contrários. 27:5E, quando
+tínhamos atravessado o mar que fica ao largo da Cilícia e da Panfília,
+chegamos a Mira, uma cidade da Lícia. 27:6E ali o centurião encontrou um
+navio de Alexandria que navegava para a Itália, e pôs-nos nele. 27:7E, tendo
+navegado lentamente muitos dias, e chegado com dificuldade defronte de
+Cnido, não nos consentindo o vento ir mais além, navegamos a sotavento de
+Creta, defronte de Salmona; 27:8e, costeando-a com dificuldade, chegamos a
+um certo lugar chamado Bons Portos; perto do qual estava a cidade de Laseia.
+27:9E, tendo-se gasto muito tempo, e sendo já perigosa a viagem, porque o
+Jejum já tinha passado, Paulo os admoestou, 27:10e disse-lhes: Senhores,
+percebo que a viagem será com dano e muita perda, não somente da carga e do
+navio, mas também das nossas vidas. 27:11Mas o centurião deu mais atenção ao
+mestre e ao dono do navio do que àquelas coisas que foram ditas por Paulo.
+27:12E, porque o porto não era cômodo para nele invernar, a maior parte
+aconselhou fazer-se ao mar dali, se por algum meio pudessem alcançar Fenice
+e ali invernar; o qual é um porto de Creta, que olha para o nordeste e para
+o sudeste. 27:13E, quando o vento do sul soprou brandamente, supondo que
+tinham obtido o seu propósito, levantaram âncora e navegaram ao longo de
+Creta, bem junto à costa. 27:14Mas, passado não muito tempo, abateu-se dela
+um vento tempestuoso, chamado Euroaquilão: 27:15e, sendo o navio apanhado, e
+não podendo enfrentar o vento, cedemos a ele e fomos levados. 27:16E,
+correndo a sotavento de uma pequena ilha chamada Cauda, pudemos, com
+dificuldade, assegurar o batel: 27:17e, quando o tinham içado, usaram de
+auxílios, cingindo o navio por baixo; e, temendo que fossem lançados sobre a
+Sirte, arriaram o aparelho, e assim foram levados. 27:18E, como lutávamos
+sobremaneira com a tempestade, no dia seguinte começaram a lançar a carga
+borda fora; 27:19e, ao terceiro dia, lançaram com as suas próprias mãos os
+apetrechos do navio. 27:20E, quando nem o sol nem as estrelas brilharam
+sobre nós por muitos dias, e não pequena tempestade pesava sobre nós, toda a
+esperança de que fôssemos salvos foi agora tirada. 27:21E, tendo eles estado
+muito tempo sem alimento, então Paulo pôs-se de pé no meio deles e disse:
+Senhores, vocês deveriam ter-me dado ouvidos, e não ter feito vela de Creta,
+e ter obtido este dano e esta perda. 27:22E agora eu exorto vocês a terem
+bom ânimo; porque não haverá perda de vida entre vocês, mas somente do
+navio. 27:23Porque esta noite esteve junto a mim um anjo do Deus de quem eu
+sou, a quem também sirvo, 27:24dizendo: Não temas, Paulo; tu deves
+comparecer perante César; e eis que Deus te concedeu todos os que navegam
+contigo. 27:25Por isso, senhores, tenham bom ânimo; porque eu creio em Deus,
+que há de ser exatamente assim como me foi dito. 27:26Mas temos de ser
+lançados sobre uma certa ilha. 27:27Mas, quando chegou a décima quarta
+noite, sendo nós levados de um lado para outro no mar de Ádria, por volta da
+meia-noite os marinheiros conjeturaram que se aproximavam de alguma terra:
+27:28e sondaram, e acharam vinte braças; e, depois de um pequeno intervalo,
+sondaram de novo, e acharam quinze braças. 27:29E, temendo que porventura
+fôssemos lançados à costa em terreno rochoso, soltaram quatro âncoras da
+popa e desejaram o dia. 27:30E, como os marinheiros buscavam fugir do navio,
+e tinham arriado o batel ao mar, a pretexto de que lançariam âncoras da
+proa, 27:31Paulo disse ao centurião e aos soldados: A menos que estes
+permaneçam no navio, vocês não podem ser salvos. 27:32Então os soldados
+cortaram as cordas do batel e deixaram-no cair. 27:33E, enquanto o dia ia
+chegando, Paulo rogou a todos que tomassem algum alimento, dizendo: Este dia
+é o décimo quarto dia em que vocês esperam e continuam em jejum, não tendo
+tomado nada. 27:34Por isso eu suplico a vocês que tomem algum alimento;
+porque isto é para a segurança de vocês; porque não perecerá um só cabelo da
+cabeça de qualquer de vocês. 27:35E, quando ele tinha dito isto, e tinha
+tomado pão, deu graças a Deus na presença de todos; e partiu-o, e começou a
+comer. 27:36Então todos ficaram de bom ânimo, e eles mesmos também tomaram
+alimento. 27:37E éramos ao todo, no navio, duzentas e setenta e seis almas.
+27:38E, quando tinham comido o suficiente, aliviaram o navio, lançando o
+trigo ao mar. 27:39E, quando se fez dia, não conheciam a terra; mas
+percebiam uma certa baía com uma praia, e tomaram conselho se poderiam
+impelir o navio sobre ela. 27:40E, largando as âncoras, deixaram-nas no mar,
+ao mesmo tempo soltando as amarras dos lemes; e, içando a vela da proa ao
+vento, dirigiram-se para a praia. 27:41Mas, dando num lugar onde dois mares
+se encontravam, fizeram encalhar a embarcação; e a proa embateu e permaneceu
+imóvel, mas a popa começou a desfazer-se pela violência das ondas. 27:42E o
+conselho dos soldados era matar os prisioneiros, para que nenhum deles
+nadasse para fora e escapasse. 27:43Mas o centurião, desejando salvar Paulo,
+deteve-os do seu propósito; e ordenou que os que pudessem nadar se lançassem
+ao mar e chegassem primeiro à terra; 27:44e os demais, uns sobre tábuas, e
+outros sobre outras coisas do navio. E assim sucedeu que todos escaparam a
+salvo para a terra.
+
+
 28:1And when we were escaped, then we knew that the island was called
 Melita. 28:2And the barbarians showed us no common kindness: for they
 kindled a fire, and received us all, because of the present rain, and
@@ -1845,3 +3605,65 @@ is sent unto the Gentiles: they will also hear. 28:30And he abode two whole
 years in his own hired dwelling, and received all that went in unto him,
 28:31preaching the kingdom of God, and teaching the things concerning the
 Lord Jesus Christ with all boldness, none forbidding him.
+
+28:1E, quando havíamos escapado, então soubemos que a ilha se chamava
+Melita. 28:2E os bárbaros mostraram-nos uma bondade nada comum; pois
+acenderam um fogo, e receberam-nos a todos, por causa da chuva presente e
+por causa do frio. 28:3Mas, quando Paulo tinha ajuntado um feixe de gravetos
+e os tinha posto sobre o fogo, uma víbora saiu por causa do calor e
+prendeu-se à sua mão. 28:4E, quando os bárbaros viram a criatura venenosa
+pendurada da sua mão, diziam uns aos outros: Sem dúvida este homem é um
+homicida, a quem, embora tenha escapado do mar, contudo a Justiça não
+permitiu viver. 28:5Todavia ele sacudiu a criatura para o fogo e não sofreu
+mal algum. 28:6Mas eles esperavam que ele inchasse, ou caísse morto de
+repente; mas, quando estavam havia muito à espera e viram que nada de mal
+lhe sobrevinha, mudaram de parecer e diziam que ele era um deus. 28:7Ora, na
+vizinhança daquele lugar havia terras pertencentes ao homem principal da
+ilha, chamado Públio, o qual nos recebeu e nos hospedou três dias
+cortesmente. 28:8E foi assim, que o pai de Públio jazia doente de febre e
+disenteria; ao qual Paulo entrou, e orou, e, impondo-lhe as mãos, o curou.
+28:9E, feito isto, os demais também que tinham doenças na ilha vieram, e
+foram curados: 28:10os quais também nos honraram com muitas honras; e,
+quando navegamos, puseram a bordo as coisas de que necessitávamos. 28:11E,
+depois de três meses, fizemo-nos à vela num navio de Alexandria que tinha
+invernado na ilha, cujo signo era Os Irmãos Gêmeos. 28:12E, tocando em
+Siracusa, demoramo-nos ali três dias. 28:13E dali fizemos um circuito, e
+chegamos a Régio; e, depois de um dia, levantou-se um vento do sul, e no
+segundo dia viemos a Putéoli; 28:14onde achamos irmãos, e fomos rogados a
+demorar-nos com eles sete dias; e assim viemos a Roma. 28:15E dali os
+irmãos, quando ouviram falar de nós, vieram ao nosso encontro até o Mercado
+de Ápio e as Três Tabernas; os quais, quando Paulo os viu, deu graças a Deus
+e tomou ânimo. 28:16E, quando entramos em Roma, foi permitido a Paulo
+permanecer por si mesmo com o soldado que o guardava. 28:17E aconteceu que,
+depois de três dias, ele convocou aqueles que eram os principais dos judeus;
+e, quando eles se tinham reunido, disse-lhes: Eu, irmãos, embora nada
+tivesse feito contra o povo, ou contra os costumes de nossos pais, contudo
+fui entregue prisioneiro de Jerusalém às mãos dos romanos: 28:18os quais,
+quando me tinham examinado, desejavam pôr-me em liberdade, porque não havia
+em mim causa de morte. 28:19Mas, quando os judeus falaram contra isso, fui
+constrangido a apelar para César; não que eu tivesse alguma coisa de que
+acusar a minha nação. 28:20Por esta causa, portanto, eu roguei a vocês que
+me vissem e falassem comigo; porque, por causa da esperança de Israel, estou
+preso com esta corrente. 28:21E disseram-lhe: Nós nem recebemos cartas da
+Judeia a respeito de ti, nem algum dos irmãos veio aqui e relatou ou falou
+algum mal de ti. 28:22Mas desejamos ouvir de ti o que tu pensas; porque,
+quanto a esta seita, é-nos conhecido que em toda parte se fala contra ela.
+28:23E, quando lhe tinham marcado um dia, vieram a ele, à sua hospedagem, em
+grande número; aos quais ele expôs o assunto, testificando o reino de Deus e
+persuadindo-os acerca de Jesus, tanto a partir da lei de Moisés como a
+partir dos profetas, desde a manhã até a tarde. 28:24E alguns creram nas
+coisas que foram ditas, e alguns descreram. 28:25E, quando não concordavam
+entre si, partiram, depois que Paulo falou uma palavra: Bem falou o Espírito
+Santo por meio de Isaías, o profeta, aos pais de vocês, 28:26dizendo: Vai tu
+a este povo, e dize: Ouvindo, vocês ouvirão, e de modo nenhum entenderão; e,
+vendo, vocês verão, e de modo nenhum perceberão: 28:27Porque o coração deste
+povo se engrossou, e os seus ouvidos estão duros de ouvir, e os seus olhos
+eles fecharam; para que não aconteça que porventura percebam com os seus
+olhos, e ouçam com os seus ouvidos, e entendam com o seu coração, e se
+voltem, e eu os cure. 28:28Seja, portanto, conhecido de vocês que esta
+salvação de Deus é enviada aos gentios: eles também ouvirão. 28:30E
+permaneceu dois anos inteiros na sua própria morada alugada, e recebia todos
+os que vinham ter com ele, 28:31pregando o reino de Deus e ensinando as
+coisas concernentes ao Senhor Jesus Cristo com toda a ousadia, sem que
+ninguém o proibisse.
+

@@ -1,5 +1,7 @@
 # Texto ocidental de Lucas e de Atos
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Lucas e Atos são livros do século I. A forma chamada ocidental é outra edição desses dois livros, mais visível em Atos. O grande manuscrito dessa forma é o Códice de Beza (D, século V), acompanhado por parte da Vetus Latina. A edição é mais antiga do que o pergaminho: várias das leituras já estão em discussão no século II, e o papiro P75 (fim do século II ou início do III) já traz, no fim de Lucas, a forma mais longa que D omite. As duas formas, portanto, convivem cedo. Não há um manuscrito do século II com o texto ocidental inteiro.
 
 Em Atos, D é cerca de um décimo mais longo do que o Vaticano. Em Lucas, nas passagens chamadas de não-interpolações ocidentais, D é mais curto.
@@ -13,6 +15,12 @@ Na forma comum, há um cálice, depois o pão, depois um segundo cálice com as 
 Forma comum, ASV:
 
 > And he took bread, and when he had given thanks, he brake it, and gave to them, saying, This is my body which is given for you: this do in remembrance of me. And the cup in like manner after supper, saying, This cup is the new covenant in my blood, even that which is poured out for you.
+
+E tomou o pão e, quando deu graças, partiu-o e deu-o a eles, dizendo: Isto é
+o meu corpo, que é dado por vocês; façam isto em memória de mim. E o cálice,
+de igual modo, depois da ceia, dizendo: Este cálice é a nova aliança no meu
+sangue, aquele mesmo que é derramado por vocês.
+
 
 ## O homem que trabalha no sábado (só em D, depois de Lucas 6,4)
 

@@ -1,5 +1,7 @@
 # A Diogneto
 
+Parte dos parágrafos em inglês deste arquivo é seguida da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Os demais parágrafos em inglês ainda não foram traduzidos. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Tratado anônimo em nome de um cristão a Diogneto. A data usual fica no século II, muitas vezes entre 150 e 200. Há quem o ponha no século III. O único manuscrito grego, de Estrasburgo, ardeu em 1870. O que se lê vem de cópias feitas antes do incêndio. Os capítulos 1–10 são o tratado. Os capítulos 11–12 são outro fragmento, homilético, copiado no fim do mesmo manuscrito. Não são uma segunda edição do tratado. São um acréscimo.
 
 O capítulo 7 diz que Deus enviou o próprio Verbo, criador de todas as coisas, não um servo. O capítulo 9 põe o Filho como resgate.
@@ -214,6 +216,12 @@ things which He Himself supplieth to them that imagine
 
 they are giving them to Him.
 
+3:4 Pois Aquele que fez o céu e a terra e todas as coisas que neles estão, e
+nos provê a todos daquilo de que necessitamos, não pode Ele mesmo necessitar
+de nenhuma destas coisas que Ele mesmo fornece àqueles que imaginam estar
+dando-as a Ele.
+
+
  3:5 But those who think to perform sacrifices to Him
 
 with blood and fat and whole burnt offerings, and to
@@ -230,7 +238,18 @@ honour, the other class to One Who is in need of
 
 nothing.
 
+3:5 Mas aqueles que pensam em realizar sacrifícios a Ele com sangue e
+gordura e ofertas inteiramente queimadas, e em honrá-lo com tais honras,
+parecem-me em nada diferentes daqueles que mostram o mesmo respeito para com
+imagens surdas; pois uma classe julga conveniente fazer oferendas a coisas
+incapazes de participar da honra, e a outra classe, a Aquele que de nada
+necessita.
+
+
 CHAPTER 4
+
+CAPÍTULO 4
+
 
  4:1 But again their scruples concerning meats, and
 
@@ -244,6 +263,12 @@ need to learn from me, are ridiculous and unworthy of
 
 any consideration.
 
+4:1 Mas, de novo, os escrúpulos deles acerca dos alimentos, e a superstição
+deles relativa ao sábado, e a vaidade da circuncisão deles, e a dissimulação
+do jejum deles e das luas novas, eu [não] suponho que você precise aprender
+de mim, são ridículos e indignos de qualquer consideração.
+
+
  4:2 For of the things created by God for the use of
 
 man to receive some as created well, but to decline
@@ -252,17 +277,31 @@ others as useless and superfluous, is not this
 
 impious?
 
+4:2 Pois, das coisas criadas por Deus para o uso do homem, receber algumas
+como bem criadas, mas recusar outras como inúteis e supérfluas, não é isto
+ímpio?
+
+
  4:3 And again to lie against God, as if He forbad us
 
 to do any good thing on the sabbath day, is not this
 
 profane?
 
+4:3 E, de novo, mentir contra Deus, como se Ele nos proibisse de fazer
+qualquer coisa boa no dia de sábado, não é isto profano?
+
+
  4:4 Again, to vaunt the mutilation of the flesh as a
 
 token of election as though for this reason they were
 
 particularly beloved by God, is not this ridiculous?
+
+4:4 De novo, vangloriar-se da mutilação da carne como sinal de eleição, como
+se por essa razão eles fossem particularmente amados por Deus, não é isto
+ridículo?
+
 
  4:5 And to watch the stars and the moon and to keep
 
@@ -278,6 +317,13 @@ who would regard this as an exhibition of godliness
 
 and not much more of folly?
 
+4:5 E vigiar as estrelas e a lua, e guardar a observância dos meses e dos
+dias, e distinguir as disposições de Deus e as mudanças das estações segundo
+os seus próprios impulsos, fazendo de umas festas e de outras tempos de
+luto, quem consideraria isto uma exibição de piedade e não muito mais de
+loucura?
+
+
  4:6 That the Christians are right therefore in
 
 holding aloof from the common silliness and error of
@@ -292,7 +338,17 @@ religion, expect not that thou canst be instructed by
 
 man.
 
+4:6 Que os cristãos têm razão, portanto, em manterem-se afastados da tolice
+comum e do erro dos judeus e da excessiva meticulosidade deles e do seu
+orgulho, considero que tu foste suficientemente instruído; mas, quanto ao
+mistério da sua própria religião, não esperes que tu possas ser instruído
+por homem.
+
+
 CHAPTER 5
+
+CAPÍTULO 5
+
 
  5:1 For Christians are not distinguished from the
 
@@ -300,11 +356,21 @@ rest of mankind either in locality or in speech or in
 
 customs.
 
+5:1 Pois os cristãos não se distinguem do restante da humanidade nem em
+localidade, nem em fala, nem em costumes.
+
+
  5:2 For they dwell not somewhere in cities of their
+
+5:2 Pois eles não habitam em algum lugar em cidades dos seus
+
 
 own, neither do they use some different language, nor
 
 practise an extraordinary kind of life.
+
+praticam um gênero extraordinário de vida.
+
 
  5:3 Nor again do they possess any invention
 
@@ -313,6 +379,11 @@ discovered by any intelligence or study of ingenious
 men, nor are they masters of any human dogma as some
 
 are.
+
+5:3 Nem, de novo, possuem eles alguma invenção descoberta por qualquer
+inteligência ou estudo de homens engenhosos, nem são mestres de qualquer
+dogma humano, como alguns são.
+
 
  5:4 But while they dwell in cities of Greeks and
 
@@ -326,6 +397,13 @@ own citizenship, which they set forth, is marvellous,
 
 and confessedly contradicts expectation.
 
+5:4 Mas, enquanto eles habitam em cidades de gregos e de bárbaros, conforme
+a sorte de cada um é lançada, e seguem os costumes nativos no traje e no
+alimento e nas outras disposições da vida, contudo a constituição da sua
+própria cidadania, que eles expõem, é maravilhosa, e confessadamente
+contradiz a expectativa.
+
+
  5:5 They dwell in their own countries, but only as
 
 sojourners; they bear their share in all things as
@@ -336,29 +414,55 @@ Every foreign country is a fatherland to them, and
 
 every fatherland is foreign.
 
+5:5 Habitam nos seus próprios países, mas apenas como peregrinos; carregam a
+sua parte em todas as coisas como cidadãos, e suportam todas as agruras como
+estrangeiros. Todo país estrangeiro é para eles uma pátria, e toda pátria é
+estrangeira.
+
+
  5:6 They marry like all other men and they beget
 
 children; but they do not cast away their offspring.
+
+5:6 Casam-se como todos os outros homens e geram filhos; mas não lançam fora
+a sua prole.
+
 
  5:7 They have their meals in common, but not their
 
 wives.
 
+5:7 Têm as suas refeições em comum, mas não as suas esposas.
+
+
  5:8 They find themselves in the flesh, and yet they
 
 live not after the flesh.
+
+5:8 Acham-se na carne, e contudo não vivem segundo a carne.
+
 
  5:9 Their existence is on earth, but their
 
 citizenship is in heaven.
 
+5:9 A existência deles é na terra, mas a cidadania deles é no céu.
+
+
  5:10 They obey the established laws, and they
 
 surpass the laws in their own lives.
 
+5:10 Obedecem às leis estabelecidas, e superam as leis nas suas próprias
+vidas.
+
+
  5:11 They love all men, and they are persecuted by
 
 all.
+
+5:11 Amam a todos os homens, e são perseguidos por todos.
+
 
  5:12 They are ignored, and yet they are condemned.
 
@@ -366,11 +470,19 @@ They are put to death, and yet they are endued with
 
 life.
 
+5:12 São ignorados, e contudo são condenados. São postos à morte, e contudo
+são dotados de vida.
+
+
  5:13 They are in beggary, and yet they make many
 
 rich. They are in want of all things, and yet they
 
 abound in all things.
+
+5:13 Estão na mendicância, e contudo tornam a muitos ricos. Estão na falta
+de todas as coisas, e contudo abundam em todas as coisas.
+
 
  5:14 They are dishonoured, and yet they are
 

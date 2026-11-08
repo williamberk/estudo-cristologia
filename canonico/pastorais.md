@@ -1,5 +1,7 @@
 # 1 Timóteo, 2 Timóteo e Tito
 
+Cada parágrafo em inglês é seguido da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 As três cartas estão em nome de Paulo e falam de Jesus como salvador, mediador e homem. A data não é pacífica.
 
 Uma corrente, majoritária na pesquisa crítica desde o século XIX, coloca as três no início do século II, entre cerca de 100 e 140, por causa do vocabulário, da organização com epíscopo, presbíteros e diáconos, e da polêmica com mestres que proíbem o casamento e certos alimentos. Outra corrente defende que Paulo as escreveu nos anos 60. As duas posições continuam publicadas. Este arquivo não escolhe uma delas por decreto. Inclui as cartas porque, se a data crítica estiver certa, são livros canônicos do século II sobre Paulo e sobre Jesus, e porque, de todo modo, o século II já as lê como paulinas.
@@ -19,6 +21,10 @@ Texto inglês da American Standard Version (1901), domínio público. É uma tra
 1 Timothy
 
 1 Timothy. The First Epistle of Paul the Apostle to Timothy
+
+1 Timóteo
+1 Timóteo. A Primeira Epístola de Paulo, o Apóstolo, a Timóteo
+
 
 1:1Paul, an apostle of Christ Jesus
 according to the commandment of God our Saviour, and Christ Jesus our hope; 1:2unto
@@ -56,6 +62,44 @@ which some having thrust from them made shipwreck concerning the faith: 1:20of
 whom is Hymenaeus and Alexander; whom I delivered unto Satan, that they might be
 taught not to blaspheme.
 
+1:1Paulo, apóstolo de Cristo Jesus segundo o mandamento de Deus, nosso
+Salvador, e de Cristo Jesus, nossa esperança; 1:2a Timóteo, meu verdadeiro
+filho na fé: Graça, misericórdia, paz, da parte de Deus, o Pai, e de Cristo
+Jesus, nosso Senhor. 1:3Como te exortei a permanecer em Éfeso, quando eu ia
+para a Macedônia, para que ordenasses a certos homens que não ensinassem
+doutrina diferente, 1:4nem dessem ouvidos a fábulas e genealogias
+intermináveis, as quais suscitam questões, em vez de uma dispensação de Deus
+que está na fé; assim faço eu agora. 1:5Mas o fim do encargo é o amor que
+procede de um coração puro, de uma boa consciência e de uma fé não fingida:
+1:6das quais coisas alguns, tendo-se desviado, voltaram-se para vã
+loquacidade; 1:7desejando ser mestres da lei, embora não entendam nem o que
+dizem, nem aquilo de que afirmam com confiança. 1:8Mas sabemos que a lei é
+boa, se um homem a usar legitimamente, 1:9sabendo isto, que a lei não é
+feita para um homem justo, mas para os sem lei e os insubordinados, para os
+ímpios e os pecadores, para os sacrílegos e os profanos, para os assassinos
+de pais e os assassinos de mães, para os homicidas, 1:10para os
+fornicadores, para os que abusam de si mesmos com homens, para os ladrões de
+homens, para os mentirosos, para os que juram falso, e se houver alguma
+outra coisa contrária à sã doutrina; 1:11segundo o evangelho da glória do
+Deus bem-aventurado, o qual foi confiado à minha guarda. 1:12Dou graças
+àquele que me fortaleceu, a saber, Cristo Jesus, nosso Senhor, porque ele me
+teve por fiel, designando-me para o seu serviço; 1:13embora eu dantes fosse
+blasfemador, e perseguidor, e injurioso; contudo obtive misericórdia, porque
+o fiz ignorantemente, na incredulidade; 1:14e a graça de nosso Senhor
+abundou sobremaneira com a fé e o amor que há em Cristo Jesus. 1:15Fiel é o
+dito, e digno de toda aceitação, que Cristo Jesus veio ao mundo para salvar
+pecadores, dos quais eu sou o principal: 1:16contudo, por esta causa obtive
+misericórdia, para que em mim, como principal, Jesus Cristo mostrasse toda a
+sua longanimidade, para exemplo dos que haviam de crer nele depois, para a
+vida eterna. 1:17Ora, ao Rei eterno, imortal, invisível, o único Deus, seja
+honra e glória para sempre e sempre. Amém. 1:18Este encargo eu te confio,
+meu filho Timóteo, segundo as profecias que abriram o caminho até ti, para
+que por elas guerrees a boa guerra; 1:19guardando a fé e uma boa
+consciência, a qual alguns, tendo-a lançado para longe de si, fizeram
+naufrágio quanto à fé: 1:20dos quais são Himeneu e Alexandre, os quais
+entreguei a Satanás, para que fossem ensinados a não blasfemar.
+
+
 2:1I exhort therefore, first of all, that
 supplications, prayers, intercessions, thanksgivings, be made for all men; 2:2for
 kings and all that are in high place; that we may lead a tranquil and quiet life
@@ -76,6 +120,28 @@ formed, then Eve; 2:14and Adam was not beguiled, but the
 woman being beguiled hath fallen into transgression: 2:15but she shall be
 saved through her child-bearing, if they continue in faith and love and
 sanctification with sobriety.
+
+2:1Exorto, portanto, antes de tudo, que se façam súplicas, orações,
+intercessões, ações de graças, por todos os homens; 2:2pelos reis e por
+todos os que estão em alto posto; para que levemos uma vida tranquila e
+quieta em toda piedade e gravidade. 2:3Isto é bom e aceitável à vista de
+Deus, nosso Salvador; 2:4o qual quer que todos os homens sejam salvos e
+cheguem ao conhecimento da verdade. 2:5Porque há um só Deus, e também um só
+mediador entre Deus e os homens, ele mesmo homem, Cristo Jesus, 2:6o qual se
+deu a si mesmo em resgate por todos; o testemunho a ser prestado nos seus
+próprios tempos; 2:7para o que fui designado pregador e apóstolo (digo a
+verdade, não minto), mestre dos gentios na fé e na verdade. 2:8Desejo,
+portanto, que os homens orem em todo lugar, erguendo mãos santas, sem ira e
+sem disputa. 2:9De igual modo, que as mulheres se adornem com traje modesto,
+com pudor e sobriedade; não com cabelos trançados, e ouro, ou pérolas, ou
+vestes custosas; 2:10mas (o que convém a mulheres que professam piedade) por
+meio de boas obras. 2:11Aprenda a mulher em quietude, com toda sujeição.
+2:12Mas não permito que a mulher ensine, nem que tenha domínio sobre o
+homem, mas que esteja em quietude. 2:13Porque Adão foi formado primeiro,
+depois Eva; 2:14e Adão não foi seduzido, mas a mulher, sendo seduzida, caiu
+em transgressão; 2:15mas ela será salva por meio do seu gerar filhos, se
+permanecerem na fé, e no amor, e na santificação, com sobriedade.
+
 
 3:1Faithful is the saying, If a man seeketh
 the office of a bishop, he desireth a good work. 3:2The bishop therefore
@@ -102,6 +168,30 @@ know how men ought to behave themselves in the house of God, which is the church
 of the living God, the pillar and ground of the truth. 3:16And without
 controversy great is the mystery of godliness;
 
+3:1Fiel é o dito: Se um homem busca o ofício de bispo, deseja uma boa obra.
+3:2O bispo, portanto, deve ser irrepreensível, marido de uma só esposa,
+temperante, de mente sóbria, ordeiro, dado à hospitalidade, apto para
+ensinar; 3:3não rixoso, não espancador; mas brando, não contencioso, não
+amante do dinheiro; 3:4que governe bem a sua própria casa, tendo os filhos
+em sujeição com toda gravidade; 3:5(mas, se um homem não sabe governar a sua
+própria casa, como cuidará da igreja de Deus?) 3:6não neófito, para que,
+ensoberbecido, não caia na condenação do diabo. 3:7Além disso, deve ter bom
+testemunho dos que estão de fora, para que não caia em opróbrio e no laço do
+diabo. 3:8Os diáconos, de igual modo, devem ser graves, não de língua dupla,
+não dados a muito vinho, não cobiçosos de lucro torpe; 3:9guardando o
+mistério da fé numa consciência pura. 3:10E sejam também estes primeiramente
+provados; depois sirvam como diáconos, se forem inculpáveis. 3:11As
+mulheres, de igual modo, devem ser graves, não caluniadoras, temperantes,
+fiéis em todas as coisas. 3:12Sejam os diáconos maridos de uma só esposa,
+governando bem os seus filhos e as suas próprias casas. 3:13Porque os que
+serviram bem como diáconos adquirem para si uma boa posição e grande ousadia
+na fé que está em Cristo Jesus. 3:14Estas coisas te escrevo, esperando ir
+até ti em breve; 3:15mas, se eu tardar muito, para que saibas como convém
+que os homens se portem na casa de Deus, a qual é a igreja do Deus vivo, a
+coluna e o fundamento da verdade. 3:16E, sem controvérsia, grande é o
+mistério da piedade;
+
+
  He who was manifested in the flesh,
 
  Justified in the spirit,
@@ -113,6 +203,14 @@ controversy great is the mystery of godliness;
  Believed on in the world,
 
  Received up in glory.
+
+Aquele que foi manifestado na carne,
+Justificado no espírito,
+Visto pelos anjos,
+Pregado entre as nações,
+Crido no mundo,
+Recebido no alto em glória.
+
 
 4:1But the Spirit saith expressly, that in
 later times some shall fall away from the faith, giving heed to seducing spirits
@@ -140,6 +238,33 @@ presbytery. 4:15Be diligent in these things; give
 thyself wholly to them; that thy progress may be manifest unto all. 4:16Take heed to thyself, and to thy
 teaching. Continue in these things; for in doing this thou shalt save both
 thyself and them that hear thee.
+
+4:1Mas o Espírito diz expressamente que, em tempos posteriores, alguns se
+apartarão da fé, dando ouvidos a espíritos sedutores e a doutrinas de
+demônios, 4:2pela hipocrisia de homens que falam mentiras, marcados na sua
+própria consciência como com ferro em brasa; 4:3proibindo casar e mandando
+abster-se de alimentos, os quais Deus criou para serem recebidos com ação de
+graças pelos que creem e conhecem a verdade. 4:4Porque toda criatura de Deus
+é boa, e nada deve ser rejeitado, se for recebido com ação de graças;
+4:5porque é santificado pela palavra de Deus e pela oração. 4:6Se lembrares
+aos irmãos estas coisas, serás um bom ministro de Cristo Jesus, nutrido nas
+palavras da fé e da boa doutrina que tens seguido até agora; 4:7mas recusa
+as fábulas profanas e de velhas. E exercita-te para a piedade: 4:8porque o
+exercício corporal é proveitoso para pouco; mas a piedade é proveitosa para
+todas as coisas, tendo promessa da vida que agora é, e da que há de vir.
+4:9Fiel é o dito, e digno de toda aceitação. 4:10Porque para este fim
+labutamos e nos esforçamos, porque temos a nossa esperança posta no Deus
+vivo, que é o Salvador de todos os homens, especialmente dos que creem.
+4:11Estas coisas ordena e ensina. 4:12Nenhum homem despreze a tua juventude;
+mas sê tu exemplo para os que creem, na palavra, no modo de vida, no amor,
+na fé, na pureza. 4:13Até que eu venha, dá ouvidos à leitura, à exortação,
+ao ensino. 4:14Não negligencies o dom que há em ti, o qual te foi dado por
+profecia, com a imposição das mãos do presbitério. 4:15Sê diligente nestas
+coisas; entrega-te inteiramente a elas, para que o teu progresso seja
+manifesto a todos. 4:16Tem cuidado de ti mesmo e do teu ensino. Continua
+nestas coisas; porque, fazendo isto, salvarás tanto a ti mesmo como aos que
+te ouvem.
+
 
 5:1Rebuke not an elder, but exhort him as a
 father; the younger men as brethren: 5:2the elder women as mothers; the younger
@@ -180,6 +305,47 @@ thine often infirmities. 5:24Some men's sins are evident, going
 before unto judgment; and some men also they follow after. 5:25In like manner also
 there are good works that are evident; and such as are otherwise cannot be hid.
 
+5:1Não repreendas um ancião, mas exorta-o como a um pai; aos homens mais
+jovens, como a irmãos: 5:2às mulheres anciãs, como a mães; às mais jovens,
+como a irmãs, em toda pureza. 5:3Honra as viúvas que são verdadeiramente
+viúvas. 5:4Mas, se alguma viúva tem filhos ou netos, aprendam eles primeiro
+a mostrar piedade para com a sua própria família e a retribuir a seus pais:
+pois isto é aceitável à vista de Deus. 5:5Ora, a que é verdadeiramente
+viúva, e desolada, tem a sua esperança posta em Deus, e persevera em
+súplicas e orações noite e dia. 5:6Mas a que se entrega ao prazer está morta
+enquanto vive. 5:7Ordena também estas coisas, para que sejam
+irrepreensíveis. 5:8Mas, se alguém não provê para os seus, e especialmente
+para os de sua própria casa, negou a fé, e é pior do que um incrédulo.
+5:9Nenhuma seja arrolada como viúva com menos de sessenta anos, tendo sido
+esposa de um só homem, 5:10bem afamada por boas obras; se criou filhos, se
+usou de hospitalidade para com estranhos, se lavou os pés dos santos, se
+socorreu os aflitos, se seguiu diligentemente toda boa obra. 5:11Mas recusa
+as viúvas mais jovens: porque, quando se tornam lascivas contra Cristo,
+desejam casar; 5:12tendo condenação, porque rejeitaram o seu primeiro
+compromisso. 5:13E, além disso, aprendem também a ser ociosas, andando de
+casa em casa; e não somente ociosas, mas também tagarelas e intrometidas,
+falando coisas que não devem. 5:14Desejo, portanto, que as viúvas mais
+jovens se casem, gerem filhos, governem a casa, e não deem ocasião ao
+adversário para injuriar: 5:15porque já algumas se desviaram após Satanás.
+5:16Se alguma mulher que crê tem viúvas, socorra-as ela, e não se
+sobrecarregue a igreja, para que esta possa socorrer as que são
+verdadeiramente viúvas. 5:17Os anciãos que governam bem sejam tidos por
+dignos de dupla honra, especialmente os que labutam na palavra e no ensino.
+5:18Porque a Escritura diz: Não amordaçarás o boi quando ele pisa o grão. E:
+O trabalhador é digno do seu salário. 5:19Contra um ancião não recebas
+acusação, senão da boca de duas ou três testemunhas. 5:20Aos que pecam,
+repreende-os à vista de todos, para que também os demais tenham temor.
+5:21Eu te ordeno à vista de Deus, e de Cristo Jesus, e dos anjos eleitos,
+que observes estas coisas sem preconceito, nada fazendo por parcialidade.
+5:22A ninguém imponhas as mãos precipitadamente, nem sejas participante dos
+pecados de outros homens: conserva-te puro. 5:23Não sejas por mais tempo
+bebedor de água, mas usa um pouco de vinho por causa do teu estômago e das
+tuas frequentes enfermidades. 5:24Os pecados de alguns homens são evidentes,
+indo adiante para o juízo; e a alguns homens também eles seguem depois.
+5:25De igual modo também há boas obras que são evidentes; e as que são de
+outro modo não podem ser escondidas.
+
+
 6:1Let as many as are servants under the
 yoke count their own masters worthy of all honor, that the name of God and the
 doctrine be not blasphemed. 6:2And they that have believing masters,
@@ -218,6 +384,46 @@ committed unto thee, turning away from the profane babblings and
 oppositions of the knowledge which is falsely so called; 6:21which some
 professing have erred concerning the faith. Grace be with you.
 
+6:1Todos quantos são servos sob o jugo reputem os seus próprios senhores
+dignos de toda honra, para que o nome de Deus e a doutrina não sejam
+blasfemados. 6:2E os que têm senhores crentes, não os desprezem, porque são
+irmãos; mas sirvam-nos tanto mais, porque os que participam do benefício são
+crentes e amados. Estas coisas ensina e exorta. 6:3Se alguém ensina uma
+doutrina diferente e não consente nas palavras sãs, a saber, as palavras de
+nosso Senhor Jesus Cristo, e na doutrina que é segundo a piedade; 6:4está
+enfatuado, nada sabendo, mas enfermo acerca de questionamentos e disputas de
+palavras, donde provêm inveja, contenda, maledicências, suspeitas malignas,
+6:5rixas de homens corrompidos na mente e despojados da verdade, supondo que
+a piedade é um meio de ganho. 6:6Mas a piedade com contentamento é grande
+ganho: 6:7porque nada trouxemos para o mundo, porque tampouco podemos levar
+coisa alguma para fora; 6:8mas, tendo alimento e cobertura, com isso
+estaremos contentes. 6:9Mas os que estão inclinados a ser ricos caem em uma
+tentação e um laço e muitas concupiscências tolas e danosas, tais que afogam
+os homens em destruição e perdição. 6:10Porque o amor ao dinheiro é uma raiz
+de toda espécie de males: o qual alguns, buscando alcançar, foram
+extraviados da fé e se traspassaram a si mesmos com muitas dores. 6:11Mas
+tu, ó homem de Deus, foge destas coisas; e segue após a justiça, a piedade,
+a fé, o amor, a paciência, a mansidão. 6:12Combate o bom combate da fé,
+apodera-te da vida eterna, para a qual foste chamado, e confessaste a boa
+confissão à vista de muitas testemunhas. 6:13Eu te ordeno à vista de Deus,
+que dá vida a todas as coisas, e de Cristo Jesus, que perante Pôncio Pilatos
+testemunhou a boa confissão; 6:14que guardes o mandamento, sem mácula, sem
+censura, até a aparição de nosso Senhor Jesus Cristo: 6:15a qual, nos seus
+próprios tempos, ele mostrará, aquele que é o abençoado e único Potentado, o
+Rei dos reis e Senhor dos senhores; 6:16o único que tem a imortalidade,
+habitando em luz inacessível; a quem nenhum homem viu, nem pode ver: a quem
+seja honra e poder eterno. Amém. 6:17Ordena aos que são ricos neste mundo
+presente que não sejam altivos, nem tenham a sua esperança posta na
+incerteza das riquezas, mas em Deus, que nos dá ricamente todas as coisas
+para gozar; 6:18que façam o bem, que sejam ricos em boas obras, que estejam
+prontos a distribuir, dispostos a comunicar; 6:19entesourando para si mesmos
+um bom fundamento para o tempo por vir, para que se apoderem da vida que é
+vida de fato. 6:20Ó Timóteo, guarda aquilo que te foi confiado, desviando-te
+das palrarias profanas e das oposições do conhecimento que é falsamente
+assim chamado; 6:21o qual alguns, professando, erraram quanto à fé. A graça
+seja com vocês.
+
+
 ## 2 Timóteo
 
 Texto inglês da American Standard Version (1901), domínio público. É uma tradução do grego padrão do começo do século XX, não um manuscrito do século II.
@@ -225,6 +431,10 @@ Texto inglês da American Standard Version (1901), domínio público. É uma tra
 2 Timothy
 
 2 Timothy. The Second Epistle of Paul the Apostle to Timothy
+
+2 Timóteo
+2 Timóteo. A Segunda Epístola de Paulo, o Apóstolo, a Timóteo
+
 
 1:1Paul, an apostle of Christ Jesus through
 the will of God, according to the promise of the life which is in Christ Jesus,
@@ -256,6 +466,39 @@ Onesiphorus: for he oft refreshed me, and was not ashamed of my chain; 1:17but, 
 diligently, and found me 1:18(the Lord grant unto him to find mercy
 of the Lord in that day); and in how many things he ministered at Ephesus, thou
 knowest very well.
+
+1:1Paulo, apóstolo de Cristo Jesus pela vontade de Deus, segundo a promessa
+da vida que está em Cristo Jesus, 1:2a Timóteo, meu filho amado: Graça,
+misericórdia, paz, da parte de Deus, o Pai, e de Cristo Jesus, nosso Senhor.
+1:3Dou graças a Deus, a quem sirvo desde os meus antepassados em uma
+consciência pura, de quão incessante é a minha lembrança de ti nas minhas
+súplicas, noite e dia 1:4desejando ver-te, lembrando-me das tuas lágrimas,
+para que eu seja enchido de alegria; 1:5tendo sido lembrado da fé não
+fingida que há em ti; a qual habitou primeiro em tua avó Loide e em tua mãe
+Eunice; e, estou persuadido, em ti também. 1:6Por esta causa ponho-te em
+lembrança que avives o dom de Deus que está em ti pela imposição das minhas
+mãos. 1:7Porque Deus não nos deu um espírito de temor, mas de poder, de amor
+e de disciplina. 1:8Não te envergonhes, portanto, do testemunho de nosso
+Senhor, nem de mim, seu prisioneiro; mas sofre a adversidade com o
+evangelho, segundo o poder de Deus, 1:9que nos salvou e nos chamou com uma
+santa vocação, não segundo as nossas obras, mas segundo o seu próprio
+propósito e graça, que nos foi dada em Cristo Jesus antes dos tempos
+eternos, 1:10mas agora foi manifestada pela aparição de nosso Salvador
+Cristo Jesus, que aboliu a morte e trouxe à luz a vida e a imortalidade por
+meio do evangelho, 1:11para o qual fui designado pregador, e apóstolo, e
+mestre. 1:12Por esta causa também sofro estas coisas; contudo não me
+envergonho, porque conheço aquele em quem tenho crido, e estou persuadido de
+que ele é capaz de guardar aquilo que lhe confiei para aquele dia. 1:13Retém
+o modelo das palavras sãs que de mim ouviste, na fé e no amor que está em
+Cristo Jesus. 1:14Aquela boa coisa que te foi confiada guarda por meio do
+Espírito Santo que habita em nós. 1:15Isto tu sabes, que todos os que estão
+na Ásia se desviaram de mim; dos quais são Fígelo e Hermógenes. 1:16O Senhor
+conceda misericórdia à casa de Onesíforo; porque muitas vezes me refrigerou
+e não se envergonhou da minha corrente; 1:17mas, quando estava em Roma,
+procurou-me diligentemente e encontrou-me 1:18(o Senhor lhe conceda achar
+misericórdia da parte do Senhor naquele dia); e em quantas coisas ele
+ministrou em Éfeso, tu sabes muito bem.
+
 
 2:1Thou therefore, my child, be
 strengthened in the grace that is in Christ Jesus. 2:2And the things which
@@ -296,6 +539,47 @@ repentance unto the knowledge of the truth, 2:26and they may
 recover themselves out of the snare of the devil, having been taken captive by
 him unto his will.
 
+2:1Tu, portanto, meu filho, sê fortalecido na graça que está em Cristo
+Jesus. 2:2E as coisas que de mim ouviste entre muitas testemunhas, essas
+mesmas confia tu a homens fiéis, que serão capazes de ensinar também a
+outros. 2:3Sofre a adversidade comigo, como bom soldado de Cristo Jesus.
+2:4Nenhum soldado em serviço se embaraça nos negócios desta vida, para que
+possa agradar àquele que o alistou como soldado. 2:5E, se também um homem
+contende nos jogos, não é apinhado, exceto se tiver contendido legalmente.
+2:6O lavrador que labuta deve ser o primeiro a tomar parte nos frutos.
+2:7Considera o que digo; porque o Senhor te dará entendimento em todas as
+coisas. 2:8Lembra-te de Jesus Cristo, ressuscitado dentre os mortos, da
+semente de Davi, segundo o meu evangelho: 2:9no qual sofro adversidade até
+as prisões, como um malfeitor; mas a palavra de Deus não está presa.
+2:10Portanto tudo suporto por causa dos eleitos, para que também eles
+obtenham a salvação que está em Cristo Jesus com glória eterna. 2:11Fiel é o
+dito: Porque, se morremos com ele, também com ele viveremos: 2:12se
+suportamos, também com ele reinaremos; se o negarmos, ele também nos negará:
+2:13se somos infiéis, ele permanece fiel; porque não pode negar a si mesmo.
+2:14Destas coisas põe-os em lembrança, ordenando-lhes à vista do Senhor que
+não contendam acerca de palavras, para nenhum proveito, para a subversão dos
+que ouvem. 2:15Dá diligência em apresentar-te aprovado a Deus, obreiro que
+não precisa envergonhar-se, manejando retamente a palavra da verdade.
+2:16Mas evita as palrarias profanas, porque procederão mais adiante na
+impiedade, 2:17e a palavra deles comerá como o faz uma gangrena: ou quem é
+Himeneu um Fileto; 2:18homens que, quanto à verdade, erraram, dizendo que a
+ressurreição já passou, e derrubam a fé de alguns. 2:19Todavia o firme
+fundamento de Deus permanece, tendo este selo, O Senhor conhece os que são
+seus: e, Aparte-se da injustiça todo aquele que nomeia o nome do Senhor.
+2:20Ora, numa grande casa não há somente vasos de ouro e de prata, mas
+também de madeira e de terra; e alguns para honra, e alguns para desonra.
+2:21Se um homem, portanto, se purificar destas, será vaso para honra,
+santificado, apto para o uso do amo, preparado para toda boa obra. 2:22após
+a justiça, a fé, o amor, o passo, com os que invocam o Senhor de um coração
+puro. 2:23Mas questionamentos tolos e ignorantes recusa, sabendo que
+engendram contendas. 2:24E o servo do Senhor não deve contender, mas ser
+brando para com todos, apto para ensinar, longânimo, 2:25com mansidão
+corrigindo os que a si mesmos se opõem; se porventura Deus lhes dê
+arrependimento para o conhecimento da verdade, 2:26e possam recobrar-se para
+fora do laço do diabo, tendo sido tomados cativos por ele para a vontade
+dele.
+
+
 3:1But know this, that in the last days
 grievous times shall come. 3:2For men shall be lovers of self, lovers
 of money, boastful, haughty, railers, disobedient to parents, unthankful,
@@ -321,6 +605,34 @@ faith which is in Christ Jesus. 3:16Every scripture inspired of God
 is also profitable for teaching, for reproof, for correction, for
 instruction which is in righteousness. 3:17That the man of God may be complete,
 furnished completely unto every good work.
+
+3:1Mas sabe isto, que nos últimos dias virão tempos gravosos. 3:2Porque os
+homens serão amantes de si mesmos, amantes do dinheiro, jactanciosos,
+soberbos, maldizentes, desobedientes aos pais, ingratos, não santos, 3:3sem
+afeição natural, implacáveis, caluniadores, sem domínio próprio, ferozes,
+não amantes do bem, 3:4traidores, obstinados, enfatuados, amantes do prazer
+mais do que amantes de Deus; 3:5tendo uma forma de piedade, mas tendo negado
+o poder portanto. Destes também desvia-te. 3:6Porque destes são os que
+rastejam para dentro das casas e levam cativas mulheres tolas carregadas de
+pecados, levadas por diversas concupiscências, 3:7sempre aprendendo, e nunca
+capazes de chegar ao conhecimento da verdade. 3:8E tal como Janes e Jambres
+resistiram a Moisés, assim também estes resistem à verdade. Homens
+corrompidos na mente, réprobos quanto à fé. 3:9Mas não procederão mais
+adiante. Porque a sua loucura será evidente a todos os homens, como também a
+deles veio a ser. 3:10Mas tu seguiste o meu ensino, a conduta, o propósito,
+a fé, a longanimidade, o amor, a paciência, 3:11perseguições, sofrimentos.
+Que coisas me sobrevieram em Antioquia, em Icônio, em Listra; que
+perseguições suportei. E de todas elas o Senhor me livrou. 3:12Sim, e todos
+os que quiserem viver piamente em Cristo Jesus sofrerão perseguição. 3:13Mas
+homens maus e impostores tornar-se-ão piores e piores, enganando e sendo
+enganados. 3:14Mas permanece tu nas coisas que aprendeste e de que foste
+assegurado, sabendo de quem as aprendeste. 3:15E que desde bebê tens
+conhecido os escritos sagrados, os quais podem fazer-te sábio para a
+salvação por meio da fé que está em Cristo Jesus. 3:16Toda Escritura
+inspirada de Deus é também proveitosa para o ensino, para a repreensão, para
+a correção, para a instrução que é em justiça. 3:17Para que o homem de Deus
+seja completo, completamente aparelhado para toda boa obra.
+
 
 4:1I charge thee in the sight of
 God, and of Christ Jesus, who shall judge the living and the dead, and by his
@@ -356,6 +668,39 @@ Eubulus saluteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
 4:22The Lord be with thy spirit. Grace be
 with you.
 
+4:1Eu te ordeno à vista de Deus e de Cristo Jesus, que julgará os vivos e os
+mortos, e pelo seu aparecimento e pelo seu reino: 4:2prega a palavra; sê
+urgente a tempo, fora de tempo; repreende, censura, exorta, com toda
+longanimidade e ensino. 4:3Porque virá o tempo em que não suportarão a sã
+doutrina; mas, tendo comichão nos ouvidos, amontoarão para si mestres
+segundo as suas próprias concupiscências; 4:4e desviarão os ouvidos da
+verdade, e se voltarão para as fábulas. 4:5Tu, porém, sê sóbrio em todas as
+coisas, sofre a aflição, faze a obra de um evangelista, cumpre o teu
+ministério. 4:6Porque eu já estou sendo oferecido, e o tempo da minha
+partida é chegado. 4:7Combati o bom combate, terminei a carreira, guardei a
+fé: 4:8desde agora está reservada para mim a coroa da justiça, a qual o
+Senhor, o justo juiz, me dará naquele dia; e não somente a mim, mas também a
+todos os que amaram o seu aparecimento. 4:9Dá diligência para vir em breve a
+mim: 4:10pois Demas me abandonou, tendo amado este mundo presente, e foi
+para Tessalônica; Crescente, para a Galácia; Tito, para a Dalmácia.
+4:11Somente Lucas está comigo. Toma Marcos e traze-o contigo; porque ele me
+é útil para ministrar. 4:12Mas a Tíquico enviei a Éfeso. 4:13A capa que
+deixei em Trôade com Carpo, traze quando vieres, e os livros, especialmente
+os pergaminhos. 4:14Alexandre, o latoeiro, me fez muito mal: o Senhor lhe
+retribuirá segundo as suas obras: 4:15do qual guarda-te tu também; porque
+ele resistiu grandemente às nossas palavras. 4:16Na minha primeira defesa
+ninguém tomou a minha parte, mas todos me abandonaram: que não lhes seja
+lançado em conta. 4:17Mas o Senhor se pôs ao meu lado e me fortaleceu; para
+que por mim a mensagem fosse plenamente proclamada, e para que todos os
+gentios ouvissem: e fui livrado da boca do leão. 4:18O Senhor me livrará de
+toda obra má, e me salvará para o seu reino celestial: a quem seja a glória
+para sempre e sempre. Amém. 4:19Saúda Prisca e Áquila, e a casa de
+Onesíforo. 4:20Erasto permaneceu em Corinto; mas a Trófimo deixei doente em
+Mileto. 4:21Dá diligência para vir antes do inverno. Eubulo te saúda, e
+Pudente, e Lino, e Cláudia, e todos os irmãos. 4:22O Senhor seja com o teu
+espírito. A graça seja com vocês.
+
+
 ## Tito
 
 Texto inglês da American Standard Version (1901), domínio público. É uma tradução do grego padrão do começo do século XX, não um manuscrito do século II.
@@ -363,6 +708,10 @@ Texto inglês da American Standard Version (1901), domínio público. É uma tra
 Titus
 
 The Epistle of Paul to Titus
+
+Tito
+A Epístola de Paulo a Tito
+
 
 1:1Paul, a servant of God, and an apostle
 of Jesus Christ, according to the faith of God's elect, and the knowledge of the
@@ -391,6 +740,36 @@ nothing is pure; but both their mind and their conscience are defiled. 1:16They 
 their works they deny him, being abominable, and disobedient, and unto every
 good work reprobate.
 
+1:1Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos eleitos
+de Deus e o conhecimento da verdade que é segundo a piedade, 1:2na esperança
+da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos
+eternos; 1:3mas, nos seus próprios tempos, manifestou a sua palavra na
+mensagem, da qual fui encarregado segundo o mandamento de Deus, nosso
+Salvador; 1:4a Tito, meu verdadeiro filho segundo uma fé comum: Graça e paz
+da parte de Deus Pai e de Cristo Jesus, nosso Salvador. 1:5Por esta causa te
+deixei em Creta, para que pusesses em ordem as coisas que faltavam e
+constituísses anciãos em cada cidade, como te dei encargo; 1:6se alguém é
+irrepreensível, marido de uma só mulher, tendo filhos que creem, os quais
+não são acusados de dissolução nem são insubordinados. 1:7Porque o bispo
+deve ser irrepreensível, como despenseiro de Deus; não obstinado, não pronto
+a irar-se, não briguento, não espancador, não cobiçoso de lucro torpe;
+1:8mas dado à hospitalidade, amante do bem, sóbrio de mente, justo, santo,
+senhor de si; 1:9retendo a palavra fiel que é segundo o ensino, para que
+seja capaz de exortar na sã doutrina e de convencer os contraditores.
+1:10Porque há muitos homens insubordinados, faladores vãos e enganadores,
+especialmente os da circuncisão, 1:11a quem se deve tapar a boca; homens que
+transtornam casas inteiras, ensinando coisas que não devem, por causa de
+lucro torpe. 1:12Um deles, um profeta deles mesmos, disse: Os cretenses são
+sempre mentirosos, bestas más, glutões ociosos. 1:13Este testemunho é
+verdadeiro. Por esta causa repreende-os com aspereza, para que sejam sãos na
+fé, 1:14não dando ouvidos a fábulas judaicas e a mandamentos de homens que
+se desviam da verdade. 1:15Para os puros todas as coisas são puras; mas para
+os contaminados e incrédulos nada é puro; antes, tanto a mente deles como a
+consciência deles estão contaminadas. 1:16Professam que conhecem a Deus; mas
+pelas suas obras o negam, sendo abomináveis, e desobedientes, e reprovados
+para toda boa obra.
+
+
 2:1But speak thou the things which befit
 the sound doctrine: 2:2that aged men be temperate, grave,
 sober-minded, sound in faith, in love, in patience: 2:3that aged women
@@ -414,6 +793,31 @@ appearing of the glory of the great God and our Saviour Jesus Christ; 2:14who ga
 redeem us from all iniquity, and purify unto himself a people for his own
 possession, zealous of good works. 2:15These things speak and exhort and
 reprove with all authority. Let no man despise thee.
+
+2:1Tu, porém, fala as coisas que convêm à sã doutrina: 2:2que os homens
+idosos sejam temperantes, graves, sóbrios de mente, sãos na fé, no amor, na
+paciência; 2:3que as mulheres idosas igualmente sejam reverentes no porte,
+não caluniadoras nem escravizadas a muito vinho, mestras do que é bom;
+2:4para que adestrem as mulheres jovens a amar os seus maridos, a amar os
+seus filhos, 2:5a serem sóbrias de mente, castas, trabalhadoras em casa,
+bondosas, estando em sujeição aos seus próprios maridos, para que a palavra
+de Deus não seja blasfemada; 2:6os homens mais jovens exorta igualmente a
+serem sóbrios de mente; 2:7em todas as coisas mostrando-te exemplo de boas
+obras; na tua doutrina mostrando incorrupção, gravidade, 2:8fala sã, que não
+possa ser condenada; para que aquele que é da parte contrária se envergonhe,
+não tendo coisa má alguma que dizer de nós. 2:9Exorta os servos a estarem em
+sujeição aos seus próprios senhores e a serem-lhes bem-agradáveis em todas
+as coisas; não contradizendo; 2:10não subtraindo, mas mostrando toda boa
+fidelidade; para que adornem a doutrina de Deus, nosso Salvador, em todas as
+coisas. 2:11Porque a graça de Deus apareceu, trazendo salvação a todos os
+homens, 2:12instruindo-nos, a fim de que, negando a impiedade e as
+concupiscências mundanas, vivamos sobriamente, e justamente, e piedosamente
+neste mundo presente; 2:13aguardando a esperança abençoada e o aparecimento
+da glória do grande Deus e nosso Salvador Jesus Cristo; 2:14o qual deu a si
+mesmo por nós, para que nos remisse de toda iniquidade e purificasse para si
+um povo para a sua própria possessão, zeloso de boas obras. 2:15Estas coisas
+fala, e exorta, e repreende com toda autoridade. Ninguém te despreze.
+
 
 3:1Put them in mind to be in subjection to
 rulers, to authorities, to be obedient, to be ready unto every good work, 3:2to
@@ -439,3 +843,30 @@ determined to winter. 3:13Set forward Zenas the lawyer and
 Apollos on their journey diligently, that nothing be wanting unto them. 3:14And let our people also learn to
 maintain good works for necessary uses, that they be not unfruitful. 3:15All that are with me salute thee.
 Salute them that love us in faith. Grace be with you all.
+
+3:1Lembra-lhes de estarem em sujeição aos governantes, às autoridades, de
+serem obedientes, de estarem prontos para toda boa obra, 3:2de não falarem
+mal de homem algum, de não serem contenciosos, de serem brandos, mostrando
+toda mansidão para com todos os homens. 3:3Porque também nós outrora éramos
+insensatos, desobedientes, enganados, servindo a diversas concupiscências e
+prazeres, vivendo em malícia e inveja, odiosos, odiando uns aos outros.
+3:4Mas, quando a benignidade de Deus, nosso Salvador, e o seu amor para com
+o homem apareceram, 3:5não por obras feitas em justiça, as quais nós mesmos
+fizemos, mas segundo a sua misericórdia ele nos salvou, pela lavagem da
+regeneração e pela renovação do Espírito Santo, 3:6o qual ele derramou sobre
+nós ricamente, por meio de Jesus Cristo, nosso Salvador; 3:7para que,
+justificados pela sua graça, fôssemos feitos herdeiros segundo a esperança
+da vida eterna. 3:8Fiel é o dito, e acerca destas coisas desejo que afirmes
+com confiança, a fim de que os que creram em Deus cuidem de manter boas
+obras. Estas coisas são boas e proveitosas para os homens: 3:9mas evita
+questionamentos insensatos, e genealogias, e contendas, e lutas acerca da
+lei; porque são improfícuas e vãs. 3:10A um homem faccioso, depois de uma
+primeira e segunda admoestação, recusa; 3:11sabendo que tal homem está
+pervertido e peca, estando condenado por si mesmo. 3:12Quando eu enviar
+Ártemas a ti, ou Tíquico, dá diligência para vir a mim a Nicópolis; porque
+ali determinei invernar. 3:13Encaminha com diligência Zenas, o advogado, e
+Apolo na viagem deles, para que nada lhes falte. 3:14E que também o nosso
+povo aprenda a manter boas obras para os usos necessários, para que não
+sejam infrutíferos. 3:15Todos os que estão comigo te saúdam. Saúda os que
+nos amam na fé. A graça seja com todos vocês.
+

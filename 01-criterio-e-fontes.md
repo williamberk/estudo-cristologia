@@ -27,6 +27,12 @@ A carta de Serapião, em Eusébio, *História eclesiástica* 6,12, está resumid
 
 A grafia inglesa foi conservada. Normalizar o inglês de 1885 ou de 1924 introduziria erro.
 
+## Tradução para o português brasileiro
+
+Depois de cada parágrafo em inglês já traduzido há uma tradução em português brasileiro, feita para este acervo a partir desse inglês. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém. O latim de Plínio permanece em latim. As notas que já estavam em português não foram retraduzidas.
+
+Nesta etapa a tradução cobre os arquivos da pasta `canonico`, o Apocalipse de Pedro, o Diatessaron, a Epístola dos Apóstolos, a Ascensão de Isaías, Hipólito sobre Cristo e o Anticristo e o livro de Elcasai. No Evangelho de Marcião foram traduzidos 96 de 265 parágrafos em inglês, e na carta a Diogneto, 24 de 114. O restante do inglês fica para outra etapa.
+
 ## O que não foi copiado
 
 Traduções ainda protegidas: Lambdin, Meyer, Layton, Schneemelcher, Elliott, Charlesworth, Williams (Epifânio), Hall (Melitão), BeDuhn, Roth e Klinghardt, Chadwick (o livro 3 dos *Stromata*), Shewring (a Paixão de Perpétua) e Quasten (a inscrição de Abércio). O Evangelho de Tomé copta, o Evangelho de Maria, o Evangelho de Judas do Códice Tchacos, o Apócrifo de João e a carta de Ptolomeu a Flora aparecem em descrição e, quando existe, em testemunho antigo de domínio público. O livro 3 dos *Stromata* ficou de fora pelo mesmo motivo.

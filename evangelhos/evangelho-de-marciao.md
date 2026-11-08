@@ -1,5 +1,7 @@
 # Evangelho de Marcião
 
+Parte dos parágrafos em inglês deste arquivo é seguida da tradução em português brasileiro feita para este acervo, a partir do inglês de domínio público. Os demais parágrafos em inglês ainda não foram traduzidos. Não é a Almeida Revista e Atualizada, a Nova Versão Internacional nem a Bíblia de Jerusalém.
+
 Por volta de 140, em Roma, Marcião editou um evangelho e dez cartas de Paulo. O evangelho não tem manuscrito. Tertuliano, por volta de 208, percorre o livro na ordem de Marcião e diz que é Lucas mutilado. Epifânio, no século IV, faz outra lista, passagem por passagem. As reconstituições modernas, Harnack, BeDuhn, Roth, Klinghardt, não coincidem, e as três últimas estão sob copyright. O que este arquivo reproduz é o testemunho antigo contínuo: Tertuliano, *Contra Marcião*, livro 4, na tradução dos Ante-Nicene Fathers.
 
 O que se pode afirmar sem depender da reconstituição de um editor moderno:
@@ -18,38 +20,84 @@ Texto inglês de Alexander Roberts e James Donaldson, *Ante-Nicene Fathers* (Buf
 
 Tertullian
 
+Tertuliano
+
+
 TERTULLIAN
+
+TERTULIANO
+
 
 THE FIVE BOOKS AGAINST MARCION.
 
+OS CINCO LIVROS CONTRA MARCIÃO.
+
+
 BOOK IV.
+
+LIVRO IV.
+
 
 WHICH TERTULLIAN PURSUES HIS ARGUMENT. JESUS IS THE CHRIST OF THE CREATOR.
 HE
 
+O QUAL TERTULIANO PROSSEGUE O SEU ARGUMENTO. JESUS É O CRISTO DO CRIADOR.
+ELE
+
+
 DERIVES HIS PROOFS FROM ST. LUKE'S GOSPEL; THAT BEING THE ONLY
 HISTORICAL
+
+DERIVA AS SUAS PROVAS DO EVANGELHO DE S. LUCAS; SENDO ESSE A ÚNICA HISTÓRICA
+
 
 PORTION OF THE NEW TESTAMENT PARTIALLY ACCEPTED BY MARCION. THIS BOOK MAY
 ALSO
 
+PORÇÃO DO NOVO TESTAMENTO PARCIALMENTE ACEITA POR MARCIÃO. ESTE LIVRO PODE
+TAMBÉM
+
+
 BE REGARDED AS A COMMENTARY ON ST. LUKE. IT GIVES REMARKABLE PROOF OF
+
+SER CONSIDERADO COMO UM COMENTÁRIO SOBRE S. LUCAS. ELE DÁ NOTÁVEL PROVA DE
+
 
 TERTULLIAN'S GRASP OF SCRIPTURE, AND PROVES THAT "THE OLD TESTAMENT IS
 NOT
 
+O DOMÍNIO DE TERTULIANO SOBRE A ESCRITURA, E PROVA QUE "O ANTIGO TESTAMENTO
+NÃO É
+
+
 CONTRARY TO THE NEW." IT ALSO ABOUNDS IN STRIKING EXPOSITIONS OF
 SCRIPTURAL
+
+CONTRÁRIO AO NOVO." ELE TAMBÉM ABUNDA EM EXPOSIÇÕES MARCANTES DE
+ESCRITURÍSTICAS
+
 
 PASSAGES, EMBRACING PROFOUND VIEWS OF REVELATION, IN CONNECTION WITH
 THE
 
+PASSAGENS, ABRANGENDO VISÕES PROFUNDAS DA REVELAÇÃO, EM CONEXÃO COM A
+
+
 NATURE OF MAN.
+
+NATUREZA DO HOMEM.
+
 
 CHAP. I.--EXAMINATION OF THE ANTITHESES OF MARCION, BRINGING THEM TO THE
 TEST OF MARCION'S OWN GOSPEL. CERTAIN TRUE ANTITHESES IN THE DISPENSATIONS OF
 THE OLD AND THE NEW TESTAMENTS.THESE VARIATIONS QUITE COMPATIBLE
 WITH ONE AND THE SAME GOD, WHO ORDERED THEM.
+
+CAP. I.--EXAME DAS ANTÍTESES DE MARCIÃO, TRAZENDO-AS À PROVA DO PRÓPRIO
+EVANGELHO DE MARCIÃO. CERTAS ANTÍTESES VERDADEIRAS NAS DISPENSAÇÕES DO
+ANTIGO E DO NOVO TESTAMENTOS. ESTAS VARIAÇÕES INTEIRAMENTE COMPATÍVEIS COM
+UM SÓ E O MESMO DEUS, QUE AS ORDENOU.
+
 
 EVERY opinion and the whole scheme of the impious and sacrilegious Marcion we
 now bring to the test of that very Gospel which, by his process of
@@ -72,6 +120,29 @@ do allow that one order did run its course in the old dispensation under the
 Creator, and that another is on its way in the new under Christ. I do not deny
 that there is a difference in the language of their documents, in their precepts
 of virtue, and in their
+
+TODA opinião e todo o esquema do ímpio e sacrílego Marcião nós agora levamos
+à prova daquele mesmo Evangelho que, pelo seu processo de interpolação, ele
+fez seu. Para encorajar uma crença neste Evangelho, ele de fato lhe concebeu
+uma espécie de dote, numa obra composta de declarações contrárias postas em
+oposição, daí intitulada Antíteses, e compilada com vistas a uma tal
+separação da lei em relação ao evangelho que dividisse a Divindade em dois,
+antes, diversos deuses--um para cada Instrumento, ou Testamento, como é mais
+usual chamá-lo; para que, por tais meios, ele pudesse também patrocinar a
+crença no "Evangelho segundo as Antíteses". Estas, porém, eu teria atacado
+em combate especial, mão a mão; isto é, eu teria enfrentado um a um os
+vários artifícios do herege pôntico, se não fosse muito mais conveniente
+refutá-los em e com aquele mesmo evangelho ao qual eles contribuem com o seu
+apoio. Embora seja tão fácil enfrentá-los de imediato com uma objeção
+peremptória, contudo, a fim de que eu possa tanto torná-los admissíveis na
+argumentação, quanto tê-los por expressões válidas de opinião, e até
+contender que eles militam a favor do nosso lado, para que assim seja tanto
+mais rubra a vergonha pela cegueira do seu autor, nós agora extraímos
+algumas antíteses nossas em oposição a Marcião. E, com efeito, eu concedo
+que uma ordem seguiu o seu curso na antiga dispensação sob o Criador, e que
+outra está a caminho na nova sob Cristo. Eu não nego que haja uma diferença
+na linguagem dos seus documentos, nos seus preceitos de virtude, e nos seus
+
 
 teachings of the law; but yet all this diversity is consistent with one and
 the same God, even Him by whom it was arranged and also foretold. Long ago did
@@ -132,6 +203,67 @@ examples from which you draw your antitheses, when you may recognise them all in
 His sensations and affections? "I will wound," He says, "and I will heal;" "I
 will kill," He says again, "and I will make alive"--even
 
+ensinamentos da lei; mas, contudo, toda essa diversidade é coerente com um
+só e o mesmo Deus, Aquele mesmo por quem ela foi disposta e também predita.
+Há muito declarou Isaías que "de Sião sairia a lei, e a palavra do Senhor,
+de Jerusalém" — alguma outra lei, isto é, e outra palavra. Em suma, diz ele:
+"Ele julgará entre as nações e repreenderá muitos povos"; significando não
+somente os do povo judeu, mas os das nações que são julgadas pela nova lei
+do evangelho e pela nova palavra dos apóstolos, e são entre si repreendidos
+do seu antigo erro tão logo tenham crido. E, como resultado disso, "elas
+batem as suas espadas em relhas de arado, e as suas lanças (que são uma
+espécie de instrumentos de caça) em podadeiras"; isto é, mentes, que outrora
+eram ferozes e cruéis, são por eles transformadas em boas disposições
+produtivas de bom fruto. E outra vez: "Escutem-me, escutem-me, povo meu, e
+vocês, reis, deem ouvidos a mim; porque de mim procederá uma lei, e o meu
+juízo, para luz das nações"; pelo que Ele havia determinado e decretado que
+as nações também haveriam de ser iluminadas pela lei e pela palavra do
+evangelho. Esta será aquela lei que (também segundo Davi) é irrepreensível,
+porque "perfeita, convertendo a alma" dos ídolos para Deus. Esta será
+igualmente a palavra acerca da qual o mesmo Isaías diz: "Porque o Senhor
+fará uma palavra decisiva na terra." Porque o Novo Testamento é
+compendiosamente breve, e livre dos fardos minuciosos e embaraçosos da lei.
+Mas por que alongar, quando o Criador, pelo mesmo profeta, prediz a
+renovação mais manifesta e claramente do que a própria luz? "Não se lembrem
+das coisas anteriores, nem considerem as coisas de outrora" (as coisas
+antigas passaram, e coisas novas estão surgindo). "Eis que farei coisas
+novas, que agora brotarão." Assim, por Jeremias: "Abram para vocês novos
+pastos, e não semeiem entre espinhos, e circuncidem-se no prepúcio do
+coração de vocês." E em outra passagem: "Eis que vêm os dias, diz o Senhor,
+em que farei uma nova aliança com a casa de Jacó e com a casa de Judá; não
+segundo a aliança que fiz com os pais deles no dia em que detive a
+dispensação deles, a fim de os tirar da terra do Egito." Ele mostra assim
+que a aliança antiga é apenas temporária, quando Ele indica a sua mudança;
+também quando Ele promete que ela será seguida por uma eterna. Pois por
+Isaías Ele diz: "Ouçam-me, e vocês viverão; e farei uma aliança eterna com
+vocês", acrescentando "as misericórdias seguras de Davi", a fim de que Ele
+pudesse mostrar que aquela aliança haveria de correr o seu curso em Cristo.
+Que Ele era da família de Davi, segundo a genealogia de Maria, declarou-o
+Ele de modo figurado até mesmo pela vara que haveria de proceder do tronco
+de Jessé. Porquanto, pois, ele disse que do Criador viriam outras leis, e
+outras palavras, e novas dispensações de alianças, indicando também que os
+próprios sacrifícios haveriam de receber ofícios mais elevados, e isso entre
+todas as nações, por Malaquias, quando ele diz: "Não tenho prazer em vocês,
+diz o Senhor, nem aceitarei os sacrifícios de vocês das mãos de vocês.
+Porque desde o nascer do sol até o ocaso do mesmo, o meu nome será grande
+entre os gentios; e em todo lugar se oferece um sacrifício ao meu nome, a
+saber, uma oferta pura" — significando a oração simples de uma consciência
+pura —, é de necessidade que toda mudança que vem como resultado de inovação
+introduza uma diversidade naquelas coisas das quais a mudança se faz, da
+qual diversidade surge também uma contrariedade. Pois, assim como nada há
+que, depois de ter sofrido uma mudança, não se torne diferente, assim nada
+de diferente há que não seja contrário. Daquela mesma coisa, portanto, se
+predicará uma contrariedade em consequência da sua diversidade, à qual
+sobreveio uma mudança de condição depois de uma inovação. Aquele que efetuou
+a mudança, esse mesmo instituiu também a diversidade; Aquele que predisse a
+inovação, esse mesmo anunciou de antemão igualmente a contrariedade. Por
+que, na sua interpretação, você imputa uma diferença no estado das coisas a
+uma diferença de poderes? Por que você torce, em prejuízo do Criador,
+aqueles exemplos dos quais tira as suas antíteses, quando pode reconhecê-los
+todos nas Suas sensações e afeições? "Eu ferirei", diz Ele, "e eu sararei";
+"Eu matarei", diz Ele outra vez, "e eu farei viver" — até mesmo
+
+
 the same "who createth evil and maketh peace;" from which you are used even
 to censure Him with the imputation of fickleness and inconstancy, as if He
 forbade what He commanded, and commanded what He forbade. Why, then, have you
@@ -147,10 +279,32 @@ however, the settled conviction already of my mind from manifest proofs, that,
 as His works and plans exist in the way of Antitheses, so also by the same rule
 exist the mysteries of His religion.
 
+o mesmo "que cria o mal e faz a paz"; do que você costuma até mesmo
+censurá-Lo com a imputação de volubilidade e inconstância, como se Ele
+proibisse o que ordenou e ordenasse o que proibiu. Por que, então, você não
+arrolou também as Antíteses que ocorrem nas obras naturais do Criador, que é
+para sempre contrário a Si mesmo? Você não foi capaz, a menos que eu esteja
+mal informado, de reconhecer o fato de que o mundo, em todo caso, mesmo
+entre o seu povo do Ponto, é composto de uma diversidade de elementos que
+são hostis uns aos outros. Era, portanto, seu dever indeclinável ter
+determinado primeiramente que o deus da luz era um ser, e o deus das trevas
+era outro, de tal sorte que você pudesse ter afirmado distintamente ser um
+deles o deus da lei e o outro o deus do evangelho. É, contudo, já a
+convicção assentada da minha mente, a partir de provas manifestas, que,
+assim como as Suas obras e os Seus planos existem à maneira de Antíteses,
+assim também, pela mesma regra, existem os mistérios da Sua religião.
+
+
 CHAP. II.--ST. LUKE'S GOSPEL, SELECTED BY MARCION AS HIS AUTHORITY, AND
 MUTILATED BY HIM. THE OTHER GOSPELS EQUALLY AUTHORITATIVE. MARCION'S TERMS OF
 DISCUSSION, HOWEVER, ACCEPTED, AND GRAPPLED WITH ON THE FOOTING OF ST. LUKE'S
 GOSPEL ALONE.
+
+CAP. II.--O EVANGELHO DE SÃO LUCAS, ESCOLHIDO POR MARCIÃO COMO SUA
+AUTORIDADE, E MUTILADO POR ELE. OS OUTROS EVANGELHOS IGUALMENTE
+AUTORITATIVOS. OS TERMOS DE DISCUSSÃO DE MARCIÃO, CONTUDO, ACEITOS, E
+ENFRENTADOS COM BASE SOMENTE NO EVANGELHO DE SÃO LUCAS.
+
 
 You have now our answer to the Antitheses compendiously indicated by us. I
 pass on to give a proof of the Gospel--not, to be sure, of Jewry, but of
@@ -171,6 +325,26 @@ in the order of their narratives, provided that there be agreement in the
 essential matter of the faith, in which there is disagreement with Marcion.
 Marcion, on the other hand, you must know,
 
+Você tem agora a nossa resposta às Antíteses, compendiosamente indicada por
+nós. Passo a dar uma prova do Evangelho — não, por certo, da Judeia, mas do
+Ponto — tendo-se entrementes tornado adulterado; e isto indicará a ordem
+pela qual procedemos. Estabelecemos como nossa primeira posição que o
+Testamento evangélico tem apóstolos por seus autores, aos quais foi
+atribuído pelo próprio Senhor este ofício de publicar o evangelho. Uma vez
+que, contudo, há também homens apostólicos, eles todavia não estão sós, mas
+aparecem com apóstolos e depois de apóstolos; porque a pregação de
+discípulos poderia ficar aberta à suspeita de uma afetação de glória, se não
+a acompanhasse a autoridade dos mestres, o que significa a de Cristo, pois
+foi ela que fez dos apóstolos os seus mestres. Dos apóstolos, portanto, João
+e Mateus primeiro nos instilam a fé; ao passo que, dos homens apostólicos,
+Lucas e Marcos a renovam depois. Todos estes partem dos mesmos princípios da
+fé, no que se refere ao único e só Deus, o Criador, e ao Seu Cristo, a
+saber, que Ele nasceu da Virgem e veio para cumprir a lei e os profetas. Não
+importa se ocorre alguma variação na ordem das suas narrativas, contanto que
+haja acordo na matéria essencial da fé, na qual há desacordo com Marcião.
+Marcião, por outro lado, você deve saber,
+
+
 ascribes no author to his Gospel, as if it could not be allowed him to affix
 a title to that from which it was no crime (in his eyes) to subvert the very
 body. And here I might now make a stand, and contend that a work ought not to be
@@ -188,6 +362,26 @@ all support from preceding authorities, would not be a sufficient basis for our
 faith. There would be still wanted that Gospel which St. Paul found in
 existence, to which he yielded
 
+não atribui autor algum ao seu Evangelho, como se não lhe pudesse ser
+permitido afixar um título àquilo de que não era crime (a seus olhos)
+subverter o próprio corpo. E aqui eu poderia agora fazer uma parada e
+sustentar que uma obra não deve ser reconhecida, a qual não mantém erguida a
+sua cabeça, a qual não exibe consistência alguma, a qual não dá promessa
+alguma de credibilidade pela plenitude do seu título e pela justa profissão
+do seu autor. Mas preferimos travar a questão em todos os pontos; nem
+deixaremos despercebido o que pode, com justiça, ser entendido como estando
+do nosso lado. Ora, dos autores que possuímos, Marcião parece ter escolhido
+de preferência Lucas para o seu processo de mutilação. Lucas, contudo, não
+era um apóstolo, mas apenas um homem apostólico; não um mestre, mas um
+discípulo, e assim inferior a um mestre — pelo menos tão posterior a ele
+quanto o apóstolo a quem ele seguiu (e esse, sem dúvida, era Paulo) era
+posterior aos outros; de sorte que, ainda que Marcião tivesse até publicado
+o seu Evangelho em nome do próprio São Paulo, a autoridade única do
+documento, destituída de todo apoio de autoridades precedentes, não seria
+base suficiente para a nossa fé. Ainda faltaria aquele Evangelho que São
+Paulo encontrou em existência, ao qual ele rendeu
+
+
 his belief, and with which he so earnestly wished his own to agree, that he
 actually on that account went up to Jerusalem to know and consult the apostles,
 "lest he should run, or had been running in vain;" in other words, that the
@@ -201,9 +395,30 @@ himself desired the authority of his predecessors for both his own faith and
 preaching, how much more may not I require for Luke's Gospel that which was
 necessary for the Gospel of his master.
 
+a sua crença, e com o qual ele tão ardentemente desejou que o seu próprio
+concordasse, que ele de fato, por essa razão, subiu a Jerusalém para
+conhecer e consultar os apóstolos, "para que não corresse, ou não houvesse
+estado correndo em vão"; por outras palavras, para que a fé que ele havia
+aprendido, e o evangelho que ele estava pregando, estivessem em conformidade
+com a deles. Então, por fim, tendo conferenciado com os autores (primitivos)
+e tendo concordado com eles no tocante à regra da fé, eles uniram as mãos em
+comunhão e dividiram os seus labores dali em diante no ofício de pregar o
+evangelho, de modo que eles haveriam de ir aos judeus, e São Paulo aos
+judeus e aos gentios. Visto, portanto, que o iluminador do próprio São Lucas
+desejou a autoridade dos seus predecessores tanto para a sua própria fé como
+para a sua pregação, quanto mais não hei eu de exigir para o Evangelho de
+Lucas aquilo que foi necessário para o Evangelho do seu mestre.
+
+
 CHAP. III.--MARCION INSINUATED THE UNTRUSTWORTHINESS OF CERTAIN APOSTLES
 WHOM ST. PAUL REBUKED. THE REBUKE SHOWS THAT IT CANNOT BE REGARDED AS
 DEROGATING FROM THEIR AUTHORITY. THE APOSTOLIC GOSPELS PERFECTLY AUTHENTIC.
+
+CAP. III.--MARCIÃO INSINUOU A FALTA DE CONFIABILIDADE DE CERTOS APÓSTOLOS A
+QUEM SÃO PAULO REPREENDEU. A REPREENSÃO MOSTRA QUE ELA NÃO PODE SER
+CONSIDERADA COMO DERROGATÓRIA DA AUTORIDADE DELES. OS EVANGELHOS APOSTÓLICOS
+PERFEITAMENTE AUTÊNTICOS.
+
 
 In the scheme of Marcion, on the contrary, the mystery of the Christian
 religion begins from the discipleship of Luke. Since, however, it was on its
@@ -244,18 +459,78 @@ with ours (which, of course, is, also adulterated in its title), then it is the
 work of apostles. Our Gospel, therefore, which is in agreement with it, is
 equally the work of apostles, but also adulterated in its title.
 
+No esquema de Marcião, ao contrário, o mistério da religião cristã começa a
+partir do discipulado de Lucas. Uma vez que, contudo, ele já seguia o seu
+curso antes desse ponto, deve ter tido os seus próprios materiais
+autênticos, por meio dos quais achou o seu próprio caminho até São Lucas; e,
+pelo auxílio do testemunho que ele prestava, o próprio Lucas se torna
+admissível. Ora, mas Marcião, achando a Epístola de Paulo aos Gálatas (na
+qual ele repreende até apóstolos) por "não andando retamente segundo a
+verdade do evangelho", bem como acusa certos falsos apóstolos de perverterem
+o evangelho de Cristo), labora muito arduamente para destruir o caráter
+daqueles Evangelhos que são publicados como genuínos e sob o nome de
+apóstolos, a fim de, por certo, assegurar ao seu próprio Evangelho o crédito
+que ele lhes tira. Mas então, mesmo que ele censure Pedro e João e Tiago,
+que eram tidos por colunas, é por uma razão manifesta. Eles pareciam estar
+mudando a sua companhia por acepção de pessoas. E contudo, como o próprio
+Paulo "se fez todas as coisas para todos os homens", a fim de que ganhasse a
+todos, era possível que também Pedro se tivesse lançado ao mesmo plano de
+praticar algo um tanto diferente do que ensinava. E, de igual modo, se
+também falsos apóstolos se insinuaram, o caráter deles também se mostrou na
+insistência deles sobre a circuncisão e as cerimônias judaicas. De sorte que
+não foi por causa da sua pregação, mas da sua conduta, que foram marcados
+por São Paulo, o qual, com igual imparcialidade, os teria marcado com
+censura, se de algum modo houvessem errado com respeito a Deus Criador ou ao
+Seu Cristo. Cada caso particular terá, portanto, de ser distinguido. Quando
+Marcião se queixa de que os apóstolos são suspeitos (pela sua prevaricação e
+dissimulação) de terem até mesmo depravado o evangelho, ele com isso acusa a
+Cristo, ao acusar aqueles a quem Cristo escolheu. Se, então, os apóstolos,
+que são censurados simplesmente por inconsistência de andar, compuseram o
+Evangelho em forma pura, mas falsos apóstolos interpolaram o seu registro
+verdadeiro; e se as nossas próprias cópias foram feitas a partir destas,
+onde se achará aquele texto genuíno dos escritos do apóstolo que não sofreu
+adulteração? Qual foi aquele que iluminou Paulo, e por meio dele Lucas? Ele
+ou está completamente apagado, como se por algum dilúvio — sendo obliterado
+pela inundação dos falsificadores —, caso em que nem mesmo Marcião possui o
+verdadeiro Evangelho; ou então, é aquela mesma edição que só Marcião possui
+a verdadeira, isto é, a dos apóstolos? Como, então, concorda essa com o
+nosso, do qual se diz não ser (a obra) de apóstolos, mas de Lucas? Ou então,
+de novo, se aquilo que Marcião usa não deve ser atribuído a Lucas
+simplesmente porque de fato concorda com o nosso (o qual, é claro, está
+também adulterado no seu título), então é a obra de apóstolos. O nosso
+Evangelho, portanto, que está em concordância com ele, é igualmente a obra
+de apóstolos, mas também adulterado no seu título.
+
+
 CHAP. IV.--EACH SIDE CLAIMS TO POSSESS THE TRUE GOSPEL. ANTIQUITY THE
 CRITERION OF TRUTH IN SUCH A MATTER. MARCION'S PRETENSIONS AS AN AMENDER
 OF THE GOSPEL.
 
+CAP. IV.—CADA LADO REIVINDICA POSSUIR O VERDADEIRO EVANGELHO. A ANTIGUIDADE,
+O CRITÉRIO DA VERDADE EM TAL MATÉRIA. AS PRETENSÕES DE MARCIÃO COMO
+EMENDADOR DO EVANGELHO.
+
+
 We must follow, then, the clue of our discussion, meeting every effort of our
 opponents
+
+Devemos seguir, então, o fio da nossa discussão, indo ao encontro de todo
+esforço dos nossos oponentes
+
 
 with reciprocal vigor. I say that my Gospel is the true one; Marcion, that
 his is. I affirm that Marcion's Gospel is adulterated; Marcion, that mine is.
 Now what is to settle the point for us, except it be that principle of time,
 which rules that the authority lies with that which shall be found to be more
 ancient; and assumes as an elemental truth, that corruption (of doctrine)
+
+com vigor recíproco. Digo que o meu Evangelho é o verdadeiro; Marcião, que o
+dele o é. Afirmo que o Evangelho de Marcião está adulterado; Marcião, que o
+meu o está. Ora, o que há de decidir o ponto para nós, senão aquele
+princípio do tempo, o qual determina que a autoridade cabe àquilo que se
+achar ser mais antigo; e assume como verdade elementar que a corrupção (da
+doutrina)
+
 
 belongs to the side which shall be convicted of comparative lateness in its
 origin. For, inasmuch as error is falsification of truth, it must needs be that
@@ -265,12 +540,30 @@ would be, that, when we have proved our position to be the older one, and
 Marcion's the later, ours should yet appear to be the false one, before it had
 even received from truth its objective existence;
 
+pertence ao lado que for tido por culpado de tardança comparativa na sua
+origem. Pois, porquanto o erro é falsificação da verdade, é mister que a
+verdade, portanto, preceda o erro. Uma coisa deve existir antes de sofrer
+qualquer acidente; e um objeto deve preceder toda rivalidade contra si
+mesmo. Do contrário, quão absurdo seria que, quando tivermos provado ser a
+nossa posição a mais antiga, e a de Marcião a mais tardia, a nossa ainda
+assim parecesse ser a falsa, antes mesmo de ela ter recebido da verdade a
+sua existência objetiva;
+
+
 and Marcion's should also be supposed to have experienced rivalry at our
 hands, even before its publication; and, in fine, that that should be thought to
 be the truer position which is the later one--a century later than the
 publication of all the many and great facts and records of the Christian
 religion, which certainly could not have been published without, that is to say,
 before, the truth of the gospel. With regard, then, to the pending
+
+e a de Marcião também se supusesse ter experimentado rivalidade da nossa
+parte, mesmo antes da sua publicação; e, enfim, que se julgasse ser a
+posição mais verdadeira aquela que é a mais tardia — um século mais tarde do
+que a publicação de todos os muitos e grandes fatos e registros da religião
+cristã, os quais certamente não poderiam ter sido publicados sem, isto é,
+antes, a verdade do evangelho. Quanto, então, à pendente
+
 
 question, of Luke's Gospel (so far as its being the common property of
 ourselves and Marcion enables it to be decisive of the truth,) that portion of
@@ -306,14 +599,64 @@ amends that which he has previously fallen in with; and that that is the later
 one, which, by putting it together out of the emendations of ours, he has made
 his own Gospel, and a novel one too.
 
+questão, do Evangelho de Lucas (na medida em que o seu ser propriedade comum
+de nós mesmos e de Marcião o habilita a ser decisivo da verdade,) aquela
+porção dele que só nós recebemos é tão mais antiga do que Marcião, que o
+próprio Marcião outrora nela creu, quando, no primeiro calor da fé,
+contribuiu com dinheiro para a igreja católica, o qual, juntamente com ele
+próprio, foi depois rejeitado, quando ele caiu da nossa verdade na sua
+própria heresia. E se os marcionitas tiverem negado que ele sustentou a fé
+primitiva entre nós, mesmo em face da sua própria carta? Que será, se não
+reconhecem a carta? Eles, em todo caso, recebem as suas Antíteses; e, mais
+do que isso, fazem uso ostentoso delas. Prova tirada destas me basta. Pois,
+se o Evangelho, dito ser de Lucas, que corre entre nós (veremos se corre
+também junto a Marcião), é exatamente aquele que, como Marcião argumenta nas
+suas Antíteses, foi interpolado pelos defensores do judaísmo, com o
+propósito de uma tal conglomeração com ele da lei e dos profetas que os
+habilitasse a, a partir dele, moldar o Cristo deles, certamente ele não
+poderia ter assim argumentado a respeito dele, a menos que o tivesse
+encontrado (em tal forma). Ninguém censura as coisas antes que existam,
+quando não sabe se hão de acontecer. A emenda nunca precede a falta. Por
+certo, um emendador daquele Evangelho, que estivera todo às avessas desde os
+dias de Tibério até os de Antonino, apresentou-se primeiro somente em
+Marcião — tão longamente esperado por Cristo, que estivera o tempo todo
+lamentando ter tido tão grande pressa de enviar os seus apóstolos sem o
+apoio de Marcião! Mas, apesar de tudo isso, a heresia, que está para sempre
+emendando os Evangelhos, e corrompendo-os no ato, é coisa da audácia do
+homem, não da autoridade de Deus; e, se Marcião for sequer um discípulo, ele
+contudo não está "acima do seu mestre"; se Marcião for um apóstolo, ainda
+assim, como diz Paulo, "Quer seja eu, quer sejam eles, assim pregamos"; se
+Marcião for um profeta, até "os espíritos dos profetas estarão sujeitos aos
+profetas", pois eles não são os autores de confusão, mas de paz; ou, se
+Marcião for efetivamente um anjo, deve antes ser designado "como anátema do
+que como um pregador do evangelho", porque é um evangelho estranho o que ele
+pregou. De modo que, enquanto emenda, ele apenas confirma ambas as posições:
+tanto que o nosso Evangelho é o anterior, pois ele emenda aquilo com que
+anteriormente se deparou; quanto que aquele é o posterior, o qual, ao
+compô-lo a partir das emendas do nosso, ele fez o seu próprio Evangelho, e
+também um novo.
+
+
 CHAP. V.--BY THE RULE OF ANTIQUITY, THE CATHOLIC GOSPELS ARE FOUND TO BE
 TRUE, INCLUDING THE REAL ST. LUKE'S. MARCION'S ONLY A MUTILATED EDITION. THE
 HERETIC'S WEAKNESS AND INCONSISTENCY IN IGNORING THE OTHER GOSPELS.
+
+CAP. V.—PELA REGRA DA ANTIGUIDADE, OS EVANGELHOS CATÓLICOS SÃO ACHADOS SER
+VERDADEIROS, INCLUINDO O REAL DE SÃO LUCAS. O DE MARCIÃO, APENAS UMA EDIÇÃO
+MUTILADA. A FRAQUEZA E A INCONSISTÊNCIA DO HEREGE EM IGNORAR OS OUTROS
+EVANGELHOS.
+
 
 On the whole, then, if that is evidently more true which is earlier, if that
 is earlier which is from the very beginning, if that is from the beginning which
 has the apostles for its authors, then it will certainly be quite as evident,
 that that comes down from the apos
+
+No todo, então, se é evidentemente mais verdadeiro aquilo que é anterior, se
+é anterior aquilo que é desde o próprio princípio, se é desde o princípio
+aquilo que tem os apóstolos por seus autores, então será certamente tão
+evidente quanto, que aquilo descende dos apóst
+
 
 ties, which has been kept as a sacred deposit in the churches of the
 apostles. Let us see what milk the Corinthians drank from Paul; to what rule of
@@ -372,6 +715,70 @@ convicted by us); or else that they blush for their master, who stands
 self-condemned either way--when once he hands on the truth of the gospel
 conscience smitten, or again subverts it by shameless tampering.
 
+laços, que tem sido guardado como um depósito sagrado nas igrejas dos
+apóstolos. Vejamos que leite os coríntios beberam de Paulo; a que regra de
+fé os gálatas foram trazidos para correção; o que os filipenses, os
+tessalonicenses, os efésios leram por ela; que declaração também dão os
+romanos, tão próximos (dos apóstolos), aos quais Pedro e Paulo conjuntamente
+legaram o evangelho, selado até com o seu próprio sangue. Temos também as
+igrejas nutridas por São João. Pois, embora Marcião rejeite o Apocalipse
+dele, as ordens dos bispos (delas), quando remontadas à sua origem, ainda
+assim repousarão em João como seu autor. Do mesmo modo se reconhece a
+excelente fonte das outras igrejas. Digo, portanto, que nelas (e não
+simplesmente naquelas dentre elas que foram fundadas por apóstolos, mas em
+todas aquelas que estão unidas com elas na comunhão do mistério do evangelho
+de Cristo) aquele Evangelho de Lucas que estamos defendendo com todas as
+nossas forças tem-se mantido firme desde a sua primeiríssima publicação; ao
+passo que o Evangelho de Marcião não é conhecido da maioria das pessoas, e a
+ninguém, seja quem for, é conhecido sem que ao mesmo tempo seja condenado.
+Também ele, naturalmente, tem as suas igrejas, mas especialmente as suas
+próprias — tão tardias quanto são espúrias; e, se você quiser conhecer a
+origem delas, você descobrirá mais facilmente nela apostasia do que
+apostolicidade, com Marcião, deveras, como fundador delas, ou alguém do
+enxame de Marcião. Até as vespas fazem favos; assim também estes marcionitas
+fazem igrejas. A mesma autoridade das igrejas apostólicas fornecerá prova
+também aos outros Evangelhos, que possuímos igualmente por meio delas e
+segundo o uso delas — quero dizer, os Evangelhos de João e de Mateus —,
+enquanto aquele que Marcos publicou pode afirmar-se ser de Pedro, cujo
+intérprete Marcos foi. Pois até a forma do Evangelho de Lucas os homens
+usualmente atribuem a Paulo. E bem pode parecer que as obras que os
+discípulos publicam pertencem aos seus mestres. Pois bem, Marcião deve ser
+chamado a uma prestação de contas rigorosa também acerca destes (outros
+Evangelhos), por tê-los omitido e ter insistido, de preferência, em Lucas;
+como se eles também não tivessem tido livre curso nas igrejas, bem como o
+Evangelho de Lucas, desde o princípio. Antes, é ainda mais crível que eles
+existiram desde o próprio princípio; pois, sendo obra de apóstolos, eram
+anteriores, e coevos em origem com as próprias igrejas. Mas como sucede, se
+os apóstolos nada publicaram, que os seus discípulos fossem mais adiantados
+em tal obra; pois não poderiam ter sido discípulos, sem instrução alguma dos
+seus mestres? Se, então, é evidente que estes (Evangelhos) também corriam
+nas igrejas, por que Marcião não os tocou — ou para emendá-los, se estavam
+adulterados, ou para reconhecê-los, se estavam incorruptos? Pois é apenas
+natural que aqueles que pervertiam o evangelho fossem mais solícitos acerca
+da perversão daquelas coisas cuja autoridade sabiam ser mais geralmente
+recebida. Até os falsos apóstolos (assim foram chamados) por esta mesma
+razão, porque imitavam os apóstolos por meio da sua falsificação. Na medida,
+então, em que ele poderia ter emendado o que havia para emendar, se achado
+corrupto, nessa medida deu firmemente a entender que estava livre de
+corrupção tudo o que ele não julgou requerer emenda. Em suma, ele
+simplesmente emendou o que pensava estar corrupto; embora, de fato, nem
+mesmo isto justamente, porque não estava realmente corrupto. Pois, se os
+(Evangelhos) dos apóstolos chegaram até nós em sua integridade, enquanto o
+de Lucas, que é recebido entre nós, de tal modo concorda com a regra deles
+que está em pé de igualdade com eles na permanência da recepção nas igrejas,
+segue-se claramente que também o Evangelho de Lucas chegou até nós em igual
+integridade até o tratamento sacrílego de Marcião. Em suma, quando Marcião
+lançou as mãos sobre ele, então se tornou diverso e hostil aos Evangelhos
+dos apóstolos. Aconselharei, portanto, os seguidores dele, que ou mudem
+estes Evangelhos, por mais tarde que o façam, para uma conformidade com o
+seu próprio, pelo que possam parecer estar de acordo com os escritos
+apostólicos (pois diariamente retocam a sua obra, como diariamente são
+confutados por nós); ou então que se envergonhem do seu mestre, que
+permanece autocondenado de qualquer modo — quando, uma vez, transmite a
+verdade do evangelho, ferido na consciência, ou, de novo, a subverte por
+adulteração desavergonhada.
+
+
 Such are the summary arguments which we use, when we take up arms against
 heretics for the faith of the gospel, maintaining both that order of periods,
 which rules that a late date is the mark of forgers, and that authority of
@@ -379,16 +786,37 @@ churches which lends support to the tradition of the apostles; because truth
 must needs precede the forgery, and proceed straight from those by whom it has
 been handed on.
 
+Tais são os argumentos sumários que usamos, quando tomamos as armas contra
+os hereges pela fé do evangelho, sustentando tanto aquela ordem dos
+períodos, que determina que uma data tardia é a marca dos falsificadores,
+quanto aquela autoridade das igrejas que presta apoio à tradição dos
+apóstolos; porque a verdade forçosamente deve preceder a falsificação e
+proceder diretamente daqueles por quem ela foi transmitida.
+
+
 CHAP.VI.--MARCION'S OBJECT IN ADULTERATING THE GOSPEL. NO DIFFERENCE
 BETWEEN
+
+CAP.VI.--O OBJETIVO DE MARCIÃO AO ADULTERAR O EVANGELHO. NENHUMA DIFERENÇA
+ENTRE
+
 
 THE CHRIST OF THE CREATOR AND THE CHRIST OF THE GOSPEL. NO RIVAL
 CHRIST
 
+O CRISTO DO CRIADOR E O CRISTO DO EVANGELHO. NENHUM CRISTO RIVAL
+
+
 ADMISSIBLE. THE CONNECTION OF THE TRUE CHRIST WITH THE DISPENSATION OF THE
 OLD
 
+ADMISSÍVEL. A CONEXÃO DO VERDADEIRO CRISTO COM A DISPENSAÇÃO DO ANTIGO
+
+
 TESTAMENT ASSERTED.
+
+TESTAMENTO AFIRMADA.
+
 
 But we now advance a step further on, and challenge (as we promised to do)
 the very Gospel of Marcion, with the intention of thus proving that it has been
@@ -402,10 +830,29 @@ Creator, as if it had been interpolated by His advocates, whilst everything
 which agreed with his own opinion he has retained. The latter statements we
 shall strictly examine;
 
+Mas agora avançamos um passo mais adiante e impugnamos (como prometemos
+fazer) o próprio Evangelho de Marcião, com a intenção de assim provar que
+ele foi adulterado. Pois é certo que todo o objetivo a que ele laborou
+arduamente, mesmo na elaboração das suas Antíteses, centra-se nisto: que ele
+possa estabelecer uma diversidade entre o Antigo e o Novo Testamentos, de
+modo que o seu próprio Cristo seja separado do Criador, como pertencente a
+este deus rival e como alheio à lei e aos profetas. É certo, também, que com
+este intuito ele apagou tudo o que era contrário à sua própria opinião e
+feito em favor do Criador, como se tivesse sido interpolado pelos Seus
+defensores, ao passo que tudo o que concordava com a sua própria opinião ele
+reteve. Estas últimas declarações examinaremos rigorosamente;
+
+
 and if they shall turn out rather for our side, and shatter the assumption of
 Marcion, we shall embrace them. It will then become evident, that in retaining
 them he has shown no less of the defect of blindness, which characterizes
 heresy, than he displayed when he erased all the former class of subjects.
+
+e, se elas resultarem antes em favor do nosso lado e despedaçarem a
+suposição de Marcião, nós as abraçaremos. Tornar-se-á então evidente que, ao
+retê-las, ele mostrou não menos do defeito de cegueira, que caracteriza a
+heresia, do que mostrou quando apagou toda a classe anterior de assuntos.
+
 
 Such, then, is to be the drift and form of my little treatise; subject, of
 course, to whatever condition may have become requisite on both sides of the
@@ -425,10 +872,36 @@ determinations expressed His attributes, His properties. This law and this rule
 I earnestly request the reader to have ever in his mind, and so let him begin to
 investigate whether Christ be Marcion's or the Creator's.
 
+Tal, então, há de ser o teor e a forma do meu pequeno tratado; sujeito,
+naturalmente, a qualquer condição que se tenha tornado necessária de ambos
+os lados da questão. Marcião estabeleceu a posição de que Cristo, que nos
+dias de Tibério foi, por um deus previamente desconhecido, revelado para a
+salvação de todas as nações, é um ser diferente Daquele que foi ordenado por
+Deus o Criador para a restauração do estado judaico, e que ainda há de vir.
+Entre estes ele interpõe a separação de uma grande e absoluta diferença —
+tão grande quanto a que há entre o que é justo e o que é bom; tão grande
+quanto a que há entre a lei e o evangelho; tão grande, (em suma,) quanto é a
+diferença entre o judaísmo e o cristianismo. Daqui surgirá também a nossa
+regra, pela qual determinamos que nada deve haver em comum entre o Cristo do
+deus rival e o Criador; mas que (Cristo) deve ser pronunciado como
+pertencente ao Criador, se Ele administrou as Suas dispensações, cumpriu as
+Suas profecias, promoveu as Suas leis, deu realidade às Suas promessas,
+reavivou o Seu poder poderoso, remodelou as Suas determinações, expressou os
+Seus atributos, as Suas propriedades. Esta lei e esta regra peço
+encarecidamente ao leitor que tenha sempre na sua mente, e assim comece ele
+a investigar se Cristo é de Marcião ou do Criador.
+
+
 CHAP.VII.--MARCION REJECTED THE PRECEDINGPORTION OF ST. LUKE'S GOSPEL.
 THEREFORE THIS REVIEW OPENS WITH AN EXAMINATION OF THE CASE OF THE EVIL SPIRIT
 IN THE SYNAGOGUE OF CAPERNAUM. HE WHOM THE DEMON ACKNOWLEDGED WAS THE
 CREATOR'S CHRIST.
+
+CAP.VII.--MARCIÃO REJEITOU A PORÇÃO PRECEDENTE DO EVANGELHO DE SÃO LUCAS.
+PORTANTO ESTA REVISÃO SE ABRE COM UM EXAME DO CASO DO ESPÍRITO MALIGNO NA
+SINAGOGA DE CAFARNAUM. AQUELE A QUEM O DEMÔNIO RECONHECEU ERA O CRISTO DO
+CRIADOR.
+
 
 In the fifteenth year of the reign of Tiberius (for such is Marcion's
 proposition) he "came down to the Galilean city of Capernaum," of course meaning
@@ -442,6 +915,20 @@ when descending through the Creator's domain, and indeed in hostility to him, he
 could possibly have been admitted by him, and by him been transmitted to the
 earth, which was equally his territory? Now, however, I want also to know the
 remainder of his course down, as
+
+No décimo quinto ano do reinado de Tibério (pois tal é a proposição de
+Marcião) ele "desceu à cidade galileia de Cafarnaum", significando,
+naturalmente, desde o céu do Criador, ao qual ele previamente descera do seu
+próprio. Qual fora, então, o seu Curso, para que ele fosse descrito como
+descendo primeiro do seu próprio céu ao do Criador? Pois por que me absteria
+eu de censurar aquelas partes da declaração que não satisfazem a exigência
+de uma narrativa ordinária, mas sempre terminam numa falsidade? Por certo, a
+nossa censura foi, de uma vez por todas, expressa na questão, que já
+sugerimos: Se, ao descer através do domínio do Criador, e de fato em
+hostilidade a ele, poderia ele porventura ter sido admitido por ele e por
+ele transmitido à terra, que era igualmente o território dele? Agora, porém,
+quero também saber o restante do seu curso de descida, como
+
 
 suming that he came down. For we must not be too nice in inquiring whether it
 is supposed that he was seen in any place. To come into view indicates a sudden
@@ -498,6 +985,65 @@ elsewhere. But "they were all astonished at His doctrine." Of course they were;
 "for, says (St. Luke), "His word was with power--not because He taught in
 opposition to the law and the proph 0
 
+sumindo que ele desceu. Pois não devemos ser demasiado escrupulosos ao
+indagar se se supõe que ele foi visto em algum lugar. Vir à vista indica um
+relance súbito e inesperado, que por um momento fixou o olho sobre o objeto
+que passou diante da vista, sem permanecer. Mas, quando acontece que uma
+descida foi efetuada, ela é patente e cai sob a atenção dos olhos. Além
+disso, ela leva em conta o fato e assim obriga a examinar em que condição,
+com que preparação, com quanta violência ou moderação e, além disso, a que
+hora do dia ou da noite a descida foi feita; quem, por sua vez, viu a
+descida, quem a relatou, quem seriamente asseverou o fato, o qual certamente
+não era fácil de ser crido, mesmo depois da asseveração. É, em suma,
+demasiado mau que Rômulo tenha tido em Próculo um abonador da sua ascensão
+ao céu, quando o Cristo de (este) deus não pôde encontrar ninguém para
+anunciar a sua descida do céu; exatamente como se a ascensão de um e a
+descida do outro não fossem efetuadas sobre uma e a mesma escada de
+falsidade! Então, que tinha ele que ver com a Galileia, se não pertencia ao
+Criador, por quem aquela região foi destinada (para o Seu Cristo) quando
+estava prestes a entrar no Seu ministério? Como diz Isaías: "Bebam isto
+primeiro, e sejam prontos, ó região de Zabulon e terra de Neftalim, e vocês
+outros que (habitam) a costa do mar, e a do Jordão, Galileia das nações,
+vocês, povo que se senta nas trevas, eis uma grande luz; sobre vocês, que
+habitam (aquela) terra, sentados na sombra da morte, a luz se ergueu." É,
+contudo, bom que o deus de Marcião de fato pretenda ser o iluminador das
+nações, para que assim pudesse ter melhor razão para descer do céu; somente,
+se for necessário, ele deveria antes ter feito do Ponto o seu lugar de
+descida do que da Galileia. Mas, visto que tanto o lugar como a obra de
+iluminação segundo a profecia são compatíveis com Cristo, começamos a
+discernir que Ele é o sujeito da profecia, a qual mostra que, no próprio
+início do Seu ministério, Ele não veio destruir a lei e os profetas, mas
+antes cumpri-los; pois Marcião apagou a passagem como uma interpolação.
+Será, contudo, vão para ele negar que Cristo proferiu em palavra o que Ele
+imediatamente fez, parcialmente, de fato. Pois a profecia acerca do lugar
+Ele de imediato cumpriu. Do céu direto à sinagoga. Como reza o adágio: "O
+negócio a que viemos, façam-no de uma vez." Marcião deve até expungir do
+Evangelho, "Não sou enviado senão às ovelhas perdidas da casa de Israel;" e,
+"Não convém tomar o pão dos filhos e lançá-lo aos cães,"--a fim de, por
+certo, que Cristo não pareça ser um israelita. Mas os fatos me satisfarão em
+lugar das palavras. Retire todos os ditos do meu Cristo, os Seus atos
+falarão. Eis, Ele entra na sinagoga; certamente (isto é ir) às ovelhas
+perdidas da casa de Israel. Eis, é aos israelitas primeiro que Ele oferece o
+"pão" da Sua doutrina; certamente é porque eles são "filhos" que Ele lhes
+mostra esta prioridade. Observe, Ele ainda não o comunica a outros;
+certamente os passa por alto como "cães". Pois a quem mais poderia Ele tê-lo
+comunicado melhor, senão a tais que eram estranhos ao Criador, se Ele
+especialmente não pertencia ao Criador? E, contudo, como poderia Ele ter
+sido admitido na sinagoga--alguém que aparecia tão abruptamente, tão
+desconhecido; alguém de quem ninguém ainda fora inteirado da Sua tribo, da
+Sua nação, da Sua família e, por fim, da Sua inscrição no censo de
+Augusto--aquela testemunha fidelíssima da natividade do Senhor, conservada
+nos arquivos de Roma? Eles certamente teriam recordado, se não O soubessem
+circuncidado, que Ele não devia ser admitido nos seus lugares santíssimos.
+E, mesmo que Ele tivesse o direito geral de entrar na sinagoga (como os
+outros judeus), contudo a função de dar instrução era permitida somente a um
+homem extremamente bem conhecido, examinado e provado, e por algum tempo
+investido do privilégio depois de experiência devidamente atestada alhures.
+Mas "todos ficaram atônitos com a Sua doutrina." Claro que ficaram; "pois,
+diz (São Lucas), "a Sua palavra era com poder--não porque Ele ensinasse em
+oposição à lei e aos prof
+
+
 ets. No doubt, His divine discourse gave forth both power and grace, building
 up rather than pulling down the substance of the law and the prophets.
 Otherwise, instead of "astonishment, they would feel horror. It would not be
@@ -530,6 +1076,42 @@ ignorant of, to be Jesus and the Holy One of God; so did he acknowledge Him whom
 he knew (to be both). For he remembered how that the prophet had prophesied of
 "the Holy One" of God, and how that God's name of "Jesus" was in the son of Nun.
 
+etas. Sem dúvida, o Seu discurso divino emitia tanto poder quanto graça,
+edificando antes que derrubando a substância da lei e dos profetas. De outro
+modo, em vez de "espanto, eles sentiriam horror. Não seria admiração, mas
+aversão, pronta e certa, o que eles concederiam a quem era o destruidor da
+lei e dos profetas, e o especial propositor, como consequência natural, de
+um deus rival; pois ele teria sido incapaz de ensinar qualquer coisa em
+detrimento da lei e dos profetas, e, até aí, também do Criador, sem antepor
+a doutrina de uma divindade diferente e rival, Porquanto, então, como a
+Escritura não faz nenhuma outra declaração sobre a matéria senão que a
+simples força e o poder da Sua palavra produziram espanto, ela mais
+naturalmente mostra que o Seu ensino estava em conformidade com o Criador,
+por não negar (que assim era), do que que estava em oposição ao Criador, por
+não afirmar (tal fato). E assim Ele ou terá de ser reconhecido como
+pertencente Àquele, em conformidade com quem Ele ensinou; ou então terá de
+ser julgado um enganador, visto que ensinou em conformidade com Aquele a
+quem viera opor-se. Na mesma passagem, "o espírito de um diabo imundo"
+exclama: "Que temos nós que ver contigo, Tu, Jesus? Vieste Tu para
+destruir-nos? Eu Te conheço, quem Tu és, o Santo de Deus." Não levanto aqui
+a questão se esta denominação era adequada a alguém que não devia ser
+chamado Cristo, a menos que fosse enviado pelo Criador. Alhures já foi dada
+uma plena consideração dos Seus títulos. A minha discussão presente é como o
+espírito maligno poderia ter sabido que Ele era chamado por tal nome, quando
+nunca em tempo algum se pronunciara a respeito d'Ele uma única profecia por
+um deus que era desconhecido e até aquele tempo silencioso, do qual não era
+possível que Ele fosse atestado como "o Santo", como (de um deus)
+desconhecido até mesmo para o seu próprio Criador. Que acontecimento
+semelhante poderia ele então ter publicado de uma nova deidade, pelo qual
+pudesse assinalar "o santo" do deus rival? Simplesmente que ele entrou na
+sinagoga e nada fez, nem mesmo em palavra, contra o Criador? Assim como,
+portanto, ele não podia de modo algum reconhecer aquele de quem era
+ignorante como sendo Jesus e o Santo de Deus, assim reconheceu Aquele a quem
+conhecia (ser ambos). Pois ele se lembrava de como o profeta havia
+profetizado acerca de "o Santo" de Deus, e de como o nome de Deus, "Jesus",
+estava no filho de Nun.
+
+
 These facts he had also received from the angel, according to our Gospel:
 "Wherefore that which shall be born of thee shall be called the Holy One, the
 Son of God;" and, "Thou shalt call his name Jesus." Thus he actually had
@@ -558,22 +1140,74 @@ him for thinking what he knew he ought to think (about Him), and for not
 supposing that of Him which he knew not that he ought to suppose--that he was
 another Jesus, and the holy one of the other god. If,
 
+Estes fatos ele também havia recebido do anjo, segundo o nosso Evangelho:
+"Por isso, o que há de nascer de ti será chamado o Santo, o Filho de Deus;"
+e, "Tu chamarás o seu nome Jesus." Assim, ele de fato tinha (embora apenas
+um espírito maligno) alguma ideia da dispensação do Senhor, antes que De
+qualquer uma estranha e até então imperfeitamente compreendida. Porque ele
+também antepôs esta pergunta: "Que temos nós que ver contigo?"--não como se
+se referisse a um Jesus estranho, a quem pertencem os espíritos malignos do
+Criador. Nem disse ele, Que tens Tu que ver conosco? mas, "Que temos nós que
+ver contigo?" como se deplorasse a si mesmo e deprecasse a sua própria
+calamidade; ante cuja perspectiva acrescenta: "Vieste Tu para destruir-nos?"
+Tão completamente reconheceu ele em Jesus o Filho daquele Deus que era
+judicial e vingador, e (por assim dizer) severo, e não daquele que era
+simplesmente bom e não sabia como destruir nem como punir! Ora, com que
+propósito aduzimos primeiro a passagem dele? A fim de mostrar que Jesus não
+foi nem reconhecido pelo espírito maligno, nem afirmado por Si mesmo, como
+sendo outro senão o do Criador. Bem, mas Jesus o repreendeu, você diz. Por
+certo que o fez, por ser um (espírito) invejoso, e na sua própria confissão
+apenas petulante, e mau na adulação--justamente como se a mais alta glória
+de Cristo tivesse sido ter vindo para a destruição dos demônios, e não para
+a salvação da humanidade; ao passo que o Seu desejo realmente era que os
+Seus discípulos não se gloriassem na sujeição dos espíritos malignos, mas na
+bela formosura da salvação. Por que mais Ele o repreendeu? Se foi porque ele
+estava inteiramente errado (na sua invocação), então Ele não era nem Jesus
+nem o Santo de Deus; se foi porque ele estava parcialmente errado--por tê-lo
+suposto, com razão bastante, Jesus e o Santo de Deus, mas também como
+pertencente ao Criador--mui injustamente Ele o teria repreendido por pensar
+o que sabia que devia pensar (a respeito d'Ele), e por não supor acerca
+d'Ele aquilo que não sabia que devia supor--que ele era outro Jesus, e o
+santo do outro deus. Se,
+
+
 however, the rebuke has not a more probable meaning than that which we
 ascribe to it, follows that the evil spirit made no mistake, and was not rebuked
 for lying; for it was Jesus Himself, besides whom it was impossible for the evil
 spirit to have acknowledged any other, whilst Jesus affirmed that He was He whom
 the evil spirit had acknowledged, by not rebuking him for uttering a lie.
 
+contudo, a repreensão não tem um sentido mais provável do que aquele que lhe
+atribuímos, segue-se que o espírito maligno não cometeu engano, e não foi
+repreendido por mentir; pois era o próprio Jesus, além de quem era
+impossível que o espírito maligno tivesse reconhecido qualquer outro,
+enquanto Jesus afirmava que Ele era Aquele a quem o espírito maligno havia
+reconhecido, por não o repreender por proferir uma mentira.
+
+
 CHAP. VIII."--OTHER PROOFS FROM THE SAME CHAPTER, THAT JESUS, WHO PREACHED
 AT
+
+CAP. VIII."--OUTRAS PROVAS DO MESMO CAPÍTULO, DE QUE JESUS, QUE PREGOU EM
+
 
 NAZARETH, AND WAS ACKNOWLEDGED BY CERTAIN DEMONS AS CHRIST THE SON OF
 GOD,
 
+NAZARÉ, E FOI RECONHECIDO POR CERTOS DEMÔNIOS COMO CRISTO O FILHO DE DEUS,
+
+
 WAS THE CREATOR'S CHRIST. AS OCCASION OFFERS, THE DOCETIC ERRORS OF
 MARCION
 
+ERA O CRISTO DO CRIADOR. COMO A OCASIÃO SE OFERECE, OS ERROS DOCÉTICOS DE
+MARCIÃO
+
+
 ARE EXPOSED.
+
+SÃO EXPOSTOS.
+
 
 The Christ of the Creator had to be called a Nazarene according to prophecy;
 whence the Jews also designate us, on that very account, Nazerenes after Him.
@@ -598,6 +1232,34 @@ already experienced their rough treatment, and afterwards went His way, no doubt
 because the crowd (as usually happens) gave way, or was even broken through; but
 not because it was eluded as by an impalpable disguise, which, if there had been
 such, would not at all have submitted to any touch.
+
+O Cristo do Criador tinha de ser chamado Nazareno segundo a profecia; donde
+também os judeus nos designam, por essa mesma razão, nazarenos segundo Ele.
+Pois nós somos aqueles de quem está escrito, "Os nazireus dela eram mais
+brancos do que a neve;" mesmo aqueles que outrora foram maculados com as
+nódoas do pecado e obscurecidos com as nuvens da ignorância. Mas para Cristo
+o título de Nazareno estava destinado a tornar-se apropriado, a partir do
+esconderijo da Sua infância, para o qual Ele desceu e habitou em Nazaré, a
+fim de escapar de Arquelau, o filho de Herodes. Este fato não me abstive de
+mencionar por esta razão, porque convinha que o Cristo de Marcião se tivesse
+abstido de toda e qualquer conexão com as localidades domésticas do Cristo
+do Criador, quando ele tinha tantas cidades na Judeia que não haviam sido
+assim designadas pelos profetas ao Cristo do Criador. Mas Cristo será (o
+Cristo) dos profetas, onde quer que Ele se encontre em conformidade com os
+profetas. E contudo, mesmo em Nazaré, Ele não é notado como tendo pregado
+qualquer coisa de novo, ao passo que em outro versículo se diz que Ele foi
+rejeitado em razão de um simples provérbio. Aqui, de imediato, quando
+observo que puseram as mãos sobre Ele, não posso deixar de tirar uma
+conclusão a respeito da Sua substância corporal, a qual não se pode crer que
+tenha sido um fantasma, visto que era capaz de ser tocada e até
+violentamente manuseada, quando Ele foi agarrado e tomado e levado até a
+própria beira de um precipício. Pois, embora Ele escapasse pelo meio deles,
+já havia experimentado o tratamento rude deles e depois seguiu o Seu
+caminho, sem dúvida porque a multidão (como usualmente acontece) cedeu, ou
+foi até rompida; mas não porque fosse eludida como por um disfarce
+impalpável, o qual, se tal houvesse, de modo algum se teria submetido a
+toque algum.
+
 
 "Tangere enim et tangi, nisi corpus, nulla potest res,"
 
@@ -625,6 +1287,34 @@ or any sort of substance, who did not happen to have a substance of his own, but
 had descended in an alien one. And now, too, as the destroyer also of the
 Creator, he would have desired nothing better
 
+é até mesmo uma sentença digna de um lugar na sabedoria do mundo. Em suma,
+Ele mesmo tocou a outros, sobre os quais impôs as Suas mãos, as quais eram
+capazes de ser sentidas, e conferiu as bênçãos da cura, as quais não eram
+menos verdadeiras, não menos não imaginárias, do que o eram as mãos com que
+Ele as concedeu. Ele era, portanto, o próprio Cristo de Isaías, o curador
+das nossas enfermidades. "Certamente," diz ele, "Ele suportou as nossas
+aflições e carregou as nossas tristezas." Ora, os gregos costumam usar, para
+carregar, uma palavra que também significa tirar. Uma promessa geral
+basta-me de passagem. Quaisquer que fossem as curas que Jesus efetuou, Ele é
+meu. Viremos, contudo, às espécies de curas. Libertar os homens, pois, dos
+espíritos malignos é uma cura de enfermidade. Por conseguinte, os espíritos
+maus (justamente à maneira do nosso exemplo anterior) costumavam sair com um
+testemunho, exclamando: "Tu és o Filho de Deus" — de que Deus, é bastante
+claro pelo próprio caso. Mas foram repreendidos e receberam ordem de não
+falar; precisamente porque Cristo quis ser Ele mesmo proclamado pelos
+homens, não pelos espíritos imundos, como o Filho de Deus — precisamente
+aquele único Cristo a quem isto convinha, porque Ele havia enviado de
+antemão homens por meio dos quais pudesse tornar-se conhecido, e que eram
+seguramente pregadores mais dignos. Era natural a Ele recusar a proclamação
+de um espírito imundo, a cujo mando havia abundância de santos. Aquele,
+contudo, que nunca fora predito (se, de fato, desejava ser reconhecido;
+pois, se não o desejava tanto, a sua vinda era em vão), não teria desdenhado
+o testemunho de uma substância alheia ou de qualquer espécie, ele que não
+tinha porventura uma substância própria, mas havia descido numa alheia. E
+agora também, como o destruidor também do Criador, ele nada teria desejado
+de melhor
+
+
 than to be acknowledged by His spirits, and to be divulged for the sake of
 being feared: only that Marcion says that his god is not feared; maintaining
 that a good being Is not an object of fear, but only a judicial being, in whom
@@ -636,6 +1326,19 @@ Besides, He showed that He was to be feared, because He drave them out, not by
 persuasion like a good being, but by command and reproof. Or else did he reprove
 them, because they were making him an object of fear, when all the while he did
 not want to be feared?
+
+do que ser reconhecido pelos Seus espíritos, e ser divulgado a fim de ser
+temido: só que Marcião diz que o seu deus não é temido; sustentando que um
+ser bom não é objeto de temor, mas somente um ser judicial, em quem residem
+os fundamentos do temor — ira, severidade, juízos, vingança, condenação. Mas
+foi por temor, sem dúvida, que os espíritos malignos foram acovardados.
+Portanto, confessaram que (Cristo) era o Filho de um Deus que havia de ser
+temido, porque teriam uma ocasião de não se submeter se não houvesse nenhuma
+para temer. Além disso, Ele mostrou que havia de ser temido, porque os
+expulsou, não por persuasão como um ser bom, mas por ordem e repreensão. Ou
+então repreendeu-os ele porque o estavam tornando objeto de temor, quando o
+tempo todo ele não queria ser temido?
+
 
 And in what manner did he wish them to go forth, when they could not do so
 except with fear? So that he fell into the dilemma of having to conduct himself
@@ -656,10 +1359,36 @@ nor they had known, any other God but the Creator, He was announcing the kingdom
 of that God whom He knew to be the only God known to those who were listening to
 Him.
 
+E de que maneira desejava ele que eles saíssem, quando não podiam fazê-lo
+senão com temor? De sorte que ele caiu no dilema de ter de conduzir-se
+contrariamente à sua natureza, ao passo que poderia, na sua simples bondade,
+tê-los tratado de imediato com brandura. Caiu, também, em outra falsa
+posição — a de prevaricação, quando se permitiu ser temido pelos demônios
+como o Filho do Criador, para que os expulsasse, não de fato pelo seu
+próprio poder, mas pela autoridade do Criador. "Ele partiu, e foi para um
+lugar deserto." Esta era, de fato, a região costumeira do Criador. Convinha
+que o Verbo ali aparecesse em corpo, onde Ele, outrora, obrara numa nuvem.
+Também ao evangelho era adequada aquela condição de lugar que outrora fora
+determinada para a lei. "Que o deserto e o lugar solitário, portanto, se
+alegrem e se regozijem;" assim prometera Isaías. Quando, "retido" pelas
+multidões, Ele disse: "Devo pregar o reino de Deus também a outras cidades."
+Teria Ele já manifestado o Seu Deus em algum lugar? Suponho que ainda em
+nenhum. Mas falava Ele daqueles que conheciam também outro deus? Não creio
+que sim. Se, portanto, nem Ele havia pregado, nem eles haviam conhecido,
+nenhum outro Deus senão o Criador, Ele anunciava o reino daquele Deus que
+Ele sabia ser o único Deus conhecido daqueles que O escutavam.
+
+
 CHAP. IX.--OUT OF ST. LUKE'S FIFTH CHAPTER ARE FOUND PROOFS OF CHRIST'S
 BELONGING TO THE CREATOR, E.G. IN THE CALL OF FISHERMEN TO THE APOSTOLIC OFFICE,
 AND IN THE CLEANSING OF THE LEPER. CHRIST COMPARED WITH THE PROPHET
 ELISHA.
+
+CAP. IX.--DO QUINTO CAPÍTULO DE SÃO LUCAS ENCONTRAM-SE PROVAS DO
+PERTENCIMENTO DE CRISTO AO CRIADOR, P. EX., NO CHAMADO DOS PESCADORES AO
+OFÍCIO APOSTÓLICO E NA PURIFICAÇÃO DO LEPROSO. CRISTO COMPARADO COM O
+PROFETA ELISEU.
+
 
 Out of so many kinds of occupations, why indeed had He such respect for that
 of fishermen, as to select from it for apostles Simon and the sons of Zebedee
@@ -688,6 +1417,36 @@ forasmuch as the taint of sins would be communicated as if contagious: wherever
 a man should mix himself with the sinner. The Lord, therefore, wishing that the
 law should be more profoundly understood as signifying spiritual truths by
 carnal facts--and thus not de
+
+Dentre tantas espécies de ocupações, por que, na verdade, teve Ele tal
+respeito pela dos pescadores, a ponto de escolher dela para apóstolos Simão
+e os filhos de Zebedeu (pois não pode parecer ser o mero fato em si aquilo
+para o que a narrativa se destinava a ser estendida), dizendo a Pedro,
+quando ele tremeu ante a mui grande redada dos peixes: "Não temas; doravante
+tu apanharás homens?" Ao dizer isto, Ele lhes sugeriu o sentido da profecia
+cumprida, que era até Ele quem, por Jeremias, havia predito: "Eis que
+enviarei muitos pescadores; e eles os pescarão", isto é, homens. Então, por
+fim, eles deixaram os seus barcos e O seguiram, entendendo que era Ele quem
+havia começado a realizar o que havia declarado. É caso inteiramente outro,
+quando ele afetou escolher do colégio dos mestres de navio, tencionando um
+dia designar o mestre de navio Marcião seu apóstolo. Nós, com efeito, já
+estabelecemos, em oposição às suas Antíteses, que a posição de Marcião não
+aufere vantagem alguma da diversidade que ele supõe existir entre a Lei e o
+Evangelho, porquanto até isto foi ordenado pelo Criador, e de fato predito
+na promessa da nova Lei, e do novo Verbo, e do novo Testamento. Como, porém,
+ele cita com especial cuidado, como prova no seu domínio, certo companheiro
+na miséria (suntalaipwron), e associado no ódio (summisoumenon), consigo
+mesmo, para a cura da lepra, não me pesará sair-lhe ao encontro e, antes de
+qualquer outra coisa, apontar-lhe a força da lei interpretada em figura, a
+qual, neste exemplo de um leproso (que não devia ser tocado, mas antes devia
+ser removido de todo trato com os outros), proibia qualquer comunicação com
+uma pessoa contaminada com pecados, com quem o apóstolo também nos proíbe
+até mesmo de comer alimento, porquanto a mancha dos pecados se comunicaria
+como se fosse contagiosa: onde quer que um homem se misturasse com o
+pecador. O Senhor, portanto, querendo que a lei fosse entendida mais
+profundamente como significando verdades espirituais por fatos carnais — e
+assim não des
+
 
 stroying, but rather building up, that law which He wanted to have more
 earnestly acknowledged-touched the leper, by whom (even although as man He might
@@ -741,6 +1500,64 @@ rest. So far as renouncing all human glory went, He forbade the man to publish
 abroad the cure; but so far as the honour of the law was concerned, He requested
 that the usual course should be followed: "Go, show thyself to the priest, and
 
+truindo, mas antes edificando, aquela lei que Ele queria que fosse
+reconhecida mais zelosamente—tocou o leproso, por quem (ainda que, como
+homem, Ele pudesse ter sido contaminado) Ele não podia ser contaminado como
+Deus, sendo, decerto, incorruptível. A prescrição, portanto, não podia
+destinar-se a Ele, a de que Ele estava obrigado a observar a lei e não tocar
+a pessoa imunda, visto que o contato com o imundo não Lhe causaria
+contaminação. Ensino assim que esta (imunidade) é coerente no meu Cristo,
+tanto mais quando mostro que ela não é coerente no seu. Ora, se foi como
+inimigo da lei que Ele tocou o leproso — desconsiderando o preceito da lei
+por um desprezo da contaminação —, como poderia ele ser contaminado, quando
+não possuía um corpo que pudesse ser contaminado? Pois um fantasma não é
+suscetível de contaminação. Aquele, portanto, que não podia ser contaminado,
+por ser um fantasma, não terá uma imunidade da poluição por poder divino
+algum, mas devido à sua vacuidade fantástica; nem pode ele ser considerado
+como tendo desprezado a poluição, quem de fato não tinha qualquer capacidade
+material para ela; nem, de igual modo, como tendo destruído a lei, quem
+havia escapado da contaminação por ocasião da sua natureza de fantasma, não
+por qualquer demonstração de virtude. Se, contudo, o profeta do Criador,
+Eliseu, purificou somente a Naamã, o sírio, com a exclusão de tantos
+leprosos em Israel, este fato em nada contribui para a distinção de Cristo,
+como se ele fosse, deste modo, o melhor por purificar este leproso
+israelita, embora um estranho para ele, a quem o seu próprio Senhor havia
+sido incapaz de purificar. A purificação do sírio era, antes, significativa,
+por todas as nações do mundo, da sua própria purificação em Cristo, a luz
+delas, embebidas como estavam nas manchas dos sete pecados mortais:
+idolatria, blasfêmia, homicídio, adultério, fornicação, falso testemunho e
+fraude. Sete vezes, portanto, como se uma vez por cada," lavou-se ele no
+Jordão; tanto para que ele pudesse celebrar a expiação de uma hébdoma
+perfeita, quanto porque a virtude e a plenitude do único batismo foram assim
+solenemente imputadas a Cristo, somente, que um dia havia de estabelecer na
+terra não somente uma revelação, mas também um batismo, dotado de eficácia
+compendiosa. Até Marcião encontra aqui uma antítese: a de que Eliseu, de
+fato, requeria um recurso material, aplicava água, e isso sete vezes; ao
+passo que Cristo, pelo emprego de uma palavra apenas, e isso uma só vez por
+todas, efetuou instantaneamente a cura. E por certo eu bem poderia
+aventurar-me a reivindicar também o próprio Verbo como da substância do
+Criador. Nada há de que Aquele que foi o Autor primitivo não seja também o
+mais poderoso. Decerto, é incrível que aquele poder do Criador haja, por uma
+palavra, produzido um remédio para uma única moléstia, o qual outrora, por
+uma palavra, trouxe à existência tão vasta fábrica como o mundo! De que se
+pode melhor discernir o Cristo do Criador, senão do poder da Sua palavra?
+Mas Cristo é, por esta razão, outro (Cristo), porque Ele agiu diferentemente
+de Eliseu — porque, de fato, o mestre é mais poderoso do que o seu servo!
+Por que, Marcião, você estabelece a regra de que as coisas são feitas pelos
+servos exatamente como o são pelos seus próprios mestres? Não teme você que
+isso redunde em seu descrédito, se você negar que Cristo pertence ao
+Criador, sob o fundamento de que Ele foi, certa vez, mais poderoso do que um
+servo do Criador — visto que, em comparação com a fraqueza de Eliseu, Ele é
+reconhecido como o maior, se é que maior! Pois a cura é a mesma, embora haja
+uma diferença no operar dela. Que realizou o seu Cristo a mais do que o meu
+Eliseu? Não; que grande coisa realizou a palavra do seu Cristo, quando
+simplesmente fez aquilo que um rio do Criador efetuou? Pelo mesmo princípio
+ocorre todo o resto. No que toca a renunciar a toda glória humana, Ele
+proibiu o homem de publicar por toda parte a cura; mas, no que toca à honra
+da lei, Ele pediu que se seguisse o curso usual: "Vai, mostra-te ao
+sacerdote, e
+
+
 present the offering which Moses commanded." For the figurative signs of the
 law in its types He still would have observed, because of their prophetic
 import. These types signified that a man, once a sinner, but afterwards purified
@@ -789,22 +1606,94 @@ therefore good proof that He uttered the word, in the fact that He did the deed;
 and that you have rather expunged the Lord's word, than that our (evangelists)
 have inserted it.
 
+apresenta a oferta que Moisés ordenou." Pois os sinais figurativos da lei,
+nos seus tipos, Ele ainda os haveria de observar, por causa da sua
+importância profética. Esses tipos significavam que um homem, outrora
+pecador, mas depois purificado das manchas disso pela palavra de Deus,
+estava obrigado a oferecer a Deus no templo um dom, a saber, oração e ação
+de graças na igreja por meio de Cristo Jesus, que é o Sacerdote Católico do
+Pai. Por conseguinte, Ele acrescentou: "para que seja para testemunho a
+vocês" — um, sem dúvida, pelo qual Ele testemunharia que não estava
+destruindo a lei, mas cumprindo-a; pelo qual, também, Ele testemunharia que
+era Ele próprio quem fora predito como prestes a assumir as enfermidades e
+as debilidades deles. Esta explicação muito coerente e conveniente de "o
+testemunho", aquele adulador do seu próprio Cristo, Marcião, procura excluir
+sob a capa da misericórdia e da brandura. Pois, sendo ao mesmo tempo bom
+(tais são as suas palavras) e sabendo, além disso, que todo homem que
+tivesse sido libertado da lepra certamente cumpriria as solenidades da lei,
+por isso Ele deu este preceito. Pois bem, e então? Tem Ele continuado na sua
+bondade (isto é, na sua permissão da lei) ou não? Pois, se ele perseverou na
+sua bondade, jamais se tornará um destruidor da lei; nem jamais será contado
+como pertencente a outro deus, porque não existiria aquela destruição da lei
+que constituiria a sua pretensão de pertencer ao outro deus. Se, porém, ele
+não continuou bom, por uma destruição subsequente da lei, é um falso
+testemunho o que ele desde então impôs a eles na sua cura do leproso; porque
+abandonou a sua bondade, ao destruir a lei. Se, portanto, ele era bom
+enquanto sustentava a lei, tornou-se agora mau como um destruidor da lei.
+Contudo, pelo apoio que deu à lei, afirmou que a lei era boa. Pois ninguém
+se permite no apoio de uma coisa má. Portanto, ele não somente é mau se
+permitiu a obediência a uma lei má; mas pior ainda, se apareceu como o
+destruidor de uma lei boa. De sorte que, se ele ordenou a oferta do dom
+porque sabia que todo leproso curado certamente traria um; ele possivelmente
+se absteve de ordenar o que sabia que seria feito espontaneamente. Em vão,
+portanto, foi a sua descida, como se com a intenção de destruir a lei,
+quando faz concessões aos guardadores da lei. E, todavia, porque conhecia a
+disposição deles, deveria tanto mais empenhadamente ter impedido a
+negligência deles para com a lei, visto que viera para esse propósito. Por
+que, então, não guardou silêncio, para que o homem, de sua própria simples
+vontade, obedecesse à lei? Pois então poderia ele ter parecido ter
+persistido até certo ponto na sua paciência. Mas ele acrescenta também a sua
+própria autoridade, aumentada pelo peso deste "testemunho". De que
+testemunho, pergunto, senão o da afirmação da lei? Certamente não importa de
+que modo ele afirmou a lei — se como bom, ou como supererrogatório, ou como
+paciente, ou como inconstante — contanto que, Marcião, eu expulse você da
+sua posição. Observe, ele ordenou que a lei fosse cumprida. De qualquer modo
+que ele a ordenou, do mesmo modo poderia ele também ter proferido primeiro
+aquela sentença: "Não vim destruir a lei, mas cumpri-la." Que razão tinha
+você, portanto, para apagar do Evangelho aquilo que nele era inteiramente
+coerente? Pois você confessou que, na sua bondade, ele fez em ato o que você
+nega que ele fez em palavra. Temos, portanto, boa prova de que Ele proferiu
+a palavra, no fato de que Ele fez o feito; e de que você antes expungiu a
+palavra do Senhor do que os nossos (evangelistas) a inseriram.
+
+
 CHAP. X.--FURTHER PROOFS OF THE SAME TRUTH IN THE SAME CHAPTER, FROM
 THE
+
+CAP. X.--PROVAS ULTERIORES DA MESMA VERDADE NO MESMO CAPÍTULO, A PARTIR DA
+
 
 HEALING OF THE PARALYTIC, AND FROM THE DESIGNATION SON OF MAN WHICH
 JESUS
 
+CURA DO PARALÍTICO, E A PARTIR DA DESIGNAÇÃO FILHO DO HOMEM QUE JESUS
+
+
 GIVES HIMSELF. TERTULLIAN SUSTAINS HIS ARGUMENT BY SEVERAL QUOTATIONS FROM
 THE
 
+DÁ A SI MESMO. TERTULIANO SUSTENTA O SEU ARGUMENTO POR MEIO DE VÁRIAS
+CITAÇÕES DOS
+
+
 PROPHETS.
+
+PROFETAS.
+
 
 The sick of the palsy is healed, and that in public, in the sight of the
 people. For, says Isaiah, "they shall see the glory of the Lord, and the
 excellency of our God." What glory, and what excellency? "Be strong, ye weak
 hands, and ye feeble knees:" this refers to the palsy. "Be strong; fear not." Be
 strong is not vainly repeated, nor is fear not vainly added; because with the
+
+O enfermo da paralisia é curado, e isso em público, à vista do povo. Pois,
+diz Isaías, "eles verão a glória do Senhor, e a excelência do nosso Deus."
+Que glória, e que excelência? "Sejam fortes, vocês, mãos fracas, e vocês,
+joelhos débeis:" isto se refere à paralisia. "Sejam fortes; não temam."
+Sejam fortes não é repetido em vão, nem não temam é acrescentado em vão;
+porque com a
+
 
 renewal of the limbs there was to be, according to the promise, a restoration
 also of bodily energies: "Arise, and take up thy couch;" and likewise moral
@@ -853,6 +1742,57 @@ accounted the son--of the father or the mother? Since He is (begotten) of God
 the Father, He is not, of course, (the son) of a human father. If He is not of a
 human father, it follows that He must be (the son)
 
+renovação dos membros havia de haver, segundo a promessa, também uma
+restauração das energias corporais: "Levanta-te, e toma o teu leito"; e
+igualmente a coragem moral de não temer aqueles que dissessem: "Quem pode
+perdoar pecados, senão somente Deus?" De sorte que você tem aqui não somente
+o cumprimento da profecia que prometia uma espécie particular de cura, mas
+também o dos sintomas que se seguiram à cura. De igual modo, você deve
+também reconhecer Cristo no mesmo profeta como o perdoador dos pecados.
+"Pois", diz ele, "Ele remitirá a muitos os seus pecados, e Ele próprio
+tirará os nossos pecados." Pois, numa passagem anterior, falando na pessoa
+do próprio Senhor, ele dissera: "Ainda que os pecados de vocês sejam como
+escarlate, eu os farei brancos como a neve; ainda que eles sejam como
+carmesim, eu os branquearei como a lã." Na cor escarlate Ele indica o sangue
+dos profetas; no carmesim, o do Senhor, como o mais brilhante. No tocante ao
+perdão dos pecados, Miqueias também diz: "Quem é um Deus semelhante a Ti?
+que perdoas a iniquidade e passas por alto as transgressões do remanescente
+da Tua herança. Ele não retém a Sua ira como testemunho contra eles, porque
+Ele se deleita na misericórdia. Ele voltará outra vez, e terá compaixão de
+nós; Ele apaga as nossas iniquidades, e lança os nossos pecados nas
+profundezas do mar." Ora, se nada desta espécie houvesse sido predito de
+Cristo, eu encontraria no Criador exemplos de tal benignidade que me
+estenderia a promessa de afeições semelhantes também no Filho de quem Ele é
+o Pai. Vejo como os ninivitas obtiveram o perdão dos seus pecados da parte
+do Criador — para não dizer da parte de Cristo, mesmo então, porque desde o
+princípio Ele agiu em nome do Pai. Leio também como, quando Davi reconheceu
+o seu pecado contra Urias, o profeta Natã lhe disse: "O Senhor cancelou o
+teu pecado, e tu não morrerás"; como o rei Acabe, de igual modo, o marido de
+Jezabel, culpado de idolatria e do sangue de Nabote, obteve perdão por causa
+do seu arrependimento; e como Jônatas, o filho de Saul, apagou pela sua
+deprecação a culpa de um jejum violado. Por que haveria eu de recontar a
+frequente restauração da própria nação depois do perdão dos seus pecados? —
+por aquele Deus, com efeito, que há de querer misericórdia antes que
+sacrifício, e o arrependimento do pecador antes que a sua morte. Você terá
+primeiro de negar que o Criador alguma vez perdoou pecados; depois você
+deve, em razão, mostrar que Ele nunca ordenou semelhante prerrogativa alguma
+para o Seu Cristo; e assim você provará quão nova é aquela jactada
+benevolência do, por certo, novo Cristo, quando houver provado que ela não é
+nem compatível com o Criador nem predita pelo Criador. Mas se remitir
+pecados pode caber a alguém de quem se diz ser incapaz de os reter, e se
+absolver pode pertencer àquele que é incompetente até para condenar, e se
+perdoar é adequado àquele contra quem nenhuma ofensa pode ser cometida, são
+questões que encontramos alhures, quando preferimos lançar sugestões em vez
+de as tratar de novo. Quanto ao Filho do homem, a nossa regra é dupla: que
+Cristo não pode mentir, de modo a declarar-se o Filho do homem, se Ele não o
+for verdadeiramente; nem pode Ele ser constituído o Filho do homem, a menos
+que nasça de um progenitor humano, seja pai, seja mãe. E então a discussão
+volver-se-á ao ponto de qual progenitor humano Ele deve ser considerado o
+filho — do pai ou da mãe? Visto que Ele é (gerado) de Deus Pai, Ele não é,
+por certo, (o filho) de um pai humano. Se Ele não é de um pai humano,
+segue-se que Ele deve ser (o filho)
+
+
 of a human mother. If of a human mother, it is evident that she must be a
 virgin. For to whom a human father is not ascribed, to his mother a husband will
 not be reckoned; and then to what mother a husband is not reckoned, the
@@ -866,6 +1806,22 @@ that is to say, if He be Son of man as born of His mother, because not begotten
 of a father, and His mother be a virgin, because His father is not human--He
 will be that Christ whom Isaiah foretold that a virgin should conceive, On what
 principle you, Marcion, can admit Him Son of man, I
+
+de uma mãe humana. Se de uma mãe humana, é evidente que ela deve ser virgem.
+Pois àquele a quem um pai humano não é atribuído, à sua mãe um marido não
+será contado; e então àquela mãe a quem um marido não é contado pertence a
+condição de virgindade. Mas se a Sua mãe não for virgem, dois pais terão de
+ser contados a Ele — um divino e um humano. Pois ela deve ter um marido,
+para não ser virgem; e, por ter um marido, ela faria acrescer a Ele dois
+pais — um divino, o outro humano —, o qual assim seria Filho tanto de Deus
+como de um homem. Tal natividade (se se pode assim chamá-la) as histórias
+míticas atribuem a Castor ou a Hércules. Ora, se esta distinção for
+observada, isto é, se Ele for Filho do homem como nascido da Sua mãe, por
+não ser gerado de um pai, e a Sua mãe for virgem, porque o Seu pai não é
+humano — Ele será aquele Cristo que Isaías predisse que uma virgem
+conceberia, Por qual princípio você, Marcião, pode admiti-Lo Filho do homem,
+eu
+
 
 cannot possibly see. If through a human father, then you deny him to be Son
 of God; if through a divine one also, then you make Christ the Hercules of
@@ -934,9 +1890,88 @@ without a heart or without brains, like Marcion himself, than without a body,
 like Marcion's Christ. And let this be the limit to your examination of the
 heart, or, at any rate, the brains of the heretic of Pontus.
 
+não pode de modo algum ver. Se por meio de um pai humano, então você nega
+que ele seja Filho de Deus; se também por meio de um divino, então você faz
+de Cristo o Hércules da fábula; se somente por meio de uma mãe humana, então
+você concede o meu ponto; se também não por meio de um pai humano, então Ele
+não é filho de homem algum, e deve ter sido culpado de uma mentira por haver
+Se declarado ser aquilo que não era. Uma só coisa pode ajudá-lo na sua
+dificuldade: ousadia da sua parte, ou para cognominar o seu Deus como sendo
+de fato o pai humano de Cristo, como Valentino fez com o seu AEon; ou então
+para negar que a Virgem fosse humana, o que nem mesmo Valentino fez. Que
+dizer agora, se Cristo for descrito em Daniel por este mesmo título de
+"Filho do homem"? Não basta isto para provar que Ele é o Cristo da profecia?
+Pois, se Ele dá a Si mesmo aquela denominação que foi provida na profecia
+para o Cristo do Criador, sem dúvida oferece-Se para ser entendido como
+Aquele a quem (a denominação) foi atribuída pelo profeta. Mas talvez isso
+possa ser considerado como uma simples identidade de nomes; e, contudo,
+temos sustentado que nem Cristo nem Jesus deveriam ter sido chamados por
+esses nomes, se possuíssem qualquer condição de diversidade. Mas, quanto à
+denominação "Filho do homem", na medida em que ocorre por acidente, nessa
+medida há uma dificuldade na sua ocorrência juntamente com uma identidade
+fortuita de nomes. Pois é de puro acidente, especialmente quando não aparece
+a mesma causa pela qual a identidade possa ser ocasionada. E, portanto, se
+também se disser que o Cristo de Marcião é nascido do homem, então também
+ele receberia uma denominação idêntica, e haveria dois Filhos do homem, como
+também dois Cristos e dois Jesuses. Portanto, visto que a denominação é
+direito exclusivo Daquele em quem ela tem uma razão adequada, se for
+reivindicada para outro em quem há identidade de nome, mas não de
+denominação, então a identidade de nome até parece suspeita naquele para
+quem se reivindica sem razão a identidade de denominação. E segue-se que se
+deve crer que é Um e o Mesmo Aquele que se acha mais apto a receber tanto o
+nome quanto a denominação; enquanto o outro é excluído, o qual não tem
+direito à denominação, porque não tem razão que apresentar em favor dela.
+Nem qualquer outro terá melhor direito a ambos do que Aquele que é o
+anterior, e a quem foram destinados o nome de Cristo e a denominação de
+Filho do homem, a saber, o Jesus do Criador. Foi Ele quem foi visto pelo rei
+da Babilônia na fornalha com os Seus mártires: "o quarto, que era semelhante
+ao Filho do homem." Ele também foi revelado ao próprio Daniel expressamente
+como "o Filho do homem, vindo nas nuvens do céu", como Juiz, como também a
+Escritura mostra. O que eu adiantei poderia ter sido suficiente acerca da
+designação, na profecia, do Filho do homem. Mas a Escritura oferece-me
+informação ulterior, mesmo na interpretação do próprio Senhor. Pois, quando
+os judeus, que O olhavam como meramente homem, e ainda não estavam certos de
+que Ele fosse também Deus, por ser igualmente o Filho de Deus, disseram com
+bastante razão que um homem não podia perdoar pecados, mas somente Deus, por
+que não lhes respondeu Ele, seguindo o ponto deles acerca do homem, que
+tinha poder de remitir pecados, visto que, quando mencionou o Filho do
+homem, também nomeou um ser humano? senão porque queria, com o auxílio da
+própria designação "Filho do homem" do livro de Daniel, de tal modo
+induzi-los a refletir que lhes mostrasse que Aquele que remitia os pecados
+era Deus e homem — aquele único Filho do homem, com efeito, na profecia de
+Daniel, que havia obtido o poder de julgar e, por isso, naturalmente, também
+o de perdoar pecados (pois Aquele que julga também absolve); de modo que,
+uma vez despedaçada aquela objeção deles pela sua recordação da Escritura,
+pudessem tanto mais facilmente reconhecê-Lo como o próprio Filho do homem
+pelo Seu próprio perdão efetivo dos pecados. Faço mais uma observação, a
+saber, que Ele ainda em parte alguma Se professou Filho de Deus — mas pela
+primeira vez nesta passagem, na qual pela primeira vez remitiu pecados; isto
+é, na qual pela primeira vez usou a Sua função de juízo, pela absolvição.
+Tudo o que a parte contrária tem a alegar em argumento contra estas coisas,
+(eu lhe peço) pondere cuidadosamente a que isso monta. Pois ela há de
+necessariamente estender-se até tal cúmulo de desvario que, por um lado,
+sustente que (o Cristo deles) é também Filho do homem, a fim de salvá-Lo da
+acusação de falsidade; e, por outro lado, negue que Ele nasceu de mulher,
+para que não concedam que Ele era o filho da Virgem. Visto, porém, que a
+autoridade divina e a natureza do caso, e o senso comum, não admitem esta
+posição insana dos hereges, temos aqui a oportunidade de interpor um veto,
+nos termos mais breves possíveis, sobre a substância do corpo de Cristo,
+contra os fantasmas de Marcião. Visto que Ele é nascido do homem, sendo o
+Filho do homem. Ele é corpo derivado de corpo. Você pode, asseguro-lhe,
+achar mais facilmente um homem nascido sem um coração ou sem miolos, como o
+próprio Marcião, do que sem um corpo, como o Cristo de Marcião. E seja este
+o limite do seu exame do coração ou, ao menos, dos miolos do herege do
+Ponto.
+
+
 CHAP. XI.--THE CALL OF LEVI THE PUBLICAN. CHRIST IN RELATION TO THE
 BAPTIST. CHRIST AS THE BRIDEGROOM. THE PARABLE OF THE OLD WINE AND THE NEW.
 ARGUMENTS CONNECTING CHRIST WITH THE CREATOR.
+
+CAP. XI.--A VOCAÇÃO DE LEVI, O PUBLICANO. CRISTO EM RELAÇÃO AO BATISTA.
+CRISTO COMO O NOIVO. A PARÁBOLA DO VINHO VELHO E DO NOVO. ARGUMENTOS QUE
+LIGAM CRISTO AO CRIADOR.
+
 
 The publican who was chosen by the Lord, he adduces for a proof that he was
 chosen as a stranger to the law and uninitiated in Judaism, by one who was an
@@ -986,6 +2021,58 @@ consecrated to the service of another and contrary deity. But as it is, while
 modestly giving a reason why "the children of the bridegroom are unable to fast
 during the
 
+O publicano que foi escolhido pelo Senhor, ele o aduz como prova de que foi
+escolhido como estranho à lei e não iniciado no judaísmo, por alguém que era
+adversário da lei. O caso de Pedro escapou à sua memória, o qual, embora
+fosse um homem da lei, não somente foi escolhido pelo Senhor, mas também
+obteve o testemunho de possuir conhecimento que lhe foi dado pelo Pai. Ele
+em parte alguma havia lido que Cristo fosse predito como a luz, e a
+esperança, e a expectativa dos gentios! Ele, porém, antes falou dos judeus
+sob uma luz favorável, quando disse: "Os sãos não necessitavam de médico,
+mas os que estão doentes." Pois, como por "aqueles que estão doentes" ele
+queria que se entendessem os pagãos e os publicanos, a quem estava
+escolhendo, afirmou dos judeus que estavam "sãos", para os quais disse que
+um médico não era necessário. Sendo este o caso, ele comete um erro ao
+descer para destruir a lei, como se fosse para o remédio de uma condição
+doentia, porque os que viviam sob ela estavam "sãos" e "não necessitados de
+um médico." Como, ademais, sucede que ele propôs a semelhança de um médico,
+se não a verificou? Pois, assim como ninguém usa um médico para pessoas
+saudáveis, assim ninguém o fará para estranhos, na medida em que ele é um
+dos homens feitos pelo deus de Marcião, tendo para si tanto um criador e
+preservador quanto um médico especialmente bom, no seu Cristo. Isto é o que
+a comparação predetermina: que um médico é mais comumente fornecido por
+aquele a quem pertencem os doentes. Donde, também, João entra em cena?
+Cristo, de repente; e, tão de repente, João! Desta maneira ocorrem todas as
+coisas no sistema de Marcião. Elas têm o seu curso próprio, especial e
+pleno, na dispensação do Criador. De João, porém, o que mais tenho a dizer
+se encontrará em outra passagem. Aos vários pontos que agora se nos
+apresentam deve ser dada uma resposta. Isto, pois, terei o cuidado de fazer
+— demonstrar que, reciprocamente, João convém a Cristo, e Cristo a João, o
+último, é claro, como profeta do Criador, assim como o primeiro é o Cristo
+do Criador; e assim o herege pode corar de frustrar, para a sua própria
+frustração, a missão de João Batista. Pois, se não tivesse havido ministério
+algum de João — "a voz", como Isaías o chama, "de um que clama no deserto",
+e o preparador dos caminhos do Senhor pela denúncia e pela recomendação do
+arrependimento; se, também, ele não tivesse batizado (Cristo) mesmo
+juntamente com outros, ninguém poderia ter desafiado os discípulos de
+Cristo, enquanto comiam e bebiam, a uma comparação com os discípulos de
+João, que estavam constantemente jejuando e orando; porque, se existisse
+qualquer diversidade entre Cristo e João e os seus seguidores,
+respectivamente, nenhuma comparação exata seria possível, nem haveria um
+único ponto em que ela pudesse ser desafiada. Pois ninguém sentiria
+surpresa, e ninguém ficaria perplexo, ainda que surgissem predições rivais
+de uma divindade diversa, as quais também diferissem mutuamente acerca dos
+modos de conduta, tendo uma diferença prévia acerca das autoridades sobre as
+quais se baseavam. Portanto Cristo pertencia a João, e João a Cristo;
+enquanto ambos pertenciam ao Criador, e ambos eram da lei e dos profetas,
+pregadores e mestres. De outro modo Cristo teria rejeitado a disciplina de
+João, como sendo do deus rival, e também teria defendido os discípulos, como
+seguindo muito propriamente uma conduta diferente, por estarem consagrados
+ao serviço de uma divindade outra e contrária. Mas, assim sendo, enquanto
+modestamente dá uma razão por que "os filhos do noivo não podem jejuar
+durante o
+
+
 time the bridegroom is with them," but promising that "they should afterwards
 fast, when the bridegroom was taken away from them," He neither defended the
 disciples, (but rather excused them, as if they had not been blamed without some
@@ -1009,6 +2096,32 @@ Himself the church. Deny now, Marcion, your utter madness, (if you can)! Behold,
 you impugn even the law of your god. He unites not in the nuptial bond, nor,
 when contracted, does he allow it; no one does he baptize but a coelebs or a
 eunuch; until death or divorce does he reserve baptism.
+
+tempo em que o noivo está com eles", mas prometendo que "depois jejuariam,
+quando o noivo lhes fosse tirado", Ele nem defendeu os discípulos, (antes os
+escusou, como se não tivessem sido censurados sem alguma razão), nem
+rejeitou a disciplina de João, mas antes a permitiu, referindo-a ao tempo de
+João, embora a destinasse ao Seu próprio tempo. De outro modo, o Seu
+propósito teria sido rejeitá-la e defender os seus opositores, se Ele
+próprio já não tivesse pertencido a ela, tal como então vigorava. Sustento
+também que é o meu Cristo quem é significado pelo noivo, de quem o salmo
+diz: "Ele é como um noivo que sai da sua câmara; a Sua saída é desde a
+extremidade do céu, e o Seu retorno é de volta outra vez à extremidade
+dele." Pela boca de Isaías Ele também diz, com exultação, acerca do Pai:
+"Regozije-se a minha alma no Senhor; pois Ele me vestiu com a veste da
+salvação e com a túnica da alegria, como um noivo. Ele pôs uma mitra ao
+redor da minha cabeça, como uma noiva." Para Si, igualmente, Ele apropria a
+igreja, acerca da qual o mesmo Espírito Lhe diz: "Tu te vestirás com todos
+eles, como com um ornamento nupcial." A esta esposa Cristo convida também
+para casa, para Si, por meio de Salomão, desde a vocação dos gentios, porque
+você lê: "Vem comigo do Líbano, minha esposa." Ele menciona com elegância o
+Líbano (a montanha, é claro) porque este representa o nome do olíbano entre
+os gregos; pois foi da idolatria que Ele desposou para Si a igreja. Negue
+agora, Marcião, a sua completa loucura, (se você puder)! Eis que você
+impugna até a lei do seu deus. Ele não une no vínculo nupcial, nem, quando
+contraído, o permite; a ninguém batiza senão um coelebs ou um eunuco; até a
+morte ou o divórcio reserva o batismo.
+
 
 Wherefore, then, do you make his Christ a bridegroom? This is the designation
 of Him who united man and woman, not of him who separated them. You have erred
@@ -1044,16 +2157,65 @@ advances from the law--a different thing from it, but not an alien one; diverse,
 but not contrary. Nor in Christ do we even find any novel form of discourse.
 Whether He proposes simili
 
+Por que, então, você faz do Cristo dele um noivo? Esta é a designação
+dAquele que uniu o homem e a mulher, não daquele que os separou. Você errou
+também naquela declaração de Cristo, na qual Ele parece fazer uma diferença
+entre as coisas novas e as velhas. Você está inflado a respeito das garrafas
+velhas, e de cérebro turvado com o vinho novo; e, portanto, ao evangelho
+antigo (isto é, ao anterior) você coseu o remendo da sua heresia
+novidadeira. Desejaria saber em que aspecto o Criador é incoerente consigo
+mesmo. Quando por Jeremias Ele deu este preceito, "Rompam para vocês mesmos
+novos pastos", não se afasta Ele do antigo estado das coisas? E quando por
+Isaías Ele proclama como "as coisas antigas passaram; e, eis, todas as
+coisas, que eu estou fazendo, são novas", não alude Ele a um novo estado das
+coisas? Temos geralmente sido de opinião que o destino do estado anterior
+das coisas foi antes prometido pelo Criador, e exibido na realidade por
+Cristo, somente sob a autoridade de um só e o mesmo Deus, a quem pertencem
+tanto as coisas antigas quanto as novas. Pois vinho novo não é posto em
+garrafas velhas, exceto por aquele que tem as garrafas velhas; nem alguém
+põe um pedaço novo a uma veste velha, a menos que a veste velha lhe esteja à
+mão. Somente não faz uma coisa, quando ela não deve ser feita, aquela pessoa
+que tem os materiais com que fazê-la, se ela devesse ser feita. E, portanto,
+visto que o objetivo dEle ao fazer a comparação era mostrar que Ele estava
+separando a nova condição do evangelho do antigo estado da lei, Ele provou
+que aquilo de que Ele estava separando o que era seu não devia ter sido
+qualificado como uma separação de coisas que eram alheias uma à outra; pois
+ninguém jamais une as suas próprias coisas com coisas que lhes são alheias,
+a fim de que depois possa separá-las das coisas alheias. Uma separação é
+possível com o auxílio da conjunção por meio da qual ela se faz. Por
+conseguinte, as coisas que Ele separou Ele também provou terem sido outrora
+uma só; como teriam permanecido, não fosse a separação dEle. Mas ainda
+fazemos esta concessão, de que há uma separação, por reforma, por ampliação,
+por progresso; assim como o fruto é separado da semente, embora o fruto
+venha da semente. Assim, igualmente, o evangelho é separado da lei, enquanto
+avança a partir da lei — coisa diferente dela, mas não alheia; diversa, mas
+não contrária. Nem em Cristo encontramos sequer alguma forma nova de
+discurso. Quer Ele proponha semelhan
+
+
 tudes or refute questions, it comes from the seventy-seventh Psalm. "I will
 open," says He, "my mouth in a parable" (that is, in a similitude); "I will
 utter dark problems" (that is, I will set forth questions). If you should wish
 to prove that a man belonged to another race, no doubt you would fetch your
 proof from the idiom of his language.
 
+ças ou refute questões, isso vem do Salmo septuagésimo sétimo. "Abrirei",
+diz Ele, "a minha boca numa parábola" (isto é, numa semelhança); "proferirei
+problemas obscuros" (isto é, exporei questões). Se você quisesse provar que
+um homem pertencia a outra raça, sem dúvida você buscaria a sua prova no
+idioma da língua dele.
+
+
 CHAP. XII.--CHRIST'S AUTHORITY OVER THE SABBATH. AS ITS LORD HE RECALLED
 IT FROM PHARISAIC NEGLECT TO THE ORIGINAL PURPOSE OF ITS INSTITUTION BY THE
 CREATOR THE CASE OF THE DISCIPLES WHO PLUCKED THE EARS OF CORN ON THE SABBATH.
 THE WITHERED HAND HEALED ON THE SABBATH.
+
+CAP. XII.--A AUTORIDADE DE CRISTO SOBRE O SÁBADO. COMO SENHOR DELE, ELE O
+RECONDUZIU DA NEGLIGÊNCIA FARISAICA AO PROPÓSITO ORIGINAL DA SUA INSTITUIÇÃO
+PELO CRIADOR O CASO DOS DISCÍPULOS QUE ARRANCARAM AS ESPIGAS NO SÁBADO. A
+MÃO RESSEQUIDA CURADA NO SÁBADO.
+
 
 Concerning the Sabbath also I have this to premise, that this question could
 not have arisen, if Christ did not publicly proclaim the Lord of the Sabbath.
@@ -1106,6 +2268,62 @@ fasting) was allowed to the Sabbath from the very beginning, when the
 Sabbath-day itself was instituted. For although the Creator had forbidden that
 the manna should be gathered for two days, He yet permitted it on the one
 occasion only of the day before the Sabbath,
+
+A respeito do sábado também tenho isto a antepor, que esta questão não
+poderia ter surgido, se Cristo não proclamasse publicamente o Senhor do
+sábado. Nem poderia haver discussão alguma acerca de Ele anular o sábado, se
+Ele tivesse o direito de anulá-lo. Além disso, Ele teria o direito, se
+pertencesse ao deus rival; nem causaria surpresa a ninguém que Ele fizesse o
+que Lhe era justo fazer. O espanto dos homens, portanto, surgiu da opinião
+deles de que Lhe era impróprio proclamar o Criador como Deus e, contudo,
+impugnar o sábado dEle. Ora, a fim de que decidamos primeiro estes vários
+pontos, para não os estarmos renovando a cada passo para enfrentar cada
+argumento do nosso adversário que se apoia em algumas instituições novas de
+Cristo, fique isto como ponto assentado, que a discussão acerca do caráter
+novo de cada instituição sobreveio por esta razão, porque, assim como nada
+fora ainda proposto por Cristo tocante a alguma divindade nova, assim a
+discussão sobre isso era inadmissível; nem se poderia retrucar que, da
+própria novidade de cada instituição em particular, outra divindade era
+demonstrada com clareza suficiente por Cristo, porquanto era patente que a
+novidade não era em si mesma uma característica de que se maravilhar em
+Cristo, porque havia sido predita pelo Criador. E teria sido, decerto, não
+mais que justo que um deus novo fosse primeiro exposto, e a disciplina dele
+fosse introduzida depois; porque seria o deus que conferiria autoridade à
+disciplina, e não a disciplina ao deus; exceto que (por certo) aconteceu que
+Marcião adquiriu as suas opiniões muito perversas não de um mestre, mas o
+seu mestre da sua opinião! Todos os demais pontos respeitantes ao sábado eu
+assim decido. Se Cristo interferiu no sábado, Ele simplesmente agiu segundo
+o exemplo do Criador; porquanto, no cerco da cidade de Jericó, o carregar ao
+redor dos muros a arca da aliança por oito dias seguidos, e portanto num dia
+de sábado, de fato anulou o sábado, por ordem do Criador — segundo a opinião
+daqueles que pensam isto de Cristo nesta passagem de São Lucas, na
+ignorância deles de que nem Cristo nem o Criador violaram o sábado, como
+mostraremos mais adiante. E, contudo, o sábado foi então de fato quebrado
+por Josué, de modo que a presente acusação pudesse ser alegada também contra
+Cristo. Mas, ainda que, como não sendo o Cristo dos judeus, Ele manifestasse
+um ódio contra o dia mais solene dos judeus, Ele estava apenas
+professadamente seguindo o Criador, como sendo o Cristo dEle, neste mesmo
+ódio do sábado; pois Ele exclama pela boca de Isaías: "As luas novas de
+vocês e os sábados de vocês a minha alma odeia." Ora, em qualquer sentido em
+que estas palavras tenham sido ditas, sabemos que uma defesa abrupta deve,
+num assunto desta espécie, ser usada em resposta a um desafio abrupto.
+Transferirei agora a discussão para a própria matéria em que o ensino de
+Cristo parecia anular o sábado. Os discípulos haviam estado famintos;
+naquele dia de sábado eles tinham colhido algumas espigas e as esfregado nas
+mãos; preparando assim o seu alimento, tinham violado o dia santo. Cristo os
+escusa, e tornou-se cúmplice deles em quebrar o sábado. Os fariseus
+apresentam a acusação contra Ele. Marcião interpreta sofísticamente as
+etapas da controvérsia (se me é lícito invocar o auxílio da verdade do meu
+Senhor para ridicularizar as artes dele), tanto no registro da Escritura
+quanto no propósito de Cristo. Pois, da Escritura do Criador e do propósito
+de Cristo, deriva-se um precedente especioso — como do exemplo de Davi,
+quando ele entrou no templo no sábado e providenciou alimento ao partir
+ousadamente os pães da proposição. Até ele se lembrou de que este privilégio
+(quero dizer, a dispensa do jejum) era permitido ao sábado desde o próprio
+princípio, quando o próprio dia de sábado foi instituído. Pois, embora o
+Criador tivesse proibido que o maná fosse recolhido para dois dias, Ele
+contudo o permitiu na única ocasião apenas do dia anterior ao sábado,
+
 
 in order that the yesterday's provision of food might free from fasting the
 feast of the following Sabbath-day. Good reason, therefore, had the Lord for
@@ -1161,6 +2379,65 @@ did a work which was beneficial to the life of His disciples, for He indulged
 them with the relief of food when they were hungry, and in the present instance
 cured the withered hand; in each case in
 
+a fim de que a provisão de alimento de ontem pudesse livrar do jejum a festa
+do dia de sábado seguinte. Boa razão, portanto, teve o Senhor para seguir o
+mesmo princípio na anulação do sábado (visto que essa é a palavra que os
+homens hão de usar); boa razão, também, para exprimir a vontade do Criador,
+quando Ele concedeu o privilégio de não jejuar no dia de sábado. Em suma,
+Ele teria então e ali posto fim ao sábado, mais ainda, ao próprio Criador,
+se tivesse ordenado aos seus discípulos que jejuassem no dia de sábado,
+contrariamente à intenção da Escritura e da vontade do Criador. Mas porque
+Ele não defendeu diretamente os seus discípulos, mas os escusa; porque
+interpõe a necessidade humana, como se deprecasse a censura; porque mantém a
+honra do sábado como um dia que deve estar livre de tristeza antes que de
+trabalho; porque ele põe Davi e os companheiros dele no mesmo nível dos seus
+próprios discípulos na falta deles e na atenuação deles; porque se compraz
+em endossar a indulgência do Criador: porque Ele mesmo é bom segundo o
+exemplo dEle — é Ele, portanto, alheio ao Criador? Então os fariseus
+espreitam se Ele haveria de curar no dia de sábado, para que pudessem
+acusá-Lo — certamente como violador do sábado, não como o propositor de um
+deus novo; pois talvez eu me contentasse em insistir em todas as ocasiões
+neste único ponto, que outro Cristo em parte alguma é proclamado. Os
+fariseus, porém, estavam em completo erro acerca da lei do sábado, não
+observando que os termos dela eram condicionais, quando ela ordenava
+descanso do trabalho, fazendo certas distinções de trabalho. Pois, quando
+ela diz do dia de sábado, "Nele tu não farás trabalho algum teu", pela
+palavra teu ela restringe a proibição ao trabalho humano — que cada um
+realiza no seu próprio emprego ou negócio — e não ao trabalho divino. Ora, a
+obra de curar ou de preservar não é própria do homem, mas de Deus. Assim, de
+novo, na lei ela diz, "Tu não farás espécie alguma de trabalho nele", exceto
+o que se há de fazer por qualquer alma, isto é, em matéria de livrar a alma;
+porque o que é obra de Deus pode ser feito por agência humana para a
+salvação da alma. Por Deus, porém, seria feito aquilo que o homem Cristo
+havia de fazer, pois Ele era igualmente Deus. Querendo, portanto, iniciá-los
+neste sentido da lei pela restauração da mão ressequida, Ele requer, "É
+lícito nos dias de sábado fazer o bem, ou não? salvar a vida, ou
+destruí-la?" A fim de que Ele pudesse, enquanto permitia aquela quantidade
+de trabalho que estava prestes a realizar por uma alma, lembrar-lhes quais
+obras a lei do sábado proibia — mesmo as obras humanas; e quais ela ordenava
+— mesmo as obras divinas, que podiam ser feitas para o benefício de qualquer
+alma, Ele foi chamado "Senhor do sábado", porque mantinha o sábado como
+instituição sua própria. Ora, mesmo se Ele tivesse anulado o sábado, teria
+tido o direito de fazê-lo, por ser o Senhor dele, (e) ainda mais como Aquele
+que o instituiu. Mas Ele não o destruiu de todo, embora Senhor dele, a fim
+de que daí em diante ficasse claro que o sábado não foi quebrado pelo
+Criador, mesmo no tempo em que a arca foi carregada ao redor de Jericó. Pois
+essa era realmente obra de Deus, a qual Ele mesmo ordenou, e a qual Ele
+havia ordenado por causa das vidas dos seus servos quando expostos aos
+perigos da guerra. Ora, embora Ele tenha em certo lugar expressado uma
+aversão de sábados, chamando-os sábados de vocês, reputando-os como sábados
+dos homens, não os seus próprios, porque eram celebrados sem o temor de Deus
+por um povo cheio de iniquidades, e amando a Deus "com o lábio, não o
+coração", Ele contudo pôs os seus próprios sábados (aqueles, isto é, que
+eram guardados segundo a prescrição dEle) numa posição diferente; pois, pelo
+mesmo profeta, numa passagem posterior, Ele os declarou "verdadeiros, e
+deleitosos, e invioláveis". Assim Cristo de modo algum rescindiu o sábado:
+Ele guardou a lei dele, e tanto no caso anterior fez uma obra que era
+benéfica à vida dos seus discípulos, pois os favoreceu com o alívio do
+alimento quando estavam famintos, quanto na presente instância curou a mão
+ressequida; em cada caso em
+
+
 timating by facts, "I came not to destroy, the law, but to fulfil it,"
 although Marcion has gagged His mouth by this word. For even in the case before
 us He fulfilled the law, while interpreting its condition; moreover, He exhibits
@@ -1180,11 +2457,38 @@ example He fulfils the prophetic announcement of a specific healing: "The weak
 hands are strengthened," as were also "the feeble knees"in the sick of the
 palsy.
 
+estimando pelos fatos, "Não vim destruir, a lei, mas cumpri-la", embora
+Marcião lhe tenha amordaçado a boca por esta palavra. Pois mesmo no caso
+diante de nós Ele cumpriu a lei, ao interpretar a sua condição; ademais, Ele
+exibe numa luz preciosa as diferentes espécies de obra, ao fazer o que a lei
+excetua da sacralidade do sábado e ao conferir ao próprio dia de sábado, que
+desde o princípio fora consagrado pela bênção do Pai, uma santidade
+adicional pela sua própria ação beneficente. Pois Ele proveu a este dia
+salvaguardas divinas — um proceder que o seu adversário teria seguido para
+alguns outros dias, a fim de evitar honrar o sábado do Criador e restituir
+ao sábado as obras que lhe eram próprias. Porquanto, de igual modo, o
+profeta Eliseu neste dia restaurou à vida o filho morto da mulher sunamita,
+você vê, ó fariseu, e você também, ó Marcião, como fazer o bem, salvar a
+vida, não destruí-la, era ocupação oferecida para os sábados do Criador de
+outrora; como Cristo não introduziu nada de novo que não fosse segundo o
+exemplo, a brandura, a misericórdia e também a predição do Criador. Pois
+neste mesmo exemplo Ele cumpre o anúncio profético de uma cura específica:
+"As mãos fracas são fortalecidas", como também o foram "os joelhos débeis"
+no enfermo da paralisia.
+
+
 CHAP. XIII.--CHRIST'S CONNECTION WITH THE CREATOR SHOWN. MANY QUOTATIONS
 OUT OF THE OLD TESTAMENT PROPHETICALLY BEAR ON CERTAIN EVENTS OF THE LIFE
 OF JESUS--SUCH AS HIS ASCENT TO PRAYING ON THE MOUNTAIN; HIS SELECTION OF
 TWELVE APOSTLES; HIS CHANGING SIMON'S NAME TO PETER, AND GENTILES FROM TYRE AND
 SIDON RESORTING TO HIM.
+
+CAP. XIII.--A CONEXÃO DE CRISTO COM O CRIADOR MOSTRADA. MUITAS CITAÇÕES
+TIRADAS DO ANTIGO TESTAMENTO INCIDEM PROFETICAMENTE SOBRE CERTOS
+ACONTECIMENTOS DA VIDA DE JESUS--TAIS COMO A SUA SUBIDA PARA ORAR NO MONTE;
+A SUA ESCOLHA DE DOZE APÓSTOLOS; A SUA MUDANÇA DO NOME DE SIMÃO PARA PEDRO,
+E GENTIOS DE TIRO E SIDOM ACORRENDO A ELE.
+
 
 Surely to Sion He brings good tidings, and to Jerusalem peace and all
 blessings; He goes up into a mountain, and there spends a night in prayer, and
@@ -1204,6 +2508,24 @@ night, the psalm manifestly says: "O my God, I will cry in the day-time, and
 Thou shalt hear; and in the night season, and it shall not be in vain to me." in
 another passage touching the same voice and place, the psalm says:
 
+Certamente a Sião Ele traz boas-novas, e a Jerusalém paz e todas as bênçãos;
+sobe a um monte, e ali passa uma noite em oração, e é de fato ouvido pelo
+Pai. Portanto, folheie os profetas e aprenda daí todo o seu curso. "Ao monte
+alto", diz Isaías, "sobe tu, tu que trazes boas-novas a Sião; levanta a tua
+voz com força, tu que trazes boas-novas a Jerusalém." "Ficaram sobremaneira
+atônitos com a sua doutrina; pois Ele ensinava como quem tinha poder." E
+outra vez: "Por isso o meu povo conhecerá o meu nome naquele dia." Que nome
+quer dizer o profeta, senão o de Cristo? "Que eu sou aquele que fala — eu
+mesmo." Pois era Ele quem costumava falar nos profetas — o Verbo, o Filho do
+Criador. "Estou presente, enquanto é a hora, sobre os montes, como quem traz
+alegres novas de paz, como quem publica boas-novas de bem." Assim um dos
+doze (profetas menores), Naburn: "Pois eis sobre o monte os pés velozes
+daquele que traz alegres novas de paz." Além disso, acerca da voz da sua
+oração ao Pai de noite, o salmo diz manifestamente: "Ó meu Deus, clamarei de
+dia, e tu ouvirás; e no tempo da noite, e não me será em vão." Noutro passo,
+acerca da mesma voz e do mesmo lugar, o salmo diz:
+
+
 "I cried unto the Lord with my voice, and He heard me out of His holy
 mountain." You have a representation of the name; you have the action of the
 Evangelizer; you have a mountain for the site; and the night as the time; and
@@ -1219,6 +2541,24 @@ apostles was thus portended, as if they were to be fountains and rivers which
 should water the Gentile world, which was formerly dry and destitute of
 knowledge (as He says by Isaiah: "I will put streams in the unwatered ground");
 as if they were to be gems to shed lustre upon the church's sacred
+
+"Clamei ao Senhor com a minha voz, e Ele me ouviu desde o seu santo monte."
+Você tem uma representação do nome; você tem a ação do Evangelizador; você
+tem um monte por sítio; e a noite como o tempo; e o som de uma voz; e a
+audiência do Pai: você tem, (em suma,) o Cristo dos profetas. Mas por que
+foi que Ele escolheu doze apóstolos, e não algum outro número? Na verdade,
+eu poderia, deste mesmo ponto, concluir a respeito do meu Cristo que Ele foi
+predito não somente pelas palavras de profetas, mas pelas indicações de
+fatos. Pois deste número encontro indícios figurativos aqui e ali na
+dispensação do Criador, nas doze nascentes de Elfin; nas doze gemas da veste
+sacerdotal de Arão; e nas doze pedras designadas por Josué para serem
+tiradas do Jordão e levantadas para a arca da aliança. Ora, o mesmo número
+de apóstolos foi assim prenunciado, como se houvessem de ser fontes e rios
+que regassem o mundo gentio, o qual outrora era seco e destituído de
+conhecimento (como Ele diz por Isaías: "Porei ribeiros na terra não
+regada"); como se houvessem de ser gemas para derramar lustre sobre o
+sagrado
+
 
 robe, which Christ, the High Priest of the Father, puts on; as if, also, they
 were to be stones massive in their faith, which the true Joshua took out of the
@@ -1248,15 +2588,59 @@ from far; and these from the north and from the west; and these from the land of
 the Persians." Concerning whom He says again: "Lift up thine eyes round about,
 and behold, all these have gathered themselves together." And yet again:
 
+manto da igreja, que Cristo, o Sumo Sacerdote do Pai, veste; como se,
+também, houvessem de ser pedras maciças na sua fé, as quais o verdadeiro
+Josué tirou da camada do Jordão e colocou no santuário da sua aliança. Que
+defesa igualmente boa de tal número tem o Cristo de Marcião para mostrar? É
+impossível que alguma coisa possa ser mostrada como feita por ele de modo
+desconexo, a qual não possa ser mostrada como feita pelo meu Cristo em
+conexão (com tipos precedentes). A ele, em quem se descobre a preparação
+para o mesmo, caberá o acontecimento. Outra vez, Ele muda o nome de Simão
+para Pedro, porquanto o Criador também alterou os nomes de Abrão, e de
+Sarai, e de Oseia, chamando a este último Josué e acrescentando uma sílaba a
+cada um dos primeiros. Mas por que Pedro? Se foi por causa do vigor da sua
+fé, havia muitos materiais sólidos que poderiam emprestar um nome a partir
+da sua força. Foi porque Cristo era tanto uma rocha como uma pedra? Pois
+lemos que Ele foi posto "por pedra de tropeço e por rocha de ofensa". Omito
+o resto da passagem. Portanto Ele de bom grado conferiria ao mais querido
+dos seus discípulos um nome que era sugerido por uma das suas próprias
+designações especiais em figura; porque era, suponho, mais peculiarmente
+adequado do que um nome que pudesse ter sido derivado de nenhuma descrição
+figurativa dele mesmo. Vem a Ele, de Tiro e mesmo de outros distritos, uma
+multidão transmarina. Este fato o salmo tinha em vista: "E eis tribos de
+povo estrangeiro, e Tiro, e o povo dos etíopes; eles estavam ali. Sião é
+minha mãe, dirá um homem; e nela nasceu um homem" (porquanto o Deus-homem
+nasceu), e Ele a edificou pela vontade do Pai; para que você saiba como os
+gentios então acorriam a Ele, porque Ele nasceu o Deus-homem que havia de
+edificar a igreja segundo a vontade do Pai — mesmo também de outras raças.
+Assim diz também Isaías: "Eis, estes vêm de longe; e estes, do norte e do
+ocidente; e estes, da terra dos persas." Acerca de quem Ele diz outra vez:
+"Levanta os teus olhos ao redor, e eis, todos estes se congregaram." E ainda
+outra vez:
+
+
 "Thou seest these unknown and strange ones; and thou wilt say in thine heart,
 Who hath begotten me these? But who hath brought me up these? And these, where
 have they been?" Will such a Christ not be (the Christ) of the prophets? And
 what will be the Christ of the Marcionites? Since perversion of truth is their
 pleasure, he could not be (the Christ) of the prophets.
 
+"Tu vês estes desconhecidos e estranhos; e dirás no teu coração: Quem me
+gerou estes? Mas quem me criou estes? E estes, onde estiveram?" Não será tal
+Cristo (o Cristo) dos profetas? E qual será o Cristo dos marcionitas? Visto
+que a perversão da verdade é o prazer deles, ele não poderia ser (o Cristo)
+dos profetas.
+
+
 CHAP. XIV.--CHRIST'S SERMON ON THE MOUNT. IN MANNER AND CONTENTS IT SO
 RESEMBLES THE CREATOR'S DISPENSATIONAL WORDS AND DEEDS. IT SUGGESTS
 THEREFORE THE CONCLUSION THAT JESUS IS THE CREATOR'S CHRIST. THE BEATITUDES.
+
+CAP. XIV.--O SERMÃO DE CRISTO NO MONTE. NA MANEIRA E NOS CONTEÚDOS ELE DE
+TAL MODO SE ASSEMELHA ÀS PALAVRAS E AOS FEITOS DISPENSACIONAIS DO CRIADOR.
+SUGERE PORTANTO A CONCLUSÃO DE QUE JESUS É O CRISTO DO CRIADOR. AS
+BEM-AVENTURANÇAS.
+
 
 I now come to those ordinary precepts of His, by means of which He adapts the
 peculiarity of His doctrine to what I may call His official proclamation as the
@@ -1276,9 +2660,33 @@ salvation. Indeed, I hardly know whiCh way to turn amidst so vast a wealth of
 good words like these; as if I were in a forest, or a meadow, or an orchard of
 apples. I must therefore look out for such matter as chance may present to me.
 
+Chego agora àqueles preceitos ordinários dele, por meio dos quais Ele adapta
+a peculiaridade da sua doutrina ao que posso chamar a sua proclamação
+oficial como o Cristo. "Bem-aventurados os necessitados" (pois não menos do
+que isto se requer para interpretar a palavra no grego, "porque deles é o
+reino dos céus." Ora, este mesmo fato, que Ele começa com bem-aventuranças,
+é característico do Criador, que não usou nenhuma outra voz senão a da
+bênção, quer no primeiro fiat, quer na dedicação final do universo: pois "o
+meu coração", diz Ele, "compôs uma palavra muito boa". Esta será aquela
+"palavra muito boa" de bênção que se admite ser o princípio iniciador do
+Novo Testamento, segundo o exemplo do Antigo. Que há, então, para admirar,
+se Ele entrou no seu ministério com os próprios atributos do Criador, que
+sempre, em linguagem do mesmo teor, amou, consolou, protegeu e vingou o
+mendigo, e o pobre, e o humilde, e a viúva, e o órfão? De sorte que você
+possa crer que esta dádiva particular, por assim dizer, de Cristo seja um
+regato que mana das fontes da salvação. Com efeito, mal sei para que lado me
+voltar em meio a tão vasta riqueza de boas palavras como estas; como se eu
+estivesse numa floresta, ou num prado, ou num pomar de maçãs. Devo portanto
+procurar tal matéria conforme o acaso me possa apresentar.
+
+
 In the psalm he exclaims: "Defend the fatherless and the needy; do justice to
 the humble and the poor; deliver the poor, and rid the needy out of the hand of
 the wicked."
+
+No salmo ele exclama: "Defende o órfão e o necessitado; faze justiça ao
+humilde e ao pobre; livra o pobre, e tira o necessitado da mão do ímpio."
+
 
 Similarly in the seventy-first Psalm: "In righteousness shall He judge the
 needy amongst the people, and shall save the children of the poor." And in the
@@ -1339,9 +2747,78 @@ exultation is promised to those who are in an opposite condition--to the
 sorrowful, and sad, and anxious. Just as it is said in the 125th Psalm: "They
 who sow in tears shall reap in joy." Moreover, laughter is as much an
 
+De modo semelhante no septuagésimo primeiro Salmo: "Em justiça julgará Ele o
+necessitado no meio do povo, e salvará os filhos do pobre." E nas palavras
+seguintes ele diz acerca de Cristo: "Todas as nações servirão a Ele." Ora,
+Davi reinou somente sobre a nação judaica, de modo que ninguém pode supor
+que isto foi dito de Davi; ao passo que Ele havia tomado sobre Si a condição
+do pobre, e daqueles que eram oprimidos pela penúria, "Porque Ele haveria de
+livrar o necessitado da mão do homem poderoso; Ele poupará o necessitado e o
+pobre, e livrará as almas dos pobres. Da usura e da injustiça remirá Ele as
+almas deles, e à Sua vista será honrado o nome deles." Outra vez: "Os ímpios
+serão lançados no inferno, sim, todas as nações que se esquecem de Deus;
+porque o necessitado não será esquecido para sempre; a constância do pobre
+não perecerá para sempre." Outra vez: "Quem é semelhante ao Senhor nosso
+Deus, que habita no alto, e contudo olha para as coisas humildes que estão
+no céu e na terra! — que levanta o necessitado de sobre o chão, e do monturo
+exalta o pobre; para que o ponha com os príncipes do Seu povo", isto é, no
+Seu próprio reino. E igualmente, anteriormente, no livro dos Reis, Ana, a
+mãe de Samuel, dá glória a Deus nestas palavras: "Ele levanta o homem pobre
+do chão, e o mendigo, para que o ponha entre os príncipes do Seu povo (isto
+é, no Seu próprio reino), e sobre tronos de glória" (mesmo os régios). E por
+Isaías, como Ele invectiva contra os opressores do necessitado: "Que
+significa que vocês ateiam fogo à minha vinha, e que o despojo do pobre está
+nas casas de vocês? Por que despedaçam vocês o meu povo, e moem o rosto do
+necessitado?" E outra vez: "Ai daqueles que decretam decretos injustos; pois
+nos decretos deles decretam a maldade, desviando o necessitado do juízo, e
+tirando os seus direitos aos pobres do meu povo." Estes juízos justos Ele
+requer também para os órfãos, e para as viúvas, bem como para consolação dos
+próprios muito necessitados. "Façam justiça ao órfão, e tratem com justiça a
+viúva; e venham, reconciliemo-nos, diz o Senhor." Àquele para quem, em cada
+estágio de baixeza, se provê tanto da consideração compassiva do Criador,
+será dado também aquele reino que é prometido por Cristo, a cuja compaixão
+misericordiosa pertencem, e por longo tempo têm pertencido, aqueles a quem a
+promessa é feita. Pois, mesmo que você suponha que as promessas do Criador
+fossem terrenas, mas que as de Cristo são celestes, é inteiramente claro que
+o céu não tem sido até agora propriedade de nenhum outro Deus, seja qual
+for, senão dAquele que possui também a terra; inteiramente claro que o
+Criador deu até as promessas menores (de bênção terrena), a fim de que eu
+mais prontamente creia nEle acerca das Suas promessas maiores (de bênçãos
+celestes) também, do que (no deus de Marcião), que nunca deu prova da sua
+liberalidade por qualquer outorga precedente de bênçãos menores.
+"Bem-aventurados os que têm fome, porque serão fartos." Eu poderia ligar
+esta cláusula à anterior, porque ninguém senão os pobres e os necessitados
+sofre fome, se o Criador não tivesse especialmente determinado que a
+promessa de uma bênção semelhante servisse de preparação para o evangelho,
+para que assim os homens o soubessem dEle. Pois assim diz Ele, por Isaías,
+acerca daqueles que Ele estava prestes a chamar das extremidades da terra —
+isto é, os gentios: "Eis que virão rapidamente com presteza": rapidamente,
+porque se apressam para a plenitude dos tempos; com presteza, porque
+desimpedidos dos pesos da lei antiga. Não terão fome nem sede. Portanto
+serão fartos — promessa que não se faz senão àqueles que têm fome e sede. E
+outra vez diz Ele: "Eis que os meus servos serão fartos, mas vocês terão
+fome; eis que os meus servos beberão, mas vocês terão sede." Quanto a estas
+oposições, veremos se não são premonitores de Cristo. Entrementes, a
+promessa de plenitude aos famintos é uma provisão de Deus, o Criador.
+"Bem-aventurados os que choram, porque rirão." Volte outra vez à passagem de
+Isaías: "Eis que os meus servos exultarão com alegria, mas vocês serão
+envergonhados; eis que os meus servos estarão alegres, mas vocês clamarão
+por tristeza de coração." E reconheça estas oposições também na dispensação
+de Cristo. Por certo a alegria e a exultação jubilosa são prometidas àqueles
+que estão em condição oposta — aos pesarosos, e tristes, e ansiosos. Assim
+como se diz no 125º Salmo: "Os que semeiam em lágrimas ceifarão em alegria."
+Além disso, o riso é tanto um
+
+
 accessory to the exulting and glad, as weeping is to the sorrowful and
 grieving. Therefore the Creator, in foretelling matters for laughter and tears,
 was the first who said that those who mourned should laugh.
+
+acessório dos que exultam e dos alegres, quanto o choro o é dos pesarosos e
+dos que se afligem. Portanto o Criador, ao predizer matérias para o riso e
+para as lágrimas, foi o primeiro que disse que os que pranteavam haviam de
+rir.
+
 
 Accordingly, He who began (His course) with consolation for the poor, and the
 humble, and the hungry, and the weeping, was at once eager to represent Himself
@@ -1380,9 +2857,55 @@ life, laying it down for our sakes, and is held in contempt by the Gentiles. And
 He who was born (into the world) will be that very Son of man on whose account
 our name also is rejected.
 
+Por conseguinte, Aquele que começou (o Seu curso) com consolação para os
+pobres, e os humildes, e os famintos, e os que choram, logo estava ávido de
+representar-Se como Aquele a quem havia apontado pela boca de Isaías: "O
+Espírito do Senhor está sobre mim, porque Ele me ungiu para pregar
+boas-novas aos pobres." "Bem-aventurados os necessitados, porque deles é o
+reino dos céus." "Ele me enviou para ligar os quebrantados de coração."
+"Bem-aventurados os que têm fome, porque serão fartos." "Para consolar todos
+os que pranteiam." "Bem-aventurados os que choram, porque rirão." "Para dar
+aos que pranteiam em Sião beleza (ou glória) em lugar de cinzas, e o óleo de
+alegria em lugar de luto, e a veste de louvor em lugar do espírito de
+pesadume." Ora, visto que Cristo, tão logo entrou no Seu curso, cumpriu uma
+ministração tal como esta, Ele ou é, Ele próprio, Aquele que predisse a Sua
+própria vinda para fazer tudo isto; ou então, se ainda não veio aquele que
+predisse isto, o encargo ao Cristo de Marcião há de ser um ridículo (embora
+eu talvez devesse acrescentar um necessário), o qual lhe ordenou que
+dissesse: "Bem-aventurados serão vocês, quando os homens abaterem vocês, e
+lançarem opróbrio sobre vocês, e lançarem fora o nome de vocês como mau, por
+causa do Filho do homem." Nesta declaração há, sem dúvida, uma exortação à
+paciência. Pois bem, que disse de outro modo o Criador por Isaías? "Não
+temam vocês o opróbrio dos homens, nem sejam diminuídos pelo desprezo
+deles." Que opróbrio? que desprezo? Aquele em que se havia de incorrer por
+causa do Filho do homem. Que Filho do homem? Aquele que (é chegado) segundo
+a vontade do Criador. Donde obteremos a nossa prova? Do próprio ser cortado,
+que foi predito contra Ele; como quando Ele diz por Isaías aos judeus, que
+foram os instigadores do ódio contra Ele: "Por causa de vocês, o meu nome é
+blasfemado entre os gentios"; e em outra passagem: "Imponham a pena Àquele
+que entrega a Sua própria vida, que é tido em desprezo pelos gentios, sejam
+servos ou magistrados." Ora, visto que o ódio foi predito contra aquele
+Filho do homem que tem a Sua missão da parte do Criador, ao passo que o
+Evangelho testifica que o nome de cristãos, como derivado de Cristo, havia
+de ser odiado por causa do Filho do homem, porque Ele é Cristo, isso
+determina o ponto de que aquele era o Filho do homem, na questão do ódio,
+que veio segundo o propósito do Criador, e contra quem o ódio foi predito. E
+mesmo que Ele ainda não tivesse vindo, o ódio do Seu nome que existe no dia
+presente não poderia em caso algum ter possivelmente precedido Aquele que
+havia de levar o nome. Mas Ele tanto sofreu a pena em nossa presença, como
+entregou a Sua vida, depondo-a por nossa causa, e é tido em desprezo pelos
+gentios. E Aquele que nasceu (no mundo) será aquele mesmo Filho do homem por
+cuja causa também o nosso nome é rejeitado.
+
+
 CHAP. XV.--SERMON ON THE MOUNT CONTINUED. ITS WOES IN STRICT AGREEMENT
 WITH THE CREATOR'S DISPOSITION. MANY QUOTATIONS OUT OF THE OLD TESTAMENT IN
 PROOF OF THIS.
+
+CAP. XV.--O SERMÃO SOBRE O MONTE CONTINUADO. OS SEUS AIS EM ESTRITO ACORDO
+COM A DISPOSIÇÃO DO CRIADOR. MUITAS CITAÇÕES TIRADAS DO ANTIGO TESTAMENTO EM
+PROVA DISTO.
+
 
 "In the like manner," says He, "did their fathers unto the prophets." What a
 turncoat is Marcion's Christ! Now the destroyer, now the advocate of the
@@ -1399,6 +2922,24 @@ iniquity of the Jews for their impious dealings with their own prophets. Well,
 then, in this case, no sin ought to have been charged against the Jews: they
 were rather deserving of praise and approbation when they maltreated (24 those
 whom
+
+"De igual maneira", diz Ele, "fizeram os pais deles aos profetas." Que
+renegado é o Cristo de Marcião! Agora o destruidor, agora o advogado dos
+profetas! Ele os destruiu como rival deles, convertendo os discípulos deles;
+ele assumiu a causa deles como amigo deles, estigmatizando os perseguidores
+deles. Mas, na medida em que a defesa dos profetas não podia ser coerente no
+Cristo de Marcião, que veio para destruí-los; nessa medida convém ao Cristo
+do Criador que Ele estigmatize aqueles que perseguiram os profetas, pois Ele
+em todas as coisas cumpriu as predições deles. Outra vez, é mais
+característico do Criador exprobrar aos filhos os pecados dos pais deles, do
+que o é daquele deus que não castiga homem nenhum nem mesmo pelas suas
+próprias más ações. Mas você dirá que Ele não pode ser considerado como
+defensor dos profetas simplesmente porque desejou afirmar a iniquidade dos
+judeus pelos seus tratos ímpios com os seus próprios profetas. Pois bem,
+então, neste caso, nenhum pecado deveria ter sido imputado aos judeus: eles
+antes eram merecedores de louvor e de aprovação quando maltrataram (24
+aqueles a quem
+
 
 the absolutely good god of Marcion, after so long a time, bestirred himself
 to destroy. I suppose, however, that by this time he bad ceased to be the
@@ -1461,6 +3002,70 @@ there are serious faults which accompany riches; and it is because of these that
 woes are denounced on the rich, even in the Gospel. "Ye have received," says He,
 "your consolation;" that is, of course, from
 
+o deus absolutamente bom de Marcião, depois de tão longo tempo, pôs-se em
+ação para destruir. Suponho, contudo, que a esta altura ele já havia cessado
+de ser o deus absolutamente bom; ele havia agora permanecido por um tempo
+considerável até mesmo junto do Criador, e já não era (como) o deus de
+Epicuro pura e simplesmente. Pois veja como ele condescende em amaldiçoar, e
+prova ser capaz de se ofender e de sentir ira! Ele de fato pronuncia um ai!
+Mas levanta-se contra nós uma dúvida quanto à significação desta palavra,
+como se ela trouxesse consigo menos o sentido de uma maldição do que de uma
+admoestação. Onde, porém, está a diferença, visto que mesmo uma admoestação
+não se dá sem o aguilhão de uma ameaça, especialmente quando é amargada com
+um ai? Além disso, tanto a admoestação quanto a ameaça serão os recursos
+daquele que sabe sentir ira. Pois ninguém proibirá, com uma admoestação ou
+uma ameaça, que uma coisa se faça, senão aquele que infligirá punição por
+fazê-la. Ninguém infligiria punição, senão aquele que fosse suscetível de
+ira. Outros, por sua vez, admitem que a palavra implica uma maldição; mas
+pretendem que Cristo pronunciou o ai, não como se fosse o seu próprio
+sentimento genuíno, mas porque o ai procede do Criador, e Ele quis
+expor-lhes a severidade do Criador, a fim de que pudesse tanto mais
+recomendar a sua própria longanimidade nas suas bem-aventuranças. Exatamente
+como se não competisse ao Criador, na preeminência de ambos os seus
+atributos como o Deus bom e Juiz, que, assim como fizera da clemência o
+preâmbulo da sua bênção, assim pusesse a severidade no seguimento das suas
+maldições; desenvolvendo assim plenamente a sua disciplina em ambas as
+direções, tanto em prosseguir a bênção quanto em prover contra a maldição.
+Ele já dissera outrora: "Eis que pus diante de vocês bênção e maldição."
+Declaração essa que era realmente um presságio desta índole do evangelho.
+Ademais, que espécie de ser é aquele que, para insinuar uma crença na sua
+própria bondade, invejosamente contrastou com ela a severidade do Criador?
+De pouco valor é a recomendação que tem por esteio a difamação de outrem. E,
+no entanto, ao expor assim a severidade do Criador, ele, de fato, afirmou
+ser Ele objeto de temor. Ora, se Ele é objeto de temor, é decerto mais digno
+de ser obedecido do que menosprezado; e assim o Cristo de Marcião começa a
+ensinar de maneira favorável aos interesses do Criador. Então, pela admissão
+acima mencionada, uma vez que o ai que diz respeito aos ricos é do Criador,
+segue-se que não é Cristo, mas o Criador, quem está irado com os ricos;
+enquanto Cristo aprova os incentivos dos ricos — quero dizer, o orgulho
+deles, a pompa deles, o amor deles ao mundo e o desprezo deles a Deus, em
+razão dos quais merecem o ai do Criador. Mas como se dá que a reprovação dos
+ricos não proceda do mesmo Deus que pouco antes expressara aprovação dos
+pobres? Não há ninguém que não reprove o oposto daquilo que aprovou. Se,
+portanto, se imputar ao Criador o ai pronunciado contra os ricos, deve-se
+também reivindicar para Ele a promessa da bênção sobre os pobres; e assim a
+obra inteira do Criador recai sobre Cristo. — Se ao deus de Marcião se
+atribuir a bênção dos pobres, deve-se também ter-lhe imputado a maldição dos
+ricos; e assim ele se tornará igual ao Criador, tanto bom quanto judicial;
+nem restará qualquer lugar para aquela distinção pela qual se fazem dois
+deuses; e, quando esta distinção for removida, permanecerá a verdade que
+pronuncia ser o Criador o único e só Deus. Uma vez, portanto, que "ai" é uma
+palavra indicativa de maldição, ou de alguma exclamação invulgarmente
+austera; e uma vez que é por Cristo proferida contra os ricos, terei de
+mostrar que o Criador é também um desprezador dos ricos, como o mostrei ser
+o defensor dos pobres, a fim de que eu possa provar que Cristo está do lado
+do Criador nesta matéria, mesmo quando Ele enriqueceu Salomão. Mas, com
+respeito a este homem, uma vez que, quando lhe foi deixada uma escolha, ele
+preferiu pedir o que sabia ser bem-agradável a Deus — a própria sabedoria —,
+ele mereceu ainda a obtenção das riquezas, as quais não preferiu. O dotar um
+homem, de fato, de riquezas não é uma incongruência para Deus, pois pelo
+auxílio das riquezas até os homens ricos são consolados e assistidos; além
+disso, por meio delas se leva a cabo muita obra de justiça e de caridade.
+Mas ainda há faltas graves que acompanham as riquezas; e é por causa destas
+que ais são denunciados sobre os ricos, mesmo no Evangelho. "Vocês
+receberam", diz Ele, "a sua consolação"; isto é, por certo, das
+
+
 their riches, in the pomps and vanities of the world which these purchase for
 them. Accordingly, in Deuteronomy, Moses says: "Lest, when thou hast eaten and
 art full, and hast built goodly houses, and when thy herds and thy flocks
@@ -1516,12 +3121,80 @@ prophet Isaiah, censure those who seek after human flattery and praise: "O my
 people, they who call you happy mislead you, and disturb the paths of your
 feet."
 
+suas riquezas, nas pompas e vaidades do mundo que estas lhes compram. Por
+conseguinte, no Deuteronômio, diz Moisés: "Para que, quando tiveres comido e
+estiveres farto, e houveres edificado casas formosas, e quando os teus gados
+e os teus rebanhos se multiplicarem, bem como a tua prata e o teu ouro, não
+se exalte então o teu coração, nem te esqueças do Senhor, teu Deus." Em
+termos semelhantes, quando o rei Ezequias se tornou orgulhoso dos seus
+tesouros, e se gloriou neles mais do que em Deus, diante daqueles que tinham
+vindo em embaixada da Babilônia, (o Criador) prorrompe contra ele pela boca
+de Isaías: "Eis que vêm os dias em que tudo o que está na tua casa, e aquilo
+que os teus pais acumularam em depósito, será levado à Babilônia." Assim
+também por Jeremias Ele disse: "Não se glorie o homem rico nas suas
+riquezas, mas aquele que se gloria, glorie-se até mesmo no Senhor." De modo
+semelhante, contra as filhas de Sião Ele invectiva por Isaías, quando elas
+estavam altivas por causa da sua pompa e da abundância das suas riquezas,
+assim como em outra passagem Ele profere as suas ameaças contra os soberbos
+e os nobres: "O inferno alargou-se e abriu a sua boca, e até ele descerão os
+ilustres, e os grandes, e os ricos (este será o 'ai dos ricos' de Cristo); e
+o homem será humilhado", mesmo aquele que se exalta com as riquezas; "e o
+homem poderoso será desonrado", mesmo aquele que é poderoso pela sua
+riqueza. A respeito de quem Ele diz outra vez: "Eis que o Senhor dos
+exércitos confundirá os pomposos juntamente com a sua força: os que estão
+elevados serão abatidos, e os que são altivos cairão pela espada." E quem
+são estes senão os ricos? Porque eles de fato receberam a sua consolação,
+glória e honra e uma posição elevada da sua riqueza. No Salmo xlviii. Ele
+também desvia o nosso cuidado destes e diz: "Não temas tu quando alguém é
+feito rico, e quando a sua glória é aumentada: pois, quando ele morrer, nada
+levará embora; nem a sua glória descerá juntamente com ele." Assim também no
+Salmo lxi.: "Não desejem riquezas; e, se elas de fato lhes renderem o seu
+lustre, não ponham o seu coração sobre elas." Por fim, este mesmíssimo ai é
+pronunciado desde outrora por Amós contra os ricos, que também abundavam em
+delícias. "Ai deles", diz ele, "que dormem sobre leitos de marfim, e
+deliciosamente se estendem sobre os seus divãs; que comem os cabritos dos
+rebanhos das cabras, e os bezerros de leite dos rebanhos das novilhas,
+enquanto entoam ao som da viola; como se pensassem que haveriam de continuar
+por longo tempo, e que não fossem passageiros; que bebem os seus vinhos
+refinados, e se ungem com os unguentos mais custosos." Portanto, ainda que
+eu nada mais pudesse fazer senão mostrar que o Criador dissuade os homens
+das riquezas, sem ao mesmo tempo primeiro condenar os ricos, nos mesmíssimos
+termos em que Cristo também o fez, ninguém poderia duvidar de que, da mesma
+autoridade, foi acrescentada uma cominação contra os ricos naquele ai de
+Cristo, de quem também primeiro procedera a dissuasão contra o pecado
+material destas pessoas, isto é, as suas riquezas. Pois tal cominação é o
+seguimento necessário de tal dissuasivo. Ele inflige um ai também sobre "os
+fartos, porque terão fome; sobre aqueles também que riem agora, porque
+prantearão." A estes corresponderão estes opostos que ocorrem, como vimos
+acima, nas bênçãos do Criador: "Eis que os meus servos estarão fartos, mas
+vocês estarão famintos" — justamente porque vocês foram enchidos; "eis que
+os meus servos se regozijarão, mas vocês serão envergonhados" — justamente
+vocês que prantearão, que agora estão rindo. Pois, como está escrito no
+salmo, "Os que semeiam em lágrimas colherão em alegria", assim corre no
+Evangelho: Os que semeiam em riso, isto é, em alegria, colherão em lágrimas.
+Estes princípios estabeleceu o Criador outrora; e Cristo os renovou,
+simplesmente por trazê-los à vista proeminente, não por fazer neles mudança
+alguma. "Ai de vocês, quando todos os homens falarem bem de vocês! pois
+assim fizeram os pais deles aos falsos profetas." Com igual ênfase o
+Criador, pelo seu profeta Isaías, censura aqueles que buscam a lisonja e o
+louvor humanos: "Ó meu povo, aqueles que os chamam felizes os desencaminham,
+e perturbam as veredas dos pés de vocês."
+
+
 In another passage He forbids all implicit trust in man, and likewise in the
 applause of man; as by the prophet Jeremiah: "Cursed be the man that trusteth in
 man." Whereas in Ps. cxvii. it is said: "It is better to trust in the Lord than
 to put confidence in man; it is better to trust in the Lord than to place hope
 in princes." Thus everything which is caught at by men is adjured by the
 Creator, down to their good
+
+Em outra passagem Ele proíbe toda confiança implícita no homem, e igualmente
+no aplauso do homem; como pelo profeta Jeremias: "Maldito seja o homem que
+confia no homem." Ao passo que no Salmo cxvii. se diz: "É melhor confiar no
+Senhor do que pôr confiança no homem; é melhor confiar no Senhor do que
+colocar esperança nos príncipes." Assim, tudo aquilo que é agarrado pelos
+homens é conjurado pelo Criador, até as suas boas
+
 
 words. It is as much His property to condemn the praise and flattering words
 bestowed on the false prophets by their fathers, as to condemn their vexatious
@@ -1530,11 +3203,27 @@ the prophets could not be imputed to their own God, so the applause bestowed on
 the false prophets could not have been displeasing to any other god but the God
 of the true prophets.
 
+palavras. É-Lhe tão próprio condenar o louvor e as palavras lisonjeiras
+conferidos aos falsos profetas pelos pais deles, quanto condenar o
+tratamento vexatório e perseguidor deles para com os (verdadeiros) profetas.
+Assim como as injúrias sofridas pelos profetas não podiam ser imputadas ao
+seu próprio Deus, assim o aplauso conferido aos falsos profetas não poderia
+ter sido desagradável a nenhum outro deus senão ao Deus dos verdadeiros
+profetas.
+
+
 CHAP. XVI.--THE PRECEPT OF LOVING ONE'S ENEMIES. IT IS AS MUCH
 TAUGHT IN THE CREATOR'S SCRIPTURES OF THE OLD TESTAMENT AS IN CHRIST'S SERMON.
 THE LEX TALIONIS OF MOSES ADMIRABLY EXPLAINED IN CONSISTENCY WITH THE KINDNESS
 AND LOVE WHICH JESUS CHRIST CAME TO PROCLAIM AND ENFORCE IN BEHALF OF THE
 CREATOR. SUNDRY PRECEPTS OF CHARITY EXPLAINED.
+
+CAP. XVI.--O PRECEITO DE AMAR OS PRÓPRIOS INIMIGOS. ELE É TANTO ENSINADO NAS
+ESCRITURAS DO CRIADOR DO ANTIGO TESTAMENTO QUANTO NO SERMÃO DE CRISTO. A LEX
+TALIONIS DE MOISÉS ADMIRAVELMENTE EXPLICADA EM CONSISTÊNCIA COM A BONDADE E
+O AMOR QUE JESUS CRISTO VEIO PROCLAMAR E FAZER CUMPRIR EM FAVOR DO CRIADOR.
+VÁRIOS PRECEITOS DE CARIDADE EXPLICADOS.
+
 
 "But I say unto you which hear" (displaying here that old injunction, of the
 Creator: "Speak to the ears of those who lend them to you"), "Love your enemies,
@@ -1581,6 +3270,56 @@ extinguish all reprisals of an injury, which the law had wished to prevent by
 the method of retaliation, (and) which most certainly revelation had manifestly
 restricted, both by prohibiting the memory of the wrong, and referring the
 vengeance thereof to God. Thus, whatever (new
+
+"Mas eu digo a vocês que ouvem" (exibindo aqui aquela antiga injunção, do
+Criador: "Fale aos ouvidos daqueles que os emprestam a você"), "Amem os seus
+inimigos, e abençoem aqueles que odeiam vocês, e orem por aqueles que
+caluniam vocês." Estes mandamentos o Criador incluiu num só preceito pelo
+Seu profeta Isaías: "Digam: Vocês são nossos irmãos, àqueles que odeiam
+vocês." Pois, se aqueles que são nossos inimigos, e nos odeiam, e falam mal
+de nós, e nos caluniam, hão de ser chamados nossos irmãos, certamente Ele
+com efeito nos ordenou abençoar os que nos odeiam, e orar pelos que nos
+caluniam, quando nos instruiu a reputá-los como irmãos. Pois bem, mas Cristo
+ensina claramente uma nova espécie de paciência, quando efetivamente proíbe
+as represálias que o Criador permitiu ao exigir "um olho por um olho, e um
+dente por um dente", e nos manda, ao contrário, "àquele que nos fere sobre
+uma bochecha, oferecer também a outra, e entregar a nossa túnica àquele que
+toma o nosso manto." Sem dúvida estas são adições suplementares de Cristo,
+mas estão inteiramente em conformidade com o ensino do Criador. E portanto
+esta questão deve ser desde logo determinada: Se a disciplina da paciência é
+prescrita pelo Criador? Quando, por Zacarias, Ele ordenou: "Nenhum de vocês
+imagine o mal contra o seu irmão", Ele não incluiu expressamente o seu
+próximo; mas então, noutra passagem, Ele diz: "Nenhum de vocês imagine o mal
+nos seus corações contra o seu próximo." Aquele que aconselhou que uma
+injúria fosse esquecida estava ainda mais propenso a aconselhar a paciente
+suportação dela. Mas então, quando Ele disse: "A vingança é minha, e eu
+retribuirei", Ele ensina por isso que a paciência espera calmamente a
+inflição da vingança. Portanto, porquanto é incrível que o mesmo (Deus)
+pareça exigir "um dente por um dente e um olho por um olho", em retribuição
+de uma injúria, o qual proíbe não só todas as represálias, mas até um
+pensamento vingativo ou a recordação de uma injúria, nessa medida torna-se
+claro para nós em que sentido Ele exigiu "um olho por um olho e um dente por
+um dente" — não, de fato, com o propósito de permitir a repetição da injúria
+ao retaliá-la, o que isso virtualmente proibiu quando vedou a vingança; mas
+com o propósito de conter a injúria em primeira instância, a qual isso havia
+proibido sob pena de retaliação ou reciprocidade; de modo que todo homem, em
+vista da permissão de infligir uma segunda (ou retaliatória) injúria,
+pudesse abster-se do cometimento da primeira (ou provocadora) ofensa. Pois
+Ele sabe quanto mais fácil é reprimir a violência pela perspectiva da
+retaliação do que pela promessa de vingança (indefinida). Ambos os
+resultados, porém, era necessário prover, em consideração da natureza e da
+fé dos homens, para que o homem que cria em Deus pudesse esperar de Deus a
+vingança, enquanto aquele que não tinha fé (para contê-lo) pudesse temer as
+leis que prescreviam a retaliação. Este propósito da lei, que era difícil de
+compreender, Cristo, como o Senhor do sábado e da lei e de todas as
+dispensações do Pai, tanto revelou quanto tornou inteligível, quando ordenou
+que "a outra bochecha fosse oferecida (ao que fere)", a fim de que Ele
+pudesse mais eficazmente extinguir todas as represálias de uma injúria, as
+quais a lei quisera impedir pelo método da retaliação, (e) as quais com toda
+a certeza a revelação havia manifestamente restringido, tanto ao proibir a
+memória da ofensa quanto ao remeter a vingança dela a Deus. Assim, o que
+quer que (nova
+
 
 provision) Christ introduced, He did it not in opposition to the law, but
 rather in furtherance of it, without at all impairing the prescription of the
@@ -1640,6 +3379,69 @@ pity should be shown only to a man's brethren; but when Christ had given to Him
 then began to be accomplished what was said by Hosea: "Ye are not my people, who
 were my people; ye have not obtained mercy, who
 
+disposição) Cristo introduziu, Ele não o fez em oposição à lei, mas antes em
+adiantamento dela, sem em nada prejudicar a prescrição do Criador. Se,
+portanto, alguém olha cuidadosamente para os próprios fundamentos pelos
+quais a paciência é prescrita (e a provação em tão plena e completa
+extensão), descobre que ela não pode subsistir se não é o preceito do
+Criador, que promete a vingança, que Se apresenta como o juiz (no caso). Se
+não fosse assim — se tão vasto peso de paciência — a qual há de abster-se de
+dar golpe por golpe; a qual há de oferecer a outra bochecha; a qual não
+somente não há de devolver ultraje por ultraje, mas, ao contrário, bênção; e
+a qual, longe de conservar a túnica, há de entregar também o manto — é posto
+sobre mim por alguém que não tenciona ajudar-me — (então tudo o que posso
+dizer é) que ele me ensinou a paciência para nenhum fim, porque não me
+mostra recompensa alguma ao seu preceito — quero dizer, nenhum fruto de tal
+paciência. Há uma desforra que ele deveria ter-me permitido tomar, se não
+tencionava infligi-la ele mesmo; se ele não me deu essa permissão, então ele
+mesmo deveria tê-la infligido; pois é do interesse da própria disciplina que
+uma injúria seja vingada. Pois pelo temor da vingança toda iniquidade é
+refreada. Mas, se lhe é concedida licença sem discriminação, ela ganhará o
+domínio — vazará (de um homem) ambos os olhos; arrancará todo dente na
+segurança da sua impunidade. Isto, porém, é (o princípio) do seu deus bom e
+simplesmente benéfico — fazer um mal à paciência, abrir a porta à violência,
+deixar o justo sem defesa, e o ímpio sem restrição! "Dá a todo aquele que te
+pedir" — ao indigente, decerto, ou antes ao indigente mais especialmente,
+embora ao abastado igualmente. Mas, a fim de que nenhum homem seja
+indigente, você tem em Deuteronômio uma disposição ordenada pelo Criador ao
+credor. "Não haverá em tua mão um homem indigente; de sorte que o Senhor teu
+Deus te abençoará com bênçãos" — te significando o credor a quem se devia
+que o homem não fosse indigente. Mas mais do que isto. Àquele que não pede,
+Ele manda que um dom seja dado. "Haja, não", diz Ele, "um homem pobre em tua
+mão"; por outras palavras, vê que não haja, até onde a tua vontade puder
+impedir; pelo qual mandamento, também, Ele ainda mais fortemente, por
+inferência, requer que os homens deem àquele que pede, como também nas
+seguintes palavras: "Se houver entre vocês um homem pobre dos teus irmãos,
+não desviarás o teu coração, nem fecharás a tua mão ao teu irmão pobre. Mas
+abrirás amplamente a tua mão para ele, e certamente lhe emprestarás tanto
+quanto ele necessitar", Empréstimos não são usualmente dados, exceto a tais
+que os pedem. Sobre este assunto de emprestar, porém, mais adiante. Ora, se
+alguém quisesse argumentar que os preceitos do Criador se estendiam apenas
+aos irmãos de um homem, mas os de Cristo a todos os que pedem, de modo a
+tornar este último um preceito novo e diferente, (tenho de responder) que
+uma só regra se pode extrair daqueles princípios, os quais mostram a lei do
+Criador repetida em Cristo. Pois não é coisa diferente aquilo que Cristo
+ordenou que se fizesse para com todos os homens, daquilo que o Criador
+prescreveu em favor dos irmãos de um homem. Pois, embora seja uma caridade
+maior aquela que se mostra aos estranhos, ela não é contudo preferível
+àquela que era anteriormente devida aos próprios próximos. Pois que homem
+será capaz de conceder o amor (que procede do conhecimento do caráter, aos
+estranhos? Visto que, porém, o segundo passo na caridade é para com os
+estranhos, enquanto o primeiro é para com os próprios próximos, o segundo
+passo pertencerá àquele a quem também pertence o primeiro, mais propriamente
+do que o segundo pertencerá àquele que não possuía o primeiro. Por
+conseguinte, o Criador, ao seguir o curso da natureza, ensinou em primeira
+instância a bondade para com os próximos, tencionando depois ordená-la para
+com os estranhos; e, ao seguir o método da Sua dispensação, limitou a
+caridade primeiro aos judeus, mas depois a estendeu a toda a raça da
+humanidade. Enquanto, portanto, o mistério do Seu governo esteve confinado a
+Israel, Ele devidamente ordenou que a piedade fosse mostrada somente aos
+irmãos de um homem; mas, quando Cristo Lhe havia dado "os gentios por Sua
+herança, e as extremidades da terra por Sua possessão", então começou a
+cumprir-se o que foi dito por Oséias: "Vocês não são o meu povo, que foram o
+meu povo; vocês não obtiveram misericórdia, que
+
+
 once obtained mercy"--that is, the (Jewish) nation. Thenceforth Christ
 extended to all men the law of His Father's compassion, excepting none from His
 mercy, as He omitted none in His invitation. So that, whatever was the ampler
@@ -1688,10 +3490,69 @@ importance, to a compendious formula, because (as it was predicted in another
 passage) the Lord--that is, Christ" was to make (or utter) a concise word on
 earth."
 
+outrora obtiveram misericórdia" — isto é, a nação (judaica). Desde então
+Cristo estendeu a todos os homens a lei da compaixão de Seu Pai, não
+excetuando ninguém da Sua misericórdia, assim como não omitiu ninguém no Seu
+convite. De sorte que, fosse qual fosse o alcance mais amplo do Seu ensino,
+Ele o recebeu todo na Sua herança das nações. "E, como vocês quereriam que
+os homens fizessem a vocês, façam vocês também a eles igualmente." Neste
+mandamento está sem dúvida implícita a sua contrapartida: "E, como vocês não
+quereriam que os homens fizessem a vocês, assim também vocês não deveriam
+fazer a eles igualmente." Ora, se este fosse o ensino da divindade nova e
+anteriormente desconhecida e ainda não plenamente proclamada, que não me
+havia favorecido com nenhuma instrução de antemão, pela qual eu pudesse
+primeiro aprender o que eu deveria escolher ou recusar para mim mesmo, e
+fazer aos outros o que eu desejaria que me fosse feito, não fazendo a eles o
+que eu não estaria disposto a que me fosse feito, certamente não seria outra
+coisa senão a mescla fortuita dos meus próprios sentimentos que ele me teria
+deixado, não me vinculando a nenhuma regra própria de desejo ou de ação, a
+fim de que eu fizesse aos outros o que eu gostaria para mim mesmo, ou me
+abstivesse de fazer aos outros o que me desagradaria que me fosse feito.
+Pois ele não definiu, de fato, o que eu deveria desejar ou não desejar para
+mim mesmo bem como para os outros, de modo que eu forme a minha conduta
+segundo a lei da minha própria vontade, e tenha em meu poder não prestar a
+outro o que eu gostaria que me fosse prestado — amor, obediência,
+consolação, proteção e bênçãos semelhantes; e, de igual modo, fazer a outro
+o que eu não estaria disposto a que me fosse feito — violência, agravo,
+insulto, engano e males de igual sorte. Com efeito, os pagãos que não foram
+instruídos por Deus agem segundo esta liberdade incongruente da vontade e da
+conduta. Pois, embora o bem e o mal sejam separadamente conhecidos pela
+natureza, contudo a vida não é por isso gasta sob a disciplina de Deus, a
+qual somente, por fim, ensina aos homens a liberdade própria da sua vontade
+e ação na fé, como no temor de Deus. O deus de Marcião, portanto, embora
+especialmente revelado, foi, apesar da sua revelação, incapaz de publicar
+qualquer sumário do preceito em questão, o qual até então estivera tão
+confinado, e obscuro, e escuro, e sem admitir interpretação pronta, exceto
+segundo o meu próprio pensamento arbitrário, porque ele não havia provido
+nenhuma discriminação prévia na matéria de tal preceito. Este, porém, não
+era o caso com o meu Deus, pois Ele sempre e em toda parte ordenou que o
+pobre, e o órfão, e a viúva fossem protegidos, assistidos, reconfortados;
+assim, por Isaías, Ele diz: "Reparte o teu pão ao faminto, e aos que estão
+sem casa traze para a tua casa; quando vires o nu, cobre-o." Por Ezequiel
+também Ele descreve assim o homem justo: "O seu pão ele dará ao faminto, e o
+nu ele cobrirá com uma veste." Aquele ensino era já então um incentivo
+suficiente para que eu fizesse aos outros o que eu quereria que eles
+fizessem a mim. Por conseguinte, quando Ele proferiu tais denúncias como:
+"Não farás homicídio; não cometerás adultério; não furtarás; não darás falso
+testemunho", Ele me ensinou a abster-me de fazer aos outros o que eu não
+estaria disposto a que me fosse feito; e portanto o preceito desenvolvido no
+Evangelho pertencerá a Ele somente, que antigamente o redigiu, e lhe deu
+ponto distintivo, e o dispôs segundo a decisão do Seu próprio ensino, e
+agora o reduziu, de modo adequado à sua importância, a uma fórmula
+compendiosa, porque (como foi predito noutra passagem) o Senhor — isto é,
+Cristo" havia de fazer (ou proferir) uma palavra concisa sobre a terra."
+
+
 CHAP. XVII.--CONCERNING LOANS. PROHIBITION OF USURY AND THE USURIOUS
 SPIRIT. THE LAW PREPARATORY TO THE GOSPEL IN ITS PROVISIONS; SO IN THE PRESENT
 INSTANCE. ON REPRISALS. CHRIST'S TEACHING THROUGHOUT PROVES HIM TO BE SENT
 BY THE CREATOR.
+
+CAP. XVII.--ACERCA DE EMPRÉSTIMOS. PROIBIÇÃO DA USURA E DO ESPÍRITO
+USURÁRIO. A LEI PREPARATÓRIA AO EVANGELHO NAS SUAS DISPOSIÇÕES; ASSIM NO
+PRESENTE CASO. SOBRE AS REPRESÁLIAS. O ENSINO DE CRISTO, EM TODA A SUA
+EXTENSÃO, PROVA QUE ELE É ENVIADO PELO CRIADOR.
+
 
 And now, on the subject of a loan, when He asks, "And if ye lend to them of
 whom ye hope to receive, what thank have ye?" compare with this the following
