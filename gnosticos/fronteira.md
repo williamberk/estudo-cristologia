@@ -32,4 +32,4 @@ As Odes de Salomão estão em [odes-de-salomao.md](../hinos/odes-de-salomao.md).
 
 ## Melitão de Sardes
 
-A homilia *Sobre a Páscoa*, cerca de 160–170, é um dos textos cristológicos mais fortes do século II: o criador é quem está na cruz. A edição grega e a tradução de Stuart Hall (1979) não são domínio público, e por isso a homilia não foi transcrita. A lista de Melitão dos livros hebreus, citada por Eusébio, é cânon do Antigo Testamento, não um evangelho.
+A homilia *Sobre a Páscoa*, cerca de 160–170, é um dos textos cristológicos mais fortes do século II: o criador é quem está na cruz. A edição grega e a tradução de Stuart Hall (1979) não são domínio público, e por isso a homilia não foi transcrita. Os fragmentos que *Ante-Nicene Fathers* recolhe, entre eles a lista dos livros hebreus, estão em [melitao.md](../testemunhas/melitao.md). Essa lista é cânon do Antigo Testamento, não um evangelho.

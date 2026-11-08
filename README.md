@@ -1,6 +1,6 @@
-# Estudo de cristologia: livros do século II
+# Estudo de cristologia: livros dos séculos I e II
 
-Reunião das formas em que chegaram até nós os livros do século II que falam de Jesus, de Paulo ou de um apocalipse. Entram livros que depois ficaram no cânon, livros lidos como escritura em algumas igrejas e livros apócrifos.
+Reunião das formas em que chegaram até nós os livros dos séculos I e II que falam de Jesus, de Paulo ou de um apocalipse. Entram livros que depois ficaram no cânon, livros lidos como escritura em algumas igrejas e livros apócrifos.
 
 Cada arquivo diz qual é a data provável, quantas versões antigas existem e em que elas diferem. O texto contínuo, quando está reproduzido, é uma tradução de domínio público, em inglês, com a fonte nomeada no próprio arquivo. As notas são em português.
 
